@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* This game does not support auto-save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165712Z" creationid="Syn Spawacza" creationdate="20200530T165712Z">
+        <seg>* Ta gra nie wspiera autozapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Tutorial messages like this one can be accessed at any time from the Intel tab.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162044Z" creationid="Syn Spawacza" creationdate="20200530T162044Z">
@@ -2186,6 +2194,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map information unlocked.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165847Z" creationid="Syn Spawacza" creationdate="20200530T165847Z">
+        <seg>Uzyskano informacje na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Materials</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150939Z" creationid="Syn Spawacza" creationdate="20200530T150939Z">
@@ -2554,6 +2570,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overwrite save in this slot?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165622Z" creationid="Syn Spawacza" creationdate="20200530T165622Z">
+        <seg>Nadpisać w tym slocie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overwrite this save?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165025Z" creationid="Syn Spawacza" creationdate="20200530T165025Z">
@@ -2622,6 +2646,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145443Z" creationid="Syn Spawacza" creationdate="20200530T145443Z">
         <seg>Zagraj w ukończone gry hakerskie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play the game to find out how to save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165738Z" creationid="Syn Spawacza" creationdate="20200530T165738Z">
+        <seg>Zagraj by dowiedzieć się jak zapisywać grę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2726,6 +2758,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142114Z" creationid="Syn Spawacza" creationdate="20200530T142114Z">
         <seg>ZADANIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quest information has been updated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165645Z" creationid="Syn Spawacza" creationdate="20200530T165636Z">
+        <seg>Zaktualizowano informacje o zadaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,6 +4546,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141335Z" creationid="Syn Spawacza" creationdate="20200530T141335Z">
         <seg>Nie można namierzać wrogów i giniesz od jednego uderzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot access the online functionality of this game, due to Parental Control restrictions.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165823Z" creationid="Syn Spawacza" creationdate="20200530T165823Z">
+        <seg>Brak dostępu do funkcji sieciowych ze względu na ograniczenia kontroli rodzicielskiej.</seg>
       </tuv>
     </tu>
     <tu>
