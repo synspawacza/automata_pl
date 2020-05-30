@@ -104,6 +104,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add or remove attachments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145401Z" creationid="Syn Spawacza" creationdate="20200530T145401Z">
+        <seg>Dodaj / usuń załączniki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust ambient occlusion quality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133630Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
@@ -2048,6 +2056,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Play hacking games you've cleared.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145443Z" creationid="Syn Spawacza" creationdate="20200530T145443Z">
+        <seg>Zagraj w ukończone gry hakerskie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plug-in Chips</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143433Z" creationid="Syn Spawacza" creationdate="20200530T143433Z">
@@ -2560,6 +2576,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select chapter and start the game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145423Z" creationid="Syn Spawacza" creationdate="20200530T145423Z">
+        <seg>Wybierz rozdział i rozpocznij grę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the button you wish to change.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135149Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
@@ -2580,6 +2604,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131428Z" creationid="Syn Spawacza" creationdate="20200530T131418Z">
         <seg>Wybierz język kwestii mówionych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select transport destination.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145313Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
+        <seg>Wybierz miejsce do którego przetransportować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2952,6 +2984,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Travel to another access point.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145336Z" creationid="Syn Spawacza" creationdate="20200530T145336Z">
+        <seg>Podróżuj do innego punktu dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn network functions On/Off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144839Z" creationid="Syn Spawacza" creationdate="20200530T144839Z">
@@ -3168,6 +3208,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View information about your online body.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145416Z" creationid="Syn Spawacza" creationdate="20200530T145416Z">
+        <seg>Zobacz informacje o twoim ciele online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View novels.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144419Z" creationid="Syn Spawacza" creationdate="20200530T144419Z">
@@ -3204,6 +3252,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143420Z" creationid="Syn Spawacza" creationdate="20200530T143420Z">
         <seg>Zobacz zadania których nie da się ukończyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View received messages.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145347Z" creationid="Syn Spawacza" creationdate="20200530T145347Z">
+        <seg>Zobacz odebrane wiadomości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,6 +3476,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141335Z" creationid="Syn Spawacza" creationdate="20200530T141335Z">
         <seg>Nie można namierzać wrogów i giniesz od jednego uderzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot travel outside of the mission area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145502Z" creationid="Syn Spawacza" creationdate="20200530T145502Z">
+        <seg>Nie można podróżować poza teren misji.</seg>
       </tuv>
     </tu>
     <tu>
