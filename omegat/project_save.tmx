@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"&lt;QUEST_NAME&gt;" accepted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165100Z" creationid="Syn Spawacza" creationdate="20200530T165100Z">
+        <seg>Przyjęto zadanie: &lt;QUEST_NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"&lt;QUEST_NAME&gt;" complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165109Z" creationid="Syn Spawacza" creationdate="20200530T165109Z">
+        <seg>Ukończono zadanie: &lt;QUEST_NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"I don't want to go there right now."</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145642Z" creationid="Syn Spawacza" creationdate="20200530T145642Z">
         <seg>„Nie chcę tam teraz iść.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(The game will resume from the nearest access point.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165012Z" creationid="Syn Spawacza" creationdate="20200530T165012Z">
+        <seg>(Gra ponownie rozpocznie się od najbliższego punktu dostępu.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -28,6 +52,14 @@ supports "QWERTY" keyboards.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134444Z" creationid="Syn Spawacza" creationdate="20200530T134444Z">
         <seg>***UWAGA*** Ta gra wspiera
 tylko klawiatury w układzie QWERTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;EXP_VALUE&gt; EXP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
+        <seg>&lt;EXP_VALUE&gt; PD</seg>
       </tuv>
     </tu>
     <tu>
@@ -1240,6 +1272,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete the current save data
+and create a new file?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165154Z" creationid="Syn Spawacza" creationdate="20200530T165154Z">
+        <seg>Usunąć bieżący zapis
+i utworzyć nowy plik?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dented Plate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164149Z" creationid="Syn Spawacza" creationdate="20200530T164149Z">
@@ -1992,6 +2034,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165208Z" creationid="Syn Spawacza" creationdate="20200530T165208Z">
+        <seg>Wczytywanie zakończone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading map...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161401Z" creationid="Syn Spawacza" creationdate="20200530T161401Z">
@@ -2408,6 +2458,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No save data found.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165040Z" creationid="Syn Spawacza" creationdate="20200530T165040Z">
+        <seg>Nie znaleziono danych zapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134505Z" creationid="Syn Spawacza" creationdate="20200530T134505Z">
@@ -2476,6 +2534,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134703Z" creationid="Syn Spawacza" creationdate="20200530T134703Z">
         <seg>Konflikt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overwrite this save?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165025Z" creationid="Syn Spawacza" creationdate="20200530T165025Z">
+        <seg>Nadpisać ten zapis?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3612,6 +3678,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143459Z" creationid="Syn Spawacza" creationdate="20200530T143459Z">
         <seg>Ta funkcja nie może być teraz użyta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This game uses online functionality for its message-sharing features.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165410Z" creationid="Syn Spawacza" creationdate="20200530T165410Z">
+        <seg>Gra używa funkcji sieciowych do dzielenia się wiadomościami .</seg>
       </tuv>
     </tu>
     <tu>
