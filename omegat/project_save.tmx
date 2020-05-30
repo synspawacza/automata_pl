@@ -1224,6 +1224,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162838Z" creationid="Syn Spawacza" creationdate="20200530T162838Z">
+        <seg>Czy chcesz używać </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ERROR</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142051Z" creationid="Syn Spawacza" creationdate="20200530T142051Z">
@@ -3448,6 +3456,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To continue playing with the same save data you used to complete the game, select Continue and load that save data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162803Z" creationid="Syn Spawacza" creationdate="20200530T162803Z">
+        <seg>Aby kontynuować grę używając zapisu ukończonej gry, wybierz Kontynuuj i wczytaj zapis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Light</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134833Z" creationid="Syn Spawacza" creationdate="20200530T134833Z">
@@ -4132,6 +4148,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141335Z" creationid="Syn Spawacza" creationdate="20200530T141335Z">
         <seg>Nie można namierzać wrogów i giniesz od jednego uderzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot start this game because the required data has not been installed yet.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162600Z" creationid="Syn Spawacza" creationdate="20200530T162600Z">
+        <seg>Nie można zacząć gry ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
       </tuv>
     </tu>
     <tu>
