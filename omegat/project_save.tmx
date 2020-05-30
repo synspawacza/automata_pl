@@ -842,8 +842,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Adjust the settings until you can hear my voice.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202307Z" creationid="Syn Spawacza" creationdate="20200530T202307Z">
-        <seg>Dostosuj ustawienia tak byś słyszała mój głos.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211618Z" creationid="Syn Spawacza" creationdate="20200530T202307Z">
+        <seg>Dostosuj ustawienia tak, byś słyszała mój głos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2668,8 +2668,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Go ahead and adjust your settings so you can hear me, all right?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202225Z" creationid="Syn Spawacza" creationdate="20200530T202225Z">
-        <seg>No dalej, dostosuj ustawienia tak byś mnie słyszała.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211611Z" creationid="Syn Spawacza" creationdate="20200530T202225Z">
+        <seg>No dalej, dostosuj ustawienia tak, byś mnie słyszała.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3148,8 +3148,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>I'm afraid I can't leave this as-is, ma'am.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203250Z" creationid="Syn Spawacza" creationdate="20200530T203250Z">
-        <seg>Obawiam się że nie mogę tego tak zostawić.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211702Z" creationid="Syn Spawacza" creationdate="20200530T203250Z">
+        <seg>Obawiam się, że nie mogę tego tak zostawić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,8 +3724,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Let's run a check to make sure it's working.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203852Z" creationid="Syn Spawacza" creationdate="20200530T203852Z">
-        <seg>Upewnijmy się czy działa jak należy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211746Z" creationid="Syn Spawacza" creationdate="20200530T203852Z">
+        <seg>Upewnijmy się, czy działa jak należy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4532,8 +4532,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Oh, I see you've turned vibration detection on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203822Z" creationid="Syn Spawacza" creationdate="20200530T203822Z">
-        <seg>Aha, widzę że włączyłaś detekcję wibracji.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211726Z" creationid="Syn Spawacza" creationdate="20200530T203822Z">
+        <seg>Aha, widzę, że włączyłaś detekcję wibracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4556,8 +4556,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Oh, uh, th-thank you!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202646Z" creationid="Syn Spawacza" creationdate="20200530T202646Z">
-        <seg>Oh, uh, dz-dziękuję!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211632Z" creationid="Syn Spawacza" creationdate="20200530T202646Z">
+        <seg>O, uhm, dz-dziękuję!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4644,8 +4644,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Once you're finished making adjustments, you can go ahead and close this out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203755Z" creationid="Syn Spawacza" creationdate="20200530T203755Z">
-        <seg>Jak skończysz to po prostu zamknij ekran ustawień.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211718Z" creationid="Syn Spawacza" creationdate="20200530T203755Z">
+        <seg>Jak skończysz, to po prostu zamknij ekran ustawień.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7650,8 +7650,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>You are our ultimate weapon...and you must put an end to this war.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195458Z" creationid="Syn Spawacza" creationdate="20200530T195458Z">
-        <seg>Jesteście ostateczną bronią... i musicie zakończyć tą wojnę.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211546Z" creationid="Syn Spawacza" creationdate="20200530T195458Z">
+        <seg>Jesteście ostateczną bronią... i musicie zakończyć tę wojnę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7842,8 +7842,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Your self-destruct permissions are missing.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202940Z" creationid="Syn Spawacza" creationdate="20200530T202940Z">
-        <seg>Brakuje pozwolenia na autodestrukcję</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211639Z" creationid="Syn Spawacza" creationdate="20200530T202940Z">
+        <seg>Brakuje pozwolenia na autodestrukcję.</seg>
       </tuv>
     </tu>
     <tu>
