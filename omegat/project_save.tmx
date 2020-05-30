@@ -648,6 +648,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Broken Key</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150442Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
+        <seg>Złamany klucz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHECKING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124053Z" creationid="Syn Spawacza" creationdate="20200530T124053Z">
@@ -992,18 +1000,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cure All + Heal All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150257Z" creationid="Syn Spawacza" creationdate="20200530T150139Z">
+        <seg>Pełne leczenie + uzdrowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cure All Status</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150056Z" creationid="Syn Spawacza" creationdate="20200530T150056Z">
-        <seg>Lek wszystkie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150121Z" creationid="Syn Spawacza" creationdate="20200530T150056Z">
+        <seg>Lek na wszystkie statusy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cure Manipulation</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145947Z" creationid="Syn Spawacza" creationdate="20200530T145928Z">
-        <seg>Lek sterowania</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150102Z" creationid="Syn Spawacza" creationdate="20200530T145928Z">
+        <seg>Lek na sterowanie</seg>
       </tuv>
     </tu>
     <tu>
