@@ -528,6 +528,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aural Cure</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145938Z" creationid="Syn Spawacza" creationdate="20200530T145916Z">
+        <seg>Lek dźwiękowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Authentication Code: YoRHa Number 9 Type-S</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
@@ -984,6 +992,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cure All Status</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150056Z" creationid="Syn Spawacza" creationdate="20200530T150056Z">
+        <seg>Lek wszystkie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cure Manipulation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145947Z" creationid="Syn Spawacza" creationdate="20200530T145928Z">
+        <seg>Lek sterowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134356Z" creationid="Syn Spawacza" creationdate="20200530T134356Z">
@@ -1236,6 +1260,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135131Z" creationid="Syn Spawacza" creationdate="20200530T135131Z">
         <seg>Zmień układ klawiatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full Recovery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150043Z" creationid="Syn Spawacza" creationdate="20200530T145847Z">
+        <seg>Pełne uzdrowienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1552,6 +1584,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Large Recovery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150040Z" creationid="Syn Spawacza" creationdate="20200530T145841Z">
+        <seg>Duże uzdrowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Launching DBU Setup</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123939Z" creationid="Syn Spawacza" creationdate="20200530T123939Z">
@@ -1716,6 +1756,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134226Z" creationid="Syn Spawacza" creationdate="20200530T134226Z">
         <seg>Średnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medium Recovery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
+        <seg>Średnie uzdrowienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -2722,8 +2770,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Small Recovery</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145829Z" creationid="Syn Spawacza" creationdate="20200530T145829Z">
-        <seg>Mała regeneracja</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150029Z" creationid="Syn Spawacza" creationdate="20200530T145829Z">
+        <seg>Małe uzdrowienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3356,6 +3404,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142100Z" creationid="Syn Spawacza" creationdate="20200530T142100Z">
         <seg>Wizualny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visual Cure</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145935Z" creationid="Syn Spawacza" creationdate="20200530T145904Z">
+        <seg>Lek wizualny</seg>
       </tuv>
     </tu>
     <tu>
