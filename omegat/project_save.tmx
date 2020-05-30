@@ -848,6 +848,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Incoming enemy attack from below.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182623Z" creationid="Syn Spawacza" creationdate="20200530T182550Z">
+        <seg>Uwaga: Zbliża się atak od dołu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Large enemy group detected.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174326Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
@@ -1970,6 +1978,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doesn't matter.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182351Z" creationid="Syn Spawacza" creationdate="20200530T182351Z">
+        <seg>To bez znaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ENDING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173305Z" creationid="Syn Spawacza" creationdate="20200530T173305Z">
@@ -2514,6 +2530,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll just take 'em out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182441Z" creationid="Syn Spawacza" creationdate="20200530T182441Z">
+        <seg>Po prostu go załatwię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll work my way inside from the ground.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
@@ -2700,8 +2724,16 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Is that...?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181435Z" creationid="Syn Spawacza" creationdate="20200530T181435Z">
-        <seg>Co to...?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182507Z" creationid="Syn Spawacza" creationdate="20200530T181435Z">
+        <seg>Czy to...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is that—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182524Z" creationid="Syn Spawacza" creationdate="20200530T182524Z">
+        <seg>Czy to—?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3882,6 +3914,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182604Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
+        <seg>Propozycja: Wykonać unik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162258Z" creationid="Syn Spawacza" creationdate="20200530T162258Z">
@@ -4960,6 +5000,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124236Z" creationid="Syn Spawacza" creationdate="20200530T124236Z">
         <seg>Cel namierzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target enemy detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
+        <seg>Wykryto cel misji.</seg>
       </tuv>
     </tu>
     <tu>
