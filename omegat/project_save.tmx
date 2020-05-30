@@ -1554,8 +1554,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Can you hear me?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200941Z" creationid="Syn Spawacza" creationdate="20200530T200941Z">
-        <seg>Słyszysz mnie?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T201325Z" creationid="Syn Spawacza" creationdate="20200530T200941Z">
+        <seg>Słychać mnie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2542,6 +2542,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194019Z" creationid="Syn Spawacza" creationdate="20200530T194019Z">
         <seg>Chwała... ludzkości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go ahead and adjust your settings so you can hear me, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202225Z" creationid="Syn Spawacza" creationdate="20200530T202225Z">
+        <seg>No dalej, dostosuj ustawienia tak byś mnie słyszała.</seg>
       </tuv>
     </tu>
     <tu>
