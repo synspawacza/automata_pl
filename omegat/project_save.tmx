@@ -38,10 +38,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust ambient occlusion quality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133630Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
+        <seg>Dostosuj okluzję otoczenia (ambient ccclusion)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust and customize game controls.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130813Z" creationid="Syn Spawacza" creationdate="20200530T130813Z">
         <seg>Dostosuj sterowanie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust anti-aliasing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133451Z" creationid="Syn Spawacza" creationdate="20200530T133451Z">
+        <seg>Dostosuj ustawienia antyaliasingu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust motion blur.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133534Z" creationid="Syn Spawacza" creationdate="20200530T133534Z">
+        <seg>Dostosuj ustawienia rozmycia ruchu (motion blur).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust other settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131225Z" creationid="Syn Spawacza" creationdate="20200530T131225Z">
@@ -190,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust texture filtering settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133507Z" creationid="Syn Spawacza" creationdate="20200530T133507Z">
+        <seg>Dostosuj ustawienia filtrowania tekstur.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust the brightness level of the display.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133234Z" creationid="Syn Spawacza" creationdate="20200530T133234Z">
@@ -206,10 +238,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust the quality of effects.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133601Z" creationid="Syn Spawacza" creationdate="20200530T133601Z">
+        <seg>Dostosuj jakość efektów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust the quality of shadows.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133555Z" creationid="Syn Spawacza" creationdate="20200530T133555Z">
+        <seg>Dostosuj jakość cieni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust until only the right icon is visible.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133221Z" creationid="Syn Spawacza" creationdate="20200530T133221Z">
         <seg>Ustaw tak, by tylko prawa ikona była widoczna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust v-sync.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133544Z" creationid="Syn Spawacza" creationdate="20200530T133435Z">
+        <seg>Dostosuj ustawienia synchronizacji pionowej (v-sync).</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,16 +888,16 @@
       <tuv lang="en-US">
         <seg>Screen</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131111Z" creationid="Syn Spawacza" creationdate="20200530T131111Z">
-        <seg>Ekran</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133352Z" creationid="Syn Spawacza" creationdate="20200530T131111Z">
+        <seg>Obraz</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Screen Brightness</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132936Z" creationid="Syn Spawacza" creationdate="20200530T132936Z">
-        <seg>Jasność ekranu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133410Z" creationid="Syn Spawacza" creationdate="20200530T132936Z">
+        <seg>Jasność obrazu</seg>
       </tuv>
     </tu>
     <tu>
