@@ -512,6 +512,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are these settings okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163538Z" creationid="Syn Spawacza" creationdate="20200530T163538Z">
+        <seg>Pozostawić ustawienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161146Z" creationid="Syn Spawacza" creationdate="20200530T161146Z">
@@ -604,6 +612,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134921Z" creationid="Syn Spawacza" creationdate="20200530T134921Z">
         <seg>Autosterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-item chips cannot be used on Very Hard mode, so they will be removed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163725Z" creationid="Syn Spawacza" creationdate="20200530T163725Z">
+        <seg>Czip auto-użycia nie mogą być używane na poziomie Bardzo Trudnym i zostaną usunięte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,6 +3424,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The screen settings have been changed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163518Z" creationid="Syn Spawacza" creationdate="20200530T163518Z">
+        <seg>Zmieniono ustawienia obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The standard, most enjoyable difficulty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141229Z" creationid="Syn Spawacza" creationdate="20200530T141229Z">
@@ -3428,6 +3452,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163201Z" creationid="Syn Spawacza" creationdate="20200530T163201Z">
         <seg>Ten czip może być użyty tylko na poziomie Łatwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chip can only be equipped on Hard mode or below.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163636Z" creationid="Syn Spawacza" creationdate="20200530T163636Z">
+        <seg>Ten czip może być użyty tylko na poziomie Trudny i niższych.</seg>
       </tuv>
     </tu>
     <tu>
