@@ -86,10 +86,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust how fast the camera follows in pursuit of the player.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132606Z" creationid="Syn Spawacza" creationdate="20200530T132606Z">
+        <seg>Dostosuj prędkość podążania kamery za postacią gracza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust how fast the camera moves in and out.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132411Z" creationid="Syn Spawacza" creationdate="20200530T132411Z">
         <seg>Dostosuj prędkość zbliżania i oddalania kamery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust how fast the camera moves left/right in response to player actions.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132429Z" creationid="Syn Spawacza" creationdate="20200530T132429Z">
+        <seg>Dostosuj prędkość ruchu kamery w poziomie w reakcji na działania gracza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust how fast the camera moves up/down in response to player actions.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132417Z" creationid="Syn Spawacza" creationdate="20200530T132417Z">
+        <seg>Dostosuj prędkość ruchu kamery w pionie w reakcji na działania gracza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust how fast the camera tracks enemies when locked on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132525Z" creationid="Syn Spawacza" creationdate="20200530T132525Z">
+        <seg>Dostosuj prędkość śledzenia kamery namierzonych przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust how fast the camera tracks enemies when not locked on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132520Z" creationid="Syn Spawacza" creationdate="20200530T132520Z">
+        <seg>Dostosuj prędkość śledzenia kamery nienamierzonych przeciwników.</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,10 +894,18 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle automatic lock-on for Goliath-class enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132646Z" creationid="Syn Spawacza" creationdate="20200530T132646Z">
+        <seg>Włącz automatyczne namierzanie wrogów klasy Goliat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle the vibration function.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131656Z" creationid="Syn Spawacza" creationdate="20200530T131656Z">
-        <seg>Ustaw funkcję wibracji.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132709Z" creationid="Syn Spawacza" creationdate="20200530T131656Z">
+        <seg>Włącz/wyłącz funkcję wibracji.</seg>
       </tuv>
     </tu>
     <tu>
