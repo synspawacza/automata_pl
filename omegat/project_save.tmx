@@ -2474,6 +2474,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I surveyed the entire factory, but couldn't find anything resembling our target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181605Z" creationid="Syn Spawacza" creationdate="20200530T181605Z">
+        <seg>Przeszukałam całą fabrykę i nie znalazłam niczego co przypominałoby nasz cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I was going to send you the map data I collected earlier.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175952Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
@@ -2662,6 +2670,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174412Z" creationid="Syn Spawacza" creationdate="20200530T174412Z">
         <seg>Czy to nasz cel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is that...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181435Z" creationid="Syn Spawacza" creationdate="20200530T181435Z">
+        <seg>Co to...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3090,6 +3106,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maybe they...I dunno.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181627Z" creationid="Syn Spawacza" creationdate="20200530T181627Z">
+        <seg>Może go... No nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medium</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134226Z" creationid="Syn Spawacza" creationdate="20200530T134226Z">
@@ -3238,6 +3262,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135806Z" creationid="Syn Spawacza" creationdate="20200530T135735Z">
         <seg>Ruch w prawo (Podwójne naciśnięcie = unik)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moved it somewhere?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181638Z" creationid="Syn Spawacza" creationdate="20200530T181638Z">
+        <seg>Przenieśli gdzieś indziej?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3766,6 +3798,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134801Z" creationid="Syn Spawacza" creationdate="20200530T134801Z">
         <seg>Poprzedni pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Probably because the environment's changed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181533Z" creationid="Syn Spawacza" creationdate="20200530T181533Z">
+        <seg>Pewnie dlatego że środowisko się zmieniło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4964,6 +5004,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There should be another facility across that bridge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181715Z" creationid="Syn Spawacza" creationdate="20200530T181715Z">
+        <seg>Po drugiej stronie mostu jest inna placówka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's no actual meaning behind anything machines do.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181256Z" creationid="Syn Spawacza" creationdate="20200530T181256Z">
@@ -5916,6 +5964,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134335Z" creationid="Syn Spawacza" creationdate="20200530T134335Z">
         <seg>W oknie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah, there's more plants and animals here than there used to be.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181514Z" creationid="Syn Spawacza" creationdate="20200530T181514Z">
+        <seg>Tak, teraz jest tu więcej roślin i zwierząt niż kiedyś.</seg>
       </tuv>
     </tu>
     <tu>
