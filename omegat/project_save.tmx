@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connecting Nerves</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130135Z" creationid="Syn Spawacza" creationdate="20200530T130135Z">
+        <seg>Łączenie połączeń nerwowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment Authentication: Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123951Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
@@ -182,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Releasing Safety Lock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
+        <seg>Zwalnianie zabezpieczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remaining Energy: 100%</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124215Z" creationid="Syn Spawacza" creationdate="20200530T124215Z">
@@ -202,6 +218,22 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124029Z" creationid="Syn Spawacza" creationdate="20200530T124029Z">
         <seg>ZAPISYWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Synchronization Rate: 100%</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130246Z" creationid="Syn Spawacza" creationdate="20200530T130246Z">
+        <seg>Wskaźnik synchronizacji: 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Synchronizing Field of Vision</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130041Z" creationid="Syn Spawacza" creationdate="20200530T130041Z">
+        <seg>Synchronizacja pola widzenia</seg>
       </tuv>
     </tu>
     <tu>
