@@ -792,6 +792,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Bulletproof apparatus detected on enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180116Z" creationid="Syn Spawacza" creationdate="20200530T180011Z">
+        <seg>Uwaga: wykryto oprzyrządowanie kuloodporne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Enemy units sighted ahead.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173936Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
@@ -924,6 +932,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133143Z" creationid="Syn Spawacza" creationdate="20200530T133143Z">
         <seg>Okluzja otoczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: This elevator's controls are locked and cannot be used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
+        <seg>Analiza: Sterowanie windą jest zablokowane i nie można go użyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,6 +1552,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close-range combat is advised.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180024Z" creationid="Syn Spawacza" creationdate="20200530T180024Z">
+        <seg>Zalecana walka w zwarciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combat Bracers</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151217Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
@@ -1866,6 +1890,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180000Z" creationid="Syn Spawacza" creationdate="20200530T180000Z">
+        <seg>Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to proceed with this configuration anyway?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161005Z" creationid="Syn Spawacza" creationdate="20200530T161005Z">
@@ -2046,6 +2078,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
         <seg>Wyjdź z gry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit confirmed closed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180215Z" creationid="Syn Spawacza" creationdate="20200530T180215Z">
+        <seg>Znaleziono zamknięte wyjście.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2386,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I know.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
+        <seg>Wiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I often think about the god who blessed us with this cryptic puzzle...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173636Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
@@ -2356,8 +2404,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>I was going to send you the map data I collected earlier.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175902Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
-        <seg>Wyślę pani dane mapy które wcześniej zebrałem.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175952Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
+        <seg>Chciałem wysłać dane mapy które wcześniej zebrałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4458,6 +4506,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So open it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180202Z" creationid="Syn Spawacza" creationdate="20200530T180202Z">
+        <seg>To go otwórz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some buttons are overlapping.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161332Z" creationid="Syn Spawacza" creationdate="20200530T161332Z">
@@ -5082,8 +5138,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Uh, ma'am?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175756Z" creationid="Syn Spawacza" creationdate="20200530T175756Z">
-        <seg>Uhm, proszę pani?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175938Z" creationid="Syn Spawacza" creationdate="20200530T175756Z">
+        <seg>Ehm, proszę pani?</seg>
       </tuv>
     </tu>
     <tu>
