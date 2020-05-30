@@ -1416,6 +1416,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Because I'm really hoping we'll be a good team going forward.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205331Z" creationid="Syn Spawacza" creationdate="20200530T205331Z">
+        <seg>Bo mam nadzieję że będziemy jeszcze zgranym zespołem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Begin playing the game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130754Z" creationid="Syn Spawacza" creationdate="20200530T130754Z">
@@ -2426,6 +2434,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, this isn't about me, is it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205244Z" creationid="Syn Spawacza" creationdate="20200530T205244Z">
+        <seg>Eee, nie chodzi o mnie, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
@@ -3014,6 +3030,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
         <seg>Wiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I mean, it's your choice and all, but...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205152Z" creationid="Syn Spawacza" creationdate="20200530T205152Z">
+        <seg>Znaczy, twój wybór i takie tam, ale...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,6 +3926,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172356Z" creationid="Syn Spawacza" creationdate="20200530T172356Z">
         <seg>WIADOMOŚĆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma'am, you fiddled with so many things, I ended up hitting my max storage limit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205452Z" creationid="Syn Spawacza" creationdate="20200530T205452Z">
+        <seg>Proszę pani, kombinowałaś z tyloma rzeczami że skończyło mi się miejsce w pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7764,6 +7796,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183713Z" creationid="Syn Spawacza" creationdate="20200530T183713Z">
         <seg>Ty też się zamknij!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You undid the settings I walked you through...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205231Z" creationid="Syn Spawacza" creationdate="20200530T205231Z">
+        <seg>Wycofałaś ustawienia przez które cię poprowadziłem...</seg>
       </tuv>
     </tu>
     <tu>
