@@ -208,6 +208,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5012</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194037Z" creationid="Syn Spawacza" creationdate="20200530T194037Z">
+        <seg>AD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5204</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194053Z" creationid="Syn Spawacza" creationdate="20200530T194053Z">
+        <seg>AD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7E down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174010Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
@@ -444,6 +460,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140421Z" creationid="Syn Spawacza" creationdate="20200530T140421Z">
         <seg>Błąd połączenia z siecią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A.D.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194057Z" creationid="Syn Spawacza" creationdate="20200530T194057Z">
+        <seg>5204</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2474,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Glory to mankind.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194013Z" creationid="Syn Spawacza" creationdate="20200530T194013Z">
+        <seg>Chwała ludzkości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glory...to mankind.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194019Z" creationid="Syn Spawacza" creationdate="20200530T194019Z">
+        <seg>Chwała... ludzkości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gold Ore</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150519Z" creationid="Syn Spawacza" creationdate="20200530T150519Z">
@@ -2740,8 +2780,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>I probably only had enough time to back up your memories.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193513Z" creationid="Syn Spawacza" creationdate="20200530T193047Z">
-        <seg>Tylko tyle by przesłać twoje wspomnienie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193957Z" creationid="Syn Spawacza" creationdate="20200530T193047Z">
+        <seg>Starczyło tylko by przesłać twoje wspomnienie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5676,6 +5716,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The year mankind's glorious history came to a sudden and abrupt end...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194229Z" creationid="Syn Spawacza" creationdate="20200530T194229Z">
+        <seg>Rok w którym wspaniałą historię ludzkości spotkał nagły koniec...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then access the—</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183432Z" creationid="Syn Spawacza" creationdate="20200530T183432Z">
@@ -7055,6 +7103,16 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131053Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
         <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">subtitle0170.properties</prop>
+      <prop type="id">M1010_S0005_H0000_101_man</prop>
+      <tuv lang="en-US">
+        <seg>A.D.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194049Z" creationid="Syn Spawacza" creationdate="20200530T194049Z">
+        <seg>5012</seg>
       </tuv>
     </tu>
     <tu>
