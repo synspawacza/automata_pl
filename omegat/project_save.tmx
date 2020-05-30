@@ -1442,8 +1442,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195141Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
-        <seg>Wciąż, po kilkunastu wielkich atakach na wroga nie zdołaliśmy odeprzeć sił nieprzyjaciela.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195356Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
+        <seg>Mimo to, po kilkunastu wielkich desantach na wroga nie zdołaliśmy odeprzeć sił nieprzyjaciela.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2708,8 +2708,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Humanity launched its counterattack, deploying an army of androids from a network of orbiting bases.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195002Z" creationid="Syn Spawacza" creationdate="20200530T195002Z">
-        <seg>Ludzkość przeszła do kontrataku, atakując armią androidów z sieci baz orbitalnych.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195324Z" creationid="Syn Spawacza" creationdate="20200530T195002Z">
+        <seg>Ludzkość przeszła do kontrataku z pomocą armii androidów w sieci baz orbitalnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5600,6 +5600,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191052Z" creationid="Syn Spawacza" creationdate="20200530T191052Z">
         <seg>Dziękuję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That is why you, the YoRHa forces, exist:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195413Z" creationid="Syn Spawacza" creationdate="20200530T195413Z">
+        <seg>Dlatego istniejecie wy, siły YoRHa:</seg>
       </tuv>
     </tu>
     <tu>
