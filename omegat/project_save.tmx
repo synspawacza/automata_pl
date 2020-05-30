@@ -144,6 +144,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B...transmitting...Pod prog...!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174806Z" creationid="Syn Spawacza" creationdate="20200530T174806Z">
+        <seg>2B...transmituję...program...!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7E down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174010Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
@@ -1180,6 +1188,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130754Z" creationid="Syn Spawacza" creationdate="20200530T130754Z">
         <seg>Rozpocznij rozgrywkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Better make sure he's actually dead next time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174950Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
+        <seg>Następnym razem upewnij się że naprawdę nie żyje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2602,6 +2618,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Laser communications recovered.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174729Z" creationid="Syn Spawacza" creationdate="20200530T174729Z">
+        <seg>Przywrócono komunikację laserową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Launching DBU Setup</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123939Z" creationid="Syn Spawacza" creationdate="20200530T123939Z">
@@ -3470,6 +3494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143438Z" creationid="Syn Spawacza" creationdate="20200530T143438Z">
         <seg>Programy poda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod program download complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174845Z" creationid="Syn Spawacza" creationdate="20200530T174845Z">
+        <seg>Zakończono pobieranie programu poda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4548,6 +4580,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That was dangerous, ma'am.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175016Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
+        <seg>To było niebezpieczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The &lt;MAP_GOAL&gt; icon shows your objective, so make sure to follow it if you get lost.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162532Z" creationid="Syn Spawacza" creationdate="20200530T162532Z">
@@ -5612,6 +5652,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172622Z" creationid="Syn Spawacza" creationdate="20200530T172622Z">
         <seg>Nie masz uprawnień do wykonania tego polecenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don't say.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174716Z" creationid="Syn Spawacza" creationdate="20200530T174716Z">
+        <seg>Co ty nie powiesz.</seg>
       </tuv>
     </tu>
     <tu>
