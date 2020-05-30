@@ -1658,6 +1658,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ENDING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173305Z" creationid="Syn Spawacza" creationdate="20200530T173305Z">
+        <seg>ZAKOŃCZENIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ERROR</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142051Z" creationid="Syn Spawacza" creationdate="20200530T142051Z">
@@ -1790,6 +1798,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172529Z" creationid="Syn Spawacza" creationdate="20200530T172529Z">
         <seg>Unik (Podwójne naciśnięcie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everything that lives is designed to end.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173619Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
+        <seg>Wszystko co żyje istnieje po to by się skończyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5196,6 +5212,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135536Z" creationid="Syn Spawacza" creationdate="20200530T135536Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>broken [W]ings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173246Z" creationid="Syn Spawacza" creationdate="20200530T173246Z">
+        <seg>z[W]ichnięte skrzydła</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
