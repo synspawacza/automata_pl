@@ -2362,6 +2362,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For uploading my data to the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191107Z" creationid="Syn Spawacza" creationdate="20200530T191107Z">
+        <seg>Za wysłanie moich danych do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free Enemy Tracking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132057Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
@@ -3938,6 +3946,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now we can—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191044Z" creationid="Syn Spawacza" creationdate="20200530T191044Z">
+        <seg>Teraz możemy—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number Held</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
@@ -5242,6 +5258,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So...mission complete and all that, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190956Z" creationid="Syn Spawacza" creationdate="20200530T190956Z">
+        <seg>Zatem... misja zakończona i takie tam, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Software vulnerabilities and penetration path detected.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182835Z" creationid="Syn Spawacza" creationdate="20200530T182835Z">
@@ -5272,6 +5296,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175233Z" creationid="Syn Spawacza" creationdate="20200530T175233Z">
         <seg>Ta wielka piła to Goliat którym mieliśmy się zająć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry, I don't remember.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191118Z" creationid="Syn Spawacza" creationdate="20200530T191118Z">
+        <seg>Przykro mi, nie pamiętam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,6 +5516,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191052Z" creationid="Syn Spawacza" creationdate="20200530T191052Z">
+        <seg>Dziękuję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That was dangerous, ma'am.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175035Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
@@ -5496,6 +5536,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162532Z" creationid="Syn Spawacza" creationdate="20200530T162532Z">
         <seg>Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Goliaths were wiped out, and we secured a route into enemy territory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191035Z" creationid="Syn Spawacza" creationdate="20200530T191035Z">
+        <seg>Goliaty zniszczone, zabezpieczyliśmy drogę na terytorium wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5544,6 +5592,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
         <seg>Ta akcja nie jest zmapowana do przycisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The honor was mine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190853Z" creationid="Syn Spawacza" creationdate="20200530T190853Z">
+        <seg>Wzajemnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5928,6 +5984,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Truly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190915Z" creationid="Syn Spawacza" creationdate="20200530T190915Z">
+        <seg>Naprawdę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn network functions On/Off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144839Z" creationid="Syn Spawacza" creationdate="20200530T144839Z">
@@ -5980,6 +6044,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182728Z" creationid="Syn Spawacza" creationdate="20200530T182728Z">
         <seg>Uh... dobra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Um, I did that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T192059Z" creationid="Syn Spawacza" creationdate="20200530T192059Z">
+        <seg>Uhm, wysłałem twoje dane?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6652,6 +6724,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181514Z" creationid="Syn Spawacza" creationdate="20200530T181514Z">
         <seg>Tak, teraz jest tu więcej roślin i zwierząt niż kiedyś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191046Z" creationid="Syn Spawacza" creationdate="20200530T191046Z">
+        <seg>Tak?</seg>
       </tuv>
     </tu>
     <tu>
