@@ -384,6 +384,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-Control</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134921Z" creationid="Syn Spawacza" creationdate="20200530T134921Z">
+        <seg>Autosterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>B-Mode (Hold)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134907Z" creationid="Syn Spawacza" creationdate="20200530T134907Z">
+        <seg>Tryb B (przytrzymaj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BOOTING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123517Z" creationid="Syn Spawacza" creationdate="20200530T123517Z">
@@ -544,10 +560,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create a custom control scheme.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135113Z" creationid="Syn Spawacza" creationdate="20200530T135059Z">
+        <seg>Stwórz własny schemat sterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134356Z" creationid="Syn Spawacza" creationdate="20200530T134356Z">
         <seg>Użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Customize Keyboard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135029Z" creationid="Syn Spawacza" creationdate="20200530T135014Z">
+        <seg>Ustawienia klawiatury</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,6 +696,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freely change keyboard layout.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135131Z" creationid="Syn Spawacza" creationdate="20200530T135131Z">
+        <seg>Zmień układ klawiatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fullscreen</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134332Z" creationid="Syn Spawacza" creationdate="20200530T134332Z">
@@ -700,6 +740,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124124Z" creationid="Syn Spawacza" creationdate="20200530T124124Z">
         <seg>HAKOWANIE SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacking</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134836Z" creationid="Syn Spawacza" creationdate="20200530T134836Z">
+        <seg>Hakowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1512,10 +1560,58 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134924Z" creationid="Syn Spawacza" creationdate="20200530T134924Z">
+        <seg>Typ A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134926Z" creationid="Syn Spawacza" creationdate="20200530T134926Z">
+        <seg>Typ B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type C</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134928Z" creationid="Syn Spawacza" creationdate="20200530T134928Z">
+        <seg>Typ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134807Z" creationid="Syn Spawacza" creationdate="20200530T134807Z">
         <seg>Użyj przedmiotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Type A control scheme.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135102Z" creationid="Syn Spawacza" creationdate="20200530T135023Z">
+        <seg>Użyj schematu sterowania A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Type B control scheme.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135103Z" creationid="Syn Spawacza" creationdate="20200530T135045Z">
+        <seg>Użyj schematu sterowania B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the Type C control scheme.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135105Z" creationid="Syn Spawacza" creationdate="20200530T135048Z">
+        <seg>Użyj schematu sterowania C.</seg>
       </tuv>
     </tu>
     <tu>
