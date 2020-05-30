@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>"I don't want to go there right now."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145642Z" creationid="Syn Spawacza" creationdate="20200530T145642Z">
+        <seg>„Nie chcę tam teraz iść.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>***ALERT*** This game only
 supports "QWERTY" keyboards.</seg>
       </tuv>
@@ -1928,6 +1936,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No messages have been received.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145523Z" creationid="Syn Spawacza" creationdate="20200530T145523Z">
+        <seg>Brak odebranych wiadomości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134505Z" creationid="Syn Spawacza" creationdate="20200530T134505Z">
@@ -2704,6 +2720,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small Recovery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145829Z" creationid="Syn Spawacza" creationdate="20200530T145829Z">
+        <seg>Mała regeneracja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -2976,6 +3000,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfers currently not allowed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145605Z" creationid="Syn Spawacza" creationdate="20200530T145605Z">
+        <seg>Transfer niedostępny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transition to the next screen.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142008Z" creationid="Syn Spawacza" creationdate="20200530T142008Z">
@@ -3028,6 +3060,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134928Z" creationid="Syn Spawacza" creationdate="20200530T134928Z">
         <seg>Typ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unavailable due to signal interference.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145544Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
+        <seg>Niedostępne - interferencja sygnału.</seg>
       </tuv>
     </tu>
     <tu>
