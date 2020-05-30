@@ -56,6 +56,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Abandoned Factory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160651Z" creationid="Syn Spawacza" creationdate="20200530T160651Z">
+        <seg>Opuszczona fabryka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Action</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134517Z" creationid="Syn Spawacza" creationdate="20200530T134517Z">
