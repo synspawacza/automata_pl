@@ -5620,6 +5620,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The aliens unleashed a new breed of weapon—machine lifeforms—that all but annihilated human civilization.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194630Z" creationid="Syn Spawacza" creationdate="20200530T194630Z">
+        <seg>Obcy wykorzystali nowy typ broni — mechaniczne formy życia —  które niemal zniszczyły ludzką cywilizację.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The black box...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190622Z" creationid="Syn Spawacza" creationdate="20200530T190622Z">
@@ -7052,6 +7060,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173810Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
         <seg>za wszelką cenę zniszczcie jednostkę klasy Goliat oraz zbierzcie tyle danych ile się da.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>when the world was invaded by aliens from beyond the stars.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194335Z" creationid="Syn Spawacza" creationdate="20200530T194335Z">
+        <seg>świat został zaatakowany przez obcych z głębi kosmosu.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
