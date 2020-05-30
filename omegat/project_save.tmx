@@ -626,8 +626,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Adjust ambient occlusion quality.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133630Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
-        <seg>Dostosuj okluzję otoczenia (ambient ccclusion)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205714Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
+        <seg>Dostosuj okluzję otoczenia (ambient occlusion)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3114,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll have to stop recording for now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205511Z" creationid="Syn Spawacza" creationdate="20200530T205511Z">
+        <seg>Będę musiał skończyć nagrywanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll just take 'em out.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182441Z" creationid="Syn Spawacza" creationdate="20200530T182441Z">
@@ -4102,6 +4110,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134341Z" creationid="Syn Spawacza" creationdate="20200530T134341Z">
         <seg>Mono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Morning.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205524Z" creationid="Syn Spawacza" creationdate="20200530T205524Z">
+        <seg>Dzień dobry.</seg>
       </tuv>
     </tu>
     <tu>
