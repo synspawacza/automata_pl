@@ -4,6 +4,58 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>BOOTING SYSTEM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123517Z" creationid="Syn Spawacza" creationdate="20200530T123517Z">
+        <seg>START SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commencing System Check</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123527Z" creationid="Syn Spawacza" creationdate="20200530T123527Z">
+        <seg>Wykonywanie testu systemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LOADING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123439Z" creationid="Syn Spawacza" creationdate="20200530T123439Z">
+        <seg>LOADING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memory Unit: Green</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
+        <seg>Jednostki pamięci: W normie</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">messcore.properties</prop>
+      <prop type="id">LOADING_TITLE_00</prop>
+      <tuv lang="en-US">
+        <seg>LOADING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123502Z" creationid="Syn Spawacza" creationdate="20200530T123502Z">
+        <seg>ŁADOWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messloading.properties</prop>
+      <prop type="id">LOADING_TITLE_00_US</prop>
+      <tuv lang="en-US">
+        <seg>LOADING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123511Z" creationid="Syn Spawacza" creationdate="20200530T123511Z">
+        <seg>ŁADOWANIE</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
