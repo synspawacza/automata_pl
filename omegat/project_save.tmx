@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>"I don't want to go there right now."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145642Z" creationid="Syn Spawacza" creationdate="20200530T145642Z">
-        <seg>„Nie chcę tam teraz iść.”</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210535Z" creationid="Syn Spawacza" creationdate="20200530T145642Z">
+        <seg>„Nie chcę tam teraz iść”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7066,40 +7066,40 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>View all enhancement items.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151024Z" creationid="Syn Spawacza" creationdate="20200530T151024Z">
-        <seg>Zobacz wszystkie wszystkie przedmioty wzmacniające.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210601Z" creationid="Syn Spawacza" creationdate="20200530T151024Z">
+        <seg>Zobacz wszystkie przedmioty wzmacniające.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>View all healing items.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151012Z" creationid="Syn Spawacza" creationdate="20200530T151012Z">
-        <seg>Zobacz wszystkie wszystkie przedmioty leczące.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210559Z" creationid="Syn Spawacza" creationdate="20200530T151012Z">
+        <seg>Zobacz wszystkie przedmioty leczące.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>View all items.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151005Z" creationid="Syn Spawacza" creationdate="20200530T151005Z">
-        <seg>Zobacz wszystkie wszystkie przedmioty.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210606Z" creationid="Syn Spawacza" creationdate="20200530T151005Z">
+        <seg>Zobacz wszystkie przedmioty.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>View all key items.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151042Z" creationid="Syn Spawacza" creationdate="20200530T151042Z">
-        <seg>Zobacz wszystkie wszystkie przedmioty kluczowe.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210613Z" creationid="Syn Spawacza" creationdate="20200530T151042Z">
+        <seg>Zobacz wszystkie przedmioty kluczowe.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>View all materials.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151036Z" creationid="Syn Spawacza" creationdate="20200530T151036Z">
-        <seg>Zobacz wszystkie wszystkie materiały.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210610Z" creationid="Syn Spawacza" creationdate="20200530T151036Z">
+        <seg>Zobacz wszystkie materiały.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7114,8 +7114,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>View all support items.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151031Z" creationid="Syn Spawacza" creationdate="20200530T151031Z">
-        <seg>Zobacz wszystkie wszystkie przedmioty wsparcia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210604Z" creationid="Syn Spawacza" creationdate="20200530T151031Z">
+        <seg>Zobacz wszystkie przedmioty wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
