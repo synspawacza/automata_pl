@@ -808,6 +808,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attacks on allies prohibited</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171753Z" creationid="Syn Spawacza" creationdate="20200530T171753Z">
+        <seg>Nie można atakować sojusznika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Output</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
@@ -1766,6 +1774,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135131Z" creationid="Syn Spawacza" creationdate="20200530T135131Z">
         <seg>Zmień układ klawiatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Full HP Restored</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171919Z" creationid="Syn Spawacza" creationdate="20200530T171919Z">
+        <seg>Przywrócono wszystkie PŻ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3130,6 +3146,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remaining Time</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171927Z" creationid="Syn Spawacza" creationdate="20200530T171927Z">
+        <seg>Pozostało czasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove the enemy's defense equipment.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162228Z" creationid="Syn Spawacza" creationdate="20200530T162228Z">
@@ -3422,6 +3446,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165502Z" creationid="Syn Spawacza" creationdate="20200530T165502Z">
         <seg>Zapisz dotychczasowy postęp?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving Possible</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171827Z" creationid="Syn Spawacza" creationdate="20200530T171827Z">
+        <seg>Możliwość zapisu</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,6 +3782,16 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161332Z" creationid="Syn Spawacza" creationdate="20200530T161332Z">
         <seg>Konflikt ustawień przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Someone has prayed over
+your fallen body.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171858Z" creationid="Syn Spawacza" creationdate="20200530T171838Z">
+        <seg>Ktoś pomodlił się nad
+twoim poległym ciałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4090,6 +4132,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161137Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, za wyjątkiem ustawień języka i obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Until Emil Self-Destructs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171941Z" creationid="Syn Spawacza" creationdate="20200530T171941Z">
+        <seg>Czas do autodestrukcji Emila</seg>
       </tuv>
     </tu>
     <tu>
