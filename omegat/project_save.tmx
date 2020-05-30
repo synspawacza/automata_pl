@@ -1056,6 +1056,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Edit Death Message</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144818Z" creationid="Syn Spawacza" creationdate="20200530T144818Z">
+        <seg>Edytuj komunikat po śmierci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Edit Weapon Sets</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141706Z" creationid="Syn Spawacza" creationdate="20200530T141706Z">
@@ -1140,6 +1148,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
         <seg>Wyjdź z gry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit the game and return to the desktop.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144749Z" creationid="Syn Spawacza" creationdate="20200530T144749Z">
+        <seg>Wyjdź z gry i wróć do pulpitu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,8 +1490,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>LOAD GAME</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141435Z" creationid="Syn Spawacza" creationdate="20200530T141435Z">
-        <seg>ŁADOWANIE GRY</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144629Z" creationid="Syn Spawacza" creationdate="20200530T141435Z">
+        <seg>WCZYTYWANIE GRY</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,8 +1570,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Load Game</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141717Z" creationid="Syn Spawacza" creationdate="20200530T141717Z">
-        <seg>Załaduj grę</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144652Z" creationid="Syn Spawacza" creationdate="20200530T141717Z">
+        <seg>Wczytaj grę</seg>
       </tuv>
     </tu>
     <tu>
@@ -1840,6 +1856,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Network Features</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144804Z" creationid="Syn Spawacza" creationdate="20200530T144804Z">
+        <seg>Funkcje sieciowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
@@ -1986,8 +2010,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Play Records</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144456Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
-        <seg>Rekordy rozgrywki</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144734Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
+        <seg>Statystyki</seg>
       </tuv>
     </tu>
     <tu>
@@ -2474,8 +2498,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Select a save file to load.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141520Z" creationid="Syn Spawacza" creationdate="20200530T141520Z">
-        <seg>Wybierz który plik zapisu załadować.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144644Z" creationid="Syn Spawacza" creationdate="20200530T141520Z">
+        <seg>Wybierz który plik zapisu wczytać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2556,6 +2580,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135950Z" creationid="Syn Spawacza" creationdate="20200530T135950Z">
         <seg>Autodestrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Death Message</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144822Z" creationid="Syn Spawacza" creationdate="20200530T144813Z">
+        <seg>Ustaw komunikat po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,6 +2848,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle ability to leave messages upon death.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144909Z" creationid="Syn Spawacza" creationdate="20200530T144909Z">
+        <seg>Włącz/wyłącz zostawianie komunikatu po śmierci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle automatic lock-on for Goliath-class enemies.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132735Z" creationid="Syn Spawacza" creationdate="20200530T132646Z">
@@ -2884,6 +2924,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142008Z" creationid="Syn Spawacza" creationdate="20200530T142008Z">
         <seg>Przejdź do następnego ekranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn network functions On/Off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144839Z" creationid="Syn Spawacza" creationdate="20200530T144839Z">
+        <seg>Włącz/wyłącz funkcje sieciowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3068,6 +3116,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143401Z" creationid="Syn Spawacza" creationdate="20200530T143401Z">
         <seg>Zobacz ukończone zadania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View current play records.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144726Z" creationid="Syn Spawacza" creationdate="20200530T144726Z">
+        <seg>Zobacz statystyki obecnej rozgrywki.</seg>
       </tuv>
     </tu>
     <tu>
