@@ -480,6 +480,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amber</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164428Z" creationid="Syn Spawacza" creationdate="20200530T164428Z">
+        <seg>Bursztyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ambient Occlusion</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133143Z" creationid="Syn Spawacza" creationdate="20200530T133143Z">
@@ -740,6 +748,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160620Z" creationid="Syn Spawacza" creationdate="20200530T160620Z">
         <seg>Przełamanie linii wroga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Broken Circuit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164646Z" creationid="Syn Spawacza" creationdate="20200530T164646Z">
+        <seg>Zniszczony obwód</seg>
       </tuv>
     </tu>
     <tu>
@@ -1420,6 +1436,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155840Z" creationid="Syn Spawacza" creationdate="20200530T155840Z">
         <seg>Rozpoznanie w fabryce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filler Metal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164423Z" creationid="Syn Spawacza" creationdate="20200530T164423Z">
+        <seg>Spoiwo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2304,6 +2328,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Natural Rubber</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164433Z" creationid="Syn Spawacza" creationdate="20200530T164433Z">
+        <seg>Guma naturalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Network</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144431Z" creationid="Syn Spawacza" creationdate="20200530T144431Z">
@@ -2908,6 +2940,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164025Z" creationid="Syn Spawacza" creationdate="20200530T164025Z">
         <seg>Zardzewiała gruda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rusty Bolt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164614Z" creationid="Syn Spawacza" creationdate="20200530T164614Z">
+        <seg>Zardzewiała śruba</seg>
       </tuv>
     </tu>
     <tu>
