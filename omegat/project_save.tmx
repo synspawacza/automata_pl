@@ -1480,6 +1480,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dash</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172532Z" creationid="Syn Spawacza" creationdate="20200530T172532Z">
+        <seg>Sprint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dash (Double-Tap)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172540Z" creationid="Syn Spawacza" creationdate="20200530T172540Z">
+        <seg>Sprint (Podwójne naciśnięcie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Debug Room</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130659Z" creationid="Syn Spawacza" creationdate="20200530T130659Z">
@@ -1710,6 +1726,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
         <seg>Unik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Evade (Double-Tap)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172529Z" creationid="Syn Spawacza" creationdate="20200530T172529Z">
+        <seg>Unik (Podwójne naciśnięcie)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2002,6 +2026,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFF: FRIENDLY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172413Z" creationid="Syn Spawacza" creationdate="20200530T172413Z">
+        <seg>IFF: PRZYJAZNY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IFF: MODE 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172311Z" creationid="Syn Spawacza" creationdate="20200530T172311Z">
+        <seg>IFF: TRYB 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN USE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140213Z" creationid="Syn Spawacza" creationdate="20200530T140213Z">
@@ -2166,6 +2206,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135422Z" creationid="Syn Spawacza" creationdate="20200530T135341Z">
         <seg>Lewy p. myszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>LEVEL UP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172500Z" creationid="Syn Spawacza" creationdate="20200530T172500Z">
+        <seg>NOWY POZIOM</seg>
       </tuv>
     </tu>
     <tu>
@@ -2378,6 +2426,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lock-on (On/Off)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172548Z" creationid="Syn Spawacza" creationdate="20200530T172548Z">
+        <seg>Namierzanie (Wł/Wył)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Locked Enemy Tracking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132118Z" creationid="Syn Spawacza" creationdate="20200530T132118Z">
@@ -2414,6 +2470,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142111Z" creationid="Syn Spawacza" creationdate="20200530T142111Z">
         <seg>MAPA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MESSAGE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172356Z" creationid="Syn Spawacza" creationdate="20200530T172356Z">
+        <seg>WIADOMOŚĆ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2574,6 +2638,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140535Z" creationid="Syn Spawacza" creationdate="20200530T140535Z">
         <seg>Ruch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Camera</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172513Z" creationid="Syn Spawacza" creationdate="20200530T172513Z">
+        <seg>Ruch kamery</seg>
       </tuv>
     </tu>
     <tu>
@@ -4788,6 +4860,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163912Z" creationid="Syn Spawacza" creationdate="20200530T163912Z">
         <seg>Balsam przeciwnapięciowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WARNING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172405Z" creationid="Syn Spawacza" creationdate="20200530T172405Z">
+        <seg>UWAGA</seg>
       </tuv>
     </tu>
     <tu>
