@@ -400,6 +400,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140825Z" creationid="Syn Spawacza" creationdate="20200530T140825Z">
+        <seg>Atak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Output</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
@@ -460,6 +468,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140501Z" creationid="Syn Spawacza" creationdate="20200530T140501Z">
         <seg>Wstecz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Back / Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140822Z" creationid="Syn Spawacza" creationdate="20200530T140822Z">
+        <seg>Wstecz / Dalej</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,6 +600,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change Display</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140922Z" creationid="Syn Spawacza" creationdate="20200530T140922Z">
+        <seg>Zmień ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change Equipment</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140521Z" creationid="Syn Spawacza" creationdate="20200530T140521Z">
@@ -632,10 +656,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140724Z" creationid="Syn Spawacza" creationdate="20200530T140724Z">
+        <seg>Zamknij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combat Preparations Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130501Z" creationid="Syn Spawacza" creationdate="20200530T124004Z">
         <seg>Przygotowania do walki zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140927Z" creationid="Syn Spawacza" creationdate="20200530T140927Z">
+        <seg>Kombo</seg>
       </tuv>
     </tu>
     <tu>
@@ -736,6 +776,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defense</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140827Z" creationid="Syn Spawacza" creationdate="20200530T140827Z">
+        <seg>Obrona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131456Z" creationid="Syn Spawacza" creationdate="20200530T131456Z">
@@ -756,6 +804,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131903Z" creationid="Syn Spawacza" creationdate="20200530T131903Z">
         <seg>Odległość (standardowa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140830Z" creationid="Syn Spawacza" creationdate="20200530T140830Z">
+        <seg>PD</seg>
       </tuv>
     </tu>
     <tu>
@@ -904,6 +960,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140850Z" creationid="Syn Spawacza" creationdate="20200530T140850Z">
+        <seg>PŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hacking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134836Z" creationid="Syn Spawacza" creationdate="20200530T134836Z">
@@ -932,6 +996,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135630Z" creationid="Syn Spawacza" creationdate="20200530T135630Z">
         <seg>Atak ciężki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hide Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140800Z" creationid="Syn Spawacza" creationdate="20200530T140800Z">
+        <seg>Ukryj tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -1216,6 +1288,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Model Viewer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140740Z" creationid="Syn Spawacza" creationdate="20200530T140740Z">
+        <seg>Podgląd modelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monaural</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134341Z" creationid="Syn Spawacza" creationdate="20200530T134341Z">
@@ -1336,6 +1416,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140730Z" creationid="Syn Spawacza" creationdate="20200530T140730Z">
+        <seg>Dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Next Pod</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134755Z" creationid="Syn Spawacza" creationdate="20200530T134755Z">
@@ -1424,6 +1512,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Place Marker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140653Z" creationid="Syn Spawacza" creationdate="20200530T140653Z">
+        <seg>Umieść znacznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod Program</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134531Z" creationid="Syn Spawacza" creationdate="20200530T134531Z">
@@ -1504,6 +1600,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140945Z" creationid="Syn Spawacza" creationdate="20200530T140945Z">
+        <seg>Atak dystansowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Releasing Safety Lock</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
@@ -1528,10 +1632,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Replay</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140718Z" creationid="Syn Spawacza" creationdate="20200530T140718Z">
+        <seg>Powtórka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reset Camera</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134546Z" creationid="Syn Spawacza" creationdate="20200530T134546Z">
         <seg>Reset kamery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset Position</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140647Z" creationid="Syn Spawacza" creationdate="20200530T140647Z">
+        <seg>Przywróć pozycję</seg>
       </tuv>
     </tu>
     <tu>
@@ -1578,8 +1698,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Rotate</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140538Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
-        <seg>Obrót</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140639Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
+        <seg>Obróć</seg>
       </tuv>
     </tu>
     <tu>
@@ -1636,6 +1756,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132954Z" creationid="Syn Spawacza" creationdate="20200530T132954Z">
         <seg>Tryb wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scroll Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140754Z" creationid="Syn Spawacza" creationdate="20200530T140754Z">
+        <seg>Przewijanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -1780,6 +1908,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134817Z" creationid="Syn Spawacza" creationdate="20200530T134817Z">
         <seg>Skróty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Text</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140807Z" creationid="Syn Spawacza" creationdate="20200530T140807Z">
+        <seg>Pokaż tekst</seg>
       </tuv>
     </tu>
     <tu>
@@ -2260,6 +2396,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135329Z" creationid="Syn Spawacza" creationdate="20200530T135329Z">
         <seg>Nie można pominąć sceny - sterowana przez 2B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom In</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140656Z" creationid="Syn Spawacza" creationdate="20200530T140656Z">
+        <seg>Zbliżenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom Out</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140658Z" creationid="Syn Spawacza" creationdate="20200530T140658Z">
+        <seg>Oddalenie</seg>
       </tuv>
     </tu>
     <tu>
