@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Infiltration Route Lookup Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130020Z" creationid="Syn Spawacza" creationdate="20200530T130020Z">
+        <seg>Wyszukiwanie ścieżki infiltracji zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initializing Pod Connection</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123937Z" creationid="Syn Spawacza" creationdate="20200530T123937Z">
