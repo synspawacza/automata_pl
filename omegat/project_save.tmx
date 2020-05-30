@@ -1184,6 +1184,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy the Goliath-class unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
+        <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Difficulty</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131456Z" creationid="Syn Spawacza" creationdate="20200530T131456Z">
@@ -1904,6 +1912,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locate the Goliath-class unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162242Z" creationid="Syn Spawacza" creationdate="20200530T162242Z">
+        <seg>Zlokalizuj jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lock-on</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134526Z" creationid="Syn Spawacza" creationdate="20200530T134526Z">
@@ -2448,6 +2464,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Protect 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162258Z" creationid="Syn Spawacza" creationdate="20200530T162258Z">
+        <seg>Chroń 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pursuit Speed</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132123Z" creationid="Syn Spawacza" creationdate="20200530T132123Z">
@@ -2612,6 +2636,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140718Z" creationid="Syn Spawacza" creationdate="20200530T140718Z">
         <seg>Powtórka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rescue 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162254Z" creationid="Syn Spawacza" creationdate="20200530T162254Z">
+        <seg>Uratuj 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3288,6 +3320,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The &lt;MAP_GOAL&gt; icon shows your objective, so make sure to follow it if you get lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162532Z" creationid="Syn Spawacza" creationdate="20200530T162532Z">
+        <seg>Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The System Menu allows you to check intel, change gear, adjust settings, and more.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161943Z" creationid="Syn Spawacza" creationdate="20200530T161943Z">
@@ -3300,6 +3340,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
         <seg>Ta akcja nie jest zmapowana do przycisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The mini-map shows the geography around your current location at the bottom right of the screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162456Z" creationid="Syn Spawacza" creationdate="20200530T162456Z">
+        <seg>Minimapa w prawym dolnym rogu pokazuje teren w pobliżu twojej aktualnej pozycji.</seg>
       </tuv>
     </tu>
     <tu>
