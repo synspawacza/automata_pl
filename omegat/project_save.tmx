@@ -488,6 +488,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you sure?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161146Z" creationid="Syn Spawacza" creationdate="20200530T161146Z">
+        <seg>Jesteś pewien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assign Pod abilities.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143539Z" creationid="Syn Spawacza" creationdate="20200530T143539Z">
@@ -1148,6 +1156,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130659Z" creationid="Syn Spawacza" creationdate="20200530T130659Z">
         <seg>Pokój debugowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Default control settings restored.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161227Z" creationid="Syn Spawacza" creationdate="20200530T161227Z">
+        <seg>Przywrócono domyślne ustawienia sterowanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,6 +2712,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save changes and proceed?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161043Z" creationid="Syn Spawacza" creationdate="20200530T161043Z">
+        <seg>Zapisać zmiany i kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save your current progress.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142728Z" creationid="Syn Spawacza" creationdate="20200530T142728Z">
@@ -3008,6 +3032,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some buttons are overlapping.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161332Z" creationid="Syn Spawacza" creationdate="20200530T161332Z">
+        <seg>Konflikt ustawień przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -3228,6 +3260,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160940Z" creationid="Syn Spawacza" creationdate="20200530T160908Z">
         <seg>Nadpisze to ustawienia własne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will restore all settings to their default values, except for the language and screen settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161137Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
+        <seg>Przywróci to ustawienia do wartości domyślnych, za wyjątkiem ustawień języka i obrazu.</seg>
       </tuv>
     </tu>
     <tu>
