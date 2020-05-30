@@ -1120,6 +1120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you there?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200936Z" creationid="Syn Spawacza" creationdate="20200530T200936Z">
+        <seg>Jesteś tam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assign Pod abilities.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143539Z" creationid="Syn Spawacza" creationdate="20200530T143539Z">
@@ -1540,6 +1548,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131357Z" creationid="Syn Spawacza" creationdate="20200530T131357Z">
         <seg>Ustawnie może zostać zmienione w menu tytułowym i w Menu Start.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you hear me?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200941Z" creationid="Syn Spawacza" creationdate="20200530T200941Z">
+        <seg>Słyszysz mnie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2938,6 +2954,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm gonna call out to you now—make sure you can hear my voice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T201117Z" creationid="Syn Spawacza" creationdate="20200530T201117Z">
+        <seg>Teraz zacznę do ciebie mówić — upewnij się że słyszysz mój głos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm here to provide support.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175123Z" creationid="Syn Spawacza" creationdate="20200530T175123Z">
@@ -3630,6 +3654,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172356Z" creationid="Syn Spawacza" creationdate="20200530T172356Z">
         <seg>WIADOMOŚĆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ma'am?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200932Z" creationid="Syn Spawacza" creationdate="20200530T200932Z">
+        <seg>Proszę pani?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6324,6 +6356,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134928Z" creationid="Syn Spawacza" creationdate="20200530T134928Z">
         <seg>Typ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uh, hellooo?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200955Z" creationid="Syn Spawacza" creationdate="20200530T200955Z">
+        <seg>Eee, halooo?</seg>
       </tuv>
     </tu>
     <tu>
