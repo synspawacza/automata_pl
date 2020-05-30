@@ -2354,6 +2354,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I was going to send you the map data I collected earlier.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175902Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
+        <seg>Wyślę pani dane mapy które wcześniej zebrałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll work my way inside from the ground.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
@@ -5072,6 +5080,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uh, ma'am?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175756Z" creationid="Syn Spawacza" creationdate="20200530T175756Z">
+        <seg>Uhm, proszę pani?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unable to detect DUALSHOCK®4 wireless controller.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161444Z" creationid="Syn Spawacza" creationdate="20200530T161444Z">
@@ -5612,6 +5628,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175316Z" creationid="Syn Spawacza" creationdate="20200530T175316Z">
         <seg>Dobra, uhm... W takim razie musimy znaleźć nasz cel, hm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175810Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
+        <seg>O co chodzi?</seg>
       </tuv>
     </tu>
     <tu>
