@@ -872,6 +872,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175350Z" creationid="Syn Spawacza" creationdate="20200530T175350Z">
+        <seg>Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173719Z" creationid="Syn Spawacza" creationdate="20200530T173719Z">
@@ -2346,10 +2354,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll work my way inside from the ground.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
+        <seg>Ja zajmę się tym z ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm here to provide support.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175123Z" creationid="Syn Spawacza" creationdate="20200530T175123Z">
         <seg>Jestem tu by zapewnić wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I've got a flight unit, so I'll take a look around the perimeter.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175342Z" creationid="Syn Spawacza" creationdate="20200530T175342Z">
+        <seg>Mam tu jednostkę latającą, więc rozejrzę się po obwodzie.</seg>
       </tuv>
     </tu>
     <tu>
