@@ -1226,8 +1226,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Do you want to use auto-control chips?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162838Z" creationid="Syn Spawacza" creationdate="20200530T162838Z">
-        <seg>Czy chcesz używać </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162937Z" creationid="Syn Spawacza" creationdate="20200530T162838Z">
+        <seg>Czy chcesz używać czipów autosterowania?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1924,6 +1924,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162242Z" creationid="Syn Spawacza" creationdate="20200530T162242Z">
         <seg>Zlokalizuj jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lock on (Hold down and press &lt;KC_CAMERA_L_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_CAMERA_R_2&gt; to switch targets)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163122Z" creationid="Syn Spawacza" creationdate="20200530T163122Z">
+        <seg>Namierzanie (Przytrzymaj i naciśnij &lt;KC_CAMERA_L_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_CAMERA_R_2&gt; by zmienić cel)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lock on (Hold down and press &lt;KC_CAMERA_L_3&gt;&lt;ICON_SLASH_3&gt;&lt;KC_CAMERA_R_3&gt; to switch targets)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163138Z" creationid="Syn Spawacza" creationdate="20200530T163138Z">
+        <seg>Namierzanie (Przytrzymaj i naciśnij &lt;KC_CAMERA_L_3&gt;&lt;ICON_SLASH_3&gt;&lt;KC_CAMERA_R_3&gt; by zmienić cel)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3436,6 +3452,18 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162115Z" creationid="Syn Spawacza" creationdate="20200530T162115Z">
         <seg>Gra zostanie zamknięta, a ustawienia zapisane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will equip Auto-Attack, Auto-Fire,
+Auto-Evade, Auto-Program, and 
+Auto-Weapon Switch.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163048Z" creationid="Syn Spawacza" creationdate="20200530T163048Z">
+        <seg>Włączy to Auto-atak, Auto-strzał,
+Auto-unik, Auto-program i
+Auto-zmiana broni.</seg>
       </tuv>
     </tu>
     <tu>
