@@ -2730,6 +2730,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does this look?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200632Z" creationid="Syn Spawacza" creationdate="20200530T200632Z">
+        <seg>I jak to wygląda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180806Z" creationid="Syn Spawacza" creationdate="20200530T180806Z">
@@ -4090,6 +4098,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Not good</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200708Z" creationid="Syn Spawacza" creationdate="20200530T200708Z">
+        <seg>Niedobrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not quite.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174405Z" creationid="Syn Spawacza" creationdate="20200530T174405Z">
@@ -4110,6 +4126,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144035Z" creationid="Syn Spawacza" creationdate="20200530T144035Z">
         <seg>Opowiadania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now let's take a look at your voice recognition settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200832Z" creationid="Syn Spawacza" creationdate="20200530T200832Z">
+        <seg>Teraz zajmijmy się ustawieniem rozpoznawania głosu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4154,6 +4178,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, and I should probably let you know that this entire process is being recorded for posterity.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200807Z" creationid="Syn Spawacza" creationdate="20200530T200807Z">
+        <seg>A, przy okazji, powinnaś wiedzieć że cały proces jest nagrywany dla potomności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, great.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190354Z" creationid="Syn Spawacza" creationdate="20200530T190354Z">
@@ -4172,8 +4204,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Okay</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200610Z" creationid="Syn Spawacza" creationdate="20200530T200610Z">
-        <seg>OK</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200620Z" creationid="Syn Spawacza" creationdate="20200530T200610Z">
+        <seg>W porządku</seg>
       </tuv>
     </tu>
     <tu>
@@ -4914,6 +4946,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Roger that.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200640Z" creationid="Syn Spawacza" creationdate="20200530T200640Z">
+        <seg>Zrozumiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140639Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
@@ -5126,6 +5166,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140754Z" creationid="Syn Spawacza" creationdate="20200530T140754Z">
         <seg>Przewijanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seems your voice recognition is set to mute, which isn't gonna work.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200926Z" creationid="Syn Spawacza" creationdate="20200530T200926Z">
+        <seg>Wygląda na to że rozpoznawanie głosu jest wyciszone.</seg>
       </tuv>
     </tu>
     <tu>
