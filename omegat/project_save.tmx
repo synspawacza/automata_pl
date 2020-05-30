@@ -1984,6 +1984,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mini-map</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161807Z" creationid="Syn Spawacza" creationdate="20200530T161807Z">
+        <seg>Minimapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini-map Rotation</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131508Z" creationid="Syn Spawacza" creationdate="20200530T131508Z">
@@ -2340,6 +2348,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161351Z" creationid="Syn Spawacza" creationdate="20200530T161351Z">
         <seg>Przypisz zduplikowane ustawienia do osobnych przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please choose a new name.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161656Z" creationid="Syn Spawacza" creationdate="20200530T161656Z">
+        <seg>Proszę wybrać inne imię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3240,6 +3256,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The System Menu allows you to check intel, change gear, adjust settings, and more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161943Z" creationid="Syn Spawacza" creationdate="20200530T161943Z">
+        <seg>Menu systemowe pozwala na sprawdzenie informacji, wybór wyposażenia, zmianę ustawień, itd. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following actions are not mapped to a button.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
@@ -3276,6 +3300,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143459Z" creationid="Syn Spawacza" creationdate="20200530T143459Z">
         <seg>Ta funkcja nie może być teraz użyta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes prohibited symbols (%, \, ", ').</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161709Z" creationid="Syn Spawacza" creationdate="20200530T161709Z">
+        <seg>Wykryto niedozwolone symbole (%, \, ", ').</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes prohibited words.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161646Z" creationid="Syn Spawacza" creationdate="20200530T161646Z">
+        <seg>Wykryto niedozwolone słowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4020,6 +4060,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161030Z" creationid="Syn Spawacza" creationdate="20200530T161030Z">
         <seg>Musisz przypisać przycisk otwierania menu systemowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must enter a name of two characters or longer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161745Z" creationid="Syn Spawacza" creationdate="20200530T161745Z">
+        <seg>Imię musi mieć co najmniej dwa znaki.</seg>
       </tuv>
     </tu>
     <tu>
