@@ -1184,6 +1184,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you want to proceed with this configuration anyway?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161005Z" creationid="Syn Spawacza" creationdate="20200530T161005Z">
+        <seg>Kontynuować mimo to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ERROR</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142051Z" creationid="Syn Spawacza" creationdate="20200530T142051Z">
@@ -2456,6 +2464,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reflect the changes to the control scheme?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160900Z" creationid="Syn Spawacza" creationdate="20200530T160900Z">
+        <seg>Uwzględnić zmiany w schemacie sterowania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Releasing Safety Lock</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
@@ -2604,6 +2620,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144518Z" creationid="Syn Spawacza" creationdate="20200530T144518Z">
         <seg>Powróć do ekranu tytułowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return to the title screen?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160812Z" creationid="Syn Spawacza" creationdate="20200530T160812Z">
+        <seg>Powrócić do ekranu tytułowego?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3136,6 +3160,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following actions are not mapped to a button.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
+        <seg>Ta akcja nie jest zmapowana do przycisku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The network function has been turned off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140441Z" creationid="Syn Spawacza" creationdate="20200530T140441Z">
@@ -3188,6 +3220,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131342Z" creationid="Syn Spawacza" creationdate="20200530T131342Z">
         <seg>Ustawnie może zostać zmienione tylko w trakcie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will overwrite the customized controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160940Z" creationid="Syn Spawacza" creationdate="20200530T160908Z">
+        <seg>Nadpisze to ustawienia własne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +3916,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145502Z" creationid="Syn Spawacza" creationdate="20200530T145502Z">
         <seg>Nie można podróżować poza teren misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must assign a button to open the system menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161030Z" creationid="Syn Spawacza" creationdate="20200530T161030Z">
+        <seg>Musisz przypisać przycisk otwierania menu systemowego.</seg>
       </tuv>
     </tu>
     <tu>
