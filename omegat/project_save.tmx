@@ -3250,6 +3250,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nearby enemies are jamming our signal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180243Z" creationid="Syn Spawacza" creationdate="20200530T180243Z">
+        <seg>Pobliscy wrogowie zakłócają sygnał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Negative.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174546Z" creationid="Syn Spawacza" creationdate="20200530T174542Z">
@@ -3350,6 +3358,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174405Z" creationid="Syn Spawacza" creationdate="20200530T174405Z">
         <seg>Niezupełnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nothing's ever easy...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180354Z" creationid="Syn Spawacza" creationdate="20200530T180354Z">
+        <seg>Nic nie jest proste...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4210,6 +4226,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scanners like me mostly work alone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180455Z" creationid="Syn Spawacza" creationdate="20200530T180455Z">
+        <seg>Skanerzy tacy jak ja pracują samotnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scouting out enemy lines and all that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180535Z" creationid="Syn Spawacza" creationdate="20200530T180535Z">
+        <seg>Rozpoznanie za linami wroga i takie tam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Screen</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133352Z" creationid="Syn Spawacza" creationdate="20200530T131111Z">
@@ -4508,8 +4540,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>So open it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180202Z" creationid="Syn Spawacza" creationdate="20200530T180202Z">
-        <seg>To go otwórz.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180219Z" creationid="Syn Spawacza" creationdate="20200530T180202Z">
+        <seg>To je otwórz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5728,6 +5760,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180417Z" creationid="Syn Spawacza" creationdate="20200530T180417Z">
+        <seg>Dlaczego?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Window</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134335Z" creationid="Syn Spawacza" creationdate="20200530T134335Z">
@@ -5828,6 +5868,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174716Z" creationid="Syn Spawacza" creationdate="20200530T174716Z">
         <seg>Co ty nie powiesz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You know, ma'am, I'm glad you're here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180410Z" creationid="Syn Spawacza" creationdate="20200530T180410Z">
+        <seg>Proszę pani, cieszę się że tu jestem.</seg>
       </tuv>
     </tu>
     <tu>
