@@ -32,6 +32,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_LOCKON_2&gt; has now changed from "lock-on" to "toggle auto-control."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163317Z" creationid="Syn Spawacza" creationdate="20200530T163317Z">
+        <seg>&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A network error has occurred.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140421Z" creationid="Syn Spawacza" creationdate="20200530T140421Z">
@@ -460,6 +468,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151056Z" creationid="Syn Spawacza" creationdate="20200530T151056Z">
         <seg>Wszystkie bronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All auto-control chips have been removed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163336Z" creationid="Syn Spawacza" creationdate="20200530T163336Z">
+        <seg>Wszystkie czipy autosterowania zostały usunięte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1340,6 +1356,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123955Z" creationid="Syn Spawacza" creationdate="20200530T123955Z">
         <seg>Stan wyposażenia: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped auto-control chips.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163223Z" creationid="Syn Spawacza" creationdate="20200530T163223Z">
+        <seg>Używane czipy autosterowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3400,6 +3424,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This chip can only be equipped on Easy mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163201Z" creationid="Syn Spawacza" creationdate="20200530T163201Z">
+        <seg>Ten czip może być użyty tylko na poziomie Łatwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This function cannot be used at this time.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143459Z" creationid="Syn Spawacza" creationdate="20200530T143459Z">
@@ -4152,6 +4184,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140113Z" creationid="Syn Spawacza" creationdate="20200530T140113Z">
         <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can now use &lt;KC_LOCKON_2&gt; to lock on, and &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; to switch targets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163436Z" creationid="Syn Spawacza" creationdate="20200530T163436Z">
+        <seg>Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; do zmiany celu.</seg>
       </tuv>
     </tu>
     <tu>
