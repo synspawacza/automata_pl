@@ -104,6 +104,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Anyway, that takes care of the settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202908Z" creationid="Syn Spawacza" creationdate="20200530T202908Z">
+        <seg>...Tak czy siak, załatwiliśmy sprawę ustawień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Emotions are prohibited.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180723Z" creationid="Syn Spawacza" creationdate="20200530T180723Z">
@@ -2354,6 +2362,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, hold on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202917Z" creationid="Syn Spawacza" creationdate="20200530T202917Z">
+        <seg>Eee, czekaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
@@ -2782,6 +2798,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200632Z" creationid="Syn Spawacza" creationdate="20200530T200632Z">
         <seg>I jak to wygląda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How odd.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202809Z" creationid="Syn Spawacza" creationdate="20200530T202809Z">
+        <seg>Dziwne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3238,6 +3262,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190308Z" creationid="Syn Spawacza" creationdate="20200530T190308Z">
         <seg>To chyba... nie będzie potrzebne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems to be back to normal now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202805Z" creationid="Syn Spawacza" creationdate="20200530T202805Z">
+        <seg>Chyba wróciło do normy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3958,6 +3990,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175102Z" creationid="Syn Spawacza" creationdate="20200530T175102Z">
         <seg>Nazywam się 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My pulse rate is rising!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202754Z" creationid="Syn Spawacza" creationdate="20200530T202754Z">
+        <seg>Wzrasta mi tętno!</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,6 +5530,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Settings should all be good to go.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202831Z" creationid="Syn Spawacza" creationdate="20200530T202831Z">
+        <seg>Ustawienia mamy z głowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sh-should be able to...take it over...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184322Z" creationid="Syn Spawacza" creationdate="20200530T184322Z">
@@ -6952,6 +7000,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait a sec, we need to restore those.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203003Z" creationid="Syn Spawacza" creationdate="20200530T203003Z">
+        <seg>Chwila, musimy to przywrócić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait, you shouldn't be able to hear me now...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202449Z" creationid="Syn Spawacza" creationdate="20200530T202449Z">
@@ -7084,6 +7140,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175810Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
         <seg>O co chodzi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What the heck?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202724Z" creationid="Syn Spawacza" creationdate="20200530T202724Z">
+        <seg>Co jest?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7356,6 +7420,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175054Z" creationid="Syn Spawacza" creationdate="20200530T175054Z">
         <seg>Pani to 2B, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your self-destruct permissions are missing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202940Z" creationid="Syn Spawacza" creationdate="20200530T202940Z">
+        <seg>Brakuje pozwolenia na autodestrukcję</seg>
       </tuv>
     </tu>
     <tu>
