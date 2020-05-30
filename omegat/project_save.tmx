@@ -446,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Graphics Presets</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133011Z" creationid="Syn Spawacza" creationdate="20200530T133011Z">
+        <seg>Jakość grafiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HACKING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124124Z" creationid="Syn Spawacza" creationdate="20200530T124124Z">
@@ -702,10 +710,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resolution</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132941Z" creationid="Syn Spawacza" creationdate="20200530T132941Z">
+        <seg>Rozdzielczość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restore Defaults</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132132Z" creationid="Syn Spawacza" creationdate="20200530T132132Z">
         <seg>Przywróć domyślne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restore all camera settings to their default values.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132733Z" creationid="Syn Spawacza" creationdate="20200530T132733Z">
+        <seg>Przywróć ustawienia kamery do wartości domyślnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -738,6 +762,22 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131111Z" creationid="Syn Spawacza" creationdate="20200530T131111Z">
         <seg>Ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen Brightness</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132936Z" creationid="Syn Spawacza" creationdate="20200530T132936Z">
+        <seg>Jasność ekranu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132954Z" creationid="Syn Spawacza" creationdate="20200530T132954Z">
+        <seg>Tryb wyświetlania</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +936,32 @@
       <tuv lang="en-US">
         <seg>Toggle automatic lock-on for Goliath-class enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132646Z" creationid="Syn Spawacza" creationdate="20200530T132646Z">
-        <seg>Włącz automatyczne namierzanie wrogów klasy Goliat</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132735Z" creationid="Syn Spawacza" creationdate="20200530T132646Z">
+        <seg>Włącz/wyłącz automatyczne namierzanie wrogów klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle left stick controls when viewing the map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132918Z" creationid="Syn Spawacza" creationdate="20200530T132918Z">
+        <seg>Włącz/wyłącz sterowanie lewego analoga przy oglądaniu mapy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle right stick horizontal (left/right) controls when viewing the map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132855Z" creationid="Syn Spawacza" creationdate="20200530T132855Z">
+        <seg>Włącz/wyłącz sterowanie prawego analoga w poziomie przy oglądaniu mapy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle right stick vertical (up/down) controls when viewing the map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132904Z" creationid="Syn Spawacza" creationdate="20200530T132904Z">
+        <seg>Włącz/wyłącz sterowanie prawego analoga w pionie przy oglądaniu mapy.</seg>
       </tuv>
     </tu>
     <tu>
