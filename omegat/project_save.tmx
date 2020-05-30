@@ -2554,6 +2554,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have to repair him.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183313Z" creationid="Syn Spawacza" creationdate="20200530T183313Z">
+        <seg>Muszę go naprawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I know.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
@@ -2718,6 +2726,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133834Z" creationid="Syn Spawacza" creationdate="20200530T133834Z">
         <seg>Dźwięk w trybie nieaktywnym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inadvisable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183414Z" creationid="Syn Spawacza" creationdate="20200530T183414Z">
+        <seg>Niezalecane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3966,6 +3982,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174845Z" creationid="Syn Spawacza" creationdate="20200530T174845Z">
         <seg>Zakończono pobieranie programu poda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod, get me staunching gel and logic-virus vaccines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183405Z" creationid="Syn Spawacza" creationdate="20200530T183405Z">
+        <seg>Podzie, daj mi żel tamujący i szczepionki antywirusowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5236,6 +5260,22 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The subject's vital signs are too poor to attempt field repair in the current—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183634Z" creationid="Syn Spawacza" creationdate="20200530T183634Z">
+        <seg>Sygnały życiowe zbyt słabe by podjąć próbę naprawy polowej w obecnej—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Then access the—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183432Z" creationid="Syn Spawacza" creationdate="20200530T183432Z">
+        <seg>Potem dostań się do—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There should be another facility across that bridge.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181715Z" creationid="Syn Spawacza" creationdate="20200530T181715Z">
@@ -6268,6 +6308,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173700Z" creationid="Syn Spawacza" creationdate="20200530T173700Z">
         <seg>do eskadry YoRHa, odbiór.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You all right!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183246Z" creationid="Syn Spawacza" creationdate="20200530T183246Z">
+        <seg>Jesteś cały?</seg>
       </tuv>
     </tu>
     <tu>
