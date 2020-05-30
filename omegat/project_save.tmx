@@ -88,6 +88,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...4B down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174043Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
+        <seg>...4B zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>11B down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173904Z" creationid="Syn Spawacza" creationdate="20200530T173904Z">
+        <seg>Jednostka 11B zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>12H LOST</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173054Z" creationid="Syn Spawacza" creationdate="20200530T173054Z">
@@ -96,10 +112,42 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12H down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173843Z" creationid="Syn Spawacza" creationdate="20200530T173843Z">
+        <seg>Jednostka 12H zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1D down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174015Z" creationid="Syn Spawacza" creationdate="20200530T174015Z">
+        <seg>1D zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B here.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173705Z" creationid="Syn Spawacza" creationdate="20200530T173705Z">
         <seg>Tu 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B to Operator 6O.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174048Z" creationid="Syn Spawacza" creationdate="20200530T174048Z">
+        <seg>2B do Operator 6O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7E down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174010Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
+        <seg>Jednostka 7E zniszczona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,6 +760,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Enemy units sighted ahead.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173936Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
+        <seg>Uwaga: zauważono wrogie jednostki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -752,6 +808,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All allied units down.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174054Z" creationid="Syn Spawacza" creationdate="20200530T174054Z">
+        <seg>Wszystkie sprzymierzone jednostki zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All auto-control chips have been removed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163336Z" creationid="Syn Spawacza" creationdate="20200530T163336Z">
@@ -772,6 +836,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173709Z" creationid="Syn Spawacza" creationdate="20200530T173709Z">
         <seg>Wszystkie jednostki przebiły się przez stratosferę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All units, activate manual mode and rely on visuals to evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173848Z" creationid="Syn Spawacza" creationdate="20200530T173848Z">
+        <seg>Do wszystkich jednostek, aktywować sterowanie ręczne i unikać ataków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Already engaged.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173852Z" creationid="Syn Spawacza" creationdate="20200530T173852Z">
+        <seg>Aktywowano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -844,6 +924,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142431Z" creationid="Syn Spawacza" creationdate="20200530T142431Z">
         <seg>Przypisz umiejętności specjalne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assuming captain's duties.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174018Z" creationid="Syn Spawacza" creationdate="20200530T174018Z">
+        <seg>Przejmuję obowiązki kapitana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1196,6 +1284,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142039Z" creationid="Syn Spawacza" creationdate="20200530T142039Z">
         <seg>Anuluj i powróć do gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Captain, I think—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174039Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
+        <seg>Kapitanie, chyba...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1910,6 +2006,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132057Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
         <seg>Prędkość śledzenia przeciwników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Free movement unlocked.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173856Z" creationid="Syn Spawacza" creationdate="20200530T173856Z">
+        <seg>Swobodny ruch dostępny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2802,6 +2906,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple surrounding enemy air units confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174022Z" creationid="Syn Spawacza" creationdate="20200530T174022Z">
+        <seg>Jesteśmy otoczeni przez wrogie jednostki latające.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Music Volume</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133717Z" creationid="Syn Spawacza" creationdate="20200530T133717Z">
@@ -3012,8 +3124,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173753Z" creationid="Syn Spawacza" creationdate="20200530T173753Z">
-        <seg>Gdy dostrzecie do obrony przeciwpowietrznej przejdzcie do formacji ofensywnej...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173839Z" creationid="Syn Spawacza" creationdate="20200530T173753Z">
+        <seg>Gdy dotrzecie do obrony przeciwpowietrznej przejdźcie do formacji ofensywnej...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3026,10 +3138,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Origin point of long-range lasers confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173859Z" creationid="Syn Spawacza" creationdate="20200530T173859Z">
+        <seg>Wykryto źródła laserów dalekiego zasięgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131121Z" creationid="Syn Spawacza" creationdate="20200530T131121Z">
         <seg>Inne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our Ho229 cancellers are ineffective.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173928Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
+        <seg>Niwelatory naszych Ho229 są nieskuteczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3206,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141418Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
         <seg>Pasywna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permission granted!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174007Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
+        <seg>Zgoda udzielona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permission granted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174032Z" creationid="Syn Spawacza" creationdate="20200530T174032Z">
+        <seg>Zgoda udzielona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3430,6 +3574,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140718Z" creationid="Syn Spawacza" creationdate="20200530T140718Z">
         <seg>Powtórka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requesting permission to assume mobile configuration.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174027Z" creationid="Syn Spawacza" creationdate="20200530T174027Z">
+        <seg>Proszę od zgodę na przejście do konfiguracji mobilnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requesting permission to engage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174001Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
+        <seg>Proszę o zgodę na atak.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4280,6 +4440,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140441Z" creationid="Syn Spawacza" creationdate="20200530T140441Z">
         <seg>Funkcje sieciowe są wyłączone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The operation is compromised.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174057Z" creationid="Syn Spawacza" creationdate="20200530T174057Z">
+        <seg>Operacja jest zagrożona.</seg>
       </tuv>
     </tu>
     <tu>
