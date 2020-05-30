@@ -1952,6 +1952,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading not possible because the required data has not been installed yet.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163828Z" creationid="Syn Spawacza" creationdate="20200530T163828Z">
+        <seg>Nie można wczytać ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading system data...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161411Z" creationid="Syn Spawacza" creationdate="20200530T161411Z">
@@ -2076,6 +2084,30 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
         <seg>Średnie uzdrowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Attack Up (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163940Z" creationid="Syn Spawacza" creationdate="20200530T163940Z">
+        <seg>Atak wręcz + (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Attack Up (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163935Z" creationid="Syn Spawacza" creationdate="20200530T163935Z">
+        <seg>Atak wręcz + (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense Up (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163953Z" creationid="Syn Spawacza" creationdate="20200530T163953Z">
+        <seg>Obrona wręcz + (S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2776,6 +2808,30 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restore the button configuration?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163806Z" creationid="Syn Spawacza" creationdate="20200530T163806Z">
+        <seg>Przywróć ustawienia przycisków?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restore the camera settings?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163753Z" creationid="Syn Spawacza" creationdate="20200530T163753Z">
+        <seg>Przywróć ustawienia kamery?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restore the key configuration?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163810Z" creationid="Syn Spawacza" creationdate="20200530T163810Z">
+        <seg>Przywróć ustawienia klawiszy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resume game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141822Z" creationid="Syn Spawacza" creationdate="20200530T141822Z">
@@ -2828,6 +2884,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140639Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
         <seg>Obróć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rusted Clump</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164025Z" creationid="Syn Spawacza" creationdate="20200530T164025Z">
+        <seg>Zardzewiała gruda</seg>
       </tuv>
     </tu>
     <tu>
@@ -4112,6 +4176,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131405Z" creationid="Syn Spawacza" creationdate="20200530T131405Z">
         <seg>Głos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Volt-Proof Salve</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163912Z" creationid="Syn Spawacza" creationdate="20200530T163912Z">
+        <seg>Balsam przeciwnapięciowy</seg>
       </tuv>
     </tu>
     <tu>
