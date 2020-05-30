@@ -626,8 +626,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Adjust ambient occlusion quality.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205714Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
-        <seg>Dostosuj okluzję otoczenia (ambient occlusion)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205802Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
+        <seg>Dostosuj okluzję otoczenia (ambient occlusion).</seg>
       </tuv>
     </tu>
     <tu>
@@ -682,16 +682,16 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Adjust how far the camera is typically positioned from the player.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132402Z" creationid="Syn Spawacza" creationdate="20200530T132402Z">
-        <seg>Dostosuj jak daleko ma być zazwyczaj umieszczona kamera od postaci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205741Z" creationid="Syn Spawacza" creationdate="20200530T132402Z">
+        <seg>Dostosuj, jak daleko ma być zazwyczaj umieszczona kamera od postaci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Adjust how far the camera pans out when enemies are nearby.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132407Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
-        <seg>Dostosuj jak daleko ma być umieszczona kamera od postaci w pobliżu wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205744Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
+        <seg>Dostosuj, jak daleko ma być umieszczona kamera od postaci w pobliżu wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1786,8 +1786,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Choose which monitor to use in full-screen mode.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133706Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
-        <seg>Wybierz monitor na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205810Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
+        <seg>Wybierz monitor, na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3596,8 +3596,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Keys are overlapping.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134615Z" creationid="Syn Spawacza" creationdate="20200530T134615Z">
-        <seg>Klawisze się pokrywają</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205910Z" creationid="Syn Spawacza" creationdate="20200530T134615Z">
+        <seg>Konflikt przypisań klawiszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5748,8 +5748,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Select the button you wish to change.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135149Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
-        <seg>Wybierz przycisk który chcesz zmienić.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205956Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
+        <seg>Wybierz przycisk, który chcesz zmienić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5828,8 +5828,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Set sound behavior when the game is not the active window.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133946Z" creationid="Syn Spawacza" creationdate="20200530T133946Z">
-        <seg>Ustaw zachowanie dźwięku gdy nie znajduje się w aktywnym oknie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205818Z" creationid="Syn Spawacza" creationdate="20200530T133946Z">
+        <seg>Ustaw zachowanie dźwięku, gdy nie znajduje się w aktywnym oknie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6714,8 +6714,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Toggle self-destruct function.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134102Z" creationid="Syn Spawacza" creationdate="20200530T134102Z">
-        <seg>Włącz/wyłącz funkcję autodestrukcji</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205827Z" creationid="Syn Spawacza" creationdate="20200530T134102Z">
+        <seg>Włącz/wyłącz funkcję autodestrukcji.</seg>
       </tuv>
     </tu>
     <tu>
