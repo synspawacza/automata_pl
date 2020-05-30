@@ -464,6 +464,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attachments</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145139Z" creationid="Syn Spawacza" creationdate="20200530T145139Z">
+        <seg>Załączniki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140825Z" creationid="Syn Spawacza" creationdate="20200530T140825Z">
@@ -754,8 +762,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Change Message</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141738Z" creationid="Syn Spawacza" creationdate="20200530T141738Z">
-        <seg>Zmień komunikat</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145047Z" creationid="Syn Spawacza" creationdate="20200530T141738Z">
+        <seg>Zmień wiadomość</seg>
       </tuv>
     </tu>
     <tu>
@@ -788,6 +796,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132324Z" creationid="Syn Spawacza" creationdate="20200530T132324Z">
         <seg>Zmień sterowanie kamery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the message left behind upon death.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145107Z" creationid="Syn Spawacza" creationdate="20200530T145022Z">
+        <seg>Zmień wiadomość pozostawianą po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,8 +1074,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Edit Death Message</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144818Z" creationid="Syn Spawacza" creationdate="20200530T144818Z">
-        <seg>Edytuj komunikat po śmierci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144954Z" creationid="Syn Spawacza" creationdate="20200530T144818Z">
+        <seg>Edytuj wiadomość po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1074,8 +1090,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Edit death message.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141759Z" creationid="Syn Spawacza" creationdate="20200530T141759Z">
-        <seg>Edytuj komunikat po śmierci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144943Z" creationid="Syn Spawacza" creationdate="20200530T141759Z">
+        <seg>Edytuj wiadomość po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1404,6 +1420,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133834Z" creationid="Syn Spawacza" creationdate="20200530T133834Z">
         <seg>Dźwięk w trybie nieaktywnym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inbox</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145129Z" creationid="Syn Spawacza" creationdate="20200530T145129Z">
+        <seg>Odebrane</seg>
       </tuv>
     </tu>
     <tu>
@@ -2586,8 +2610,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Set Death Message</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144822Z" creationid="Syn Spawacza" creationdate="20200530T144813Z">
-        <seg>Ustaw komunikat po śmierci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144952Z" creationid="Syn Spawacza" creationdate="20200530T144813Z">
+        <seg>Ustaw wiadomość po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2850,8 +2874,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Toggle ability to leave messages upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144909Z" creationid="Syn Spawacza" creationdate="20200530T144909Z">
-        <seg>Włącz/wyłącz zostawianie komunikatu po śmierci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145016Z" creationid="Syn Spawacza" creationdate="20200530T144909Z">
+        <seg>Włącz/wyłącz wiadomość pozostawianą po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
