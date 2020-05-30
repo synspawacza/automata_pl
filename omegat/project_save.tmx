@@ -6,6 +6,24 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>***ALERT*** This game only
+supports "QWERTY" keyboards.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134444Z" creationid="Syn Spawacza" creationdate="20200530T134444Z">
+        <seg>***UWAGA*** Ta gra wspiera
+tylko klawiatury w układzie QWERTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134517Z" creationid="Syn Spawacza" creationdate="20200530T134517Z">
+        <seg>Akcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activating Environmental Sensors</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123947Z" creationid="Syn Spawacza" creationdate="20200530T123947Z">
@@ -510,6 +528,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134356Z" creationid="Syn Spawacza" creationdate="20200530T134356Z">
+        <seg>Użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DIFFICULTY SELECT</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131004Z" creationid="Syn Spawacza" creationdate="20200530T131004Z">
@@ -606,6 +632,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fullscreen</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134332Z" creationid="Syn Spawacza" creationdate="20200530T134332Z">
+        <seg>Pełny ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
@@ -642,6 +676,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130356Z" creationid="Syn Spawacza" creationdate="20200530T130356Z">
         <seg>Aktywacja hakowania zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134510Z" creationid="Syn Spawacza" creationdate="20200530T134510Z">
+        <seg>Atak ciężki</seg>
       </tuv>
     </tu>
     <tu>
@@ -742,6 +784,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jump</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134519Z" creationid="Syn Spawacza" creationdate="20200530T134519Z">
+        <seg>Skok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keyboard layout</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131414Z" creationid="Syn Spawacza" creationdate="20200530T131414Z">
@@ -790,6 +840,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Light Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134515Z" creationid="Syn Spawacza" creationdate="20200530T134515Z">
+        <seg>Atak lekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading Geographic Data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123856Z" creationid="Syn Spawacza" creationdate="20200530T123856Z">
@@ -806,6 +864,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Low</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134228Z" creationid="Syn Spawacza" creationdate="20200530T134228Z">
+        <seg>Niskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Monitor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134243Z" creationid="Syn Spawacza" creationdate="20200530T134243Z">
+        <seg>Monitor główny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134226Z" creationid="Syn Spawacza" creationdate="20200530T134226Z">
+        <seg>Średnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
@@ -818,6 +900,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131508Z" creationid="Syn Spawacza" creationdate="20200530T131508Z">
         <seg>Obracanie minimapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monaural</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134341Z" creationid="Syn Spawacza" creationdate="20200530T134341Z">
+        <seg>Mono</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +932,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
         <seg>Nowa gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134505Z" creationid="Syn Spawacza" creationdate="20200530T134505Z">
+        <seg>Brak</seg>
       </tuv>
     </tu>
     <tu>
@@ -1118,6 +1216,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sub-monitor 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134320Z" creationid="Syn Spawacza" creationdate="20200530T134320Z">
+        <seg>Monitor dodatkowy 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-monitor 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134323Z" creationid="Syn Spawacza" creationdate="20200530T134323Z">
+        <seg>Monitor dodatkowy 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-monitor 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134324Z" creationid="Syn Spawacza" creationdate="20200530T134324Z">
+        <seg>Monitor dodatkowy 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-monitor 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134326Z" creationid="Syn Spawacza" creationdate="20200530T134326Z">
+        <seg>Monitor dodatkowy 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Synchronization Rate: 100%</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130246Z" creationid="Syn Spawacza" creationdate="20200530T130246Z">
@@ -1338,6 +1468,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131405Z" creationid="Syn Spawacza" creationdate="20200530T131405Z">
         <seg>Głos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Window</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134335Z" creationid="Syn Spawacza" creationdate="20200530T134335Z">
+        <seg>W oknie</seg>
       </tuv>
     </tu>
     <tu>
