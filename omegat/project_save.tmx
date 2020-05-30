@@ -1144,6 +1144,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fishing Encyclopedia</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144030Z" creationid="Syn Spawacza" creationdate="20200530T144030Z">
+        <seg>Encyklopedia wędkarstwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free Enemy Tracking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132057Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
@@ -1832,6 +1840,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Novel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144035Z" creationid="Syn Spawacza" creationdate="20200530T144035Z">
+        <seg>Opowiadania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number Held</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
@@ -1900,6 +1916,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141418Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
         <seg>Pasywna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Picture Books</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144017Z" creationid="Syn Spawacza" creationdate="20200530T144017Z">
+        <seg>Książki ilustrowane</seg>
       </tuv>
     </tu>
     <tu>
@@ -2976,10 +3000,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View information about encountered units and foes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144104Z" creationid="Syn Spawacza" creationdate="20200530T144104Z">
+        <seg>Wyświetl informacje o napotkanych jednostkach i wrogach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View or use items in your inventory.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142358Z" creationid="Syn Spawacza" creationdate="20200530T142358Z">
         <seg>Zobacz lub użyj przedmiotów z twojego ekwipunku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View picture books.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144253Z" creationid="Syn Spawacza" creationdate="20200530T144253Z">
+        <seg>Czytaj książki z ilustracjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3000,6 +3040,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the information archives.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144118Z" creationid="Syn Spawacza" creationdate="20200530T144049Z">
+        <seg>Wyświetl informacje z archiwów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View the map in greater detail.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142811Z" creationid="Syn Spawacza" creationdate="20200530T142811Z">
@@ -3016,10 +3064,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View tutorials that have been displayed in-game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144153Z" creationid="Syn Spawacza" creationdate="20200530T144153Z">
+        <seg>Wyświetl samouczki pokazane w trakcie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View various types of acquired data.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142550Z" creationid="Syn Spawacza" creationdate="20200530T142550Z">
         <seg>Zobacz zdobyte informacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View weapon stories.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144202Z" creationid="Syn Spawacza" creationdate="20200530T144202Z">
+        <seg>Wyświetl historie broni</seg>
       </tuv>
     </tu>
     <tu>
@@ -3100,6 +3164,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143559Z" creationid="Syn Spawacza" creationdate="20200530T143559Z">
         <seg>Zestaw broni 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon Stories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143953Z" creationid="Syn Spawacza" creationdate="20200530T143953Z">
+        <seg>Historie broni</seg>
       </tuv>
     </tu>
     <tu>
