@@ -96,6 +96,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173705Z" creationid="Syn Spawacza" creationdate="20200530T173705Z">
+        <seg>Tu 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;EXP_VALUE&gt; EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
@@ -752,6 +760,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All units confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173719Z" creationid="Syn Spawacza" creationdate="20200530T173719Z">
+        <seg>Dostałam potwierdzenie od wszystkich jednostek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All units have penetrated the stratosphere.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173709Z" creationid="Syn Spawacza" creationdate="20200530T173709Z">
+        <seg>Wszystkie jednostki przebiły się przez stratosferę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amber</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164428Z" creationid="Syn Spawacza" creationdate="20200530T164428Z">
@@ -932,6 +956,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135642Z" creationid="Syn Spawacza" creationdate="20200530T135642Z">
         <seg>Automatyczny bieg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Autopilot systems green across the board.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173712Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
+        <seg>Wszystkie systemy autopilota w normie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2098,6 +2130,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I often think about the god who blessed us with this cryptic puzzle...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173636Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
+        <seg>Często myślę o bogu, który obdarował nas tą enigmatyczną zagadką...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IFF: FRIENDLY</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172413Z" creationid="Syn Spawacza" creationdate="20200530T172413Z">
@@ -2230,6 +2270,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162122Z" creationid="Syn Spawacza" creationdate="20200530T162122Z">
         <seg>Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is this a curse?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173630Z" creationid="Syn Spawacza" creationdate="20200530T173630Z">
+        <seg>Czy to przekleństwo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2958,6 +3006,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140116Z" creationid="Syn Spawacza" creationdate="20200530T140116Z">
         <seg>Wł</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173753Z" creationid="Syn Spawacza" creationdate="20200530T173753Z">
+        <seg>Gdy dostrzecie do obrony przeciwpowietrznej przejdzcie do formacji ofensywnej...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Or some kind of punishment?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173633Z" creationid="Syn Spawacza" creationdate="20200530T173633Z">
+        <seg>Czy też jakaś kara?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4292,6 +4356,22 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is Command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173658Z" creationid="Syn Spawacza" creationdate="20200530T173644Z">
+        <seg>Tu dowództwo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is Operator 6O.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173716Z" creationid="Syn Spawacza" creationdate="20200530T173716Z">
+        <seg>Tu Operator 6O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This item can only be changed from the title menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131323Z" creationid="Syn Spawacza" creationdate="20200530T131323Z">
@@ -4548,6 +4628,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143018Z" creationid="Syn Spawacza" creationdate="20200530T143018Z">
         <seg>Zadania niemożliwe do ukończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Understood.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173746Z" creationid="Syn Spawacza" creationdate="20200530T173746Z">
+        <seg>Zrozumiano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,6 +5088,22 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are perpetually trapped...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173623Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
+        <seg>Jesteśmy wiecznie uwięzieni...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173737Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
+        <seg>Osiągnęliśmy pułap 50 kilometrów i kontynuujemy zbliżanie się do celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weapon Set 1</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143552Z" creationid="Syn Spawacza" creationdate="20200530T143552Z">
@@ -5076,6 +5180,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140113Z" creationid="Syn Spawacza" creationdate="20200530T140113Z">
         <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa squadron, come in.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173700Z" creationid="Syn Spawacza" creationdate="20200530T173700Z">
+        <seg>do eskadry YoRHa, odbiór.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5216,10 +5328,34 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and wonder if we'll ever have the chance to kill him.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173640Z" creationid="Syn Spawacza" creationdate="20200530T173640Z">
+        <seg>i zastanawiam się czy będę miała okazję go zabić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>broken [W]ings</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173246Z" creationid="Syn Spawacza" creationdate="20200530T173246Z">
         <seg>z[W]ichnięte skrzydła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a never-ending spiral of life and death.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173741Z" creationid="Syn Spawacza" creationdate="20200530T173627Z">
+        <seg>w niekończącej się spirali życia i śmierci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>then destroy the Goliath-class unit by any means necessary and gather what data you can.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173810Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
+        <seg>za wszelką cenę zniszczcie jednostkę klasy Goliat oraz zbierzcie tyle danych ile się da.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
