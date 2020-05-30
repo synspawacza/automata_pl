@@ -792,6 +792,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Board the flight unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165934Z" creationid="Syn Spawacza" creationdate="20200530T165934Z">
+        <seg>Wejdź do jednostki latającej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Breaking Through</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160620Z" creationid="Syn Spawacza" creationdate="20200530T160620Z">
@@ -1330,6 +1338,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable the enemy's defense system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165950Z" creationid="Syn Spawacza" creationdate="20200530T165950Z">
+        <seg>Zniszcz systemy obronne wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distance (Combat)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131906Z" creationid="Syn Spawacza" creationdate="20200530T131906Z">
@@ -1654,6 +1670,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140850Z" creationid="Syn Spawacza" creationdate="20200530T140850Z">
         <seg>PŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack into the enemy's weak point.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170140Z" creationid="Syn Spawacza" creationdate="20200530T170140Z">
+        <seg>Zhakuj słaby punkt przeciwnika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,6 +2766,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162258Z" creationid="Syn Spawacza" creationdate="20200530T162258Z">
         <seg>Chroń 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Provide support to the attack squad.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170112Z" creationid="Syn Spawacza" creationdate="20200530T170112Z">
+        <seg>Zapewnij wsparcie atakującemu oddziałowi.</seg>
       </tuv>
     </tu>
     <tu>
