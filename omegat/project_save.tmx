@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust graphics presets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133347Z" creationid="Syn Spawacza" creationdate="20200530T133347Z">
+        <seg>Wybierz predefiniowane ustawienia grafiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust horizontal (left/right) camera rotation speed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132341Z" creationid="Syn Spawacza" creationdate="20200530T132341Z">
@@ -150,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust screen display method.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133310Z" creationid="Syn Spawacza" creationdate="20200530T133310Z">
+        <seg>Zmień metodę wyświetlania obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust screen resolution.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133254Z" creationid="Syn Spawacza" creationdate="20200530T133254Z">
+        <seg>Dostosuj rozdzielczość obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust screen settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131153Z" creationid="Syn Spawacza" creationdate="20200530T131153Z">
@@ -166,10 +190,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust the brightness level of the display.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133234Z" creationid="Syn Spawacza" creationdate="20200530T133234Z">
+        <seg>Dostosuj poziom jasności obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust the difficulty level.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131547Z" creationid="Syn Spawacza" creationdate="20200530T131547Z">
         <seg>Dostosuj poziom trudności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust until only the right icon is visible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133221Z" creationid="Syn Spawacza" creationdate="20200530T133221Z">
+        <seg>Ustaw tak, by tylko prawa ikona była widoczna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -202,6 +242,22 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123958Z" creationid="Syn Spawacza" creationdate="20200530T123958Z">
         <seg>Wszystkie systemy w normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ambient Occlusion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133143Z" creationid="Syn Spawacza" creationdate="20200530T133143Z">
+        <seg>Okluzja otoczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anti-Aliasing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133031Z" creationid="Syn Spawacza" creationdate="20200530T133031Z">
+        <seg>Antyaliasing</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +298,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123907Z" creationid="Syn Spawacza" creationdate="20200530T123907Z">
         <seg>Temperatura czarnej skrzynki: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blur</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
+        <seg>Rozmycia</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +442,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131903Z" creationid="Syn Spawacza" creationdate="20200530T131903Z">
         <seg>Odległość (standardowa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Effects</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133047Z" creationid="Syn Spawacza" creationdate="20200530T133047Z">
+        <seg>Efekty</seg>
       </tuv>
     </tu>
     <tu>
@@ -782,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Monitor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133157Z" creationid="Syn Spawacza" creationdate="20200530T133157Z">
+        <seg>Monitor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a chapter and begin playing the game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130817Z" creationid="Syn Spawacza" creationdate="20200530T130817Z">
@@ -846,6 +926,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shadows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133044Z" creationid="Syn Spawacza" creationdate="20200530T133044Z">
+        <seg>Cienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -898,6 +986,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131408Z" creationid="Syn Spawacza" creationdate="20200530T131408Z">
         <seg>Tekst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Texture Filter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133022Z" creationid="Syn Spawacza" creationdate="20200530T133022Z">
+        <seg>Filtrowanie tekstur</seg>
       </tuv>
     </tu>
     <tu>
