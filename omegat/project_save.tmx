@@ -840,6 +840,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: High-powered jamming detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182303Z" creationid="Syn Spawacza" creationdate="20200530T182241Z">
+        <seg>Uwaga: Wykryto silny sygnał zagłuszający.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Large enemy group detected.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174326Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
@@ -2890,6 +2898,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's go!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182126Z" creationid="Syn Spawacza" creationdate="20200530T182126Z">
+        <seg>Chodźmy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>License</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130707Z" creationid="Syn Spawacza" creationdate="20200530T130707Z">
@@ -3478,6 +3494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145523Z" creationid="Syn Spawacza" creationdate="20200530T145523Z">
         <seg>Brak odebranych wiadomości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No response from long-range communications.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182339Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
+        <seg>Brak komunikacja dalekiego zasięgu niemożliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5892,6 +5916,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173623Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
         <seg>Jesteśmy wiecznie uwięzieni...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We have to help her!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182133Z" creationid="Syn Spawacza" creationdate="20200530T182133Z">
+        <seg>Muszę jej pomóc!</seg>
       </tuv>
     </tu>
     <tu>
