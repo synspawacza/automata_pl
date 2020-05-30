@@ -2306,6 +2306,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, all right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200328Z" creationid="Syn Spawacza" creationdate="20200530T200328Z">
+        <seg>Er, dobra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
@@ -2994,6 +3002,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you can just follow that, it'll make things easier.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200427Z" creationid="Syn Spawacza" creationdate="20200530T200427Z">
+        <seg>Będzie nam łatwiej wszystko ustawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inactive Play</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133845Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
@@ -3242,6 +3258,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just give me a second here...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200335Z" creationid="Syn Spawacza" creationdate="20200530T200335Z">
+        <seg>daj mi chwilę...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just go...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183704Z" creationid="Syn Spawacza" creationdate="20200530T183704Z">
@@ -3378,10 +3402,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's get started.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200446Z" creationid="Syn Spawacza" creationdate="20200530T200446Z">
+        <seg>Zaczynajmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's go!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182126Z" creationid="Syn Spawacza" creationdate="20200530T182126Z">
         <seg>Chodźmy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's start by getting the brightness set.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200548Z" creationid="Syn Spawacza" creationdate="20200530T200548Z">
+        <seg>Na początek ustawienia jasności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4170,30 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200610Z" creationid="Syn Spawacza" creationdate="20200530T200610Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, I found the guide!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200349Z" creationid="Syn Spawacza" creationdate="20200530T200349Z">
+        <seg>Okej, znalazłem poradnik!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200557Z" creationid="Syn Spawacza" creationdate="20200530T200557Z">
+        <seg>Okej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>On</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140116Z" creationid="Syn Spawacza" creationdate="20200530T140116Z">
@@ -4838,6 +4902,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170224Z" creationid="Syn Spawacza" creationdate="20200530T170224Z">
         <seg>Ponownie spotkaj się z 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Right then.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200436Z" creationid="Syn Spawacza" creationdate="20200530T200436Z">
+        <seg>W porządku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6764,6 +6836,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183827Z" creationid="Syn Spawacza" creationdate="20200530T183827Z">
         <seg>Jesteśmy dumni... z naszej służby...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll go through each adjustment in order.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200514Z" creationid="Syn Spawacza" creationdate="20200530T200514Z">
+        <seg>Przejdziemy po kolei przez wszystkie ustawienia.</seg>
       </tuv>
     </tu>
     <tu>
