@@ -88,6 +88,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142827Z" creationid="Syn Spawacza" creationdate="20200530T142827Z">
+        <seg>Aktywne zadania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add effects to voice playback.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134130Z" creationid="Syn Spawacza" creationdate="20200530T134130Z">
@@ -372,6 +380,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141409Z" creationid="Syn Spawacza" creationdate="20200530T141409Z">
         <seg>Agresywna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142831Z" creationid="Syn Spawacza" creationdate="20200530T142831Z">
+        <seg>Wszystkie zadania</seg>
       </tuv>
     </tu>
     <tu>
@@ -756,6 +772,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133706Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
         <seg>Wybierz monitor na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cleared Quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142840Z" creationid="Syn Spawacza" creationdate="20200530T142840Z">
+        <seg>Zadania ukończone</seg>
       </tuv>
     </tu>
     <tu>
@@ -2696,6 +2720,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unclearable Quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143018Z" creationid="Syn Spawacza" creationdate="20200530T143018Z">
+        <seg>Zadania niemożliwe do ukończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140503Z" creationid="Syn Spawacza" creationdate="20200530T140503Z">
@@ -2800,10 +2832,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View a list of icons used on the map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142822Z" creationid="Syn Spawacza" creationdate="20200530T142822Z">
+        <seg>Zobacz listę używanych ikon.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View or use items in your inventory.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142358Z" creationid="Syn Spawacza" creationdate="20200530T142358Z">
         <seg>Zobacz lub użyj przedmiotów z twojego ekwipunku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View quests currently in progress.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143332Z" creationid="Syn Spawacza" creationdate="20200530T143332Z">
+        <seg>Zobacz zadania w toku.</seg>
       </tuv>
     </tu>
     <tu>
