@@ -24,6 +24,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACCESS POINT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142143Z" creationid="Syn Spawacza" creationdate="20200530T142143Z">
+        <seg>PUNKT DOSTĘPU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACTIVE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140207Z" creationid="Syn Spawacza" creationdate="20200530T140207Z">
@@ -408,6 +416,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assign special abilities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142431Z" creationid="Syn Spawacza" creationdate="20200530T142431Z">
+        <seg>Przypisz umiejętności specjalne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attack</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140825Z" creationid="Syn Spawacza" creationdate="20200530T140825Z">
@@ -704,6 +720,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change equipped weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142407Z" creationid="Syn Spawacza" creationdate="20200530T142407Z">
+        <seg>Zmień używaną broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change lock-on target</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135821Z" creationid="Syn Spawacza" creationdate="20200530T135821Z">
@@ -780,6 +804,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140458Z" creationid="Syn Spawacza" creationdate="20200530T140458Z">
         <seg>Zatwierdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirm quest details and objectives.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142335Z" creationid="Syn Spawacza" creationdate="20200530T142335Z">
+        <seg>Sprawdź szczegóły zadań i celów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1880,6 +1912,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>RECORDS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142148Z" creationid="Syn Spawacza" creationdate="20200530T142148Z">
+        <seg>REKORDY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RESULT</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140354Z" creationid="Syn Spawacza" creationdate="20200530T140354Z">
@@ -2700,6 +2740,30 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131516Z" creationid="Syn Spawacza" creationdate="20200530T131516Z">
         <seg>Wibracje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View or use items in your inventory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142358Z" creationid="Syn Spawacza" creationdate="20200530T142358Z">
+        <seg>Zobacz lub użyj przedmiotów z twojego ekwipunku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View the map or perform a quick-save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142308Z" creationid="Syn Spawacza" creationdate="20200530T142308Z">
+        <seg>Wyświetl mapę lub wykonaj szybki zapis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View various types of acquired data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142550Z" creationid="Syn Spawacza" creationdate="20200530T142550Z">
+        <seg>Zobacz zdobyte informacje.</seg>
       </tuv>
     </tu>
     <tu>
