@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust the difficulty level.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131547Z" creationid="Syn Spawacza" creationdate="20200530T131547Z">
+        <seg>Dostosuj poziom trudności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust various game settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130758Z" creationid="Syn Spawacza" creationdate="20200530T130758Z">
@@ -334,6 +342,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Horizontal Orientation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131845Z" creationid="Syn Spawacza" creationdate="20200530T131845Z">
+        <seg>Odwrócenie osi poziomej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inactive Play</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131542Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
+        <seg>Gra nieaktywna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Infiltration Route Lookup Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130020Z" creationid="Syn Spawacza" creationdate="20200530T130020Z">
@@ -534,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a combat style for your allies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131601Z" creationid="Syn Spawacza" creationdate="20200530T131601Z">
+        <seg>Wybierz styl walki sojuszników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a difficulty level.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130723Z" creationid="Syn Spawacza" creationdate="20200530T130723Z">
@@ -562,6 +594,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131428Z" creationid="Syn Spawacza" creationdate="20200530T131418Z">
         <seg>Wybierz język kwestii mówionych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set control behavior when the game is not the active window.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131725Z" creationid="Syn Spawacza" creationdate="20200530T131725Z">
+        <seg>Ustaw zachowanie gry gdy nie znajduje się w aktywnym oknie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -662,6 +702,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toggle the vibration function.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131656Z" creationid="Syn Spawacza" creationdate="20200530T131656Z">
+        <seg>Ustaw funkcję wibracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toggle whether the mini-map rotates or remains static.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131642Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
+        <seg>Ustaw czy minimapa powinna się obracać czy pozostać statyczna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use the debug menu to freely place enemies.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130950Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
@@ -674,6 +730,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130703Z" creationid="Syn Spawacza" creationdate="20200530T130703Z">
         <seg>Nazwa użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vibration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131516Z" creationid="Syn Spawacza" creationdate="20200530T131516Z">
+        <seg>Wibracje</seg>
       </tuv>
     </tu>
     <tu>
