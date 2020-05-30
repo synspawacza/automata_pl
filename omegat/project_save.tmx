@@ -38,6 +38,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust and customize game controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130813Z" creationid="Syn Spawacza" creationdate="20200530T130813Z">
+        <seg>Dostosuj sterowanie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust various game settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130758Z" creationid="Syn Spawacza" creationdate="20200530T130758Z">
+        <seg>Dostosuj ustawienia gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Rights Reserved.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130613Z" creationid="Syn Spawacza" creationdate="20200530T130613Z">
@@ -70,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Begin playing the game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130754Z" creationid="Syn Spawacza" creationdate="20200530T130754Z">
+        <seg>Rozpocznij rozgrywkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Black Box Internal Pressure: Normal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123926Z" creationid="Syn Spawacza" creationdate="20200530T123926Z">
@@ -90,6 +114,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124053Z" creationid="Syn Spawacza" creationdate="20200530T124053Z">
         <seg>SPRAWDZANIE SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chapter Select</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130649Z" creationid="Syn Spawacza" creationdate="20200530T130649Z">
+        <seg>Wybierz rozdział</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +150,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130619Z" creationid="Syn Spawacza" creationdate="20200530T130619Z">
+        <seg>Kontynuuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controls</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130631Z" creationid="Syn Spawacza" creationdate="20200530T130631Z">
+        <seg>Sterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Debug Room</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130659Z" creationid="Syn Spawacza" creationdate="20200530T130659Z">
+        <seg>Pokój debugowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment Authentication: Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123951Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
@@ -130,6 +186,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123955Z" creationid="Syn Spawacza" creationdate="20200530T123955Z">
         <seg>Stan wyposażenia: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit Game</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
+        <seg>Wyjdź z gry</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130707Z" creationid="Syn Spawacza" creationdate="20200530T130707Z">
+        <seg>Licencje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading Geographic Data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123856Z" creationid="Syn Spawacza" creationdate="20200530T123856Z">
@@ -202,6 +274,22 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Game</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
+        <seg>Nowa gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Press Any Button</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130617Z" creationid="Syn Spawacza" creationdate="20200530T130617Z">
+        <seg>Naciśnij dowolny przycisk</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +326,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a chapter and begin playing the game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130817Z" creationid="Syn Spawacza" creationdate="20200530T130817Z">
+        <seg>Wybierz rozdział i rozpocznij rozgrywkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a difficulty level.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130723Z" creationid="Syn Spawacza" creationdate="20200530T130723Z">
+        <seg>Wybierz poziom trudności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130628Z" creationid="Syn Spawacza" creationdate="20200530T130628Z">
+        <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Game</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130625Z" creationid="Syn Spawacza" creationdate="20200530T130625Z">
+        <seg>Rozpocznij grę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Synchronization Rate: 100%</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130246Z" creationid="Syn Spawacza" creationdate="20200530T130246Z">
@@ -266,6 +386,30 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124236Z" creationid="Syn Spawacza" creationdate="20200530T124236Z">
         <seg>Cel namierzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be changed in-game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130749Z" creationid="Syn Spawacza" creationdate="20200530T130749Z">
+        <seg>(może zostać zmieniony w trakcie gry).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use the debug menu to freely place enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130950Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
+        <seg>Użyj menu debugowego by swobodnie rozmieszczać przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>User Name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130703Z" creationid="Syn Spawacza" creationdate="20200530T130703Z">
+        <seg>Nazwa użytkownika</seg>
       </tuv>
     </tu>
     <tu>
