@@ -192,6 +192,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B, can you hear me?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195551Z" creationid="Syn Spawacza" creationdate="20200530T195551Z">
+        <seg>2B, słyszysz mnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B...it was an honor to fight with you.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190847Z" creationid="Syn Spawacza" creationdate="20200530T190847Z">
@@ -2386,6 +2394,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First, you'll want to check your brightness settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195647Z" creationid="Syn Spawacza" creationdate="20200530T195647Z">
+        <seg>Zacznijmy od ustawień jasności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fishing Encyclopedia</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144030Z" creationid="Syn Spawacza" creationdate="20200530T144030Z">
@@ -2478,6 +2494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
         <seg>Gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glory to mankind!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195530Z" creationid="Syn Spawacza" creationdate="20200530T195530Z">
+        <seg>Chwała ludzkości!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2826,6 +2850,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I wish you good hunting.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195526Z" creationid="Syn Spawacza" creationdate="20200530T195526Z">
+        <seg>Życzę udanych łowów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I wouldn't bet on that.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181955Z" creationid="Syn Spawacza" creationdate="20200530T181955Z">
@@ -2886,6 +2918,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175123Z" creationid="Syn Spawacza" creationdate="20200530T175123Z">
         <seg>Jestem tu by zapewnić wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm starting your boot sequence.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195609Z" creationid="Syn Spawacza" creationdate="20200530T195609Z">
+        <seg>Rozpoczynam sekwencję startową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,6 +6016,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To break this stalemate once and for all.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195436Z" creationid="Syn Spawacza" creationdate="20200530T195436Z">
+        <seg>By przełamać patową sytuację raz na zawsze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To continue playing with the same save data you used to complete the game, select Continue and load that save data.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162803Z" creationid="Syn Spawacza" creationdate="20200530T162803Z">
@@ -6196,6 +6244,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143018Z" creationid="Syn Spawacza" creationdate="20200530T143018Z">
         <seg>Zadania niemożliwe do ukończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Understood, sir.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195510Z" creationid="Syn Spawacza" creationdate="20200530T195510Z">
+        <seg>Tak jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6888,6 +6944,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You are our ultimate weapon...and you must put an end to this war.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195458Z" creationid="Syn Spawacza" creationdate="20200530T195458Z">
+        <seg>Jesteście ostateczną bronią... i musicie zakończyć tą wojnę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can now use &lt;KC_LOCKON_2&gt; to lock on, and &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; to switch targets.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163436Z" creationid="Syn Spawacza" creationdate="20200530T163436Z">
@@ -6948,6 +7012,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172622Z" creationid="Syn Spawacza" creationdate="20200530T172622Z">
         <seg>Nie masz uprawnień do wykonania tego polecenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don't know how to adjust the brightness?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195708Z" creationid="Syn Spawacza" creationdate="20200530T195708Z">
+        <seg>Nie wiesz jak ustawić jasność?</seg>
       </tuv>
     </tu>
     <tu>
