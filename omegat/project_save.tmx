@@ -1120,6 +1120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are we good now?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202538Z" creationid="Syn Spawacza" creationdate="20200530T202538Z">
+        <seg>Wszystko w porządku?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161146Z" creationid="Syn Spawacza" creationdate="20200530T161146Z">
@@ -2962,6 +2970,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm fine, 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202615Z" creationid="Syn Spawacza" creationdate="20200530T202615Z">
+        <seg>W porządku, 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm going after him!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183110Z" creationid="Syn Spawacza" creationdate="20200530T183110Z">
@@ -4250,6 +4266,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, uh, th-thank you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202646Z" creationid="Syn Spawacza" creationdate="20200530T202646Z">
+        <seg>Oh, uh, dz-dziękuję!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175154Z" creationid="Syn Spawacza" creationdate="20200530T175154Z">
@@ -4262,6 +4286,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200620Z" creationid="Syn Spawacza" creationdate="20200530T200610Z">
         <seg>W porządku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202502Z" creationid="Syn Spawacza" creationdate="20200530T202502Z">
+        <seg>Okej!</seg>
       </tuv>
     </tu>
     <tu>
@@ -6016,6 +6048,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181256Z" creationid="Syn Spawacza" creationdate="20200530T181256Z">
         <seg>To co robią maszyny nie ma głębszego sensu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's something calming about your voice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202628Z" creationid="Syn Spawacza" creationdate="20200530T202628Z">
+        <seg>Jest coś uspokajającego w twoim głosie.</seg>
       </tuv>
     </tu>
     <tu>
