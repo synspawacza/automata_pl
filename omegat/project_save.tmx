@@ -2994,6 +2994,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It doesn't look like that's...going to be necessary...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190308Z" creationid="Syn Spawacza" creationdate="20200530T190308Z">
+        <seg>To chyba... nie będzie potrzebne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's a bit of a hike, but should we check it out?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181841Z" creationid="Syn Spawacza" creationdate="20200530T181738Z">
