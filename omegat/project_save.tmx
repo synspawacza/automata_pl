@@ -46,6 +46,54 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust camera settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131147Z" creationid="Syn Spawacza" creationdate="20200530T131147Z">
+        <seg>Dostosuj ustawienia kamery.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust game settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131139Z" creationid="Syn Spawacza" creationdate="20200530T131139Z">
+        <seg>Dostosuj ustawienia gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust language settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131132Z" creationid="Syn Spawacza" creationdate="20200530T131132Z">
+        <seg>Dostosuj ustawienia języka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust other settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131225Z" creationid="Syn Spawacza" creationdate="20200530T131225Z">
+        <seg>Dostosuj pozostałe ustawienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust screen settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131153Z" creationid="Syn Spawacza" creationdate="20200530T131153Z">
+        <seg>Dostosuj ustawienia ekranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust sound settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131201Z" creationid="Syn Spawacza" creationdate="20200530T131201Z">
+        <seg>Dostosuj ustawienia dźwięku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust various game settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130758Z" creationid="Syn Spawacza" creationdate="20200530T130758Z">
@@ -118,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>CONTROLS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131035Z" creationid="Syn Spawacza" creationdate="20200530T131035Z">
+        <seg>STEROWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Camera</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131106Z" creationid="Syn Spawacza" creationdate="20200530T131106Z">
+        <seg>Kamera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chapter Select</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130649Z" creationid="Syn Spawacza" creationdate="20200530T130649Z">
@@ -166,10 +230,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DIFFICULTY SELECT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131004Z" creationid="Syn Spawacza" creationdate="20200530T131004Z">
+        <seg>POZIOM TRUDNOŚCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Debug Room</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130659Z" creationid="Syn Spawacza" creationdate="20200530T130659Z">
         <seg>Pokój debugowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131044Z" creationid="Syn Spawacza" creationdate="20200530T131044Z">
+        <seg>Angielski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter a name to be used for online functions.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131000Z" creationid="Syn Spawacza" creationdate="20200530T131000Z">
+        <seg>Wprowadź nazwę używaną w funkcjach sieciowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +282,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
         <seg>Wyjdź z gry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
+        <seg>Gra</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,10 +334,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131040Z" creationid="Syn Spawacza" creationdate="20200530T131040Z">
+        <seg>Japoński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOADING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123439Z" creationid="Syn Spawacza" creationdate="20200530T123439Z">
         <seg>LOADING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131059Z" creationid="Syn Spawacza" creationdate="20200530T131059Z">
+        <seg>Język</seg>
       </tuv>
     </tu>
     <tu>
@@ -278,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NAME ENTRY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131014Z" creationid="Syn Spawacza" creationdate="20200530T131014Z">
+        <seg>WPROWADŹ IMIĘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>New Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
         <seg>Nowa gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131121Z" creationid="Syn Spawacza" creationdate="20200530T131121Z">
+        <seg>Inne</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +454,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SETTINGS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131028Z" creationid="Syn Spawacza" creationdate="20200530T131028Z">
+        <seg>USTAWIENIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>START MENU</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131007Z" creationid="Syn Spawacza" creationdate="20200530T131007Z">
+        <seg>MENU START</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Screen</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131111Z" creationid="Syn Spawacza" creationdate="20200530T131111Z">
+        <seg>Ekran</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a chapter and begin playing the game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130817Z" creationid="Syn Spawacza" creationdate="20200530T130817Z">
@@ -346,6 +498,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130628Z" creationid="Syn Spawacza" creationdate="20200530T130628Z">
         <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
+        <seg>Dźwięk</seg>
       </tuv>
     </tu>
     <tu>
@@ -439,6 +599,16 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123511Z" creationid="Syn Spawacza" creationdate="20200530T123511Z">
         <seg>ŁADOWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messoption.properties</prop>
+      <prop type="id">OPTION_LANG_02</prop>
+      <tuv lang="en-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131053Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
+        <seg>Polski</seg>
       </tuv>
     </tu>
   </body>
