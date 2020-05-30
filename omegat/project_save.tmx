@@ -254,6 +254,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust the volume of background music.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133914Z" creationid="Syn Spawacza" creationdate="20200530T133914Z">
+        <seg>Dostosuj głośność ścieżki dźwiękowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjust the volume of sound effects.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133922Z" creationid="Syn Spawacza" creationdate="20200530T133922Z">
+        <seg>Dostosuj głośność efektów dźwiękowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust until only the right icon is visible.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133221Z" creationid="Syn Spawacza" creationdate="20200530T133221Z">
@@ -314,6 +330,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133031Z" creationid="Syn Spawacza" creationdate="20200530T133031Z">
         <seg>Antyaliasing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Audio Output</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
+        <seg>Wyjście dźwięku</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +442,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130649Z" creationid="Syn Spawacza" creationdate="20200530T130649Z">
         <seg>Wybierz rozdział</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose which monitor to use in full-screen mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133706Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
+        <seg>Wybierz monitor na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -632,8 +664,16 @@
       <tuv lang="en-US">
         <seg>Inactive Play</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131542Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
-        <seg>Gra nieaktywna</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133845Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
+        <seg>Gra w trybie nieaktywnym</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inactive Sound</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133834Z" creationid="Syn Spawacza" creationdate="20200530T133834Z">
+        <seg>Dźwięk w trybie nieaktywnym</seg>
       </tuv>
     </tu>
     <tu>
@@ -754,6 +794,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131508Z" creationid="Syn Spawacza" creationdate="20200530T131508Z">
         <seg>Obracanie minimapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Music Volume</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133717Z" creationid="Syn Spawacza" creationdate="20200530T133717Z">
+        <seg>Głośność muzyki</seg>
       </tuv>
     </tu>
     <tu>
@@ -998,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sound Effect Volume</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133734Z" creationid="Syn Spawacza" creationdate="20200530T133734Z">
+        <seg>Głośność efektów dźwiękowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130625Z" creationid="Syn Spawacza" creationdate="20200530T130625Z">
@@ -1194,6 +1250,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123859Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
         <seg>Parametry życiowe: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Voice Volume</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133750Z" creationid="Syn Spawacza" creationdate="20200530T133750Z">
+        <seg>Głośność głosów</seg>
       </tuv>
     </tu>
     <tu>
