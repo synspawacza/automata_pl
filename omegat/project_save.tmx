@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Remaining: &lt;NUM&gt;)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173022Z" creationid="Syn Spawacza" creationdate="20200530T173022Z">
+        <seg>(Zostało: &lt;NUM&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(The game will resume from the nearest access point.)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165012Z" creationid="Syn Spawacza" creationdate="20200530T165012Z">
@@ -80,10 +88,42 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>12H LOST</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173054Z" creationid="Syn Spawacza" creationdate="20200530T173054Z">
+        <seg>STRACONO 12H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;EXP_VALUE&gt; EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
         <seg>&lt;EXP_VALUE&gt; PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;ITEM NAME&gt; capacity full.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173000Z" creationid="Syn Spawacza" creationdate="20200530T173000Z">
+        <seg>Brak miejsca na przedmiot: &lt;ITEM NAME&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;ITEM NAME&gt; obtained.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172921Z" creationid="Syn Spawacza" creationdate="20200530T172921Z">
+        <seg>Zdobyto przedmiot: &lt;ITEM NAME&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;ITEM NAME&gt; used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172937Z" creationid="Syn Spawacza" creationdate="20200530T172937Z">
+        <seg>Użyto przedmiotu: &lt;ITEM NAME&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -260,6 +300,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171151Z" creationid="Syn Spawacza" creationdate="20200530T171151Z">
         <seg>&lt;KC_WEP_CHANGE_2&gt;: Zmiana broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;MONEY_NUM&gt; G obtained.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172950Z" creationid="Syn Spawacza" creationdate="20200530T172950Z">
+        <seg>Zdobyto &lt;MONEY_NUM&gt; G.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3522,6 +3570,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>STAFF</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173118Z" creationid="Syn Spawacza" creationdate="20200530T173118Z">
+        <seg>ZESPÓŁ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>START MENU</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131007Z" creationid="Syn Spawacza" creationdate="20200530T131007Z">
@@ -4484,6 +4540,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143942Z" creationid="Syn Spawacza" creationdate="20200530T143942Z">
         <seg>Dane jednostek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit data has been updated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172954Z" creationid="Syn Spawacza" creationdate="20200530T172954Z">
+        <seg>Uaktualniono dane na temat jednostki.</seg>
       </tuv>
     </tu>
     <tu>
