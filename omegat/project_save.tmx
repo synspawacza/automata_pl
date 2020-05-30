@@ -408,6 +408,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack (Heavy)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141004Z" creationid="Syn Spawacza" creationdate="20200530T141004Z">
+        <seg>Atak (ciężki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attack (Light)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140956Z" creationid="Syn Spawacza" creationdate="20200530T140956Z">
+        <seg>Atak (lekki)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Output</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
@@ -760,6 +776,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DEF</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140949Z" creationid="Syn Spawacza" creationdate="20200530T140949Z">
+        <seg>OBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DIFFICULTY SELECT</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131004Z" creationid="Syn Spawacza" creationdate="20200530T131004Z">
@@ -816,10 +840,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141100Z" creationid="Syn Spawacza" creationdate="20200530T141100Z">
+        <seg>Łatwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133047Z" creationid="Syn Spawacza" creationdate="20200530T133047Z">
         <seg>Efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemies are weak, and you can equip auto-chips.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141135Z" creationid="Syn Spawacza" creationdate="20200530T141135Z">
+        <seg>Wrogowie są słabi i można używać autoczipów</seg>
       </tuv>
     </tu>
     <tu>
@@ -980,6 +1020,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130356Z" creationid="Syn Spawacza" creationdate="20200530T130356Z">
         <seg>Aktywacja hakowania zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141103Z" creationid="Syn Spawacza" creationdate="20200530T141103Z">
+        <seg>Trudny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,6 +1592,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Probably.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141232Z" creationid="Syn Spawacza" creationdate="20200530T141232Z">
+        <seg>Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pursuit Speed</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132123Z" creationid="Syn Spawacza" creationdate="20200530T132123Z">
@@ -1604,6 +1660,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140945Z" creationid="Syn Spawacza" creationdate="20200530T140945Z">
         <seg>Atak dystansowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141012Z" creationid="Syn Spawacza" creationdate="20200530T141012Z">
+        <seg>Obrona dystansowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -2072,6 +2136,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The standard, most enjoyable difficulty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141229Z" creationid="Syn Spawacza" creationdate="20200530T141229Z">
+        <seg>Standardowy, najprzyjemniejszy poziom trudności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be changed in-game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130749Z" creationid="Syn Spawacza" creationdate="20200530T130749Z">
@@ -2288,6 +2360,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Very Hard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141113Z" creationid="Syn Spawacza" creationdate="20200530T141113Z">
+        <seg>Bardzo trudny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vibration</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131516Z" creationid="Syn Spawacza" creationdate="20200530T131516Z">
@@ -2443,6 +2523,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <prop type="file">messcore.properties</prop>
+      <prop type="id">CORE_DIFF_02</prop>
+      <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141026Z" creationid="Syn Spawacza" creationdate="20200530T141026Z">
+        <seg>Normalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">messcore.properties</prop>
       <prop type="id">LOADING_TITLE_00</prop>
       <tuv lang="en-US">
         <seg>LOADING</seg>
@@ -2469,6 +2559,16 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131053Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
         <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_dlc1.properties</prop>
+      <prop type="id">DLC1_DIFF_02</prop>
+      <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141033Z" creationid="Syn Spawacza" creationdate="20200530T141033Z">
+        <seg>Normalny</seg>
       </tuv>
     </tu>
   </body>
