@@ -96,6 +96,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...All right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183954Z" creationid="Syn Spawacza" creationdate="20200530T183954Z">
+        <seg>...Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Emotions are prohibited.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180723Z" creationid="Syn Spawacza" creationdate="20200530T180723Z">
@@ -1664,6 +1672,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Command 677 received.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183852Z" creationid="Syn Spawacza" creationdate="20200530T183852Z">
+        <seg>Odebrano polecenie 677.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commencing System Check</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123527Z" creationid="Syn Spawacza" creationdate="20200530T123527Z">
@@ -2426,6 +2442,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hacking in...to provide support.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184123Z" creationid="Syn Spawacza" creationdate="20200530T184123Z">
+        <seg>Hakuję...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hard</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141103Z" creationid="Syn Spawacza" creationdate="20200530T141103Z">
@@ -2470,6 +2494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134218Z" creationid="Syn Spawacza" creationdate="20200530T134218Z">
         <seg>Wysokie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ho229 flight unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
+        <seg>Jednostka latająca Ho229.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,10 +2554,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I didn't know the machines had that kind of intelligence.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184051Z" creationid="Syn Spawacza" creationdate="20200530T184051Z">
+        <seg>Nie przypuszczałam że maszyny mogą być tak inteligentne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I don't usually get a partner.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180548Z" creationid="Syn Spawacza" creationdate="20200530T180548Z">
         <seg>Zazwyczaj nie mam partnera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I found a weakness in the target...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184110Z" creationid="Syn Spawacza" creationdate="20200530T184110Z">
+        <seg>Znalazłem słaby punkt celu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2946,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It...talks?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184021Z" creationid="Syn Spawacza" creationdate="20200530T184021Z">
+        <seg>To... gada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131040Z" creationid="Syn Spawacza" creationdate="20200530T131040Z">
@@ -2958,6 +3014,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134615Z" creationid="Syn Spawacza" creationdate="20200530T134615Z">
         <seg>Klawisze się pokrywają</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184010Z" creationid="Syn Spawacza" creationdate="20200530T184010Z">
+        <seg>Zabij...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3954,6 +4018,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183942Z" creationid="Syn Spawacza" creationdate="20200530T183942Z">
+        <seg>Proszę...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plug-in Chips</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143433Z" creationid="Syn Spawacza" creationdate="20200530T143433Z">
@@ -4270,6 +4342,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140718Z" creationid="Syn Spawacza" creationdate="20200530T140718Z">
         <seg>Powtórka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requesting acknowledgement.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184004Z" creationid="Syn Spawacza" creationdate="20200530T184004Z">
+        <seg>Oczekiwanie na potwierdzenie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5724,6 +5804,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172954Z" creationid="Syn Spawacza" creationdate="20200530T172954Z">
         <seg>Uaktualniono dane na temat jednostki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Usage rights transferred from 9S to 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183933Z" creationid="Syn Spawacza" creationdate="20200530T183933Z">
+        <seg>Przekazano prawo do korzystania z 9S na 2B.</seg>
       </tuv>
     </tu>
     <tu>
