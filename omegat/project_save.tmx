@@ -2922,6 +2922,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just do what I say!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183722Z" creationid="Syn Spawacza" creationdate="20200530T183656Z">
+        <seg>Rób co ci każę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just go...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183704Z" creationid="Syn Spawacza" creationdate="20200530T183704Z">
+        <seg>Odpuść...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Key Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150944Z" creationid="Syn Spawacza" creationdate="20200530T150944Z">
@@ -4882,6 +4898,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shut up!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183641Z" creationid="Syn Spawacza" creationdate="20200530T183641Z">
+        <seg>Zamknij się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Silver Ore</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150513Z" creationid="Syn Spawacza" creationdate="20200530T150513Z">
@@ -6160,10 +6184,26 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We take pride in...our service...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183827Z" creationid="Syn Spawacza" creationdate="20200530T183827Z">
+        <seg>Jesteśmy dumni... z naszej służby...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173737Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
         <seg>Osiągnęliśmy pułap 50 kilometrów i kontynuujemy zbliżanie się do celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We...we're sold...iers...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183807Z" creationid="Syn Spawacza" creationdate="20200530T183807Z">
+        <seg>Jesteśmy... żołnie...rzami...</seg>
       </tuv>
     </tu>
     <tu>
@@ -6444,6 +6484,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170412Z" creationid="Syn Spawacza" creationdate="20200530T170412Z">
         <seg>Zdobyto broń:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You shut up too!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183713Z" creationid="Syn Spawacza" creationdate="20200530T183713Z">
+        <seg>Ty też się zamknij!</seg>
       </tuv>
     </tu>
     <tu>
