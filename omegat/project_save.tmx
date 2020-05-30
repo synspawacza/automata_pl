@@ -1818,6 +1818,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Identification signal no longer functional.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170604Z" creationid="Syn Spawacza" creationdate="20200530T170604Z">
+        <seg>Sygnał identyfikujący nie działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inactive Play</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133845Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
