@@ -440,6 +440,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Weapons</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151056Z" creationid="Syn Spawacza" creationdate="20200530T151056Z">
+        <seg>Wszystkie bronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ambient Occlusion</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133143Z" creationid="Syn Spawacza" creationdate="20200530T133143Z">
@@ -612,6 +620,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141341Z" creationid="Syn Spawacza" creationdate="20200530T141341Z">
         <seg>Zbalansowana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bare Fists</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151226Z" creationid="Syn Spawacza" creationdate="20200530T151226Z">
+        <seg>Gołe pięści</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +940,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141358Z" creationid="Syn Spawacza" creationdate="20200530T141358Z">
         <seg>Krótki dystans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combat Bracers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151217Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
+        <seg>Kastety</seg>
       </tuv>
     </tu>
     <tu>
@@ -1676,6 +1700,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150040Z" creationid="Syn Spawacza" creationdate="20200530T145841Z">
         <seg>Duże uzdrowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large Swords</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151106Z" creationid="Syn Spawacza" creationdate="20200530T151106Z">
+        <seg>Miecze duże</seg>
       </tuv>
     </tu>
     <tu>
@@ -2896,6 +2928,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small Swords</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151101Z" creationid="Syn Spawacza" creationdate="20200530T151101Z">
+        <seg>Miecze małe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -2908,6 +2948,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133734Z" creationid="Syn Spawacza" creationdate="20200530T133734Z">
         <seg>Głośność efektów dźwiękowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spears</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151111Z" creationid="Syn Spawacza" creationdate="20200530T151111Z">
+        <seg>Włócznie</seg>
       </tuv>
     </tu>
     <tu>
@@ -3384,6 +3432,30 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View all caught fish.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151051Z" creationid="Syn Spawacza" creationdate="20200530T151051Z">
+        <seg>Zobacz wszystkie złapane ryby.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all enhancement items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151024Z" creationid="Syn Spawacza" creationdate="20200530T151024Z">
+        <seg>Zobacz wszystkie wszystkie przedmioty wzmacniające.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all healing items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151012Z" creationid="Syn Spawacza" creationdate="20200530T151012Z">
+        <seg>Zobacz wszystkie wszystkie przedmioty leczące.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View all items.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151005Z" creationid="Syn Spawacza" creationdate="20200530T151005Z">
@@ -3392,10 +3464,34 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View all key items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151042Z" creationid="Syn Spawacza" creationdate="20200530T151042Z">
+        <seg>Zobacz wszystkie wszystkie przedmioty kluczowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all materials.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151036Z" creationid="Syn Spawacza" creationdate="20200530T151036Z">
+        <seg>Zobacz wszystkie wszystkie materiały.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View all of the weapons in your possession.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143706Z" creationid="Syn Spawacza" creationdate="20200530T143706Z">
         <seg>Zobacz wszystkie posiadane bronie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all support items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151031Z" creationid="Syn Spawacza" creationdate="20200530T151031Z">
+        <seg>Zobacz wszystkie wszystkie przedmioty wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3532,6 +3628,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144318Z" creationid="Syn Spawacza" creationdate="20200530T144202Z">
         <seg>Zobacz historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtuous Treaty</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155407Z" creationid="Syn Spawacza" creationdate="20200530T155407Z">
+        <seg>Cnotliwy traktat</seg>
       </tuv>
     </tu>
     <tu>
