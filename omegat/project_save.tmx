@@ -1440,6 +1440,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Load game, save game, or change system settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142618Z" creationid="Syn Spawacza" creationdate="20200530T142618Z">
+        <seg>Ładowanie gry, zapis gry i zmiana ustawień systemu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading Geographic Data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123856Z" creationid="Syn Spawacza" creationdate="20200530T123856Z">
@@ -1500,6 +1508,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134243Z" creationid="Syn Spawacza" creationdate="20200530T134243Z">
         <seg>Monitor główny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Icons</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142633Z" creationid="Syn Spawacza" creationdate="20200530T142633Z">
+        <seg>Ikony mapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142628Z" creationid="Syn Spawacza" creationdate="20200530T142628Z">
+        <seg>Tryb mapy</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,6 +1896,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quick Save</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142624Z" creationid="Syn Spawacza" creationdate="20200530T142624Z">
+        <seg>Szybki zapis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R Alt</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135606Z" creationid="Syn Spawacza" creationdate="20200530T135606Z">
@@ -2132,6 +2164,30 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140348Z" creationid="Syn Spawacza" creationdate="20200530T140348Z">
         <seg>KOMUNIKAT SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save your current progress.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142728Z" creationid="Syn Spawacza" creationdate="20200530T142728Z">
+        <seg>Zapisz dotychczasowy postęp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving is disabled because the debug menu was used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142703Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
+        <seg>Zapis jest niedostępny ponieważ użyto menu debowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saving...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142641Z" creationid="Syn Spawacza" creationdate="20200530T142641Z">
+        <seg>Zapisywanie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2752,6 +2808,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View the map in greater detail.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142811Z" creationid="Syn Spawacza" creationdate="20200530T142811Z">
+        <seg>Zobacz mapę szczegółową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View the map or perform a quick-save.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142308Z" creationid="Syn Spawacza" creationdate="20200530T142308Z">
@@ -2876,6 +2940,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140113Z" creationid="Syn Spawacza" creationdate="20200530T140113Z">
         <seg>Tak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can't save now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142712Z" creationid="Syn Spawacza" creationdate="20200530T142712Z">
+        <seg>Nie można teraz zapisać.</seg>
       </tuv>
     </tu>
     <tu>
