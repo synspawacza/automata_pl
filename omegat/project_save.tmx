@@ -840,6 +840,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aural Sensors Abnormal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172813Z" creationid="Syn Spawacza" creationdate="20200530T172813Z">
+        <seg>Zaburzenie sensorów dźwiękowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Authentication Code: YoRHa Number 9 Type-S</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
@@ -4108,6 +4116,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The command was not executed correctly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172641Z" creationid="Syn Spawacza" creationdate="20200530T172641Z">
+        <seg>Polecenie nie zostało wykonane prawidłowo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following actions are not mapped to a button.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
@@ -4824,6 +4840,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visual Sensors Abnormal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172802Z" creationid="Syn Spawacza" creationdate="20200530T172742Z">
+        <seg>Zaburzenie sensorów wizualnych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vitals: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123859Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
@@ -5028,6 +5052,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145502Z" creationid="Syn Spawacza" creationdate="20200530T145502Z">
         <seg>Nie można podróżować poza teren misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You do not have the authority to perform that command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172622Z" creationid="Syn Spawacza" creationdate="20200530T172622Z">
+        <seg>Nie masz uprawnień do wykonania tego polecenia.</seg>
       </tuv>
     </tu>
     <tu>
