@@ -984,6 +984,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Copper Ore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150506Z" creationid="Syn Spawacza" creationdate="20200530T150506Z">
+        <seg>Ruda miedzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corrupted data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140335Z" creationid="Syn Spawacza" creationdate="20200530T140335Z">
@@ -996,6 +1004,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135113Z" creationid="Syn Spawacza" creationdate="20200530T135059Z">
         <seg>Stwórz własny schemat sterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crystal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150540Z" creationid="Syn Spawacza" creationdate="20200530T150540Z">
+        <seg>Kryształ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,6 +1336,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gold Ore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150519Z" creationid="Syn Spawacza" creationdate="20200530T150519Z">
+        <seg>Ruda złota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goliath Auto Lock-on</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132128Z" creationid="Syn Spawacza" creationdate="20200530T132128Z">
@@ -1536,6 +1560,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Iron Ore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150510Z" creationid="Syn Spawacza" creationdate="20200530T150510Z">
+        <seg>Ruda żelaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131040Z" creationid="Syn Spawacza" creationdate="20200530T131040Z">
@@ -1596,6 +1628,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131059Z" creationid="Syn Spawacza" creationdate="20200530T131059Z">
         <seg>Język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large Gear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150456Z" creationid="Syn Spawacza" creationdate="20200530T150456Z">
+        <seg>Duży trybik</seg>
       </tuv>
     </tu>
     <tu>
@@ -2776,10 +2816,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Silver Ore</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150513Z" creationid="Syn Spawacza" creationdate="20200530T150513Z">
+        <seg>Ruda srebra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140523Z" creationid="Syn Spawacza" creationdate="20200530T140523Z">
         <seg>Pomiń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small Gear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150448Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
+        <seg>Mały trybik</seg>
       </tuv>
     </tu>
     <tu>
