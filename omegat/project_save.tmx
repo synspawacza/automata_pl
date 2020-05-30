@@ -104,6 +104,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...What?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
+        <seg>...Co to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>11B down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173904Z" creationid="Syn Spawacza" creationdate="20200530T173904Z">
@@ -2666,6 +2674,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's just accessing random nonsensical data from the old world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181345Z" creationid="Syn Spawacza" creationdate="20200530T181345Z">
+        <seg>Wyciągają bezsensowne, losowe dane z starego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's kind of fun!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180654Z" creationid="Syn Spawacza" creationdate="20200530T180654Z">
@@ -4626,6 +4642,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So if we don't destroy it, they'll just keep coming.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181213Z" creationid="Syn Spawacza" creationdate="20200530T181213Z">
+        <seg>Zatem jak go nie zniszczymy to będzie ich coraz więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So open it.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180219Z" creationid="Syn Spawacza" creationdate="20200530T180202Z">
@@ -4936,6 +4960,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141229Z" creationid="Syn Spawacza" creationdate="20200530T141229Z">
         <seg>Standardowy, najprzyjemniejszy poziom trudności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's no actual meaning behind anything machines do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181256Z" creationid="Syn Spawacza" creationdate="20200530T181256Z">
+        <seg>To co robią maszyny nie ma głębszego sensu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5988,6 +6020,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180711Z" creationid="Syn Spawacza" creationdate="20200530T180410Z">
         <seg>Cieszę się że tu pani jest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You mean the birds?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181411Z" creationid="Syn Spawacza" creationdate="20200530T181411Z">
+        <seg>Chodzi ci o ptaki?</seg>
       </tuv>
     </tu>
     <tu>
