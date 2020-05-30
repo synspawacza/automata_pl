@@ -2826,6 +2826,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I could set it for you, but you should probably do it yourself.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203048Z" creationid="Syn Spawacza" creationdate="20200530T203048Z">
+        <seg>Mógłbym to ustawić za ciebie, ale raczej powinnaś to zrobić sama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I didn't know the machines had that kind of intelligence.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184051Z" creationid="Syn Spawacza" creationdate="20200530T184051Z">
@@ -2990,6 +2998,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
         <seg>Ja zajmę się tym z ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm afraid I can't leave this as-is, ma'am.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203250Z" creationid="Syn Spawacza" creationdate="20200530T203250Z">
+        <seg>Obawiam się że nie mogę tego tak zostawić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3262,6 +3278,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190308Z" creationid="Syn Spawacza" creationdate="20200530T190308Z">
         <seg>To chyba... nie będzie potrzebne...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It needs to be turned on except in very specific cases.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203221Z" creationid="Syn Spawacza" creationdate="20200530T203221Z">
+        <seg>Musi to zostać włączone, poza bardzo konkretnymi przypadkami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4554,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please give your permission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203444Z" creationid="Syn Spawacza" creationdate="20200530T203444Z">
+        <seg>Proszę dać pozwolenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please reconnect it to resume play.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161528Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
@@ -4798,6 +4830,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160900Z" creationid="Syn Spawacza" creationdate="20200530T160900Z">
         <seg>Uwzględnić zmiany w schemacie sterowania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Regulations and all, you know?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203021Z" creationid="Syn Spawacza" creationdate="20200530T203021Z">
+        <seg>Regulacje i takie tam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,6 +7048,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait, no.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203054Z" creationid="Syn Spawacza" creationdate="20200530T203054Z">
+        <seg>Czekaj, nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait, you shouldn't be able to hear me now...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202449Z" creationid="Syn Spawacza" creationdate="20200530T202449Z">
@@ -7224,6 +7272,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yeah, you can't really do that.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203128Z" creationid="Syn Spawacza" creationdate="20200530T203128Z">
+        <seg>Nie możesz tak robić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yeah?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191046Z" creationid="Syn Spawacza" creationdate="20200530T191046Z">
@@ -7380,6 +7436,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161745Z" creationid="Syn Spawacza" creationdate="20200530T161745Z">
         <seg>Imię musi mieć co najmniej dwa znaki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to leave that turned on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203109Z" creationid="Syn Spawacza" creationdate="20200530T203109Z">
+        <seg>Musisz to zostawić włączone.</seg>
       </tuv>
     </tu>
     <tu>
