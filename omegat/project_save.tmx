@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(This can be changed from the System Menu at any time.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165450Z" creationid="Syn Spawacza" creationdate="20200530T165450Z">
+        <seg>(może zostać zmienione w dowolnym momencie w menu systemowym).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Tutorial messages like this one can be accessed at any time from the Intel tab.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162044Z" creationid="Syn Spawacza" creationdate="20200530T162044Z">
@@ -1108,6 +1116,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142335Z" creationid="Syn Spawacza" creationdate="20200530T142335Z">
         <seg>Sprawdź szczegóły zadań i celów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Connect to the network?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165421Z" creationid="Syn Spawacza" creationdate="20200530T165418Z">
+        <seg>Połączyć się z siecią?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3110,6 +3126,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142728Z" creationid="Syn Spawacza" creationdate="20200530T142728Z">
         <seg>Zapisz dotychczasowy postęp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save your current progress?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165502Z" creationid="Syn Spawacza" creationdate="20200530T165502Z">
+        <seg>Zapisz dotychczasowy postęp?</seg>
       </tuv>
     </tu>
     <tu>
