@@ -432,6 +432,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Archives</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143936Z" creationid="Syn Spawacza" creationdate="20200530T143936Z">
+        <seg>Archiwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assign Pod abilities.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143539Z" creationid="Syn Spawacza" creationdate="20200530T143539Z">
@@ -764,6 +772,38 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132324Z" creationid="Syn Spawacza" creationdate="20200530T132324Z">
         <seg>Zmień sterowanie kamery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the weapons in Weapon Set 1.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143726Z" creationid="Syn Spawacza" creationdate="20200530T143726Z">
+        <seg>Zmień bronie w zestawie 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change the weapons in Weapon Set 2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143729Z" creationid="Syn Spawacza" creationdate="20200530T143729Z">
+        <seg>Zmień bronie w zestawie 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change your weapon for heavy attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143934Z" creationid="Syn Spawacza" creationdate="20200530T143934Z">
+        <seg>Zmień broń do ataków lekkich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change your weapon for light attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143929Z" creationid="Syn Spawacza" creationdate="20200530T143929Z">
+        <seg>Zmień broń do ataków ciężkich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,6 +2400,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a spot to equip.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143916Z" creationid="Syn Spawacza" creationdate="20200530T143916Z">
+        <seg>Wybierz miejsce na broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a weapon to equip.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143859Z" creationid="Syn Spawacza" creationdate="20200530T143859Z">
+        <seg>Wybierz broń do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the button you wish to change.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135149Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
@@ -2736,6 +2792,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143945Z" creationid="Syn Spawacza" creationdate="20200530T143945Z">
+        <seg>Samouczki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134924Z" creationid="Syn Spawacza" creationdate="20200530T134924Z">
@@ -2764,6 +2828,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143018Z" creationid="Syn Spawacza" creationdate="20200530T143018Z">
         <seg>Zadania niemożliwe do ukończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unit Data</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143942Z" creationid="Syn Spawacza" creationdate="20200530T143942Z">
+        <seg>Dane jednostek</seg>
       </tuv>
     </tu>
     <tu>
