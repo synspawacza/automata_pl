@@ -816,6 +816,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adjust the settings until you can hear my voice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202307Z" creationid="Syn Spawacza" creationdate="20200530T202307Z">
+        <seg>Dostosuj ustawienia tak byś słyszała mój głos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust the volume of background music.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133914Z" creationid="Syn Spawacza" creationdate="20200530T133914Z">
@@ -2326,6 +2334,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200328Z" creationid="Syn Spawacza" creationdate="20200530T200328Z">
         <seg>Er, dobra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Er, could you try and pick up the pace a little bit?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202347Z" creationid="Syn Spawacza" creationdate="20200530T202347Z">
+        <seg>Eee, mogłabyś trochę podkręcić tępo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -6084,6 +6100,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is getting embarrassing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202403Z" creationid="Syn Spawacza" creationdate="20200530T202403Z">
+        <seg>Robi się to krępujące...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the target.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182705Z" creationid="Syn Spawacza" creationdate="20200530T182705Z">
@@ -6884,6 +6908,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142121Z" creationid="Syn Spawacza" creationdate="20200530T142121Z">
         <seg>BRONIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait, you shouldn't be able to hear me now...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202449Z" creationid="Syn Spawacza" creationdate="20200530T202449Z">
+        <seg>Chwila, nie tak będziesz mnie słyszała...</seg>
       </tuv>
     </tu>
     <tu>
