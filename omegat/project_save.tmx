@@ -1440,6 +1440,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195141Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
+        <seg>Wciąż, po kilkunastu wielkich atakach na wroga nie zdołaliśmy odeprzeć sił nieprzyjaciela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But now it's just crawling with machines.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181000Z" creationid="Syn Spawacza" creationdate="20200530T181000Z">
