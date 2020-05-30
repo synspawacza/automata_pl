@@ -136,6 +136,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Well?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204709Z" creationid="Syn Spawacza" creationdate="20200530T204709Z">
+        <seg>...I co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...What?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
@@ -2780,8 +2788,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Here, let me try somewhere else.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204059Z" creationid="Syn Spawacza" creationdate="20200530T204059Z">
-        <seg>Chwila, spróbuję czegoś innego.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204643Z" creationid="Syn Spawacza" creationdate="20200530T204059Z">
+        <seg>Chwila, spróbuję gdzieś indziej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2926,6 +2934,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190427Z" creationid="Syn Spawacza" creationdate="20200530T190427Z">
         <seg>Nie sądzę... że to dobrze się to skończy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don't know what's causing this, so we'll need to run some precision diagnostics later.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204837Z" creationid="Syn Spawacza" creationdate="20200530T204837Z">
+        <seg>Nie wiem co jest tego przyczyną, trzeba będzie wykonać dokładniejszą diagnostykę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4330,6 +4346,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No turning back now, I guess...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204659Z" creationid="Syn Spawacza" creationdate="20200530T204659Z">
+        <seg>Nie ma odwrotu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175137Z" creationid="Syn Spawacza" creationdate="20200530T175137Z">
@@ -4518,6 +4542,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203600Z" creationid="Syn Spawacza" creationdate="20200530T203600Z">
         <seg>Okej, dobra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, great.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204720Z" creationid="Syn Spawacza" creationdate="20200530T204720Z">
+        <seg>Okej, świetnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6132,6 +6164,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204725Z" creationid="Syn Spawacza" creationdate="20200530T204725Z">
+        <seg>Dzięki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is why you, the YoRHa forces, exist:</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195413Z" creationid="Syn Spawacza" creationdate="20200530T195413Z">
@@ -7356,6 +7396,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143542Z" creationid="Syn Spawacza" creationdate="20200530T143542Z">
         <seg>Bronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well then, let's try something else.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204607Z" creationid="Syn Spawacza" creationdate="20200530T204607Z">
+        <seg>Dobra, spróbujmy czegoś innego.</seg>
       </tuv>
     </tu>
     <tu>
