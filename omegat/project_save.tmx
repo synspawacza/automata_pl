@@ -1520,6 +1520,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But that's what regulations call for.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205002Z" creationid="Syn Spawacza" creationdate="20200530T205002Z">
+        <seg>Ale takie są przepisy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>CHECKING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124053Z" creationid="Syn Spawacza" creationdate="20200530T124053Z">
@@ -2990,6 +2998,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183313Z" creationid="Syn Spawacza" creationdate="20200530T183313Z">
         <seg>Muszę go naprawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know no one LIKES the idea of self-destructing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204948Z" creationid="Syn Spawacza" creationdate="20200530T204948Z">
+        <seg>Wiem, nikt nie lubi idei autodestrukcji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5034,6 +5050,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Regardless, that's the end of the check for now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204913Z" creationid="Syn Spawacza" creationdate="20200530T204913Z">
+        <seg>Tak czy siak, na razie koniec testów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regulations and all, you know?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203021Z" creationid="Syn Spawacza" creationdate="20200530T203021Z">
@@ -6000,6 +6024,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161626Z" creationid="Syn Spawacza" creationdate="20200530T161626Z">
         <seg>Rozpocząć używając imienia „&lt;NAME&gt;”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Still, I'll keep it a secret from the Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205058Z" creationid="Syn Spawacza" creationdate="20200530T205058Z">
+        <seg>Ale nie powiem Dowódcy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7740,6 +7772,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175054Z" creationid="Syn Spawacza" creationdate="20200530T175054Z">
         <seg>Pani to 2B, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You...don't want to hear my voice?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205130Z" creationid="Syn Spawacza" creationdate="20200530T205130Z">
+        <seg>Ty... nie chcesz słyszeć mojego głosu.</seg>
       </tuv>
     </tu>
     <tu>
