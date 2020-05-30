@@ -1938,6 +1938,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Displaying on HUD.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182854Z" creationid="Syn Spawacza" creationdate="20200530T182841Z">
+        <seg>Wyświetlanie na HUDzie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distance (Combat)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131906Z" creationid="Syn Spawacza" creationdate="20200530T131906Z">
@@ -2070,6 +2078,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174340Z" creationid="Syn Spawacza" creationdate="20200530T174340Z">
         <seg>Wrogowie zniszczeni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemy analysis complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182758Z" creationid="Syn Spawacza" creationdate="20200530T182758Z">
+        <seg>Analiza wroga zakończona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemy missiles intercepted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182933Z" creationid="Syn Spawacza" creationdate="20200530T182933Z">
+        <seg>Przechwycono wrogie rakiety.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2370,6 +2394,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hacking in!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182743Z" creationid="Syn Spawacza" creationdate="20200530T182743Z">
+        <seg>Hakowanie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hard</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141103Z" creationid="Syn Spawacza" creationdate="20200530T141103Z">
@@ -2530,6 +2562,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll hack this thing and weaken it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182909Z" creationid="Syn Spawacza" creationdate="20200530T182909Z">
+        <seg>Włamię się do tego i to osłabię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll just take 'em out.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182441Z" creationid="Syn Spawacza" creationdate="20200530T182441Z">
@@ -2538,10 +2578,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll provide support!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182738Z" creationid="Syn Spawacza" creationdate="20200530T182738Z">
+        <seg>Zapewnię wsparcie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll work my way inside from the ground.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
         <seg>Ja zajmę się tym z ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm going to destroy it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182713Z" creationid="Syn Spawacza" creationdate="20200530T182713Z">
+        <seg>Zniszczę go.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4802,6 +4858,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Software vulnerabilities and penetration path detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182835Z" creationid="Syn Spawacza" creationdate="20200530T182835Z">
+        <seg>Wykryto luki oprogramowani i ścieżkę penetracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some buttons are overlapping.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161332Z" creationid="Syn Spawacza" creationdate="20200530T161332Z">
@@ -5212,6 +5276,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182705Z" creationid="Syn Spawacza" creationdate="20200530T182705Z">
+        <seg>To nasz cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This item can only be changed from the title menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131323Z" creationid="Syn Spawacza" creationdate="20200530T131323Z">
@@ -5476,6 +5548,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175938Z" creationid="Syn Spawacza" creationdate="20200530T175756Z">
         <seg>Ehm, proszę pani?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uh...right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182728Z" creationid="Syn Spawacza" creationdate="20200530T182728Z">
+        <seg>Uh... dobra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6044,6 +6124,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175810Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
         <seg>O co chodzi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What's your status!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182659Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
+        <seg>Jaka sytuacja?</seg>
       </tuv>
     </tu>
     <tu>
