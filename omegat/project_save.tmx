@@ -184,6 +184,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S black box signal detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
+        <seg>Wykryto sygnał czarnej skrzynki 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;EXP_VALUE&gt; EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
@@ -1312,6 +1320,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Boost!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183004Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
+        <seg>Dopalacz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Breaking Through</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160620Z" creationid="Syn Spawacza" creationdate="20200530T160620Z">
@@ -1652,6 +1668,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123527Z" creationid="Syn Spawacza" creationdate="20200530T123527Z">
         <seg>Wykonywanie testu systemu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Communications have been jammed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183218Z" creationid="Syn Spawacza" creationdate="20200530T183218Z">
+        <seg>Komunikacja jest zagłuszana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2546,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have to help 9S...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183226Z" creationid="Syn Spawacza" creationdate="20200530T183226Z">
+        <seg>Muszę pomóc 9S...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I know.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
@@ -2590,6 +2622,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175711Z" creationid="Syn Spawacza" creationdate="20200530T175711Z">
         <seg>Ja zajmę się tym z ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm going after him!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183110Z" creationid="Syn Spawacza" creationdate="20200530T183110Z">
+        <seg>Idę po niego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -3590,6 +3630,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182339Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
         <seg>Brak komunikacja dalekiego zasięgu niemożliwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No response to communications.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183054Z" creationid="Syn Spawacza" creationdate="20200530T183054Z">
+        <seg>Nie można nawiązać komunikacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4734,6 +4782,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135950Z" creationid="Syn Spawacza" creationdate="20200530T135950Z">
         <seg>Autodestrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send a support request to Command!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183139Z" creationid="Syn Spawacza" creationdate="20200530T183139Z">
+        <seg>Wyślij do dowództwa prośbę o wsparcie!</seg>
       </tuv>
     </tu>
     <tu>
