@@ -112,6 +112,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...I see.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193106Z" creationid="Syn Spawacza" creationdate="20200530T193106Z">
+        <seg>Rozumiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Right.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190643Z" creationid="Syn Spawacza" creationdate="20200530T190643Z">
@@ -3582,6 +3590,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mine are only intact up to the point just before we rendezvoused.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193423Z" creationid="Syn Spawacza" creationdate="20200530T193423Z">
+        <seg>Ja pamiętam tylko do momentu przed naszym spotkaniem.</seg>
       </tuv>
     </tu>
     <tu>
