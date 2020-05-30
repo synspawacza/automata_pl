@@ -112,6 +112,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190643Z" creationid="Syn Spawacza" creationdate="20200530T190643Z">
+        <seg>...Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...What?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
@@ -172,6 +180,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174048Z" creationid="Syn Spawacza" creationdate="20200530T174048Z">
         <seg>2B do Operator 6O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B...it was an honor to fight with you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190847Z" creationid="Syn Spawacza" creationdate="20200530T190847Z">
+        <seg>2B... to był zaszczyt walczyć u twojego boku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3042,6 +3058,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's ready.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190634Z" creationid="Syn Spawacza" creationdate="20200530T190634Z">
+        <seg>Jestem gotów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's unnecessary.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180821Z" creationid="Syn Spawacza" creationdate="20200530T180821Z">
@@ -4474,10 +4498,18 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Request accepted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190741Z" creationid="Syn Spawacza" creationdate="20200530T190741Z">
+        <seg>Prośba przyjęta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Request assistance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185247Z" creationid="Syn Spawacza" creationdate="20200530T185247Z">
-        <seg>Potrzebujemy wsparcia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190546Z" creationid="Syn Spawacza" creationdate="20200530T185247Z">
+        <seg>Potrzebujemy pomocy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,6 +4534,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174001Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
         <seg>Proszę o zgodę na atak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requesting...destruction of enemy hostiles via black-box reaction.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190719Z" creationid="Syn Spawacza" creationdate="20200530T190719Z">
+        <seg>Proszę o... zniszczenie wrogów przez reakcję czarnych skrzynek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5464,6 +5504,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161943Z" creationid="Syn Spawacza" creationdate="20200530T161943Z">
         <seg>Menu systemowe pozwala na sprawdzenie informacji, wybór wyposażenia, zmianę ustawień, itd. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The black box...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190622Z" creationid="Syn Spawacza" creationdate="20200530T190622Z">
+        <seg>Czarna skrzynka...</seg>
       </tuv>
     </tu>
     <tu>
