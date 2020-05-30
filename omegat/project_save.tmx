@@ -1760,6 +1760,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Control...of upper arm...seized from enemy unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184432Z" creationid="Syn Spawacza" creationdate="20200530T184407Z">
+        <seg>Kontrola...nad ramieniem...przejęta od wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Controls</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130631Z" creationid="Syn Spawacza" creationdate="20200530T130631Z">
@@ -2630,6 +2638,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181605Z" creationid="Syn Spawacza" creationdate="20200530T181605Z">
         <seg>Przeszukałam całą fabrykę i nie znalazłam niczego co przypominałoby nasz cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I told you to shut up!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184335Z" creationid="Syn Spawacza" creationdate="20200530T184335Z">
+        <seg>Mówiłam ci że masz się zamknąć!</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +4754,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seize its control system!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184359Z" creationid="Syn Spawacza" creationdate="20200530T184359Z">
+        <seg>Przejmuję jego system kontroli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140452Z" creationid="Syn Spawacza" creationdate="20200530T140452Z">
@@ -4942,6 +4966,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130628Z" creationid="Syn Spawacza" creationdate="20200530T130628Z">
         <seg>Ustawienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sh-should be able to...take it over...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184322Z" creationid="Syn Spawacza" creationdate="20200530T184322Z">
+        <seg>P-powinien być w stanie... je przejąć..</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,6 +5336,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172641Z" creationid="Syn Spawacza" creationdate="20200530T172641Z">
         <seg>Polecenie nie zostało wykonane prawidłowo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The control...on the enemy's upper arm...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184236Z" creationid="Syn Spawacza" creationdate="20200530T184236Z">
+        <seg>Przejmij kontrolę... nad ramieniem wroga...</seg>
       </tuv>
     </tu>
     <tu>
@@ -5860,6 +5900,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130950Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
         <seg>Użyj menu debugowego by swobodnie rozmieszczać przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use your Pod...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184140Z" creationid="Syn Spawacza" creationdate="20200530T184140Z">
+        <seg>Użyj poda...</seg>
       </tuv>
     </tu>
     <tu>
