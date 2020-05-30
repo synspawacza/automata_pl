@@ -2834,6 +2834,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I think it's set up to respond to some kind of input.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200310Z" creationid="Syn Spawacza" creationdate="20200530T200310Z">
+        <seg>Powinno to reagować na jakieś sygnał wejściowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I told you to shut up!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184335Z" creationid="Syn Spawacza" creationdate="20200530T184335Z">
