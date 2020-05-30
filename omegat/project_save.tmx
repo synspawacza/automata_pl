@@ -888,6 +888,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>L Click</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135422Z" creationid="Syn Spawacza" creationdate="20200530T135341Z">
+        <seg>Lewy p. myszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOADING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123439Z" creationid="Syn Spawacza" creationdate="20200530T123439Z">
@@ -1112,6 +1120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R Click</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135343Z" creationid="Syn Spawacza" creationdate="20200530T135343Z">
+        <seg>PPM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Releasing Safety Lock</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
@@ -1268,6 +1284,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131453Z" creationid="Syn Spawacza" creationdate="20200530T131453Z">
         <seg>Wybierz układ klawiatury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the button you wish to change.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135149Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
+        <seg>Wybierz przycisk który chcesz zmienić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1704,10 +1728,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wheel Click</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135413Z" creationid="Syn Spawacza" creationdate="20200530T135413Z">
+        <seg>ŚPM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Window</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134335Z" creationid="Syn Spawacza" creationdate="20200530T134335Z">
         <seg>W oknie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can't skip this scene because 2B is in control.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135329Z" creationid="Syn Spawacza" creationdate="20200530T135329Z">
+        <seg>Nie można pominąć sceny - sterowana przez 2B</seg>
       </tuv>
     </tu>
     <tu>
