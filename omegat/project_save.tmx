@@ -848,6 +848,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-Chips</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172105Z" creationid="Syn Spawacza" creationdate="20200530T172105Z">
+        <seg>Autoczipy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-Control</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134921Z" creationid="Syn Spawacza" creationdate="20200530T134921Z">
@@ -1452,6 +1460,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140949Z" creationid="Syn Spawacza" creationdate="20200530T140949Z">
         <seg>OBR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DETONATE SUBJUGATED ENEMIES</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172051Z" creationid="Syn Spawacza" creationdate="20200530T172051Z">
+        <seg>ZDETONUJ UJARZMIONYCH PRZECIWNIKÓW</seg>
       </tuv>
     </tu>
     <tu>
@@ -2946,6 +2962,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod Program: Download Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172124Z" creationid="Syn Spawacza" creationdate="20200530T172124Z">
+        <seg>Program poda: Pobieranie zakończone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod Program: Downloading...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172116Z" creationid="Syn Spawacza" creationdate="20200530T172116Z">
+        <seg>Program poda: Pobieranie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod Programs</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143438Z" creationid="Syn Spawacza" creationdate="20200530T143438Z">
@@ -3062,6 +3094,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135555Z" creationid="Syn Spawacza" creationdate="20200530T135555Z">
         <seg>Prawy Shift</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>RDY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172220Z" creationid="Syn Spawacza" creationdate="20200530T172220Z">
+        <seg>GTÓW</seg>
       </tuv>
     </tu>
     <tu>
@@ -3390,6 +3430,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142128Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
         <seg>UMIEJĘTNOŚCI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SKL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172252Z" creationid="Syn Spawacza" creationdate="20200530T172252Z">
+        <seg>UMTN</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,6 +3972,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>System Corrupted</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172058Z" creationid="Syn Spawacza" creationdate="20200530T172058Z">
+        <seg>System uszkodzony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>System Menu</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134813Z" creationid="Syn Spawacza" creationdate="20200530T134813Z">
@@ -4140,6 +4196,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171941Z" creationid="Syn Spawacza" creationdate="20200530T171941Z">
         <seg>Czas do autodestrukcji Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time Until Missile Impact:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172151Z" creationid="Syn Spawacza" creationdate="20200530T172151Z">
+        <seg>Czas od uderzenia rakiety:</seg>
       </tuv>
     </tu>
     <tu>
