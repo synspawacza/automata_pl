@@ -144,6 +144,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B it is!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180847Z" creationid="Syn Spawacza" creationdate="20200530T180847Z">
+        <seg>Zatem niech zostanie 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B to Operator 6O.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174048Z" creationid="Syn Spawacza" creationdate="20200530T174048Z">
@@ -888,6 +896,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All right, then.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180826Z" creationid="Syn Spawacza" creationdate="20200530T180826Z">
+        <seg>Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All right.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175350Z" creationid="Syn Spawacza" creationdate="20200530T175350Z">
@@ -1292,6 +1308,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150442Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
         <seg>Złamany klucz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But now it's just crawling with machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181000Z" creationid="Syn Spawacza" creationdate="20200530T181000Z">
+        <seg>Ale teraz roi się tu tylko od maszyn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2414,6 +2438,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180548Z" creationid="Syn Spawacza" creationdate="20200530T180548Z">
         <seg>Zazwyczaj nie mam partnera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I guess humans used to use it as a weapons factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180942Z" creationid="Syn Spawacza" creationdate="20200530T180942Z">
+        <seg>Kiedyś ludzie mieli to bodajże fabrykę broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4852,6 +4884,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181134Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
+        <seg>Wróg najwyraźniej wykorzystał to miejsce do zwiększenia produkcji maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The following actions are not mapped to a button.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160955Z" creationid="Syn Spawacza" creationdate="20200530T160955Z">
@@ -4984,6 +5024,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131323Z" creationid="Syn Spawacza" creationdate="20200530T131323Z">
         <seg>Ustawnie może zostać zmienione tylko w menu tytułowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This place sure is big.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180912Z" creationid="Syn Spawacza" creationdate="20200530T180912Z">
+        <seg>Spore miejsce.</seg>
       </tuv>
     </tu>
     <tu>
