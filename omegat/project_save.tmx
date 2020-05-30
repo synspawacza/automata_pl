@@ -6,10 +6,90 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>Activating Environmental Sensors</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123947Z" creationid="Syn Spawacza" creationdate="20200530T123947Z">
+        <seg>Aktywowanie czujników środowiskowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activating FCS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123933Z" creationid="Syn Spawacza" creationdate="20200530T123933Z">
+        <seg>Aktywowanie systemu FCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activating IFF</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123929Z" creationid="Syn Spawacza" creationdate="20200530T123929Z">
+        <seg>Aktywowanie systemu IFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activating Inertia Control System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123943Z" creationid="Syn Spawacza" creationdate="20200530T123943Z">
+        <seg>Aktywowanie inercyjnego systemu kontroli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Systems Green</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123958Z" creationid="Syn Spawacza" creationdate="20200530T123958Z">
+        <seg>Wszystkie systemy w normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authentication Code: YoRHa Number 9 Type-S</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
+        <seg>Kod uwierzytelniania: YoRHa Numer 9 Typ S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BOOTING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123517Z" creationid="Syn Spawacza" creationdate="20200530T123517Z">
         <seg>START SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Black Box Internal Pressure: Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123926Z" creationid="Syn Spawacza" creationdate="20200530T123926Z">
+        <seg>Ciśnienie wewnętrzne czarnej skrzynki: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Black Box Temperature: Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123907Z" creationid="Syn Spawacza" creationdate="20200530T123907Z">
+        <seg>Temperatura czarnej skrzynki: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHECKING SYSTEM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124053Z" creationid="Syn Spawacza" creationdate="20200530T124053Z">
+        <seg>SPRAWDZANIE SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combat Preparations Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124004Z" creationid="Syn Spawacza" creationdate="20200530T124004Z">
+        <seg>Zakończono przygotowania do walki</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,6 +102,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equipment Authentication: Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123951Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
+        <seg>Uwierzytelnianie wyposażenia: Gotowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipment Status: Green</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123955Z" creationid="Syn Spawacza" creationdate="20200530T123955Z">
+        <seg>Stan wyposażenia: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING SYSTEM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124124Z" creationid="Syn Spawacza" creationdate="20200530T124124Z">
+        <seg>HAKOWANIE SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initializing Pod Connection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123937Z" creationid="Syn Spawacza" creationdate="20200530T123937Z">
+        <seg>Inicjalizacja połączania z podem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initializing Tactics Log</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123849Z" creationid="Syn Spawacza" creationdate="20200530T123849Z">
+        <seg>Inicjalizacja rejestratora taktycznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOADING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123439Z" creationid="Syn Spawacza" creationdate="20200530T123439Z">
@@ -30,10 +150,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Launching DBU Setup</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123939Z" creationid="Syn Spawacza" creationdate="20200530T123939Z">
+        <seg>Uruchamianie DBU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading Geographic Data</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123856Z" creationid="Syn Spawacza" creationdate="20200530T123856Z">
+        <seg>Ładowanie danych geograficznych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remaining MP: 100%</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123903Z" creationid="Syn Spawacza" creationdate="20200530T123903Z">
+        <seg>Pozostało MP: 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SAVING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124029Z" creationid="Syn Spawacza" creationdate="20200530T124029Z">
+        <seg>ZAPISYWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vitals: Green</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123859Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
+        <seg>Parametry życiowe: W normie</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
