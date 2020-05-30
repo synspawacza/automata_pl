@@ -1216,6 +1216,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dented Plate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164149Z" creationid="Syn Spawacza" creationdate="20200530T164149Z">
+        <seg>Wgnieciona płytka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the Goliath-class unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
@@ -2036,6 +2044,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142111Z" creationid="Syn Spawacza" creationdate="20200530T142111Z">
         <seg>MAPA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Oil</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164416Z" creationid="Syn Spawacza" creationdate="20200530T164416Z">
+        <seg>Smar</seg>
       </tuv>
     </tu>
     <tu>
@@ -3608,6 +3624,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161137Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, za wyjątkiem ustawień języka i obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Titanium Alloy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164036Z" creationid="Syn Spawacza" creationdate="20200530T164036Z">
+        <seg>Stop tytanu</seg>
       </tuv>
     </tu>
     <tu>
