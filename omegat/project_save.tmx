@@ -2474,6 +2474,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is that our target?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174412Z" creationid="Syn Spawacza" creationdate="20200530T174412Z">
+        <seg>Czy to nasz cel?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is this a curse?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173630Z" creationid="Syn Spawacza" creationdate="20200530T173630Z">
@@ -3106,6 +3114,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Negative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174546Z" creationid="Syn Spawacza" creationdate="20200530T174542Z">
+        <seg>Odmowa..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Network</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144431Z" creationid="Syn Spawacza" creationdate="20200530T144431Z">
@@ -3486,6 +3502,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141232Z" creationid="Syn Spawacza" creationdate="20200530T141232Z">
         <seg>Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Dispatch it as swiftly as possible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174710Z" creationid="Syn Spawacza" creationdate="20200530T174710Z">
+        <seg>Propozycja: Zlikwidować jak najszybciej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4616,6 +4640,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163636Z" creationid="Syn Spawacza" creationdate="20200530T163636Z">
         <seg>Ten czip może być użyty tylko na poziomie Trudny i niższych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This enemy is unrelated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174559Z" creationid="Syn Spawacza" creationdate="20200530T174559Z">
+        <seg>Wróg niepowiązany.</seg>
       </tuv>
     </tu>
     <tu>
