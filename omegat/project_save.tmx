@@ -3388,8 +3388,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Install plug-in chips to enhance functionality.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143526Z" creationid="Syn Spawacza" creationdate="20200530T143526Z">
-        <seg>Zainstaluj czipy rozszerzeń by polepszyć funkcjonalność.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210139Z" creationid="Syn Spawacza" creationdate="20200530T143526Z">
+        <seg>Zainstaluj czipy rozszerzeń, by polepszyć funkcjonalność.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5540,8 +5540,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Saving is disabled because the debug menu was used.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142703Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
-        <seg>Zapis jest niedostępny ponieważ użyto menu debowego.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210115Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
+        <seg>Zapis jest niedostępny, ponieważ użyto menu debugowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5700,16 +5700,16 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Select a save slot to begin a new game.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141650Z" creationid="Syn Spawacza" creationdate="20200530T141650Z">
-        <seg>Wybierz slot zapisu by zacząć nową grę.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210055Z" creationid="Syn Spawacza" creationdate="20200530T141650Z">
+        <seg>Wybierz slot zapisu, by zacząć nową grę.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select a save slot to save your progress to.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141637Z" creationid="Syn Spawacza" creationdate="20200530T141637Z">
-        <seg>Wybierz slot na którym zapisać postęp gry.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210037Z" creationid="Syn Spawacza" creationdate="20200530T141637Z">
+        <seg>Wybierz slot, na którym zapisać postęp gry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5772,8 +5772,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Select transport destination.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145313Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
-        <seg>Wybierz miejsce do którego przetransportować.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210147Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
+        <seg>Wybierz miejsce, do którego przetransportować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6874,8 +6874,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Unavailable due to signal interference.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145544Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
-        <seg>Niedostępne - interferencja sygnału.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210322Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
+        <seg>Niedostępne — interferencja sygnału.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7194,8 +7194,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>View quests that cannot be completed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143420Z" creationid="Syn Spawacza" creationdate="20200530T143420Z">
-        <seg>Zobacz zadania których nie da się ukończyć.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210123Z" creationid="Syn Spawacza" creationdate="20200530T143420Z">
+        <seg>Zobacz zadania, których nie da się ukończyć.</seg>
       </tuv>
     </tu>
     <tu>
