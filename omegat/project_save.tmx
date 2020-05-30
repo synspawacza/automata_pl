@@ -1864,6 +1864,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading map...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161401Z" creationid="Syn Spawacza" creationdate="20200530T161401Z">
+        <seg>Ładowanie mapy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading system data...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161411Z" creationid="Syn Spawacza" creationdate="20200530T161411Z">
+        <seg>Ładowanie danych systemowych...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lock-on</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134526Z" creationid="Syn Spawacza" creationdate="20200530T134526Z">
@@ -2320,6 +2336,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please assign duplicates to separate buttons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161351Z" creationid="Syn Spawacza" creationdate="20200530T161351Z">
+        <seg>Przypisz zduplikowane ustawienia do osobnych przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please reconnect it to resume play.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161528Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
+        <seg>Podłącz kontroler by wrócić do gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plug-in Chips</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143433Z" creationid="Syn Spawacza" creationdate="20200530T143433Z">
@@ -2736,6 +2768,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saving system data...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161419Z" creationid="Syn Spawacza" creationdate="20200530T161419Z">
+        <seg>Zapisywanie danych systemowych...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Saving...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142641Z" creationid="Syn Spawacza" creationdate="20200530T142641Z">
@@ -3068,6 +3108,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130625Z" creationid="Syn Spawacza" creationdate="20200530T130625Z">
         <seg>Rozpocznij grę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start with the name "&lt;NAME&gt;"?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161626Z" creationid="Syn Spawacza" creationdate="20200530T161626Z">
+        <seg>Rozpocząć używając imienia „&lt;NAME&gt;”?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3412,6 +3460,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134928Z" creationid="Syn Spawacza" creationdate="20200530T134928Z">
         <seg>Typ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to detect DUALSHOCK®4 wireless controller.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161444Z" creationid="Syn Spawacza" creationdate="20200530T161444Z">
+        <seg>Nie wykryto kontrolera bezprzewodowego DUALSHOCK®4.</seg>
       </tuv>
     </tu>
     <tu>
