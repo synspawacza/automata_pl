@@ -824,6 +824,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184515Z" creationid="Syn Spawacza" creationdate="20200530T184515Z">
+        <seg>Potwierdzenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aggressive</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141409Z" creationid="Syn Spawacza" creationdate="20200530T141409Z">
@@ -1256,6 +1264,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Balance controls overridden.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184639Z" creationid="Syn Spawacza" creationdate="20200530T184639Z">
+        <seg>Kontrola równowagi nadpisana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Balanced</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141341Z" creationid="Syn Spawacza" creationdate="20200530T141341Z">
@@ -1284,6 +1300,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130754Z" creationid="Syn Spawacza" creationdate="20200530T130754Z">
         <seg>Rozpocznij rozgrywkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Behavior table adjusted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184600Z" creationid="Syn Spawacza" creationdate="20200530T184600Z">
+        <seg>Dostosowano tablicę zachowań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,8 +1786,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Control...of upper arm...seized from enemy unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184432Z" creationid="Syn Spawacza" creationdate="20200530T184407Z">
-        <seg>Kontrola...nad ramieniem...przejęta od wroga.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184544Z" creationid="Syn Spawacza" creationdate="20200530T184407Z">
+        <seg>Kontrola...nad ramieniem...przejęta od przeciwnika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2146,6 +2170,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemy unit subjugation complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184707Z" creationid="Syn Spawacza" creationdate="20200530T184707Z">
+        <seg>Ujarzmienie wroga zakończone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131044Z" creationid="Syn Spawacza" creationdate="20200530T131044Z">
@@ -2390,6 +2422,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155859Z" creationid="Syn Spawacza" creationdate="20200530T155859Z">
         <seg>Likwidacja Goliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Got it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184458Z" creationid="Syn Spawacza" creationdate="20200530T184458Z">
+        <seg>Mam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2814,6 +2854,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162204Z" creationid="Syn Spawacza" creationdate="20200530T162204Z">
         <seg>Zinfiltruj opuszczoną fabrykę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Infiltrating enemy sub-unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184539Z" creationid="Syn Spawacza" creationdate="20200530T184539Z">
+        <seg>Infiltrowanie podsystemu przeciwnika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3382,6 +3430,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165847Z" creationid="Syn Spawacza" creationdate="20200530T165847Z">
         <seg>Uzyskano informacje na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marking weak point...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184450Z" creationid="Syn Spawacza" creationdate="20200530T184450Z">
+        <seg>Oznaczam słaby punkt....</seg>
       </tuv>
     </tu>
     <tu>
