@@ -408,6 +408,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
+        <seg>Wszystkie przedmioty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Quests</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142831Z" creationid="Syn Spawacza" creationdate="20200530T142831Z">
@@ -748,6 +756,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142039Z" creationid="Syn Spawacza" creationdate="20200530T142039Z">
         <seg>Anuluj i powróć do gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caught Fish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150950Z" creationid="Syn Spawacza" creationdate="20200530T150950Z">
+        <seg>Złapane ryby</seg>
       </tuv>
     </tu>
     <tu>
@@ -1200,6 +1216,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enhancement Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150929Z" creationid="Syn Spawacza" creationdate="20200530T150929Z">
+        <seg>Przedmioty wzmacniające</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter a name to be used for online functions.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131000Z" creationid="Syn Spawacza" creationdate="20200530T131000Z">
@@ -1584,6 +1608,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Key Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150944Z" creationid="Syn Spawacza" creationdate="20200530T150944Z">
+        <seg>Przedmioty kluczowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Keyboard layout</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131414Z" creationid="Syn Spawacza" creationdate="20200530T131414Z">
@@ -1804,6 +1836,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142628Z" creationid="Syn Spawacza" creationdate="20200530T142628Z">
         <seg>Tryb mapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Materials</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150939Z" creationid="Syn Spawacza" creationdate="20200530T150939Z">
+        <seg>Materiały</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,6 +2456,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Restorative Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150920Z" creationid="Syn Spawacza" creationdate="20200530T150920Z">
+        <seg>Przedmioty leczące</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Restore Defaults</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132132Z" creationid="Syn Spawacza" creationdate="20200530T132132Z">
@@ -2904,6 +2952,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150936Z" creationid="Syn Spawacza" creationdate="20200530T150936Z">
+        <seg>Przedmioty wsparcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch Weapons</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134750Z" creationid="Syn Spawacza" creationdate="20200530T134750Z">
@@ -3324,6 +3380,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143345Z" creationid="Syn Spawacza" creationdate="20200530T143345Z">
         <seg>Zobacz wszystkie zaakceptowane zadania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View all items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151005Z" creationid="Syn Spawacza" creationdate="20200530T151005Z">
+        <seg>Zobacz wszystkie wszystkie przedmioty.</seg>
       </tuv>
     </tu>
     <tu>
