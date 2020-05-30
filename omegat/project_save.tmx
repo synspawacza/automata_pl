@@ -1194,8 +1194,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Better make sure he's actually dead next time.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174950Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
-        <seg>Następnym razem upewnij się że naprawdę nie żyje.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175032Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
+        <seg>Następnym razem niech się pani upewni że naprawdę nie żyje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1636,6 +1636,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150506Z" creationid="Syn Spawacza" creationdate="20200530T150506Z">
         <seg>Ruda miedzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy that.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175131Z" creationid="Syn Spawacza" creationdate="20200530T175131Z">
+        <seg>Zrozumiano.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2338,6 +2346,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm here to provide support.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175123Z" creationid="Syn Spawacza" creationdate="20200530T175123Z">
+        <seg>Jestem tu by zapewnić wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IFF: FRIENDLY</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172413Z" creationid="Syn Spawacza" creationdate="20200530T172413Z">
@@ -2518,6 +2534,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134519Z" creationid="Syn Spawacza" creationdate="20200530T134519Z">
         <seg>Skok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just another defensive system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175150Z" creationid="Syn Spawacza" creationdate="20200530T175150Z">
+        <seg>To tylko kolejny system obronny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3058,6 +3082,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My name's 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175102Z" creationid="Syn Spawacza" creationdate="20200530T175102Z">
+        <seg>Nazywam się 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>N/A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170911Z" creationid="Syn Spawacza" creationdate="20200530T170911Z">
@@ -3210,6 +3242,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175137Z" creationid="Syn Spawacza" creationdate="20200530T175137Z">
+        <seg>Nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>None</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134505Z" creationid="Syn Spawacza" creationdate="20200530T134505Z">
@@ -3270,6 +3310,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141956Z" creationid="Syn Spawacza" creationdate="20200530T141956Z">
         <seg>Zmów modlitwę nad ciałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175154Z" creationid="Syn Spawacza" creationdate="20200530T175154Z">
+        <seg>Aha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4396,6 +4444,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Soooo, was that big ol' buzzsaw the Goliath you came here to take out?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175233Z" creationid="Syn Spawacza" creationdate="20200530T175233Z">
+        <seg>Ta wielka piła to Goliat którym mieliśmy się zająć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -4582,8 +4638,8 @@ twoim poległym ciałem.</seg>
       <tuv lang="en-US">
         <seg>That was dangerous, ma'am.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175016Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
-        <seg>To było niebezpieczne</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175035Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
+        <seg>To było niebezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5528,6 +5584,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, uh...I guess we have to find the target then, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175316Z" creationid="Syn Spawacza" creationdate="20200530T175316Z">
+        <seg>Dobra, uhm... W takim razie musimy znaleźć nasz cel, hm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wheel Click</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135438Z" creationid="Syn Spawacza" creationdate="20200530T135413Z">
@@ -5700,6 +5764,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170412Z" creationid="Syn Spawacza" creationdate="20200530T170412Z">
         <seg>Zdobyto broń:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're 2B, right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175054Z" creationid="Syn Spawacza" creationdate="20200530T175054Z">
+        <seg>Pani to 2B, prawda?</seg>
       </tuv>
     </tu>
     <tu>
