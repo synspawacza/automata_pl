@@ -1136,6 +1136,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Create save data?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164920Z" creationid="Syn Spawacza" creationdate="20200530T164920Z">
+        <seg>Utworzyć dane zapisu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crystal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150540Z" creationid="Syn Spawacza" creationdate="20200530T150540Z">
@@ -1964,6 +1972,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142618Z" creationid="Syn Spawacza" creationdate="20200530T142618Z">
         <seg>Ładowanie gry, zapis gry i zmiana ustawień systemu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load this save file?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164930Z" creationid="Syn Spawacza" creationdate="20200530T164930Z">
+        <seg>Wczytać dane zapisu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3012,6 +3028,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161043Z" creationid="Syn Spawacza" creationdate="20200530T161043Z">
         <seg>Zapisać zmiany i kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save to this slot?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164939Z" creationid="Syn Spawacza" creationdate="20200530T164939Z">
+        <seg>Zapisać w tym slocie?</seg>
       </tuv>
     </tu>
     <tu>
