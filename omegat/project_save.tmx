@@ -1144,6 +1144,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you serious?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204503Z" creationid="Syn Spawacza" creationdate="20200530T204503Z">
+        <seg>Mówisz poważnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you sure?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161146Z" creationid="Syn Spawacza" creationdate="20200530T161146Z">
@@ -2394,6 +2402,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, how was that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204435Z" creationid="Syn Spawacza" creationdate="20200530T204435Z">
+        <seg>Eee, i jak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
@@ -2838,6 +2854,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131855Z" creationid="Syn Spawacza" creationdate="20200530T131855Z">
         <seg>Prędkość obrotu w poziomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How about this?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204340Z" creationid="Syn Spawacza" creationdate="20200530T204340Z">
+        <seg>Co powiesz na to?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5746,10 +5770,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She might get angry at me.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204425Z" creationid="Syn Spawacza" creationdate="20200530T204405Z">
+        <seg>Może być na mnie zła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcuts</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134817Z" creationid="Syn Spawacza" creationdate="20200530T134817Z">
         <seg>Skróty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Should I tap her here, though?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204357Z" creationid="Syn Spawacza" creationdate="20200530T204357Z">
+        <seg>Tylko czy powinienem ją tam dotykać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7320,6 +7360,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, if you say so.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204317Z" creationid="Syn Spawacza" creationdate="20200530T204317Z">
+        <seg>Skoro tak mówisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, uh...I guess we have to find the target then, huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175316Z" creationid="Syn Spawacza" creationdate="20200530T175316Z">
@@ -7532,6 +7580,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145502Z" creationid="Syn Spawacza" creationdate="20200530T145502Z">
         <seg>Nie można podróżować poza teren misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You didn't feel anything just now?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204540Z" creationid="Syn Spawacza" creationdate="20200530T204540Z">
+        <seg>Nie mów że niczego nie czułaś.</seg>
       </tuv>
     </tu>
     <tu>
