@@ -88,10 +88,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_CAMERA_2&gt;: Move camera</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171052Z" creationid="Syn Spawacza" creationdate="20200530T171052Z">
+        <seg>&lt;KC_CAMERA_2&gt;: Ruch kamery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_LOCKON_2&gt; has now changed from "lock-on" to "toggle auto-control."</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163317Z" creationid="Syn Spawacza" creationdate="20200530T163317Z">
         <seg>&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_MOVE_2&gt;: Move</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171040Z" creationid="Syn Spawacza" creationdate="20200530T171040Z">
+        <seg>&lt;KC_MOVE_2&gt;: Ruch</seg>
       </tuv>
     </tu>
     <tu>
@@ -2410,6 +2426,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>N/A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170911Z" creationid="Syn Spawacza" creationdate="20200530T170911Z">
+        <seg>D/D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NAME ENTRY</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131014Z" creationid="Syn Spawacza" creationdate="20200530T131014Z">
@@ -3398,6 +3422,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145423Z" creationid="Syn Spawacza" creationdate="20200530T145423Z">
         <seg>Wybierz rozdział i rozpocznij grę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select item.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170850Z" creationid="Syn Spawacza" creationdate="20200530T170850Z">
+        <seg>Wybierz przedmiot.</seg>
       </tuv>
     </tu>
     <tu>
