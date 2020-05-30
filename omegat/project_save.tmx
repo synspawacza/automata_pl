@@ -1264,6 +1264,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Balance control overridden.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184750Z" creationid="Syn Spawacza" creationdate="20200530T184750Z">
+        <seg>Kontrola równowagi nadpisana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Balance controls overridden.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184639Z" creationid="Syn Spawacza" creationdate="20200530T184639Z">
@@ -4818,6 +4826,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seizing the control system!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184757Z" creationid="Syn Spawacza" creationdate="20200530T184757Z">
+        <seg>Przejmuję jego system kontroli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140452Z" creationid="Syn Spawacza" creationdate="20200530T140452Z">
@@ -6508,6 +6524,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134335Z" creationid="Syn Spawacza" creationdate="20200530T134335Z">
         <seg>W oknie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Would you just...die already!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184842Z" creationid="Syn Spawacza" creationdate="20200530T184842Z">
+        <seg>Giń no w końcu!</seg>
       </tuv>
     </tu>
     <tu>
