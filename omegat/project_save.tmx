@@ -2730,6 +2730,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey, come on now!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203459Z" creationid="Syn Spawacza" creationdate="20200530T203459Z">
+        <seg>Hej, no dalej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Text</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140800Z" creationid="Syn Spawacza" creationdate="20200530T140800Z">
@@ -3050,6 +3058,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm just trying to follow regulations here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203550Z" creationid="Syn Spawacza" creationdate="20200530T203550Z">
+        <seg>Ja chcę tylko przestrzegać przepisów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm starting your boot sequence.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195609Z" creationid="Syn Spawacza" creationdate="20200530T195609Z">
@@ -3110,6 +3126,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170604Z" creationid="Syn Spawacza" creationdate="20200530T170604Z">
         <seg>Sygnał identyfikujący nie działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If things go wrong during an op, you may have to sacrifice yourself in order to finish it, sooo...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203719Z" creationid="Syn Spawacza" creationdate="20200530T203719Z">
+        <seg>Jak coś pójdzie nie tak w czasie operacji, może być konieczność poświęcenia się by ją zakończyć, więc...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4366,6 +4390,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200349Z" creationid="Syn Spawacza" creationdate="20200530T200349Z">
         <seg>Okej, znalazłem poradnik!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, good.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203600Z" creationid="Syn Spawacza" creationdate="20200530T203600Z">
+        <seg>Okej, dobra.</seg>
       </tuv>
     </tu>
     <tu>
