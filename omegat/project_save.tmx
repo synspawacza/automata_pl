@@ -278,6 +278,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Distance (Combat)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131906Z" creationid="Syn Spawacza" creationdate="20200530T131906Z">
+        <seg>Odległość (w walce)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distance (Standard)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131903Z" creationid="Syn Spawacza" creationdate="20200530T131903Z">
+        <seg>Odległość (standardowa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>English</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131044Z" creationid="Syn Spawacza" creationdate="20200530T131044Z">
@@ -318,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Free Enemy Tracking</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132057Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
+        <seg>Prędkość śledzenia przeciwników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
@@ -342,10 +366,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Horizontal Auto Adjust</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132044Z" creationid="Syn Spawacza" creationdate="20200530T132044Z">
+        <seg>Auto-dostosowanie w poziomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Horizontal Orientation</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131845Z" creationid="Syn Spawacza" creationdate="20200530T131845Z">
-        <seg>Odwrócenie osi poziomej</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131955Z" creationid="Syn Spawacza" creationdate="20200530T131845Z">
+        <seg>Orientacja osi poziomej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Horizontal Rotation Speed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131855Z" creationid="Syn Spawacza" creationdate="20200530T131855Z">
+        <seg>Prędkość obrotu w poziomie</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +418,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123849Z" creationid="Syn Spawacza" creationdate="20200530T123849Z">
         <seg>Inicjalizacja rejestratora taktycznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inverted</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131945Z" creationid="Syn Spawacza" creationdate="20200530T131945Z">
+        <seg>Odwrócona</seg>
       </tuv>
     </tu>
     <tu>
@@ -438,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Locked Enemy Tracking</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132118Z" creationid="Syn Spawacza" creationdate="20200530T132118Z">
+        <seg>Prędkość śledzenia p. namierzonych </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
@@ -466,6 +522,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
         <seg>Nowa gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131938Z" creationid="Syn Spawacza" creationdate="20200530T131938Z">
+        <seg>Normalna</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,6 +798,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vertical Auto Adjust</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132040Z" creationid="Syn Spawacza" creationdate="20200530T132040Z">
+        <seg>Auto-dostosowanie w pionie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vertical Orientation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132003Z" creationid="Syn Spawacza" creationdate="20200530T131850Z">
+        <seg>Orientacja osi pionowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vertical Rotation Speed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131858Z" creationid="Syn Spawacza" creationdate="20200530T131858Z">
+        <seg>Prędkość obrotu w pionie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vibration</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131516Z" creationid="Syn Spawacza" creationdate="20200530T131516Z">
@@ -754,6 +842,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131405Z" creationid="Syn Spawacza" creationdate="20200530T131405Z">
         <seg>Głos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zoom Speed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131911Z" creationid="Syn Spawacza" creationdate="20200530T131911Z">
+        <seg>Prędkość zbliżenia</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
