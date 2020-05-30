@@ -3050,6 +3050,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm gonna tap you on the shoulders, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203943Z" creationid="Syn Spawacza" creationdate="20200530T203943Z">
+        <seg>Dotknę cię w ramię, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm here to provide support.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175123Z" creationid="Syn Spawacza" creationdate="20200530T175123Z">
@@ -3566,6 +3574,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182126Z" creationid="Syn Spawacza" creationdate="20200530T182126Z">
         <seg>Chodźmy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's run a check to make sure it's working.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203852Z" creationid="Syn Spawacza" creationdate="20200530T203852Z">
+        <seg>Upewnijmy się czy działa jak należy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4354,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, I see you've turned vibration detection on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203822Z" creationid="Syn Spawacza" creationdate="20200530T203822Z">
+        <seg>Aha, widzę że włączyłaś detekcję wibracji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, and I should probably let you know that this entire process is being recorded for posterity.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200807Z" creationid="Syn Spawacza" creationdate="20200530T200807Z">
@@ -4422,6 +4446,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173839Z" creationid="Syn Spawacza" creationdate="20200530T173753Z">
         <seg>Gdy dotrzecie do obrony przeciwpowietrznej przejdźcie do formacji ofensywnej...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you're finished making adjustments, you can go ahead and close this out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203755Z" creationid="Syn Spawacza" creationdate="20200530T203755Z">
+        <seg>Jak skończysz to po prostu zamknij ekran ustawień.</seg>
       </tuv>
     </tu>
     <tu>
