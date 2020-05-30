@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Tutorial messages like this one can be accessed at any time from the Intel tab.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162044Z" creationid="Syn Spawacza" creationdate="20200530T162044Z">
+        <seg>* Samouczki takie jak ten mogą być obejrzane w dowolnym momencie w zakładce Dane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>***ALERT*** This game only
 supports "QWERTY" keyboards.</seg>
       </tuv>
@@ -1632,6 +1640,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Infiltrate the abandoned factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162204Z" creationid="Syn Spawacza" creationdate="20200530T162204Z">
+        <seg>Zinfiltruj opuszczoną fabrykę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Infiltration Route Lookup Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130020Z" creationid="Syn Spawacza" creationdate="20200530T130020Z">
@@ -1676,6 +1692,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150510Z" creationid="Syn Spawacza" creationdate="20200530T150510Z">
         <seg>Ruda żelaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is that okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162122Z" creationid="Syn Spawacza" creationdate="20200530T162122Z">
+        <seg>Kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2560,6 +2584,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove the enemy's defense equipment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162228Z" creationid="Syn Spawacza" creationdate="20200530T162228Z">
+        <seg>Usuń wyposażenie obronne przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repair</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141925Z" creationid="Syn Spawacza" creationdate="20200530T141925Z">
@@ -3340,6 +3372,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131342Z" creationid="Syn Spawacza" creationdate="20200530T131342Z">
         <seg>Ustawnie może zostać zmienione tylko w trakcie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will close the game and apply the settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162115Z" creationid="Syn Spawacza" creationdate="20200530T162115Z">
+        <seg>Gra zostanie zamknięta, a ustawienia zapisane.</seg>
       </tuv>
     </tu>
     <tu>
