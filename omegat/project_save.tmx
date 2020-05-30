@@ -88,6 +88,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_CAMERA_2&gt;: Aim</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171438Z" creationid="Syn Spawacza" creationdate="20200530T171438Z">
+        <seg>&lt;KC_CAMERA_2&gt;: Celowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_CAMERA_2&gt;: Move camera</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171052Z" creationid="Syn Spawacza" creationdate="20200530T171052Z">
@@ -168,6 +176,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt;: Switch target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171446Z" creationid="Syn Spawacza" creationdate="20200530T171446Z">
+        <seg>&lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt;: Zmiana celu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_MENU_2&gt;: System Menu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171452Z" creationid="Syn Spawacza" creationdate="20200530T171452Z">
+        <seg>&lt;KC_MENU_2&gt;: Menu systemowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_MOVE_2&gt;: Move</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171040Z" creationid="Syn Spawacza" creationdate="20200530T171040Z">
@@ -212,6 +236,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171241Z" creationid="Syn Spawacza" creationdate="20200530T171241Z">
         <seg>&lt;KC_SPEED_ATK_2&gt;: Atak lekki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_SPEED_ATK_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_HEAVY_ATK_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_SHOT_2&gt;: Counter (with Perfect Evade)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171431Z" creationid="Syn Spawacza" creationdate="20200530T171431Z">
+        <seg>&lt;KC_SPEED_ATK_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_HEAVY_ATK_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_SHOT_2&gt;: Kontra (z perfekcyjnym unikiem)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1518,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165950Z" creationid="Syn Spawacza" creationdate="20200530T165950Z">
         <seg>Zniszcz systemy obronne wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discard your current progress and return to the title screen?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171515Z" creationid="Syn Spawacza" creationdate="20200530T171515Z">
+        <seg>Porzucić postęp i powrócić do ekranu tytułowego?</seg>
       </tuv>
     </tu>
     <tu>
