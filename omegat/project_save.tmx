@@ -48,8 +48,8 @@
       <tuv lang="en-US">
         <seg>(The game will resume from the nearest access point.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165012Z" creationid="Syn Spawacza" creationdate="20200530T165012Z">
-        <seg>(Gra ponownie rozpocznie się od najbliższego punktu dostępu.)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210811Z" creationid="Syn Spawacza" creationdate="20200530T165012Z">
+        <seg>(Gra ponownie rozpocznie się od najbliższego punktu dostępu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2468,8 +2468,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Everything that lives is designed to end.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173619Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
-        <seg>Wszystko co żyje istnieje po to by się skończyć.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211000Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
+        <seg>Wszystko co żyje istnieje po to, by się skończyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3836,8 +3836,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Loading not possible because the required data has not been installed yet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163828Z" creationid="Syn Spawacza" creationdate="20200530T163828Z">
-        <seg>Nie można wczytać ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210800Z" creationid="Syn Spawacza" creationdate="20200530T163828Z">
+        <seg>Nie można wczytać, ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4324,8 +4324,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Negative.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174546Z" creationid="Syn Spawacza" creationdate="20200530T174542Z">
-        <seg>Odmowa..</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210904Z" creationid="Syn Spawacza" creationdate="20200530T174542Z">
+        <seg>Odmowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4820,8 +4820,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Please reconnect it to resume play.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161528Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
-        <seg>Podłącz kontroler by wrócić do gry.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210720Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
+        <seg>Podłącz kontroler, by wrócić do gry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6618,8 +6618,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>This will restore all settings to their default values, except for the language and screen settings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161137Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
-        <seg>Przywróci to ustawienia do wartości domyślnych, za wyjątkiem ustawień języka i obrazu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210638Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
+        <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7698,8 +7698,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>You cannot start this game because the required data has not been installed yet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162600Z" creationid="Syn Spawacza" creationdate="20200530T162600Z">
-        <seg>Nie można zacząć gry ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210733Z" creationid="Syn Spawacza" creationdate="20200530T162600Z">
+        <seg>Nie można zacząć gry, ponieważ wymagane dane nie zostały jeszcze zainstalowane.</seg>
       </tuv>
     </tu>
     <tu>
