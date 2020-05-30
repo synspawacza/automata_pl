@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130613Z" creationid="Syn Spawacza" creationdate="20200530T130613Z">
+        <seg>Wszystkie prawa zastrzeżone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Systems Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123958Z" creationid="Syn Spawacza" creationdate="20200530T123958Z">
@@ -88,8 +96,8 @@
       <tuv lang="en-US">
         <seg>Combat Preparations Complete</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124004Z" creationid="Syn Spawacza" creationdate="20200530T124004Z">
-        <seg>Zakończono przygotowania do walki</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130501Z" creationid="Syn Spawacza" creationdate="20200530T124004Z">
+        <seg>Przygotowania do walki zakończone</seg>
       </tuv>
     </tu>
     <tu>
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124124Z" creationid="Syn Spawacza" creationdate="20200530T124124Z">
         <seg>HAKOWANIE SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacking Device Activation Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130356Z" creationid="Syn Spawacza" creationdate="20200530T130356Z">
+        <seg>Aktywacja hakowania zakończona</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130041Z" creationid="Syn Spawacza" creationdate="20200530T130041Z">
         <seg>Synchronizacja pola widzenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>System Check Complete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130437Z" creationid="Syn Spawacza" creationdate="20200530T130437Z">
+        <seg>Sprawdzanie systemu zakończone</seg>
       </tuv>
     </tu>
     <tu>
