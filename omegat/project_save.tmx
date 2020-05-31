@@ -922,8 +922,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Aggressive</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141409Z" creationid="Syn Spawacza" creationdate="20200530T141409Z">
-        <seg>Agresywna</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110937Z" creationid="Syn Spawacza" creationdate="20200530T141409Z">
+        <seg>Agresywny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1138,8 +1138,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Are these settings okay?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163538Z" creationid="Syn Spawacza" creationdate="20200530T163538Z">
-        <seg>Pozostawić ustawienia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111013Z" creationid="Syn Spawacza" creationdate="20200530T163538Z">
+        <seg>Pozostawić ustawienia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,8 +1394,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Balanced</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141341Z" creationid="Syn Spawacza" creationdate="20200530T141341Z">
-        <seg>Zbalansowana</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110934Z" creationid="Syn Spawacza" creationdate="20200530T141341Z">
+        <seg>Zbalansowany</seg>
       </tuv>
     </tu>
     <tu>
@@ -1658,8 +1658,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Cautious</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141412Z" creationid="Syn Spawacza" creationdate="20200530T141412Z">
-        <seg>Ostrożna</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110940Z" creationid="Syn Spawacza" creationdate="20200530T141412Z">
+        <seg>Ostrożny</seg>
       </tuv>
     </tu>
     <tu>
@@ -4724,8 +4724,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Passive</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141418Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
-        <seg>Pasywna</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
+        <seg>Pasywny</seg>
       </tuv>
     </tu>
     <tu>
@@ -6288,6 +6288,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162532Z" creationid="Syn Spawacza" creationdate="20200530T162532Z">
         <seg>Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Bunker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110830Z" creationid="Syn Spawacza" creationdate="20200531T110830Z">
+        <seg>Bunkier</seg>
       </tuv>
     </tu>
     <tu>
