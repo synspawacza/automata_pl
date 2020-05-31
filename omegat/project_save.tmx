@@ -2634,6 +2634,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>GUN</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111441Z" creationid="Syn Spawacza" creationdate="20200531T111441Z">
+        <seg>STRZ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
@@ -3938,6 +3946,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MSL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111509Z" creationid="Syn Spawacza" creationdate="20200531T111509Z">
+        <seg>RKT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ma'am, you fiddled with so many things, I ended up hitting my max storage limit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211903Z" creationid="Syn Spawacza" creationdate="20200530T205452Z">
@@ -5028,8 +5044,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>RDY</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172220Z" creationid="Syn Spawacza" creationdate="20200530T172220Z">
-        <seg>GTÓW</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111357Z" creationid="Syn Spawacza" creationdate="20200530T172220Z">
+        <seg>GTWY</seg>
       </tuv>
     </tu>
     <tu>
@@ -5460,8 +5476,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>SKL</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172252Z" creationid="Syn Spawacza" creationdate="20200530T172252Z">
-        <seg>UMTN</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111338Z" creationid="Syn Spawacza" creationdate="20200530T172252Z">
+        <seg>FUNC</seg>
       </tuv>
     </tu>
     <tu>
