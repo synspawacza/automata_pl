@@ -3268,8 +3268,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>ITEMS</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142118Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
-        <seg>PRZEDMIOTY</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110714Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
+        <seg>EKWIPUNEK</seg>
       </tuv>
     </tu>
     <tu>
@@ -5452,8 +5452,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>SKILLS</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142128Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
-        <seg>UMIEJĘTNOŚCI</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110703Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
+        <seg>FUNKCJE</seg>
       </tuv>
     </tu>
     <tu>
@@ -6032,6 +6032,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133734Z" creationid="Syn Spawacza" creationdate="20200530T133734Z">
         <seg>Głośność efektów dźwiękowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Space</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110511Z" creationid="Syn Spawacza" creationdate="20200531T110511Z">
+        <seg>Spacja</seg>
       </tuv>
     </tu>
     <tu>
