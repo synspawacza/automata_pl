@@ -2538,6 +2538,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Firing Direction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T121254Z" creationid="Syn Spawacza" creationdate="20200531T121254Z">
+        <seg>Kierunek strzału</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First, you'll want to check your brightness settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195647Z" creationid="Syn Spawacza" creationdate="20200530T195647Z">
@@ -5498,6 +5506,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SYSTEM INFO</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T122132Z" creationid="Syn Spawacza" creationdate="20200531T122132Z">
+        <seg>INFO SYSTEMOWE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SYSTEM MESSAGE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140348Z" creationid="Syn Spawacza" creationdate="20200530T140348Z">
@@ -6972,6 +6988,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134807Z" creationid="Syn Spawacza" creationdate="20200530T134807Z">
         <seg>Użyj przedmiotu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Pod Program</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T121307Z" creationid="Syn Spawacza" creationdate="20200531T121307Z">
+        <seg>Użyj programu poda</seg>
       </tuv>
     </tu>
     <tu>
