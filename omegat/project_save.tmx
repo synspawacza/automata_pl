@@ -936,6 +936,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Parallel World</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214424Z" creationid="Syn Spawacza" creationdate="20200601T214424Z">
+        <seg>Świat równoległy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Villager's Request</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174412Z" creationid="Syn Spawacza" creationdate="20200601T174412Z">
@@ -3872,6 +3880,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Atlantis</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214254Z" creationid="Syn Spawacza" creationdate="20200601T214254Z">
+        <seg>Atlantyda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attachments</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145139Z" creationid="Syn Spawacza" creationdate="20200530T145139Z">
@@ -4300,6 +4316,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173712Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
         <seg>Wszystkie systemy autopilota w normie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avalon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214255Z" creationid="Syn Spawacza" creationdate="20200601T214255Z">
+        <seg>Avalon</seg>
       </tuv>
     </tu>
     <tu>
@@ -8596,6 +8620,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Facade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214214Z" creationid="Syn Spawacza" creationdate="20200601T214214Z">
+        <seg>Facade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Factory PA</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201858Z" creationid="Syn Spawacza" creationdate="20200601T201858Z">
@@ -10102,6 +10134,22 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heaven</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214428Z" creationid="Syn Spawacza" creationdate="20200601T214428Z">
+        <seg>Niebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavenly Plains</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214336Z" creationid="Syn Spawacza" creationdate="20200601T214336Z">
+        <seg>Niebiańskie Równiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heavy Armor A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094642Z" creationid="Syn Spawacza" creationdate="20200601T094642Z">
@@ -10138,6 +10186,22 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185315Z" creationid="Syn Spawacza" creationdate="20200530T185315Z">
         <seg>Hehe...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Helheim</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214310Z" creationid="Syn Spawacza" creationdate="20200601T214310Z">
+        <seg>Helheim</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hell</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214432Z" creationid="Syn Spawacza" creationdate="20200601T214432Z">
+        <seg>Piekło</seg>
       </tuv>
     </tu>
     <tu>
@@ -12590,6 +12654,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mag Mell</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214306Z" creationid="Syn Spawacza" creationdate="20200601T214306Z">
+        <seg>Mag Mell</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Main Monitor</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134243Z" creationid="Syn Spawacza" creationdate="20200530T134243Z">
@@ -13449,6 +13521,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214314Z" creationid="Syn Spawacza" creationdate="20200601T214314Z">
+        <seg>Mu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple surrounding enemy air units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174022Z" creationid="Syn Spawacza" creationdate="20200530T174022Z">
@@ -13663,6 +13743,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134755Z" creationid="Syn Spawacza" creationdate="20200530T134755Z">
         <seg>Następny pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nirai Kanai</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214309Z" creationid="Syn Spawacza" creationdate="20200601T214309Z">
+        <seg>Nirai Kanai</seg>
       </tuv>
     </tu>
     <tu>
@@ -14555,6 +14643,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paradise</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214312Z" creationid="Syn Spawacza" creationdate="20200601T214312Z">
+        <seg>Raj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Parameter for experimental purposes. Changing it may lead to anomalies in your visual data.
  
 YoRHa Technology Division</seg>
@@ -14717,6 +14813,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084905Z" creationid="Syn Spawacza" creationdate="20200601T084905Z">
         <seg>Perła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Penglai</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214304Z" creationid="Syn Spawacza" creationdate="20200601T214304Z">
+        <seg>Penglai</seg>
       </tuv>
     </tu>
     <tu>
@@ -17381,6 +17485,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shinjuku</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214249Z" creationid="Syn Spawacza" creationdate="20200601T214249Z">
+        <seg>Shinjuku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shock Wave</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183713Z" creationid="Syn Spawacza" creationdate="20200601T183713Z">
@@ -18791,10 +18903,26 @@ filtru paliwa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The First Dimension</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214343Z" creationid="Syn Spawacza" creationdate="20200601T214343Z">
+        <seg>Pierwszy wymiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Forest Kingdom</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173459Z" creationid="Syn Spawacza" creationdate="20200601T173459Z">
         <seg>Leśne Królestwo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Fourth Dimension</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214401Z" creationid="Syn Spawacza" creationdate="20200601T214401Z">
+        <seg>Czwarty wymiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -18815,10 +18943,26 @@ filtru paliwa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Second Dimension</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214348Z" creationid="Syn Spawacza" creationdate="20200601T214348Z">
+        <seg>Drugi wymiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The System Menu allows you to check intel, change gear, adjust settings, and more.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161943Z" creationid="Syn Spawacza" creationdate="20200530T161943Z">
         <seg>Menu systemowe pozwala na sprawdzenie informacji, wybór wyposażenia, zmianę ustawień, itd. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Third Dimension</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214353Z" creationid="Syn Spawacza" creationdate="20200601T214353Z">
+        <seg>Trzeci wymiar</seg>
       </tuv>
     </tu>
     <tu>
@@ -20236,6 +20380,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Utopia</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214313Z" creationid="Syn Spawacza" creationdate="20200601T214313Z">
+        <seg>Utopia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>V</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204218Z" creationid="Syn Spawacza" creationdate="20200601T204218Z">
@@ -20248,6 +20400,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204107Z" creationid="Syn Spawacza" creationdate="20200601T204107Z">
         <seg>Synchronizacja pionowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valhalla</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214308Z" creationid="Syn Spawacza" creationdate="20200601T214308Z">
+        <seg>Valhalla</seg>
       </tuv>
     </tu>
     <tu>
