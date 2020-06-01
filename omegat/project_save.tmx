@@ -512,6 +512,15 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black blade used by warriors
+of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160925Z" creationid="Syn Spawacza" creationdate="20200601T160925Z">
+        <seg>Czarne ostrze wojownika z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black oriental sword. Its no-frills
 design gives it an aura of serious weaponry.</seg>
       </tuv>
@@ -712,6 +721,14 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113239Z" creationid="Syn Spawacza" creationdate="20200601T113239Z">
         <seg>Skupisko kryształów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A colossal iron blade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161112Z" creationid="Syn Spawacza" creationdate="20200601T161112Z">
+        <seg>Ogromne żelazne ostrze</seg>
       </tuv>
     </tu>
     <tu>
@@ -1250,6 +1267,14 @@ stworzona z złomu do niszczenia androidów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A standard-issue YoRHa sword.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160946Z" creationid="Syn Spawacza" creationdate="20200601T160946Z">
+        <seg>Standardowy miecz przydziałowy YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A statue in the shape of a young girl.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122711Z" creationid="Syn Spawacza" creationdate="20200601T122711Z">
@@ -1333,6 +1358,15 @@ attendant.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sword wielded by machine
+lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161004Z" creationid="Syn Spawacza" creationdate="20200601T161004Z">
+        <seg>Miecz dzierżony przez mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A sword with a strange
 and uncomfortable aura.</seg>
       </tuv>
@@ -1398,6 +1432,15 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122653Z" creationid="Syn Spawacza" creationdate="20200601T122653Z">
         <seg>Ciężka, kamienna maska. Równie brudna co ciężka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A white blade used by samurai
+of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160915Z" creationid="Syn Spawacza" creationdate="20200601T160915Z">
+        <seg>Białe ostrze samuraja z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2173,6 +2216,14 @@ for Sartre.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114735Z" creationid="Syn Spawacza" creationdate="20200601T114735Z">
         <seg>Stara, zardzewiała skamieniałość maszyny
 przeznaczona dla Sartre'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An outdated YoRHa model.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160837Z" creationid="Syn Spawacza" creationdate="20200601T160837Z">
+        <seg>Przestarzały model YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10001,6 +10052,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190853Z" creationid="Syn Spawacza" creationdate="20200530T190853Z">
         <seg>Wzajemnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The latest YoRHa model.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160826Z" creationid="Syn Spawacza" creationdate="20200601T160826Z">
+        <seg>Ostatni model YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
