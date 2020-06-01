@@ -552,6 +552,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accounting Book</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090037Z" creationid="Syn Spawacza" creationdate="20200601T090037Z">
+        <seg>Budżet domowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Action</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134517Z" creationid="Syn Spawacza" creationdate="20200530T134517Z">
@@ -1112,6 +1120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amusement Park Photo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
+        <seg>Zdjęcie z wesołego miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: This elevator's controls are locked and cannot be used.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
@@ -1560,6 +1576,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bloody Dog Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085601Z" creationid="Syn Spawacza" creationdate="20200601T085601Z">
+        <seg>Zakrwawiony nieśmiertelnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blur</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
@@ -1660,6 +1684,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081951Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
         <seg>Złamany kluczyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Broken Toy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085820Z" creationid="Syn Spawacza" creationdate="20200601T085820Z">
+        <seg>Zepsuta zabawka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2450,6 +2482,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert Photo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085705Z" creationid="Syn Spawacza" creationdate="20200601T085705Z">
+        <seg>Zdjęcie z pustyni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Rose</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082920Z" creationid="Syn Spawacza" creationdate="20200601T082920Z">
@@ -3014,6 +3054,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191107Z" creationid="Syn Spawacza" creationdate="20200530T191107Z">
         <seg>Za wysłanie moich danych do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forest Photo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085711Z" creationid="Syn Spawacza" creationdate="20200601T085711Z">
+        <seg>Zdjęcie z lasu</seg>
       </tuv>
     </tu>
     <tu>
@@ -5490,6 +5538,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Package</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085747Z" creationid="Syn Spawacza" creationdate="20200601T085747Z">
+        <seg>Paczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Partner NPC Combat Style</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131503Z" creationid="Syn Spawacza" creationdate="20200530T131503Z">
@@ -6390,6 +6446,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085533Z" creationid="Syn Spawacza" creationdate="20200601T085533Z">
         <seg>Zardzewiały nieśmiertelnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rusty Music Box</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085656Z" creationid="Syn Spawacza" creationdate="20200601T085656Z">
+        <seg>Zardzewiała pozytywka</seg>
       </tuv>
     </tu>
     <tu>
