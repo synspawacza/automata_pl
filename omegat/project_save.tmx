@@ -4597,6 +4597,70 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damage Absorb +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183924Z" creationid="Syn Spawacza" creationdate="20200601T183924Z">
+        <seg>Pochłanianie obrażeń +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183926Z" creationid="Syn Spawacza" creationdate="20200601T183926Z">
+        <seg>Pochłanianie obrażeń +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183930Z" creationid="Syn Spawacza" creationdate="20200601T183927Z">
+        <seg>Pochłanianie obrażeń +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183931Z" creationid="Syn Spawacza" creationdate="20200601T183931Z">
+        <seg>Pochłanianie obrażeń +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183933Z" creationid="Syn Spawacza" creationdate="20200601T183933Z">
+        <seg>Pochłanianie obrażeń +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183934Z" creationid="Syn Spawacza" creationdate="20200601T183934Z">
+        <seg>Pochłanianie obrażeń +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183936Z" creationid="Syn Spawacza" creationdate="20200601T183936Z">
+        <seg>Pochłanianie obrażeń +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Damage Absorb +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183937Z" creationid="Syn Spawacza" creationdate="20200601T183937Z">
+        <seg>Pochłanianie obrażeń +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damaged Dog Tag</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085552Z" creationid="Syn Spawacza" creationdate="20200601T085552Z">
@@ -9971,6 +10035,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overclock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184224Z" creationid="Syn Spawacza" creationdate="20200601T184224Z">
+        <seg>Przetaktowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overlap</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134703Z" creationid="Syn Spawacza" creationdate="20200530T134703Z">
@@ -14390,6 +14462,78 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095826Z" creationid="Syn Spawacza" creationdate="20200601T095826Z">
         <seg>Zawór: prawe oko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183955Z" creationid="Syn Spawacza" creationdate="20200601T183955Z">
+        <seg>Zemsta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183957Z" creationid="Syn Spawacza" creationdate="20200601T183957Z">
+        <seg>Zemsta +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183958Z" creationid="Syn Spawacza" creationdate="20200601T183958Z">
+        <seg>Zemsta +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184000Z" creationid="Syn Spawacza" creationdate="20200601T184000Z">
+        <seg>Zemsta +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184003Z" creationid="Syn Spawacza" creationdate="20200601T184003Z">
+        <seg>Zemsta +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184004Z" creationid="Syn Spawacza" creationdate="20200601T184004Z">
+        <seg>Zemsta +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184111Z" creationid="Syn Spawacza" creationdate="20200601T184111Z">
+        <seg>Zemsta +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184113Z" creationid="Syn Spawacza" creationdate="20200601T184113Z">
+        <seg>Zemsta +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeance +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184115Z" creationid="Syn Spawacza" creationdate="20200601T184115Z">
+        <seg>Zemsta +8</seg>
       </tuv>
     </tu>
     <tu>
