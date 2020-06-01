@@ -2128,6 +2128,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commandment Slab</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091805Z" creationid="Syn Spawacza" creationdate="20200601T091805Z">
+        <seg>Tablica przykazań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commencing System Check</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123527Z" creationid="Syn Spawacza" creationdate="20200530T123527Z">
