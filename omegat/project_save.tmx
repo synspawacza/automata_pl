@@ -3356,8 +3356,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>ITEMS</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110714Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
-        <seg>EKWIPUNEK</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073716Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
+        <seg>EKWIPUN.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5724,8 +5724,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Saving is disabled because the debug menu was used.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210115Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
-        <seg>Zapis jest niedostępny, ponieważ użyto menu debugowego.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073851Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
+        <seg>Zapis niedostępny — użyto menu debugowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7298,8 +7298,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>View a list of icons used on the map.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142822Z" creationid="Syn Spawacza" creationdate="20200530T142822Z">
-        <seg>Zobacz listę używanych ikon.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073909Z" creationid="Syn Spawacza" creationdate="20200530T142822Z">
+        <seg>Zobacz listę ikon używanych na mapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,8 +7442,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>View quests currently in progress.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143332Z" creationid="Syn Spawacza" creationdate="20200530T143332Z">
-        <seg>Zobacz zadania w toku.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073928Z" creationid="Syn Spawacza" creationdate="20200530T143332Z">
+        <seg>Zobacz aktualnie wykonywane zadania.</seg>
       </tuv>
     </tu>
     <tu>
