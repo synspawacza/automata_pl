@@ -16463,6 +16463,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tower System Service</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202805Z" creationid="Syn Spawacza" creationdate="20200601T202805Z">
+        <seg>Komunikat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toy Material</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092500Z" creationid="Syn Spawacza" creationdate="20200601T092500Z">
