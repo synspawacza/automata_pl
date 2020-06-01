@@ -5092,6 +5092,16 @@ o połowę przez 15 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Melee damage taken is reduced by
+50% for 30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100833Z" creationid="Syn Spawacza" creationdate="20200601T100833Z">
+        <seg>Obrażenia od ataków wręcz zredukowane
+o połowę przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Membership Card</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093020Z" creationid="Syn Spawacza" creationdate="20200601T093020Z">
@@ -6246,6 +6256,26 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141232Z" creationid="Syn Spawacza" creationdate="20200530T141232Z">
         <seg>Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projectile damage taken is reduced by
+50% for 15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100848Z" creationid="Syn Spawacza" creationdate="20200601T100848Z">
+        <seg>Obrażenia od pocisków zredukowane
+o połowę przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Projectile damage taken is reduced by
+50% for 30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100853Z" creationid="Syn Spawacza" creationdate="20200601T100853Z">
+        <seg>Obrażenia od pocisków zredukowane
+o połowę przez 30 sekund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7520,6 +7550,16 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080611Z" creationid="Syn Spawacza" creationdate="20200601T080611Z">
         <seg>Balsam funkcyjny (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill gauge replenishes twice as fast
+for 15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101131Z" creationid="Syn Spawacza" creationdate="20200601T101131Z">
+        <seg>Wskaźnik umiejętności odnawia się
+2 razy szybciej przez 15 sekund.</seg>
       </tuv>
     </tu>
     <tu>
