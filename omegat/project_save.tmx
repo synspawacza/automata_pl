@@ -3237,6 +3237,16 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All auto-control chips have been removed.
+You can now use &lt;KC_LOCKON_2&gt; to lock on, and &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; to switch targets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211012Z" creationid="Syn Spawacza" creationdate="20200601T211012Z">
+        <seg>Wszystkie czipy autosterowania zostały usunięte.
+Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; do zmiany celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All right, then.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180826Z" creationid="Syn Spawacza" creationdate="20200530T180826Z">
@@ -3846,6 +3856,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack Focus</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211122Z" creationid="Syn Spawacza" creationdate="20200601T211122Z">
+        <seg>Nastawiony na atak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacked Believer</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201812Z" creationid="Syn Spawacza" creationdate="20200601T201812Z">
@@ -4306,6 +4324,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155833Z" creationid="Syn Spawacza" creationdate="20200530T155833Z">
         <seg>Kopia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Balance Focus</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211108Z" creationid="Syn Spawacza" creationdate="20200601T211108Z">
+        <seg>Zbalansowany</seg>
       </tuv>
     </tu>
     <tu>
@@ -5269,6 +5295,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145047Z" creationid="Syn Spawacza" creationdate="20200530T141738Z">
         <seg>Zmień wiadomość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change chip arrangement.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211152Z" creationid="Syn Spawacza" creationdate="20200601T211152Z">
+        <seg>Wybierz ułożenie czipów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6811,6 +6845,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defense Focus</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211129Z" creationid="Syn Spawacza" creationdate="20200601T211129Z">
+        <seg>Nastawiony na obronę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204233Z" creationid="Syn Spawacza" creationdate="20200601T204233Z">
@@ -7201,6 +7243,30 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162937Z" creationid="Syn Spawacza" creationdate="20200530T162838Z">
         <seg>Czy chcesz używać czipów autosterowania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
+* Your current chip set type will be changed to "Balance Focus."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211100Z" creationid="Syn Spawacza" creationdate="20200601T211100Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+* Twój zestaw czipó zostanie zmieniony na „Zbalansowany”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
+This will equip Auto-Attack, Auto-Fire,
+Auto-Evade, Auto-Program, and 
+Auto-Weapon Switch.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T210953Z" creationid="Syn Spawacza" creationdate="20200601T210953Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+Włączy to Autoatak, Autostrzał,
+Autounik, Autoprogram i
+Auto zmianę broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7928,6 +7994,16 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163223Z" creationid="Syn Spawacza" creationdate="20200530T163223Z">
         <seg>Używane czipy autosterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped auto-control chips.
+&lt;KC_LOCKON_2&gt; has now changed from "lock-on" to "toggle auto-control."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211005Z" creationid="Syn Spawacza" creationdate="20200601T211005Z">
+        <seg>Używane czipy autosterowania.
+&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
       </tuv>
     </tu>
     <tu>
@@ -17916,6 +17992,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The mini-map shows the geography around your current location at the bottom right of the screen. The &lt;MAP_GOAL&gt; icon shows your objective, so make sure to follow it if you get lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T210933Z" creationid="Syn Spawacza" creationdate="20200601T210933Z">
+        <seg>Minimapa w prawym dolnym rogu pokazuje teren w pobliżu twojej aktualnej pozycji. Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The network function has been turned off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140441Z" creationid="Syn Spawacza" creationdate="20200530T140441Z">
@@ -21197,6 +21281,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204239Z" creationid="Syn Spawacza" creationdate="20200601T204239Z">
         <seg>↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>■</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211012Z" creationid="Syn Spawacza" creationdate="20200601T211012Z">
+        <seg>■</seg>
       </tuv>
     </tu>
     <tu>
