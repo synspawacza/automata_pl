@@ -671,6 +671,17 @@ Niezwykle rzadka.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A letter addressed to Sartre that
+seems to contain a question.
+You shouldn't read it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114447Z" creationid="Syn Spawacza" creationdate="20200601T114447Z">
+        <seg>List z pytaniem adresowany do Sartre'a.
+Nie powinieneś go nie czytać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A liquid used for coloring.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111104Z" creationid="Syn Spawacza" creationdate="20200601T111104Z">
@@ -743,11 +754,23 @@ Niezwykle rzadka.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A part obtained from a special
+machine lifeform. 
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114155Z" creationid="Syn Spawacza" creationdate="20200601T114155Z">
+        <seg>Element pochodząca z
+mechanicznej formy życia.
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A piece of a meteorite that fell to
 the earth.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103222Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
-        <seg>Fragment meteorytu, który spadł
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113930Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
+        <seg>Fragment meteorytu który spadł
 na Ziemię.</seg>
       </tuv>
     </tu>
