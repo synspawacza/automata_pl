@@ -1287,6 +1287,16 @@ Tak krótki i cienki że łatwo go nie zauważyć.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sword passed down and continously improved among 
+the royal family of a land where magic prospers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160338Z" creationid="Syn Spawacza" creationdate="20200601T160338Z">
+        <seg>Miecz ulepszany i przekazywany z pokolenia na pokolenie
+w rodzinie królewskiej, w kraju w którym panuje magia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tech manual written in letters you
 can't understand.</seg>
       </tuv>
@@ -4419,6 +4429,16 @@ Moc kastetów zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144030Z" creationid="Syn Spawacza" creationdate="20200530T144030Z">
         <seg>Encyklopedia wędkarstwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fist weapons made from the heads of machines.
+Though simple, they have notable power due to their mass.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160130Z" creationid="Syn Spawacza" creationdate="20200601T160130Z">
+        <seg>Szpadryny zrobione z głów maszyn. Mimo prostoty,
+dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8663,8 +8683,9 @@ i leczy wszystkie zaburzenia.</seg>
         <seg>Samurai gauntlets worn by a commander infamous
 for cruelty, blackened with the blood of his foes.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T155914Z" creationid="Syn Spawacza" creationdate="20200601T155914Z">
-        <seg>Samurajskie rękawice noszone przez dowódcę osławionegoswoim okrucieństwem, poczernione krwią jego wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T155920Z" creationid="Syn Spawacza" creationdate="20200601T155914Z">
+        <seg>Samurajskie rękawice noszone przez dowódcę osławionego
+swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
       </tuv>
     </tu>
     <tu>
