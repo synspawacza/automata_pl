@@ -6082,6 +6082,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Quality Sachet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094143Z" creationid="Syn Spawacza" creationdate="20200601T094143Z">
+        <seg>Wytworny woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Quest Reward</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073128Z" creationid="Syn Spawacza" creationdate="20200601T073128Z">
