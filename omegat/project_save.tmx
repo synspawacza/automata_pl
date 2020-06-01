@@ -4210,6 +4210,16 @@ i utworzyć nowy plik?</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Deploys a protective barrier that
+blocks melee attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170551Z" creationid="Syn Spawacza" creationdate="20200601T170551Z">
+        <seg>Wytwarza ochronną barierę
+chroniącą przed atakami wręcz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deploys a protective barrier that
 blocks projectile attacks.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170528Z" creationid="Syn Spawacza" creationdate="20200601T170528Z">
@@ -5175,6 +5185,18 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080426Z" creationid="Syn Spawacza" creationdate="20200601T080426Z">
         <seg>Działko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Generates a powerful shock wave
+by slamming a Pod to the ground
+from an elevated height.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170856Z" creationid="Syn Spawacza" creationdate="20200601T170856Z">
+        <seg>Generuje potężną falę uderzeniową
+przez uderzenie podem w ziemię
+z dużej wysokości.</seg>
       </tuv>
     </tu>
     <tu>
