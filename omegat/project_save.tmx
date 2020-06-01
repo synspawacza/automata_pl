@@ -496,6 +496,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A network error has occurred. The network function has been turned off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073406Z" creationid="Syn Spawacza" creationdate="20200601T073406Z">
+        <seg>Błąd połączenia z siecią. Funkcje sieciowe są wyłączone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A.D.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194057Z" creationid="Syn Spawacza" creationdate="20200530T194057Z">
@@ -1656,6 +1664,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073338Z" creationid="Syn Spawacza" creationdate="20200601T073338Z">
+        <seg>Kategoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Caught Fish</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150950Z" creationid="Syn Spawacza" creationdate="20200530T150950Z">
@@ -2000,6 +2016,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073152Z" creationid="Syn Spawacza" creationdate="20200601T073152Z">
+        <seg>Koszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a custom control scheme.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135113Z" creationid="Syn Spawacza" creationdate="20200530T135059Z">
@@ -2326,6 +2350,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141525Z" creationid="Syn Spawacza" creationdate="20200530T141525Z">
         <seg>Zakończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemies Defeated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073333Z" creationid="Syn Spawacza" creationdate="20200601T073333Z">
+        <seg>Pokonanych wrogów</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,6 +3618,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Items Obtained</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073254Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
+        <seg>Przedmiotów zdobytych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131040Z" creationid="Syn Spawacza" creationdate="20200530T131040Z">
@@ -4354,6 +4394,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NEW RECORD</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073214Z" creationid="Syn Spawacza" creationdate="20200601T073214Z">
+        <seg>NOWY REKORD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NO DATA</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140311Z" creationid="Syn Spawacza" creationdate="20200530T140311Z">
@@ -5002,6 +5050,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Price</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073310Z" creationid="Syn Spawacza" creationdate="20200601T073310Z">
+        <seg>Cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Probably because the environment's changed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211205Z" creationid="Syn Spawacza" creationdate="20200530T181533Z">
@@ -5166,6 +5222,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141012Z" creationid="Syn Spawacza" creationdate="20200530T141012Z">
         <seg>Obrona dystansowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rank</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073148Z" creationid="Syn Spawacza" creationdate="20200601T073148Z">
+        <seg>Ranga</seg>
       </tuv>
     </tu>
     <tu>
@@ -5478,6 +5542,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170224Z" creationid="Syn Spawacza" creationdate="20200530T170224Z">
         <seg>Ponownie spotkaj się z 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reward</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073218Z" creationid="Syn Spawacza" creationdate="20200601T073218Z">
+        <seg>Nagroda</seg>
       </tuv>
     </tu>
     <tu>
