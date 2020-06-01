@@ -1120,6 +1120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ancient Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084216Z" creationid="Syn Spawacza" creationdate="20200601T084216Z">
+        <seg>Starożytna maska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And another thing...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180740Z" creationid="Syn Spawacza" creationdate="20200530T180740Z">
@@ -5586,6 +5594,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precious Earrings</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084239Z" creationid="Syn Spawacza" creationdate="20200601T084239Z">
+        <seg>Cenne kolczyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Any Button</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130617Z" creationid="Syn Spawacza" creationdate="20200530T130617Z">
@@ -7184,6 +7200,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
         <seg>Wykryto cel misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tech Manual</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084900Z" creationid="Syn Spawacza" creationdate="20200601T084900Z">
+        <seg>Podręcznik techniczny</seg>
       </tuv>
     </tu>
     <tu>
