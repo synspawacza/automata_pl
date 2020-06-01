@@ -1749,6 +1749,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adds a critical-hit effect.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163849Z" creationid="Syn Spawacza" creationdate="20200601T163849Z">
+        <seg>Dodaje efekt ataków krytycznych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust ambient occlusion quality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205802Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
@@ -5855,6 +5863,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Insanity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163755Z" creationid="Syn Spawacza" creationdate="20200601T163755Z">
+        <seg>Niepoczytalność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Install plug-in chips to enhance functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210139Z" creationid="Syn Spawacza" creationdate="20200530T143526Z">
@@ -9528,6 +9544,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204425Z" creationid="Syn Spawacza" creationdate="20200530T204405Z">
         <seg>Może być na mnie zła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shift Avoid</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163740Z" creationid="Syn Spawacza" creationdate="20200601T163740Z">
+        <seg>Unik teleportacyjny</seg>
       </tuv>
     </tu>
     <tu>
