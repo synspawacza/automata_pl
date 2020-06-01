@@ -507,6 +507,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A brilliantly shining pearl.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113657Z" creationid="Syn Spawacza" creationdate="20200601T113657Z">
+        <seg>Błyszcząca perła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A broken, unusable battery.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103527Z" creationid="Syn Spawacza" creationdate="20200601T103527Z">
@@ -745,6 +753,16 @@ na Ziemię.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A piece of meteor, fallen from outer
+space.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113920Z" creationid="Syn Spawacza" creationdate="20200601T113920Z">
+        <seg>Kawałek meteoru który spadł
+na Ziemię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rose that bloomed in the desert.
 Can be exchanged for money.</seg>
       </tuv>
@@ -818,9 +836,9 @@ przez pnie drzew.</seg>
         <seg>A tech manual written in letters you
 can't understand.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113422Z" creationid="Syn Spawacza" creationdate="20200601T113422Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113606Z" creationid="Syn Spawacza" creationdate="20200601T113422Z">
         <seg>Techniczna książka napisana
-niezrozumiałymi literami.</seg>
+niezrozumiałym pismem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,8 +846,8 @@ niezrozumiałymi literami.</seg>
         <seg>A thick book thought to be 
 a dictionary.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113555Z" creationid="Syn Spawacza" creationdate="20200601T113555Z">
-        <seg>Książka </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113658Z" creationid="Syn Spawacza" creationdate="20200601T113555Z">
+        <seg>Książka wyglądająca na gruby słownik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5697,6 +5715,14 @@ Na maszyny jednak nie działa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111150Z" creationid="Syn Spawacza" creationdate="20200601T111150Z">
         <seg>Minerał tworzący iskry przy uderzeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mined ore. A beautiful green jewel.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113822Z" creationid="Syn Spawacza" creationdate="20200601T113822Z">
+        <seg>Piękny, zielony minerał.</seg>
       </tuv>
     </tu>
     <tu>
