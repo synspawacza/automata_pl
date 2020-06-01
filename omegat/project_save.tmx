@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hold) Activate Scanner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213006Z" creationid="Syn Spawacza" creationdate="20200601T213006Z">
+        <seg>(Przytrzymaj) Aktywuj skaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Remaining: &lt;NUM&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173022Z" creationid="Syn Spawacza" creationdate="20200530T173022Z">
@@ -4320,6 +4328,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BONUS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212755Z" creationid="Syn Spawacza" creationdate="20200601T212755Z">
+        <seg>BONUS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BOOTING SYSTEM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123517Z" creationid="Syn Spawacza" creationdate="20200530T123517Z">
@@ -5223,6 +5239,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cast / Reel In</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213200Z" creationid="Syn Spawacza" creationdate="20200601T213200Z">
+        <seg>Zarzuć / złów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Castle Blacksmith</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175824Z" creationid="Syn Spawacza" creationdate="20200601T175824Z">
@@ -5303,6 +5327,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134557Z" creationid="Syn Spawacza" creationdate="20200530T134557Z">
         <seg>Zmień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Direction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212934Z" creationid="Syn Spawacza" creationdate="20200601T212934Z">
+        <seg>Zmiana kierunku</seg>
       </tuv>
     </tu>
     <tu>
@@ -5527,6 +5559,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164415Z" creationid="Syn Spawacza" creationdate="20200601T164415Z">
         <seg>Ładuje się przy spoczynku. Chwilowo zwiększa atak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charging:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212734Z" creationid="Syn Spawacza" creationdate="20200601T212734Z">
+        <seg>Ładowanie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,6 +6211,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Counter (during Perfect Evade)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213056Z" creationid="Syn Spawacza" creationdate="20200601T213056Z">
+        <seg>Kontra (z perfekcyjnym unikiem)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Counter +1</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184538Z" creationid="Syn Spawacza" creationdate="20200601T184538Z">
@@ -6609,6 +6657,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172051Z" creationid="Syn Spawacza" creationdate="20200530T172051Z">
         <seg>ZDETONUJ UJARZMIONYCH PRZECIWNIKÓW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DETONATION</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212705Z" creationid="Syn Spawacza" creationdate="20200601T212705Z">
+        <seg>DETONACJA</seg>
       </tuv>
     </tu>
     <tu>
@@ -8464,6 +8520,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203946Z" creationid="Syn Spawacza" creationdate="20200601T203946Z">
         <seg>FFE wird aktiviert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FISH</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212858Z" creationid="Syn Spawacza" creationdate="20200601T212858Z">
+        <seg>WĘDKA</seg>
       </tuv>
     </tu>
     <tu>
@@ -11522,6 +11586,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LSR</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212911Z" creationid="Syn Spawacza" creationdate="20200601T212911Z">
+        <seg>LSR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lancement de la vérification du système</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203902Z" creationid="Syn Spawacza" creationdate="20200601T203902Z">
@@ -11750,6 +11822,14 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130707Z" creationid="Syn Spawacza" creationdate="20200530T130707Z">
         <seg>Licencje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Light (On/Off)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212954Z" creationid="Syn Spawacza" creationdate="20200601T212954Z">
+        <seg>Światła (Wł/Wył)</seg>
       </tuv>
     </tu>
     <tu>
@@ -12082,6 +12162,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201710Z" creationid="Syn Spawacza" creationdate="20200601T201710Z">
         <seg>Konferansjer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MENU</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212719Z" creationid="Syn Spawacza" creationdate="20200601T212719Z">
+        <seg>MENU</seg>
       </tuv>
     </tu>
     <tu>
@@ -14553,6 +14641,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Perfect Evade (with precise timing)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213048Z" creationid="Syn Spawacza" creationdate="20200601T213048Z">
+        <seg>Perfekcyjny unik (w odpowiednim momencie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Permission granted!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174007Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
@@ -15189,6 +15285,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204156Z" creationid="Syn Spawacza" creationdate="20200601T204156Z">
         <seg>Q</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QUEST</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212739Z" creationid="Syn Spawacza" creationdate="20200601T212739Z">
+        <seg>ZADANIE</seg>
       </tuv>
     </tu>
     <tu>
@@ -16423,6 +16527,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SHOP</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212741Z" creationid="Syn Spawacza" creationdate="20200601T212741Z">
+        <seg>SKLEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SKILLS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110703Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
@@ -17001,6 +17113,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134024Z" creationid="Syn Spawacza" creationdate="20200530T134024Z">
         <seg>Autodestrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Self-Hack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213111Z" creationid="Syn Spawacza" creationdate="20200601T213111Z">
+        <seg>Hakowanie siebie</seg>
       </tuv>
     </tu>
     <tu>
@@ -17809,6 +17929,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Start Fishing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213206Z" creationid="Syn Spawacza" creationdate="20200601T213206Z">
+        <seg>Zacznij łowić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130625Z" creationid="Syn Spawacza" creationdate="20200530T130625Z">
@@ -17853,6 +17981,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205058Z" creationid="Syn Spawacza" creationdate="20200530T205058Z">
         <seg>Ale nie powiem Dowódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Fishing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213216Z" creationid="Syn Spawacza" creationdate="20200601T213216Z">
+        <seg>Przestań łowić</seg>
       </tuv>
     </tu>
     <tu>
@@ -18124,6 +18260,22 @@ potężne celowi uderzenie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Switch Pods</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213013Z" creationid="Syn Spawacza" creationdate="20200601T213013Z">
+        <seg>Zmiana poda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch Weapon Sets</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213021Z" creationid="Syn Spawacza" creationdate="20200601T213021Z">
+        <seg>Zmiana zestawów borni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Switch Weapons</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134750Z" creationid="Syn Spawacza" creationdate="20200530T134750Z">
@@ -18253,6 +18405,14 @@ and an old dragon.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>TALK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212920Z" creationid="Syn Spawacza" creationdate="20200601T212920Z">
+        <seg>MÓW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tab</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204155Z" creationid="Syn Spawacza" creationdate="20200601T204155Z">
@@ -18323,6 +18483,14 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
         <seg>Wykryto cel misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt (Hold)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213033Z" creationid="Syn Spawacza" creationdate="20200601T213033Z">
+        <seg>Prowokacja (przytrzymaj)</seg>
       </tuv>
     </tu>
     <tu>
