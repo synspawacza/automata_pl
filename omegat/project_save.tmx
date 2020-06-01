@@ -632,6 +632,24 @@ na Ziemię.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A rose that bloomed in the desert.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110854Z" creationid="Syn Spawacza" creationdate="20200601T110854Z">
+        <seg>Róża która zakwitła na pustyni.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A seed fallen from a tree.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110822Z" creationid="Syn Spawacza" creationdate="20200601T110729Z">
+        <seg>Nasiono które spadło z drzewa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A seed of some plant. Seems it would
 be tricky to grow.</seg>
       </tuv>
@@ -2304,6 +2322,14 @@ przez pnie drzew.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074927Z" creationid="Syn Spawacza" creationdate="20200601T074927Z">
         <seg>Ukończ jak najwięcej gier za jednym podejściem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear, pure water.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110645Z" creationid="Syn Spawacza" creationdate="20200601T110645Z">
+        <seg>Krystalicznie czysta woda</seg>
       </tuv>
     </tu>
     <tu>
