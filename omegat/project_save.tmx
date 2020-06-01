@@ -2660,6 +2660,38 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anti Chain Damage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183001Z" creationid="Syn Spawacza" creationdate="20200601T183001Z">
+        <seg>Przerwanie łańcucha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anti Chain Damage +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183003Z" creationid="Syn Spawacza" creationdate="20200601T183003Z">
+        <seg>Przerwanie łańcucha +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anti Chain Damage +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183004Z" creationid="Syn Spawacza" creationdate="20200601T183004Z">
+        <seg>Przerwanie łańcucha +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anti Chain Damage +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183006Z" creationid="Syn Spawacza" creationdate="20200601T183006Z">
+        <seg>Przerwanie łańcucha +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anti-Aliasing</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133031Z" creationid="Syn Spawacza" creationdate="20200530T133031Z">
@@ -10249,6 +10281,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182705Z" creationid="Syn Spawacza" creationdate="20200601T182705Z">
         <seg>Obrona dystansowa +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182710Z" creationid="Syn Spawacza" creationdate="20200601T182707Z">
+        <seg>Obrona dystansowa +8</seg>
       </tuv>
     </tu>
     <tu>
