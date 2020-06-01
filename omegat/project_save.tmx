@@ -716,6 +716,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A common iron pipe.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160719Z" creationid="Syn Spawacza" creationdate="20200601T160640Z">
+        <seg>Zwykła metalowa rura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A completely bent, twisted wire.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112357Z" creationid="Syn Spawacza" creationdate="20200601T112357Z">
@@ -1102,6 +1110,15 @@ tej samej broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A ritual item made from the plume
+of a phoenix.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160746Z" creationid="Syn Spawacza" creationdate="20200601T160746Z">
+        <seg>Przedmiot rytualny z pióra feniksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rose that bloomed in the desert.
 Can be exchanged for money.</seg>
       </tuv>
@@ -1303,6 +1320,33 @@ the royal family of a land where magic prospers.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160338Z" creationid="Syn Spawacza" creationdate="20200601T160338Z">
         <seg>Miecz ulepszany i przekazywany z pokolenia na pokolenie
 w rodzinie królewskiej, w kraju w którym panuje magia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sword wielded by a loyal
+attendant.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160626Z" creationid="Syn Spawacza" creationdate="20200601T160626Z">
+        <seg>Miecz królewskiego sługi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sword with a strange
+and uncomfortable aura.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160815Z" creationid="Syn Spawacza" creationdate="20200601T160815Z">
+        <seg>Miecz z dziwną i nieprzyjemną aurą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sword with the king of beasts
+as its motif.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160717Z" creationid="Syn Spawacza" creationdate="20200601T160717Z">
+        <seg>Miecz z motywem króla zwierząt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10707,6 +10751,14 @@ mechanicznych form życia potrafi naprawdę przywalić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unarmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160604Z" creationid="Syn Spawacza" creationdate="20200601T160604Z">
+        <seg>Bez broni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unavailable due to signal interference.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210322Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
@@ -11552,6 +11604,15 @@ the unholy fangs of demons.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154513Z" creationid="Syn Spawacza" creationdate="20200601T154513Z">
         <seg>Broń ukształtowana w odległej krainie na kształt
 przeklętych kłów demona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons shaped like Emil's head,  made of an unknown
+singular element.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160532Z" creationid="Syn Spawacza" creationdate="20200601T160532Z">
+        <seg>Broń w kształcie głowy Emila, wykonana z nieznanego pierwiastka.</seg>
       </tuv>
     </tu>
     <tu>
