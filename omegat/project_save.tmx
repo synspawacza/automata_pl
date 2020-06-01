@@ -4215,40 +4215,40 @@ gdy znajdą się w zasięgu poda.</seg>
       <tuv lang="en-US">
         <seg>Critical Up +4</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182021Z" creationid="Syn Spawacza" creationdate="20200601T182021Z">
-        <seg>Krytyczne +4</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182403Z" creationid="Syn Spawacza" creationdate="20200601T182021Z">
+        <seg>Atak krytyczny +4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +5</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182023Z" creationid="Syn Spawacza" creationdate="20200601T182023Z">
-        <seg>Krytyczne +5</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182404Z" creationid="Syn Spawacza" creationdate="20200601T182023Z">
+        <seg>Atak krytyczny +5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +6</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182024Z" creationid="Syn Spawacza" creationdate="20200601T182024Z">
-        <seg>Krytyczne +6</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182406Z" creationid="Syn Spawacza" creationdate="20200601T182024Z">
+        <seg>Atak krytyczny +6</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +7</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182026Z" creationid="Syn Spawacza" creationdate="20200601T182026Z">
-        <seg>Krytyczne +7</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182408Z" creationid="Syn Spawacza" creationdate="20200601T182026Z">
+        <seg>Atak krytyczny +7</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +8</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182027Z" creationid="Syn Spawacza" creationdate="20200601T182027Z">
-        <seg>Krytyczne +8</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182409Z" creationid="Syn Spawacza" creationdate="20200601T182027Z">
+        <seg>Atak krytyczny +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5546,78 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135001Z" creationid="Syn Spawacza" creationdate="20200601T135001Z">
         <seg>Kieł Bliźniąt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182546Z" creationid="Syn Spawacza" creationdate="20200601T182546Z">
+        <seg>Szybkie odnowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182614Z" creationid="Syn Spawacza" creationdate="20200601T182614Z">
+        <seg>Szybkie odnowienie +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182616Z" creationid="Syn Spawacza" creationdate="20200601T182616Z">
+        <seg>Szybkie odnowienie +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182617Z" creationid="Syn Spawacza" creationdate="20200601T182617Z">
+        <seg>Szybkie odnowienie +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182618Z" creationid="Syn Spawacza" creationdate="20200601T182618Z">
+        <seg>Szybkie odnowienie +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182620Z" creationid="Syn Spawacza" creationdate="20200601T182620Z">
+        <seg>Szybkie odnowienie +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182621Z" creationid="Syn Spawacza" creationdate="20200601T182621Z">
+        <seg>Szybkie odnowienie +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182623Z" creationid="Syn Spawacza" creationdate="20200601T182623Z">
+        <seg>Szybkie odnowienie +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fast Cooldown +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182626Z" creationid="Syn Spawacza" creationdate="20200601T182626Z">
+        <seg>Szybkie odnowienie +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -7704,8 +7776,8 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       <tuv lang="en-US">
         <seg>Lowers skill-gauge cooldown when attacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164746Z" creationid="Syn Spawacza" creationdate="20200601T164746Z">
-        <seg>Wskaźnik umiejętności ładuje się szybciej podczas atakowania.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182554Z" creationid="Syn Spawacza" creationdate="20200601T164746Z">
+        <seg>Wskaźnik umiejętności odnawia się szybciej podczas atakowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8138,6 +8210,78 @@ Może zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163935Z" creationid="Syn Spawacza" creationdate="20200530T163935Z">
         <seg>Atak wręcz + (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182633Z" creationid="Syn Spawacza" creationdate="20200601T182633Z">
+        <seg>Obrona wręcz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182635Z" creationid="Syn Spawacza" creationdate="20200601T182635Z">
+        <seg>Obrona wręcz +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182636Z" creationid="Syn Spawacza" creationdate="20200601T182636Z">
+        <seg>Obrona wręcz +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182638Z" creationid="Syn Spawacza" creationdate="20200601T182638Z">
+        <seg>Obrona wręcz +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182639Z" creationid="Syn Spawacza" creationdate="20200601T182639Z">
+        <seg>Obrona wręcz +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182641Z" creationid="Syn Spawacza" creationdate="20200601T182641Z">
+        <seg>Obrona wręcz +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182642Z" creationid="Syn Spawacza" creationdate="20200601T182642Z">
+        <seg>Obrona wręcz +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182644Z" creationid="Syn Spawacza" creationdate="20200601T182644Z">
+        <seg>Obrona wręcz +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Melee Defense +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182648Z" creationid="Syn Spawacza" creationdate="20200601T182648Z">
+        <seg>Obrona wręcz +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -9957,6 +10101,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged Attack Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182424Z" creationid="Syn Spawacza" creationdate="20200601T182424Z">
+        <seg>Atak dystansowy +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged Attack Up (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080508Z" creationid="Syn Spawacza" creationdate="20200601T080508Z">
@@ -9973,10 +10125,130 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged Attack Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182426Z" creationid="Syn Spawacza" creationdate="20200601T182426Z">
+        <seg>Atak dystansowy +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182428Z" creationid="Syn Spawacza" creationdate="20200601T182428Z">
+        <seg>Atak dystansowy +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182434Z" creationid="Syn Spawacza" creationdate="20200601T182429Z">
+        <seg>Atak dystansowy +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182432Z" creationid="Syn Spawacza" creationdate="20200601T182432Z">
+        <seg>Atak dystansowy +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182437Z" creationid="Syn Spawacza" creationdate="20200601T182437Z">
+        <seg>Atak dystansowy +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182439Z" creationid="Syn Spawacza" creationdate="20200601T182439Z">
+        <seg>Atak dystansowy +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182441Z" creationid="Syn Spawacza" creationdate="20200601T182441Z">
+        <seg>Atak dystansowy +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182444Z" creationid="Syn Spawacza" creationdate="20200601T182444Z">
+        <seg>Atak dystansowy +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged Defense</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141012Z" creationid="Syn Spawacza" creationdate="20200530T141012Z">
         <seg>Obrona dystansowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182653Z" creationid="Syn Spawacza" creationdate="20200601T182653Z">
+        <seg>Obrona dystansowa +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182655Z" creationid="Syn Spawacza" creationdate="20200601T182655Z">
+        <seg>Obrona dystansowa +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182657Z" creationid="Syn Spawacza" creationdate="20200601T182657Z">
+        <seg>Obrona dystansowa +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182658Z" creationid="Syn Spawacza" creationdate="20200601T182658Z">
+        <seg>Obrona dystansowa +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182700Z" creationid="Syn Spawacza" creationdate="20200601T182700Z">
+        <seg>Obrona dystansowa +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182702Z" creationid="Syn Spawacza" creationdate="20200601T182702Z">
+        <seg>Obrona dystansowa +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182705Z" creationid="Syn Spawacza" creationdate="20200601T182705Z">
+        <seg>Obrona dystansowa +7</seg>
       </tuv>
     </tu>
     <tu>
