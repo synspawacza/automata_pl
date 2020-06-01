@@ -5412,9 +5412,11 @@ Human history states silver was
 used to defeat demons, but
 machines seem impervious.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105551Z" creationid="Syn Spawacza" creationdate="20200601T105551Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105702Z" creationid="Syn Spawacza" creationdate="20200601T105551Z">
         <seg>Ruda zwierająca srebro.
-Według dawnych ludzkich legend, srebro odstrasza demony. Na maszyny jednak </seg>
+Według dawnych ludzkich legend,
+srebro odstrasza demony.
+Na maszyny jednak nie działa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6094,12 +6096,11 @@ It's usually mined, but
 for some reason, this stuff 
 is lying around everywhere.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T104544Z" creationid="Syn Spawacza" creationdate="20200601T104544Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105554Z" creationid="Syn Spawacza" creationdate="20200601T104544Z">
         <seg>Ruda zawierająca miedź.
 Wydobywana w kopalniach,
 ale z jakiegoś powodu
-poniewiera się na powierzchni.
-</seg>
+poniewiera się na powierzchni.</seg>
       </tuv>
     </tu>
     <tu>
