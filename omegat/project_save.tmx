@@ -5079,11 +5079,31 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meat from a white-furred wild boar.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102328Z" creationid="Syn Spawacza" creationdate="20200601T102328Z">
+        <seg>Mięso pozyskane z białego dzika.
+Może zostać sprzedane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meat procured from a boar.
 Can be exchanged for money.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102300Z" creationid="Syn Spawacza" creationdate="20200601T102300Z">
         <seg>Mięso pozyskane z dzika.
+Może zostać sprzedane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat procured from a moose.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102309Z" creationid="Syn Spawacza" creationdate="20200601T102309Z">
+        <seg>Mięso pozyskane z łosia.
 Może zostać sprzedane.</seg>
       </tuv>
     </tu>
