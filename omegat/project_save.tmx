@@ -488,6 +488,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A large gear for something.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
+        <seg>Duże koło zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A network error has occurred.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140421Z" creationid="Syn Spawacza" creationdate="20200530T140421Z">
@@ -7099,6 +7107,14 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164025Z" creationid="Syn Spawacza" creationdate="20200530T164025Z">
         <seg>Zardzewiała gruda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rusted, beat-up ore.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103123Z" creationid="Syn Spawacza" creationdate="20200601T103123Z">
+        <seg>Zardzewiały, zbity materiał.</seg>
       </tuv>
     </tu>
     <tu>
