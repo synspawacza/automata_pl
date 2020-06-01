@@ -1306,8 +1306,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Auto-run</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135642Z" creationid="Syn Spawacza" creationdate="20200530T135642Z">
-        <seg>Automatyczny bieg</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072558Z" creationid="Syn Spawacza" creationdate="20200530T135642Z">
+        <seg>Bieg automatyczny</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,6 +2962,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hv</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072725Z" creationid="Syn Spawacza" creationdate="20200601T072725Z">
+        <seg>Cżk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I could set it for you, but you should probably do it yourself.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203048Z" creationid="Syn Spawacza" creationdate="20200530T203048Z">
@@ -3942,6 +3950,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134228Z" creationid="Syn Spawacza" creationdate="20200530T134228Z">
         <seg>Niskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072727Z" creationid="Syn Spawacza" creationdate="20200601T072705Z">
+        <seg>Lkk</seg>
       </tuv>
     </tu>
     <tu>
@@ -6230,8 +6246,8 @@ twoim poległym ciałem.</seg>
       <tuv lang="en-US">
         <seg>Switch to auto-controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140109Z" creationid="Syn Spawacza" creationdate="20200530T140052Z">
-        <seg>Zmiana na autosterowanie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072650Z" creationid="Syn Spawacza" creationdate="20200530T140052Z">
+        <seg>Przełącz na autosterowanie</seg>
       </tuv>
     </tu>
     <tu>
