@@ -4211,6 +4211,78 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combust</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185303Z" creationid="Syn Spawacza" creationdate="20200601T185303Z">
+        <seg>Zapłon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185306Z" creationid="Syn Spawacza" creationdate="20200601T185306Z">
+        <seg>Zapłon +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185307Z" creationid="Syn Spawacza" creationdate="20200601T185307Z">
+        <seg>Zapłon +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185308Z" creationid="Syn Spawacza" creationdate="20200601T185308Z">
+        <seg>Zapłon +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185310Z" creationid="Syn Spawacza" creationdate="20200601T185310Z">
+        <seg>Zapłon +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185311Z" creationid="Syn Spawacza" creationdate="20200601T185311Z">
+        <seg>Zapłon +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185312Z" creationid="Syn Spawacza" creationdate="20200601T185312Z">
+        <seg>Zapłon +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185313Z" creationid="Syn Spawacza" creationdate="20200601T185313Z">
+        <seg>Zapłon +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combust +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185315Z" creationid="Syn Spawacza" creationdate="20200601T185315Z">
+        <seg>Zapłon +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Command 677 received.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183852Z" creationid="Syn Spawacza" creationdate="20200530T183852Z">
@@ -5017,6 +5089,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183156Z" creationid="Syn Spawacza" creationdate="20200601T183156Z">
         <seg>Zabójcze leczenie +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death Rattle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185617Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
+        <seg>Okrzyk śmierci</seg>
       </tuv>
     </tu>
     <tu>
@@ -6952,6 +7032,78 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heal Drops Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185401Z" creationid="Syn Spawacza" creationdate="20200601T185352Z">
+        <seg>Upuszczane leczenie +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185404Z" creationid="Syn Spawacza" creationdate="20200601T185355Z">
+        <seg>Upuszczane leczenie +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185359Z" creationid="Syn Spawacza" creationdate="20200601T185359Z">
+        <seg>Upuszczane leczenie +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185405Z" creationid="Syn Spawacza" creationdate="20200601T185405Z">
+        <seg>Upuszczane leczenie +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185407Z" creationid="Syn Spawacza" creationdate="20200601T185407Z">
+        <seg>Upuszczane leczenie +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185408Z" creationid="Syn Spawacza" creationdate="20200601T185408Z">
+        <seg>Upuszczane leczenie +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185410Z" creationid="Syn Spawacza" creationdate="20200601T185410Z">
+        <seg>Upuszczane leczenie +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185411Z" creationid="Syn Spawacza" creationdate="20200601T185411Z">
+        <seg>Upuszczane leczenie +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heal Drops Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185412Z" creationid="Syn Spawacza" creationdate="20200601T185412Z">
+        <seg>Upuszczane leczenie +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heavy Armor A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094642Z" creationid="Syn Spawacza" creationdate="20200601T094642Z">
@@ -7069,6 +7221,70 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185156Z" creationid="Syn Spawacza" creationdate="20200601T185156Z">
         <seg>Wzmocnienie przejęcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185159Z" creationid="Syn Spawacza" creationdate="20200601T185159Z">
+        <seg>Wzmocnienie przejęcia +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185201Z" creationid="Syn Spawacza" creationdate="20200601T185201Z">
+        <seg>Wzmocnienie przejęcia +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185202Z" creationid="Syn Spawacza" creationdate="20200601T185202Z">
+        <seg>Wzmocnienie przejęcia +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185203Z" creationid="Syn Spawacza" creationdate="20200601T185203Z">
+        <seg>Wzmocnienie przejęcia +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185204Z" creationid="Syn Spawacza" creationdate="20200601T185204Z">
+        <seg>Wzmocnienie przejęcia +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185206Z" creationid="Syn Spawacza" creationdate="20200601T185206Z">
+        <seg>Wzmocnienie przejęcia +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185207Z" creationid="Syn Spawacza" creationdate="20200601T185207Z">
+        <seg>Wzmocnienie przejęcia +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hijack Boost +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185209Z" creationid="Syn Spawacza" creationdate="20200601T185209Z">
+        <seg>Wzmocnienie przejęcia +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -13217,6 +13433,78 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081533Z" creationid="Syn Spawacza" creationdate="20200601T081533Z">
         <seg>Obdarty wkręt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185221Z" creationid="Syn Spawacza" creationdate="20200601T185221Z">
+        <seg>Ogłuszenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185228Z" creationid="Syn Spawacza" creationdate="20200601T185228Z">
+        <seg>Ogłuszenie +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185230Z" creationid="Syn Spawacza" creationdate="20200601T185230Z">
+        <seg>Ogłuszenie +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185231Z" creationid="Syn Spawacza" creationdate="20200601T185231Z">
+        <seg>Ogłuszenie +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185233Z" creationid="Syn Spawacza" creationdate="20200601T185233Z">
+        <seg>Ogłuszenie +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185236Z" creationid="Syn Spawacza" creationdate="20200601T185236Z">
+        <seg>Ogłuszenie +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185238Z" creationid="Syn Spawacza" creationdate="20200601T185238Z">
+        <seg>Ogłuszenie +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185240Z" creationid="Syn Spawacza" creationdate="20200601T185240Z">
+        <seg>Ogłuszenie +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stun +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185242Z" creationid="Syn Spawacza" creationdate="20200601T185242Z">
+        <seg>Ogłuszenie +8</seg>
       </tuv>
     </tu>
     <tu>
