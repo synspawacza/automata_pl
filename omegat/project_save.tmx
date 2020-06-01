@@ -504,6 +504,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A chip with nothing saved on it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103931Z" creationid="Syn Spawacza" creationdate="20200601T103931Z">
+        <seg>Czip bez żadnych danych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cut, unusable cable.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103623Z" creationid="Syn Spawacza" creationdate="20200601T103623Z">
@@ -6053,6 +6061,21 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173633Z" creationid="Syn Spawacza" creationdate="20200530T173633Z">
         <seg>Czy też jakaś kara?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ore containing copper.
+It's usually mined, but
+for some reason, this stuff 
+is lying around everywhere.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T104544Z" creationid="Syn Spawacza" creationdate="20200601T104544Z">
+        <seg>Ruda zawierająca miedź.
+Wydobywana w kopalniach,
+ale z jakiegoś powodu
+poniewiera się na powierzchni.
+</seg>
       </tuv>
     </tu>
     <tu>
