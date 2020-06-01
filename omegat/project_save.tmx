@@ -10841,10 +10841,18 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the access point you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181332Z" creationid="Syn Spawacza" creationdate="20200601T181332Z">
+        <seg>Wybierz punkt dostępu który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the area you wish to check.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181233Z" creationid="Syn Spawacza" creationdate="20200601T181233Z">
-        <seg>Wybierz obszar do sprawdzenia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181256Z" creationid="Syn Spawacza" creationdate="20200601T181233Z">
+        <seg>Wybierz obszar który chcesz sprawdzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10853,6 +10861,30 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205956Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
         <seg>Wybierz przycisk, który chcesz zmienić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the destination you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181340Z" creationid="Syn Spawacza" creationdate="20200601T181340Z">
+        <seg>Wybierz cel który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the event marker you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181357Z" creationid="Syn Spawacza" creationdate="20200601T181357Z">
+        <seg>Wybierz znacznik wydarzenia który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the item shop you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181308Z" creationid="Syn Spawacza" creationdate="20200601T181240Z">
+        <seg>Wybierz sklep z przedmiotami który chcesz sprawdzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10869,6 +10901,30 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131428Z" creationid="Syn Spawacza" creationdate="20200530T131418Z">
         <seg>Wybierz język kwestii mówionych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the maintenance shop you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181322Z" creationid="Syn Spawacza" creationdate="20200601T181322Z">
+        <seg>Wybierz warsztat który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the quest destination you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181346Z" creationid="Syn Spawacza" creationdate="20200601T181346Z">
+        <seg>Wybierz cel zadania który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the weapon shop you wish to check.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181314Z" creationid="Syn Spawacza" creationdate="20200601T181314Z">
+        <seg>Wybierz sklep z bronią który chcesz sprawdzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11556,6 +11612,14 @@ upon its target.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170219Z" creationid="Syn Spawacza" creationdate="20200601T170219Z">
         <seg>Przyzywa masę energii zadającą
 potężne celowi uderzenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181413Z" creationid="Syn Spawacza" creationdate="20200601T181413Z">
+        <seg>Wsparcie</seg>
       </tuv>
     </tu>
     <tu>
@@ -13726,6 +13790,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183807Z" creationid="Syn Spawacza" creationdate="20200530T183807Z">
         <seg>Jesteśmy... żołnie...rzami...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon Attack Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181634Z" creationid="Syn Spawacza" creationdate="20200601T181634Z">
+        <seg>Atak bronią +</seg>
       </tuv>
     </tu>
     <tu>
