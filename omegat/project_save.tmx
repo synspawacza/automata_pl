@@ -530,6 +530,14 @@ leather.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A crushed, flattened nut.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111516Z" creationid="Syn Spawacza" creationdate="20200601T111516Z">
+        <seg>Zmiażdżona, rozpłaszczona nakrętka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cut, unusable cable.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103623Z" creationid="Syn Spawacza" creationdate="20200601T103623Z">
@@ -589,6 +597,16 @@ nie wiadomo do czego służy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
         <seg>Duże koło zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A large pearl with a black luster. 
+Extremely rare.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111815Z" creationid="Syn Spawacza" creationdate="20200601T111815Z">
+        <seg>Wielka perła o czarnym połysku.
+Niezwykle rzadka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,6 +3158,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133047Z" creationid="Syn Spawacza" creationdate="20200530T133047Z">
         <seg>Efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eggs laid by an eagle.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111635Z" creationid="Syn Spawacza" creationdate="20200601T111635Z">
+        <seg>Jaja złożone przez orła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9526,6 +9552,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141113Z" creationid="Syn Spawacza" creationdate="20200530T141113Z">
         <seg>Bardzo trudny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Very large for a chicken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111656Z" creationid="Syn Spawacza" creationdate="20200601T111627Z">
+        <seg>Duże jajo jak na kurę.</seg>
       </tuv>
     </tu>
     <tu>
