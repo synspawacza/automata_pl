@@ -509,6 +509,17 @@ która znajdowała już się w pamięci poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A book of philosophy that Anemone
+gave you. Its title means "thoughts"
+in an ancient language.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123545Z" creationid="Syn Spawacza" creationdate="20200601T123545Z">
+        <seg>Książka o filozofii od Anemone. Oryginalnie
+zatytułowana „Pensées”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book too worn to read.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110959Z" creationid="Syn Spawacza" creationdate="20200601T110959Z">
@@ -746,6 +757,15 @@ poległych towarzyszy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A key that unlocks an elevator in
+the shopping mall.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123201Z" creationid="Syn Spawacza" creationdate="20200601T123201Z">
+        <seg>Klucz otwierający windę w centrum handlowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A large gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
@@ -798,6 +818,15 @@ Nie powinieneś go nie czytać.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103543Z" creationid="Syn Spawacza" creationdate="20200601T103543Z">
         <seg>Bateria o przedłużonym działaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lost bag belonging to
+the Resistance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123138Z" creationid="Syn Spawacza" creationdate="20200601T123138Z">
+        <seg>Zgubiona torba należąca do ruchu oporu.</seg>
       </tuv>
     </tu>
     <tu>
