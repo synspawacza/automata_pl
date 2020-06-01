@@ -2434,6 +2434,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amusement Park Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175746Z" creationid="Syn Spawacza" creationdate="20200601T175746Z">
+        <seg>Sklep — wesołe miasteczko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An Odd Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174313Z" creationid="Syn Spawacza" creationdate="20200601T174313Z">
@@ -3291,10 +3299,26 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bunker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175855Z" creationid="Syn Spawacza" creationdate="20200601T175855Z">
+        <seg>Bunkier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bunker Item Shop</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175551Z" creationid="Syn Spawacza" creationdate="20200601T175551Z">
-        <seg>Sklep z przedmiotami w Bunkrze</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175728Z" creationid="Syn Spawacza" creationdate="20200601T175551Z">
+        <seg>Sklep z przedmiotami — Bunkier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bunker Maintenance Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175844Z" creationid="Syn Spawacza" creationdate="20200601T175844Z">
+        <seg>Warsztat — bunkier</seg>
       </tuv>
     </tu>
     <tu>
@@ -3395,10 +3419,26 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Camp Maintenance Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175838Z" creationid="Syn Spawacza" creationdate="20200601T175838Z">
+        <seg>Warsztat — obóz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Camp Supply Trader</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175528Z" creationid="Syn Spawacza" creationdate="20200601T175511Z">
         <seg>Handlarz zaopatrzeniem — obóz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Camp Weapons Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175806Z" creationid="Syn Spawacza" creationdate="20200601T175806Z">
+        <seg>Handlarz bronią — obóz</seg>
       </tuv>
     </tu>
     <tu>
@@ -3455,6 +3495,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095109Z" creationid="Syn Spawacza" creationdate="20200601T095109Z">
         <seg>Kartonowy pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Castle Blacksmith</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175824Z" creationid="Syn Spawacza" creationdate="20200601T175824Z">
+        <seg>Kowal zamkowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3719,6 +3767,30 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174802Z" creationid="Syn Spawacza" creationdate="20200601T174802Z">
         <seg>Ruiny miasta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Ruins: Center</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175942Z" creationid="Syn Spawacza" creationdate="20200601T175911Z">
+        <seg>Ruiny miasta: centrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Ruins: Near Factory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175918Z" creationid="Syn Spawacza" creationdate="20200601T175918Z">
+        <seg>Ruiny miasta: przy fabryce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>City Ruins: Near the Tower</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175924Z" creationid="Syn Spawacza" creationdate="20200601T175924Z">
+        <seg>Ruiny miasta: przy Wieży</seg>
       </tuv>
     </tu>
     <tu>
@@ -4443,6 +4515,30 @@ chroniącą przed pociskami.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert: Camp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175954Z" creationid="Syn Spawacza" creationdate="20200601T175931Z">
+        <seg>Pustynia: obóz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desert: Center</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175938Z" creationid="Syn Spawacza" creationdate="20200601T175938Z">
+        <seg>Pustynia: centrum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Desert: Oil Field</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175951Z" creationid="Syn Spawacza" creationdate="20200601T175951Z">
+        <seg>Pustynia: Obóz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy Machines</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174258Z" creationid="Syn Spawacza" creationdate="20200601T174258Z">
@@ -4833,6 +4929,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emil's Item Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175752Z" creationid="Syn Spawacza" creationdate="20200601T175752Z">
+        <seg>Sklep z przedmiotami Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emil's Residence</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175105Z" creationid="Syn Spawacza" creationdate="20200601T175105Z">
@@ -5138,6 +5242,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155840Z" creationid="Syn Spawacza" creationdate="20200530T155840Z">
         <seg>Rozpoznanie w fabryce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Factory Tool Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175721Z" creationid="Syn Spawacza" creationdate="20200601T175721Z">
+        <seg>Sklep z narzędziami — fabryka</seg>
       </tuv>
     </tu>
     <tu>
@@ -8725,6 +8837,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pascal's Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175734Z" creationid="Syn Spawacza" creationdate="20200601T175734Z">
+        <seg>Sklep Pascala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pascal's Village</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174947Z" creationid="Syn Spawacza" creationdate="20200601T174947Z">
@@ -10285,6 +10405,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140754Z" creationid="Syn Spawacza" creationdate="20200530T140754Z">
         <seg>Przewijanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Secret Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175851Z" creationid="Syn Spawacza" creationdate="20200601T175851Z">
+        <seg>Ukryty sklep</seg>
       </tuv>
     </tu>
     <tu>
@@ -12974,6 +13102,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174429Z" creationid="Syn Spawacza" creationdate="20200601T174429Z">
         <seg>Chaos w wiosce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Village Weapons Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175812Z" creationid="Syn Spawacza" creationdate="20200601T175812Z">
+        <seg>Handlarz bronią — wioska</seg>
       </tuv>
     </tu>
     <tu>
