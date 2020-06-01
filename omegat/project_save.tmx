@@ -1589,6 +1589,30 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A060: P Shield</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165523Z" creationid="Syn Spawacza" creationdate="20200601T165523Z">
+        <seg>A060: Tarcza P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A080: Wave</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165527Z" creationid="Syn Spawacza" creationdate="20200601T165527Z">
+        <seg>A080: Fala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A090: Wire</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165632Z" creationid="Syn Spawacza" creationdate="20200601T165632Z">
+        <seg>A090: Przewód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A2 Wig</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095914Z" creationid="Syn Spawacza" creationdate="20200601T095914Z">
@@ -3412,6 +3436,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143929Z" creationid="Syn Spawacza" creationdate="20200530T143929Z">
         <seg>Zmień broń do ataków ciężkich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes damage values and treasure chests.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165409Z" creationid="Syn Spawacza" creationdate="20200601T165409Z">
+        <seg>Zmienia wartości obrażeń i skrzynie z skarbami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8604,6 +8636,46 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R020: Mirage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165434Z" creationid="Syn Spawacza" creationdate="20200601T165434Z">
+        <seg>R020: Miraż</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R030: Hammer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165437Z" creationid="Syn Spawacza" creationdate="20200601T165437Z">
+        <seg>R030: Młot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R040: Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165441Z" creationid="Syn Spawacza" creationdate="20200601T165441Z">
+        <seg>R040: Ostrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R050: Spear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165446Z" creationid="Syn Spawacza" creationdate="20200601T165446Z">
+        <seg>R050: Włócznia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>R070: M Shield</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165517Z" creationid="Syn Spawacza" creationdate="20200601T165517Z">
+        <seg>R070: Tarcza M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>RDY</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111357Z" creationid="Syn Spawacza" creationdate="20200530T172220Z">
@@ -10232,6 +10304,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150936Z" creationid="Syn Spawacza" creationdate="20200530T150936Z">
         <seg>Przedmioty wsparcia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swing these weapons to hear Emil's voice!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165428Z" creationid="Syn Spawacza" creationdate="20200601T165428Z">
+        <seg>Machaj bronią by słyszeć głos Emila.</seg>
       </tuv>
     </tu>
     <tu>
