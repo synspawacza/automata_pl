@@ -2693,6 +2693,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201553Z" creationid="Syn Spawacza" creationdate="20200601T201553Z">
+        <seg>Wszyscy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -3066,6 +3074,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081153Z" creationid="Syn Spawacza" creationdate="20200601T081153Z">
         <seg>Przynęta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animal-loving Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201455Z" creationid="Syn Spawacza" creationdate="20200601T201455Z">
+        <seg>Maszyna miłośnik zwierząt</seg>
       </tuv>
     </tu>
     <tu>
@@ -3905,6 +3921,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200948Z" creationid="Syn Spawacza" creationdate="20200601T200948Z">
         <seg>Duża maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Big Machine Lifeform</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201602Z" creationid="Syn Spawacza" creationdate="20200601T201602Z">
+        <seg>Duża mechaniczna forma życia</seg>
       </tuv>
     </tu>
     <tu>
@@ -5225,6 +5249,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Core</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201557Z" creationid="Syn Spawacza" creationdate="20200601T201557Z">
+        <seg>rdzeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Corrupted data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140335Z" creationid="Syn Spawacza" creationdate="20200530T140335Z">
@@ -6241,6 +6273,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131903Z" creationid="Syn Spawacza" creationdate="20200530T131903Z">
         <seg>Odległość (standardowa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distracted Friend Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201339Z" creationid="Syn Spawacza" creationdate="20200601T201339Z">
+        <seg>Maszyna rozproszony przyjaciel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7496,6 +7536,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Forest Blacksmith</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201407Z" creationid="Syn Spawacza" creationdate="20200601T201407Z">
+        <seg>Leśny kowal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forest Castle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174839Z" creationid="Syn Spawacza" creationdate="20200601T174839Z">
@@ -7600,6 +7648,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Friend Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201330Z" creationid="Syn Spawacza" creationdate="20200601T201330Z">
+        <seg>Maszyna przyjaciel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Friendly Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200346Z" creationid="Syn Spawacza" creationdate="20200601T200346Z">
@@ -7700,6 +7756,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194023Z" creationid="Syn Spawacza" creationdate="20200601T194023Z">
         <seg>Butla gazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gatekeeper Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201421Z" creationid="Syn Spawacza" creationdate="20200601T201421Z">
+        <seg>Maszyna stróż</seg>
       </tuv>
     </tu>
     <tu>
@@ -7866,6 +7930,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133011Z" creationid="Syn Spawacza" creationdate="20200530T133011Z">
         <seg>Jakość grafiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gravekeeper Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201542Z" creationid="Syn Spawacza" creationdate="20200601T201504Z">
+        <seg>Maszyna strażnik grobu</seg>
       </tuv>
     </tu>
     <tu>
@@ -9434,6 +9506,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Knight Captain</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201549Z" creationid="Syn Spawacza" creationdate="20200601T201549Z">
+        <seg>Kapitan rycerzy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Koi Carp</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192618Z" creationid="Syn Spawacza" creationdate="20200601T191527Z">
@@ -10118,6 +10198,22 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Lifeform A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201353Z" creationid="Syn Spawacza" creationdate="20200601T201353Z">
+        <seg>Mechaniczna forma życia A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Lifeform B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201358Z" creationid="Syn Spawacza" creationdate="20200601T201358Z">
+        <seg>Mechaniczna forma życia B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Lifeform Head</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194016Z" creationid="Syn Spawacza" creationdate="20200601T194016Z">
@@ -10130,6 +10226,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200229Z" creationid="Syn Spawacza" creationdate="20200601T200229Z">
         <seg>Mechaniczne formy życia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine MC</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201445Z" creationid="Syn Spawacza" creationdate="20200601T201445Z">
+        <seg>Maszyna konferansjer</seg>
       </tuv>
     </tu>
     <tu>
@@ -13861,6 +13965,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180455Z" creationid="Syn Spawacza" creationdate="20200530T180455Z">
         <seg>Skanerzy tacy jak ja pracują samotnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scientist Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201320Z" creationid="Syn Spawacza" creationdate="20200601T201320Z">
+        <seg>Maszyna naukowiec</seg>
       </tuv>
     </tu>
     <tu>
@@ -17693,6 +17805,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160532Z" creationid="Syn Spawacza" creationdate="20200601T160532Z">
         <seg>Broń w kształcie głowy Emila, wykonana z nieznanego pierwiastka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weird Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201345Z" creationid="Syn Spawacza" creationdate="20200601T201345Z">
+        <seg>Dziwna maszyna</seg>
       </tuv>
     </tu>
     <tu>
