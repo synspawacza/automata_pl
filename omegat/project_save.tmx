@@ -1616,6 +1616,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Broken Battery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081957Z" creationid="Syn Spawacza" creationdate="20200601T081957Z">
+        <seg>Zepsuta bateria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Broken Circuit</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164646Z" creationid="Syn Spawacza" creationdate="20200530T164646Z">
@@ -1964,6 +1972,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080327Z" creationid="Syn Spawacza" creationdate="20200601T080327Z">
         <seg>Wybierz region.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clean Nut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082134Z" creationid="Syn Spawacza" creationdate="20200601T082134Z">
+        <seg>Świeża nakrętka</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4042,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Large Battery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082001Z" creationid="Syn Spawacza" creationdate="20200601T082001Z">
+        <seg>Duża bateria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Large G Luck+</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081246Z" creationid="Syn Spawacza" creationdate="20200601T081246Z">
@@ -4354,10 +4378,42 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Arm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082141Z" creationid="Syn Spawacza" creationdate="20200601T082141Z">
+        <seg>Ramię maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Head</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082208Z" creationid="Syn Spawacza" creationdate="20200601T082208Z">
+        <seg>Głowa maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Leg</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082145Z" creationid="Syn Spawacza" creationdate="20200601T082145Z">
+        <seg>Noga maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Oil</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164416Z" creationid="Syn Spawacza" creationdate="20200530T164416Z">
         <seg>Smar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Torso</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082203Z" creationid="Syn Spawacza" creationdate="20200601T082203Z">
+        <seg>Tułów maszyny</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,6 +4854,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144804Z" creationid="Syn Spawacza" creationdate="20200530T144804Z">
         <seg>Funkcje sieciowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Bolt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082112Z" creationid="Syn Spawacza" creationdate="20200601T082112Z">
+        <seg>Nowa śruba</seg>
       </tuv>
     </tu>
     <tu>
@@ -5414,6 +5478,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073310Z" creationid="Syn Spawacza" creationdate="20200601T073310Z">
         <seg>Cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pristine Cable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082057Z" creationid="Syn Spawacza" creationdate="20200601T082057Z">
+        <seg>Nietknięty kabel</seg>
       </tuv>
     </tu>
     <tu>
@@ -6458,6 +6530,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Severed Cable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082053Z" creationid="Syn Spawacza" creationdate="20200601T082053Z">
+        <seg>Urwany kabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sh-should be able to...take it over...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184322Z" creationid="Syn Spawacza" creationdate="20200530T184322Z">
@@ -6526,6 +6606,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150513Z" creationid="Syn Spawacza" creationdate="20200530T150513Z">
         <seg>Ruda srebra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Simple Gadget</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082347Z" creationid="Syn Spawacza" creationdate="20200601T082347Z">
+        <seg>Prosty mechanizm</seg>
       </tuv>
     </tu>
     <tu>
