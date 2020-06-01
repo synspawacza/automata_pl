@@ -488,10 +488,34 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A broken, unusable battery.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103527Z" creationid="Syn Spawacza" creationdate="20200601T103527Z">
+        <seg>Zepsuta, bezużyteczna bateria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A broken, unusable winding key.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103450Z" creationid="Syn Spawacza" creationdate="20200601T103450Z">
+        <seg>Złamany, bezużyteczny klucz naciągowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A large gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
         <seg>Duże koło zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A long-lasting battery.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103543Z" creationid="Syn Spawacza" creationdate="20200601T103543Z">
+        <seg>Bateria o przedłużonym działaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1788,8 +1812,8 @@ na Ziemię.</seg>
       <tuv lang="en-US">
         <seg>Broken Key</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081951Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
-        <seg>Złamany kluczyk</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103452Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
+        <seg>Złamany klucz</seg>
       </tuv>
     </tu>
     <tu>
