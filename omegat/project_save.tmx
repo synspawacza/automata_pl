@@ -3895,6 +3895,31 @@ no longer works.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creates a field that distorts time,
+slowing down all enemies that
+enter its vicinity.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171352Z" creationid="Syn Spawacza" creationdate="20200601T171352Z">
+        <seg>Tworzy pole zakrzywiające czas,
+spowalniając przeciwników którzy
+znajdą się w jego zasięgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Creates an image of the user,
+drawing the attention of foes
+and firing upon them with
+the Pod's ranged attack.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171304Z" creationid="Syn Spawacza" creationdate="20200601T171304Z">
+        <seg>Tworzy obraz użytkownika, przyciągając
+uwagę wrogów i ostrzeliwując ich
+gdy znajdą się w zasięgu poda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Critical +</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161942Z" creationid="Syn Spawacza" creationdate="20200601T161942Z">
@@ -4611,6 +4636,18 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emits a temporary beam 
+capable of healing the 
+combatants as long as they 
+remain within its radius.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171529Z" creationid="Syn Spawacza" creationdate="20200601T171529Z">
+        <seg>Emituje chwilowo wiązkę leczącą
+walczących, gdy ciz najdują sięw jej zasięgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Empty Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082624Z" creationid="Syn Spawacza" creationdate="20200601T082624Z">
@@ -4982,10 +5019,11 @@ the Pod is facing. If it hits a foe,
 it launches the combatant right to
 the target for an up-close assault.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171134Z" creationid="Syn Spawacza" creationdate="20200601T171134Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171149Z" creationid="Syn Spawacza" creationdate="20200601T171134Z">
         <seg>Wystrzeliwuje przewód w kierunku
 w którym zwrócony jest pod. Gdy trafi
-przeciwnika, walczący przyciągany wjego kierunku, pozwalając na walkę wręcz.</seg>
+przeciwnika, walczący przyciągany w
+jego stronę, pozwalając na atak wręcz.</seg>
       </tuv>
     </tu>
     <tu>
