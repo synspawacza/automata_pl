@@ -2256,6 +2256,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cosmetics</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090536Z" creationid="Syn Spawacza" creationdate="20200601T090536Z">
+        <seg>Kosmetyk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cost</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073152Z" creationid="Syn Spawacza" creationdate="20200601T073152Z">
@@ -3026,6 +3034,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Five-color Cable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090434Z" creationid="Syn Spawacza" creationdate="20200601T090434Z">
+        <seg>Pięciokolorowy kabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flight-control systems abandoned.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174139Z" creationid="Syn Spawacza" creationdate="20200530T174139Z">
@@ -3062,6 +3078,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085711Z" creationid="Syn Spawacza" creationdate="20200601T085711Z">
         <seg>Zdjęcie z lasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Four-color Cable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090425Z" creationid="Syn Spawacza" creationdate="20200601T090327Z">
+        <seg>Czterokolorowy kabel</seg>
       </tuv>
     </tu>
     <tu>
@@ -7992,6 +8016,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Toothbrush</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090441Z" creationid="Syn Spawacza" creationdate="20200601T090441Z">
+        <seg>Szczoteczka do zębów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Torn Book</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082929Z" creationid="Syn Spawacza" creationdate="20200601T082929Z">
@@ -8068,6 +8100,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082915Z" creationid="Syn Spawacza" creationdate="20200601T082915Z">
         <seg>Nasiono drzewa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tri-color Cable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090411Z" creationid="Syn Spawacza" creationdate="20200601T090306Z">
+        <seg>Trójkolorowy kabel</seg>
       </tuv>
     </tu>
     <tu>
