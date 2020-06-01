@@ -1000,6 +1000,14 @@ przez ludzką dziewczynkę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A statue in the shape of a young girl.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122711Z" creationid="Syn Spawacza" creationdate="20200601T122711Z">
+        <seg>Pomnik przedstawiający młodą dziewczynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stick of unknown purpose.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122351Z" creationid="Syn Spawacza" creationdate="20200601T122351Z">
@@ -1064,6 +1072,15 @@ Reduces the probability of cavities.</seg>
         <seg>Przyrząd używany przez ludzi do
 czyszczenia zębów. Zmniejsza występowanie
 próchnicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weighty stone mask. It's as dirty as
+it is heavy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122653Z" creationid="Syn Spawacza" creationdate="20200601T122653Z">
+        <seg>Ciężka, kamienna maska. Równie brudna co ciężka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5765,6 +5782,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150939Z" creationid="Syn Spawacza" creationdate="20200530T150939Z">
         <seg>Materiały</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Materials necessary for building toys.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122734Z" creationid="Syn Spawacza" creationdate="20200601T122734Z">
+        <seg>Surowce potrzebne do zrobienia zabawek.</seg>
       </tuv>
     </tu>
     <tu>
