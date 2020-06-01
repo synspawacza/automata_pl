@@ -632,6 +632,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adam's Glasses</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094743Z" creationid="Syn Spawacza" creationdate="20200601T094743Z">
+        <seg>Okulary Adama</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add effects to voice playback.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134130Z" creationid="Syn Spawacza" creationdate="20200530T134130Z">
@@ -1004,6 +1012,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174326Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
         <seg>Uwaga: Wykryto dużą grupę wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alien Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094753Z" creationid="Syn Spawacza" creationdate="20200601T094753Z">
+        <seg>Maska obcego</seg>
       </tuv>
     </tu>
     <tu>
@@ -2790,6 +2806,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093048Z" creationid="Syn Spawacza" creationdate="20200601T093048Z">
         <seg>Klucz do windy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emil Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094738Z" creationid="Syn Spawacza" creationdate="20200601T094738Z">
+        <seg>Maska Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emil's Head</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094725Z" creationid="Syn Spawacza" creationdate="20200601T094725Z">
+        <seg>Głowa Emila</seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,6 +4738,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lunar Tear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094732Z" creationid="Syn Spawacza" creationdate="20200601T094732Z">
+        <seg>Księżycowa łza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lv</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140124Z" creationid="Syn Spawacza" creationdate="20200530T140124Z">
@@ -5798,6 +5838,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075617Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
         <seg>Rekordy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play System Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095101Z" creationid="Syn Spawacza" creationdate="20200601T095101Z">
+        <seg>Pod-grajstacja</seg>
       </tuv>
     </tu>
     <tu>
