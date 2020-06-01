@@ -7076,6 +7076,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Excited Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200659Z" creationid="Syn Spawacza" creationdate="20200601T200659Z">
+        <seg>Podekscytowana maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Exit Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
@@ -10194,6 +10202,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075612Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
         <seg>Pod-zadań maszyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine with Makeup</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200639Z" creationid="Syn Spawacza" creationdate="20200601T200639Z">
+        <seg>Maszyna z makijażem</seg>
       </tuv>
     </tu>
     <tu>
@@ -15063,6 +15079,14 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190036Z" creationid="Syn Spawacza" creationdate="20200530T190036Z">
         <seg>To go załatwiłaś... co nie, 2B?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tall Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200645Z" creationid="Syn Spawacza" creationdate="20200601T200645Z">
+        <seg>Wysoka maszyna</seg>
       </tuv>
     </tu>
     <tu>
