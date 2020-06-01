@@ -4435,6 +4435,15 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>High-viscosity oil used by machine
+lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124218Z" creationid="Syn Spawacza" creationdate="20200601T124218Z">
+        <seg>Lepki smar używany przez mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ho229 flight unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
@@ -10415,8 +10424,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Viscous Oil</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093238Z" creationid="Syn Spawacza" creationdate="20200601T093238Z">
-        <seg>Lepki smar</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124228Z" creationid="Syn Spawacza" creationdate="20200601T093238Z">
+        <seg>Gęsty smar</seg>
       </tuv>
     </tu>
     <tu>
