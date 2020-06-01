@@ -5054,6 +5054,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Final Battle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174638Z" creationid="Syn Spawacza" creationdate="20200601T174638Z">
+        <seg>Ostateczna bitwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finish</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080157Z" creationid="Syn Spawacza" creationdate="20200601T080157Z">
@@ -6818,6 +6826,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174649Z" creationid="Syn Spawacza" creationdate="20200601T174649Z">
+        <seg>Biblioteka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>License</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130707Z" creationid="Syn Spawacza" creationdate="20200530T130707Z">
@@ -8141,6 +8157,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Obtain Keys</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174538Z" creationid="Syn Spawacza" creationdate="20200601T174538Z">
+        <seg>Zdobywanie kluczy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ocean Access Key</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090814Z" creationid="Syn Spawacza" creationdate="20200601T090814Z">
@@ -8441,6 +8465,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095959Z" creationid="Syn Spawacza" creationdate="20200601T095959Z">
         <seg>Rdzeń Pascala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pascal's Despair</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174508Z" creationid="Syn Spawacza" creationdate="20200601T174508Z">
+        <seg>Rozpacz Pascala</seg>
       </tuv>
     </tu>
     <tu>
@@ -9185,6 +9217,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155903Z" creationid="Syn Spawacza" creationdate="20200530T155903Z">
         <seg>Restart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover NFCS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174604Z" creationid="Syn Spawacza" creationdate="20200601T174604Z">
+        <seg>Odzyskanie systemu NFCS</seg>
       </tuv>
     </tu>
     <tu>
@@ -11607,6 +11647,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To the Top Floor</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174627Z" creationid="Syn Spawacza" creationdate="20200601T174627Z">
+        <seg>W drodze na szczyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Toggle Light</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134833Z" creationid="Syn Spawacza" creationdate="20200530T134833Z">
@@ -11699,6 +11747,22 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140142Z" creationid="Syn Spawacza" creationdate="20200530T140142Z">
         <seg>Razem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tower Infiltration</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174613Z" creationid="Syn Spawacza" creationdate="20200601T174613Z">
+        <seg>Infiltracja Wieży</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tower Recon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174530Z" creationid="Syn Spawacza" creationdate="20200601T174530Z">
+        <seg>Rozpoznanie Wieży</seg>
       </tuv>
     </tu>
     <tu>
@@ -12214,6 +12278,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130703Z" creationid="Syn Spawacza" creationdate="20200530T130703Z">
         <seg>Nazwa użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using Flight Unit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174757Z" creationid="Syn Spawacza" creationdate="20200601T174757Z">
+        <seg>W jednostce latającej</seg>
       </tuv>
     </tu>
     <tu>
