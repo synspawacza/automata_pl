@@ -1626,8 +1626,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Broken Key</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150442Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
-        <seg>Złamany klucz</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081951Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
+        <seg>Złamany kluczyk</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,8 +4036,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Large Gear</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150456Z" creationid="Syn Spawacza" creationdate="20200530T150456Z">
-        <seg>Duży trybik</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081658Z" creationid="Syn Spawacza" creationdate="20200530T150456Z">
+        <seg>Duże koło zębate</seg>
       </tuv>
     </tu>
     <tu>
@@ -4482,10 +4482,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Memory Alloy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081856Z" creationid="Syn Spawacza" creationdate="20200601T081856Z">
+        <seg>Stop z pamięcią kształtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: W normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meteorite Shard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081707Z" creationid="Syn Spawacza" creationdate="20200601T081707Z">
+        <seg>Odłamek meteorytu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6548,8 +6564,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Small Gear</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081644Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
-        <seg>Mały koło zębate</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081650Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
+        <seg>Małe koło zębate</seg>
       </tuv>
     </tu>
     <tu>
