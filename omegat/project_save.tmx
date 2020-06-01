@@ -1757,6 +1757,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adds a high probability of stunning enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164136Z" creationid="Syn Spawacza" creationdate="20200601T164136Z">
+        <seg>Zwiększa prawdopodobieństwo ogłuszenia wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjust ambient occlusion quality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205802Z" creationid="Syn Spawacza" creationdate="20200530T133630Z">
@@ -3058,8 +3066,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Bullet Absorb</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162208Z" creationid="Syn Spawacza" creationdate="20200601T162208Z">
-        <seg>Absorpcja pocisków</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164041Z" creationid="Syn Spawacza" creationdate="20200601T162208Z">
+        <seg>Pochłanianie pocisków</seg>
       </tuv>
     </tu>
     <tu>
@@ -3853,6 +3861,14 @@ no longer works.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144535Z" creationid="Syn Spawacza" creationdate="20200530T144535Z">
         <seg>Zmień ustawienia przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cutting through projectiles restores HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164105Z" creationid="Syn Spawacza" creationdate="20200601T164105Z">
+        <seg>Niszczenie pocisków przywraca PŻ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5041,6 +5057,22 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grants a discount at the Resistance shops.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164009Z" creationid="Syn Spawacza" creationdate="20200601T164009Z">
+        <seg>Daje zniżkę w sklepach ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grants a discount at the machine shops.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164019Z" creationid="Syn Spawacza" creationdate="20200601T164019Z">
+        <seg>Daje zniżkę w sklepach maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grants the bearer access to the
 gambling arena.</seg>
       </tuv>
@@ -5756,6 +5788,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases defense.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163947Z" creationid="Syn Spawacza" creationdate="20200601T163947Z">
+        <seg>Zwiększa obronę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increases plug-in
 chip capacity by 16.</seg>
       </tuv>
@@ -5786,6 +5826,14 @@ na czipy rozszerzeń o 8.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases stun value dealt to enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163917Z" creationid="Syn Spawacza" creationdate="20200601T163917Z">
+        <seg>Zwiększa wartość ogłuszenia u wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increases the power of 
 weapon-based attacks 
 by 50% for 30 seconds. 
@@ -5795,6 +5843,14 @@ Also restores 100% HP.</seg>
         <seg>Zwiększa moc ataków bronią
 o 50% przez 30 sekund.
 Przywraca też 100% PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases the speed of attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163930Z" creationid="Syn Spawacza" creationdate="20200601T163930Z">
+        <seg>Zwiększa prędkość ataków.</seg>
       </tuv>
     </tu>
     <tu>
