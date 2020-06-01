@@ -1904,10 +1904,42 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choose a conjunction to input.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080320Z" creationid="Syn Spawacza" creationdate="20200601T080320Z">
+        <seg>Wybierz spójnik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose a part of your message to edit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080239Z" creationid="Syn Spawacza" creationdate="20200601T080239Z">
+        <seg>Wybierz część wiadomości którą edytować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose a phrase to input.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080307Z" creationid="Syn Spawacza" creationdate="20200601T080307Z">
+        <seg>Wybierz wyrażenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose which monitor to use in full-screen mode.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205810Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
         <seg>Wybierz monitor, na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose your region.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080327Z" creationid="Syn Spawacza" creationdate="20200601T080327Z">
+        <seg>Wybierz region.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2690,6 +2722,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080157Z" creationid="Syn Spawacza" creationdate="20200601T080157Z">
+        <seg>Zakończ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finish entering message.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080216Z" creationid="Syn Spawacza" creationdate="20200601T080216Z">
+        <seg>Zakończ edycję wiadomości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134540Z" creationid="Syn Spawacza" creationdate="20200530T134540Z">
@@ -2854,6 +2902,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
         <seg>Gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gatling</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080426Z" creationid="Syn Spawacza" creationdate="20200601T080426Z">
+        <seg>Działko</seg>
       </tuv>
     </tu>
     <tu>
