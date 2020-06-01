@@ -3586,6 +3586,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impact Bracer (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081039Z" creationid="Syn Spawacza" creationdate="20200601T081039Z">
+        <seg>Ochraniacz (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inactive Play</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133845Z" creationid="Syn Spawacza" creationdate="20200530T131542Z">
@@ -4410,6 +4418,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Melee Defense Up (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080516Z" creationid="Syn Spawacza" creationdate="20200601T080516Z">
+        <seg>Obrona wręcz + (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Melee Defense Up (S)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163953Z" creationid="Syn Spawacza" creationdate="20200530T163953Z">
@@ -4446,6 +4462,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131508Z" creationid="Syn Spawacza" creationdate="20200530T131508Z">
         <seg>Obracanie minimapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Missile</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080434Z" creationid="Syn Spawacza" creationdate="20200601T080434Z">
+        <seg>Rakieta</seg>
       </tuv>
     </tu>
     <tu>
@@ -5482,10 +5506,42 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ranged Attack Up (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080508Z" creationid="Syn Spawacza" creationdate="20200601T080508Z">
+        <seg>Atak dystansowy + (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Attack Up (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080456Z" creationid="Syn Spawacza" creationdate="20200601T080456Z">
+        <seg>Atak dystansowy + (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged Defense</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141012Z" creationid="Syn Spawacza" creationdate="20200530T141012Z">
         <seg>Obrona dystansowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense Up (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080534Z" creationid="Syn Spawacza" creationdate="20200601T080534Z">
+        <seg>Obrona dystansowa + (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ranged Defense Up (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080526Z" creationid="Syn Spawacza" creationdate="20200601T080526Z">
+        <seg>Obrona dystansowa + (S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6382,6 +6438,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150513Z" creationid="Syn Spawacza" creationdate="20200530T150513Z">
         <seg>Ruda srebra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill Salve (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080615Z" creationid="Syn Spawacza" creationdate="20200601T080615Z">
+        <seg>Balsam funkcyjny (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill Salve (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080611Z" creationid="Syn Spawacza" creationdate="20200601T080611Z">
+        <seg>Balsam funkcyjny (S)</seg>
       </tuv>
     </tu>
     <tu>
