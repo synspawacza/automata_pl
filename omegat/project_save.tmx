@@ -5407,6 +5407,18 @@ w temperaturze 2000 stopni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mined ore containing silver.
+Human history states silver was
+used to defeat demons, but
+machines seem impervious.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105551Z" creationid="Syn Spawacza" creationdate="20200601T105551Z">
+        <seg>Ruda zwierająca srebro.
+Według dawnych ludzkich legend, srebro odstrasza demony. Na maszyny jednak </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini-map</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161807Z" creationid="Syn Spawacza" creationdate="20200530T161807Z">
