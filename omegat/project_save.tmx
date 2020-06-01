@@ -2722,6 +2722,18 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disrupts auditory &amp; visual feed for
+30 seconds while generating other
+random effects.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101902Z" creationid="Syn Spawacza" creationdate="20200601T101851Z">
+        <seg>Zaburza sygnał audio-wizualny przez
+30 sekund, generując jednocześnie
+inne losowe efekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distance (Combat)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131906Z" creationid="Syn Spawacza" creationdate="20200530T131906Z">
@@ -2960,6 +2972,16 @@ i utworzyć nowy plik?</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101749Z" creationid="Syn Spawacza" creationdate="20200601T101749Z">
         <seg>Wrogowie wyrzucają więcej
 pieniędzy przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemies drop more money for
+60 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101756Z" creationid="Syn Spawacza" creationdate="20200601T101756Z">
+        <seg>Wrogowie wyrzucają więcej
+pieniędzy przez 60 sekund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5053,6 +5075,16 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181627Z" creationid="Syn Spawacza" creationdate="20200530T181627Z">
         <seg>Może go... No nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat procured from a boar.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102300Z" creationid="Syn Spawacza" creationdate="20200601T102300Z">
+        <seg>Mięso pozyskane z dzika.
+Może zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7641,6 +7673,14 @@ for 30 seconds.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101138Z" creationid="Syn Spawacza" creationdate="20200601T101138Z">
         <seg>Wskaźnik umiejętności odnawia się
 2 razy szybciej przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skin acquired from a wild beast.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101956Z" creationid="Syn Spawacza" creationdate="20200601T101956Z">
+        <seg>Futro pozyskane z dzikiego zwierzęcia.</seg>
       </tuv>
     </tu>
     <tu>
