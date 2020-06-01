@@ -531,6 +531,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A completely bent, twisted wire.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112357Z" creationid="Syn Spawacza" creationdate="20200601T112357Z">
+        <seg>Pozwijany, poplątany drut.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A compound used when producing
 leather.</seg>
       </tuv>
@@ -743,6 +751,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
         <seg>Małe kółko zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A socket to be used in a plug.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112325Z" creationid="Syn Spawacza" creationdate="20200601T112325Z">
+        <seg>Gniazdko na wtyczkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3724,8 +3740,8 @@ pieniędzy przez 60 sekund.</seg>
       <tuv lang="en-US">
         <seg>Giant Egg</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083131Z" creationid="Syn Spawacza" creationdate="20200601T083131Z">
-        <seg>Ogromne jako</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112136Z" creationid="Syn Spawacza" creationdate="20200601T083131Z">
+        <seg>Ogromne jajo</seg>
       </tuv>
     </tu>
     <tu>
