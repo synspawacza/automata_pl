@@ -2402,6 +2402,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemies defeated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075420Z" creationid="Syn Spawacza" creationdate="20200601T075420Z">
+        <seg>Wrogów pokonanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemies destroyed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174340Z" creationid="Syn Spawacza" creationdate="20200530T174340Z">
@@ -2862,6 +2870,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130356Z" creationid="Syn Spawacza" creationdate="20200530T130356Z">
         <seg>Aktywacja hakowania zakończona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacking games completed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075452Z" creationid="Syn Spawacza" creationdate="20200601T075452Z">
+        <seg>Ukończonych gier hakerskich</seg>
       </tuv>
     </tu>
     <tu>
@@ -3654,6 +3670,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073254Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
         <seg>Przedmiotów zdobytych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Items harvested</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075357Z" creationid="Syn Spawacza" creationdate="20200601T075357Z">
+        <seg>Przedmiotów zebranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Items used</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075429Z" creationid="Syn Spawacza" creationdate="20200601T075429Z">
+        <seg>Przedmiotów użytych</seg>
       </tuv>
     </tu>
     <tu>
@@ -4662,6 +4694,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
         <seg>Ilość posiadanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number of deaths</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075411Z" creationid="Syn Spawacza" creationdate="20200601T075411Z">
+        <seg>Liczba śmierci</seg>
       </tuv>
     </tu>
     <tu>
