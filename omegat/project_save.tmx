@@ -9928,6 +9928,16 @@ przedmiot w sklepie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This common blade is a standard-issue weapon
+given to all YoRHa troops.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T150318Z" creationid="Syn Spawacza" creationdate="20200601T150052Z">
+        <seg>Standardowa broń przydziałowa, wydawana
+wszystkim jednostkom YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This enemy is unrelated.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174559Z" creationid="Syn Spawacza" creationdate="20200530T174559Z">
