@@ -2336,6 +2336,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damaged Dog Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085552Z" creationid="Syn Spawacza" creationdate="20200601T085552Z">
+        <seg>Zniszczony nieśmiertelnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dash</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172532Z" creationid="Syn Spawacza" creationdate="20200530T172532Z">
@@ -2348,6 +2356,46 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172540Z" creationid="Syn Spawacza" creationdate="20200530T172540Z">
         <seg>Sprint (Podwójne naciśnięcie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Chip A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085502Z" creationid="Syn Spawacza" creationdate="20200601T085502Z">
+        <seg>Czip danych A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Chip B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085504Z" creationid="Syn Spawacza" creationdate="20200601T085504Z">
+        <seg>Czip danych B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Chip C</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085506Z" creationid="Syn Spawacza" creationdate="20200601T085506Z">
+        <seg>Czip danych C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Chip D</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085507Z" creationid="Syn Spawacza" creationdate="20200601T085507Z">
+        <seg>Czip danych D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Chip E</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085510Z" creationid="Syn Spawacza" creationdate="20200601T085510Z">
+        <seg>Czip danych E</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131456Z" creationid="Syn Spawacza" creationdate="20200530T131456Z">
         <seg>Poziom trudności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dirty Dog Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085541Z" creationid="Syn Spawacza" creationdate="20200601T085541Z">
+        <seg>Brudny nieśmiertelnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -4026,6 +4082,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean-Paul's Letter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085312Z" creationid="Syn Spawacza" creationdate="20200601T085312Z">
+        <seg>List Jean-Paula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jukebox</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072014Z" creationid="Syn Spawacza" creationdate="20200601T072014Z">
@@ -4578,6 +4642,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Man's Journal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085458Z" creationid="Syn Spawacza" creationdate="20200601T085458Z">
+        <seg>Pamiętnik mężczyzny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map Icons</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142633Z" creationid="Syn Spawacza" creationdate="20200530T142633Z">
@@ -4686,6 +4758,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081856Z" creationid="Syn Spawacza" creationdate="20200601T081856Z">
         <seg>Stop z pamięcią kształtu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memory Chip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085353Z" creationid="Syn Spawacza" creationdate="20200601T085353Z">
+        <seg>Czip pamięci</seg>
       </tuv>
     </tu>
     <tu>
@@ -6306,6 +6386,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rusty Dog Tag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085533Z" creationid="Syn Spawacza" creationdate="20200601T085533Z">
+        <seg>Zardzewiały nieśmiertelnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>S-sorry, ma'am!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180735Z" creationid="Syn Spawacza" creationdate="20200530T180735Z">
@@ -6382,6 +6470,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140348Z" creationid="Syn Spawacza" creationdate="20200530T140348Z">
         <seg>KOMUNIKAT SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sartre's Letter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085301Z" creationid="Syn Spawacza" creationdate="20200601T085301Z">
+        <seg>List Sartre'a</seg>
       </tuv>
     </tu>
     <tu>
