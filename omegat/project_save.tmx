@@ -2213,6 +2213,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195621Z" creationid="Syn Spawacza" creationdate="20200601T195621Z">
+        <seg>Aktywna maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active Quests</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142827Z" creationid="Syn Spawacza" creationdate="20200530T142827Z">
@@ -3638,6 +3646,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Back Entrance Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195538Z" creationid="Syn Spawacza" creationdate="20200601T195538Z">
+        <seg>Maszyna z tylnego wejścia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Backup</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155833Z" creationid="Syn Spawacza" creationdate="20200530T155833Z">
@@ -4817,6 +4833,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clown Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195600Z" creationid="Syn Spawacza" creationdate="20200601T195600Z">
+        <seg>Maszyna klaun</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Coelacanth</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191835Z" creationid="Syn Spawacza" creationdate="20200601T191835Z">
@@ -5267,6 +5291,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creepy Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195729Z" creationid="Syn Spawacza" creationdate="20200601T195729Z">
+        <seg>Upiorna maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Critical +</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182334Z" creationid="Syn Spawacza" creationdate="20200601T161942Z">
@@ -5383,6 +5415,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083047Z" creationid="Syn Spawacza" creationdate="20200601T083047Z">
         <seg>Zmiażdżona nakrętka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crying Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195639Z" creationid="Syn Spawacza" creationdate="20200601T195639Z">
+        <seg>Płacząca maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -7128,6 +7168,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182626Z" creationid="Syn Spawacza" creationdate="20200601T182626Z">
         <seg>Szybkie odnowienie +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Father Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195556Z" creationid="Syn Spawacza" creationdate="20200601T195556Z">
+        <seg>Maszyna ojciec</seg>
       </tuv>
     </tu>
     <tu>
@@ -9572,6 +9620,14 @@ Część 1 z 5 kolekcji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Little Brother Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195510Z" creationid="Syn Spawacza" creationdate="20200601T195510Z">
+        <seg>Maszyna młodszy brat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144436Z" creationid="Syn Spawacza" creationdate="20200530T144436Z">
@@ -9862,6 +9918,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Child</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195552Z" creationid="Syn Spawacza" creationdate="20200601T195552Z">
+        <seg>Maszyna dziecko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Core</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084946Z" creationid="Syn Spawacza" creationdate="20200601T084946Z">
@@ -9942,6 +10006,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Receptionist</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195657Z" creationid="Syn Spawacza" creationdate="20200601T195657Z">
+        <seg>Maszyna recepcjonista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Recon</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173155Z" creationid="Syn Spawacza" creationdate="20200601T173155Z">
@@ -10010,6 +10082,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195137Z" creationid="Syn Spawacza" creationdate="20200601T195137Z">
         <seg>Zakochana maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine on a Break</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195543Z" creationid="Syn Spawacza" creationdate="20200601T195543Z">
+        <seg>Maszyna na przerwie</seg>
       </tuv>
     </tu>
     <tu>
@@ -10665,6 +10745,14 @@ włócznię na pielgrzymki.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205524Z" creationid="Syn Spawacza" creationdate="20200530T205524Z">
         <seg>Dzień dobry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mother Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195547Z" creationid="Syn Spawacza" creationdate="20200601T195547Z">
+        <seg>Maszyna matka</seg>
       </tuv>
     </tu>
     <tu>
@@ -13247,6 +13335,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170224Z" creationid="Syn Spawacza" creationdate="20200530T170224Z">
         <seg>Ponownie spotkaj się z 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revved-up Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200051Z" creationid="Syn Spawacza" creationdate="20200601T200051Z">
+        <seg>Podekscytowana maszyna</seg>
       </tuv>
     </tu>
     <tu>
