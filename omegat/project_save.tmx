@@ -1749,6 +1749,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adds a beast effect to close-range attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164215Z" creationid="Syn Spawacza" creationdate="20200601T164215Z">
+        <seg>Dodaje efekt bestii w atakach na krótki dystans.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adds a critical-hit effect.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163849Z" creationid="Syn Spawacza" creationdate="20200601T163849Z">
@@ -1761,6 +1769,14 @@ jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164136Z" creationid="Syn Spawacza" creationdate="20200601T164136Z">
         <seg>Zwiększa prawdopodobieństwo ogłuszenia wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adds a shock wave when striking enemy projectiles.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164333Z" creationid="Syn Spawacza" creationdate="20200601T164333Z">
+        <seg>Dodaje falę uderzeniową przy niszczeniu wrogich pocisków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3280,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chance of restoring HP when damaging enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164255Z" creationid="Syn Spawacza" creationdate="20200601T164255Z">
+        <seg>Daje szansę na przywrócenie PŻ przy zadawaniu obrażeń wrogom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134557Z" creationid="Syn Spawacza" creationdate="20200530T134557Z">
@@ -3388,6 +3412,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075658Z" creationid="Syn Spawacza" creationdate="20200601T075658Z">
         <seg>Postać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Charges on standby. Increases Attack for a time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164415Z" creationid="Syn Spawacza" creationdate="20200601T164415Z">
+        <seg>Ładuje się przy spoczynku. Chwilowo zwiększa atak.</seg>
       </tuv>
     </tu>
     <tu>
