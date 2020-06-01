@@ -5665,6 +5665,16 @@ zawierać spoilery</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Description:
+Resuscitated Body</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190946Z" creationid="Syn Spawacza" creationdate="20200601T190946Z">
+        <seg>Opis:
+Wskrzeszone ciało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Housing</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174823Z" creationid="Syn Spawacza" creationdate="20200601T174823Z">
