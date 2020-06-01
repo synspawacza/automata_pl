@@ -550,6 +550,14 @@ nie wiadomo do czego służy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A heavily dented metal plate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105840Z" creationid="Syn Spawacza" creationdate="20200601T105840Z">
+        <seg>Mocno pognieciona, metalowa płytka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A large gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
@@ -620,6 +628,16 @@ the earth.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103222Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
         <seg>Fragment meteorytu, który spadł
 na Ziemię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A seed of some plant. Seems it would
+be tricky to grow.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110106Z" creationid="Syn Spawacza" creationdate="20200601T110106Z">
+        <seg>Nasiono jakiejś rośliny. Wydaje się
+trudna w hodowli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5391,6 +5409,19 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193423Z" creationid="Syn Spawacza" creationdate="20200530T193423Z">
         <seg>Ja pamiętam tylko do momentu przed naszym spotkaniem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mined ore containing gold. Humans
+treasured gold as a valuable mineral,
+but to machines it's worthless.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105816Z" creationid="Syn Spawacza" creationdate="20200601T105708Z">
+        <seg>Ruda zwierająca złoto.
+Ludzie uważali złoto za cenny
+materiał, dla maszyn zaś jest
+bezwartościowy.</seg>
       </tuv>
     </tu>
     <tu>
