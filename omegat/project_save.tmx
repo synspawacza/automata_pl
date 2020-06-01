@@ -88,6 +88,30 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>+16 storage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134703Z" creationid="Syn Spawacza" creationdate="20200601T134703Z">
+        <seg>Pojemność +16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+24 storage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134705Z" creationid="Syn Spawacza" creationdate="20200601T134705Z">
+        <seg>Pojemność +24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+8 storage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134700Z" creationid="Syn Spawacza" creationdate="20200601T134700Z">
+        <seg>Pojemność +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174043Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
@@ -1920,6 +1944,14 @@ przeznaczona dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ancient Overlord</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134831Z" creationid="Syn Spawacza" creationdate="20200601T134820Z">
+        <seg>Starożytny Władca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>And another thing...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180740Z" creationid="Syn Spawacza" creationdate="20200530T180740Z">
@@ -2260,6 +2292,14 @@ przeznaczona dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081444Z" creationid="Syn Spawacza" creationdate="20200601T081444Z">
         <seg>Futro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beastbane</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134752Z" creationid="Syn Spawacza" creationdate="20200601T134752Z">
+        <seg>Zmora</seg>
       </tuv>
     </tu>
     <tu>
@@ -3977,6 +4017,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Faith</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134722Z" creationid="Syn Spawacza" creationdate="20200601T134722Z">
+        <seg>Wiara</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filler Metal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164423Z" creationid="Syn Spawacza" creationdate="20200530T164423Z">
@@ -5005,6 +5053,26 @@ lifeforms.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Increases plug-in
+chip capacity by 16.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134627Z" creationid="Syn Spawacza" creationdate="20200601T134627Z">
+        <seg>Zwiększa ilość miejsca
+na czipy rozszerzeń o 16.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases plug-in
+chip capacity by 24.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134633Z" creationid="Syn Spawacza" creationdate="20200601T134633Z">
+        <seg>Zwiększa ilość miejsca
+na czipy rozszerzeń o 24.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases plug-in
 chip capacity by 8.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134622Z" creationid="Syn Spawacza" creationdate="20200601T134622Z">
@@ -5111,6 +5179,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150510Z" creationid="Syn Spawacza" creationdate="20200530T150510Z">
         <seg>Ruda żelaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Iron Pipe</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134729Z" creationid="Syn Spawacza" creationdate="20200601T134729Z">
+        <seg>Metalowa rura</seg>
       </tuv>
     </tu>
     <tu>
@@ -7018,6 +7094,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174032Z" creationid="Syn Spawacza" creationdate="20200530T174032Z">
         <seg>Zgoda udzielona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phoenix Dagger</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134824Z" creationid="Syn Spawacza" creationdate="20200601T134759Z">
+        <seg>Sztylet Feniksa</seg>
       </tuv>
     </tu>
     <tu>
@@ -9983,6 +10067,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134928Z" creationid="Syn Spawacza" creationdate="20200530T134928Z">
         <seg>Typ C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type-4O Sword</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134859Z" creationid="Syn Spawacza" creationdate="20200601T134859Z">
+        <seg>Miecz typu 4O</seg>
       </tuv>
     </tu>
     <tu>
