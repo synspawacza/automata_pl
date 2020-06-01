@@ -6613,6 +6613,16 @@ z skamieniałej żywicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monks carried this decorative spear, said to be
+made from phoenix feathers, on pilgrimages.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T152605Z" creationid="Syn Spawacza" creationdate="20200601T152605Z">
+        <seg>Mnisi brali tę, ponoć zrobioną z piór feniksa, ozdobną
+włócznię na pielgrzymki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moose Meat</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081505Z" creationid="Syn Spawacza" creationdate="20200601T081505Z">
@@ -10166,6 +10176,16 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210638Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Though cobbled together from scrap metal, this
+machine lifeform's axe packs a terrifying punch.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T152425Z" creationid="Syn Spawacza" creationdate="20200601T152425Z">
+        <seg>Mimo że sklecony z kawałków złomu, ten topór
+mechanicznych form życia potrafi naprawdę przywalić.</seg>
       </tuv>
     </tu>
     <tu>
