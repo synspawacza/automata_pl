@@ -4397,6 +4397,16 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>First introduced in A.D. 11940, these YoRHa knuckle
+weapons become powerful with more energy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154642Z" creationid="Syn Spawacza" creationdate="20200601T154642Z">
+        <seg>Kastety wprowadzone do służby w roku 11940.
+Moc kastetów zwiększa się po naładowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>First, you'll want to check your brightness settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195647Z" creationid="Syn Spawacza" creationdate="20200530T195647Z">
@@ -11472,6 +11482,16 @@ the holy wings of angels.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154404Z" creationid="Syn Spawacza" creationdate="20200601T154404Z">
         <seg>Broń ukształtowana w nieznanych stronach na kształt
 świętych skrzydeł anioła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons fashioned in realms unseen to resemble
+the unholy fangs of demons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154513Z" creationid="Syn Spawacza" creationdate="20200601T154513Z">
+        <seg>Broń ukształtowana w odległej krainie na kształt
+przeklętych kłów demona.</seg>
       </tuv>
     </tu>
     <tu>
