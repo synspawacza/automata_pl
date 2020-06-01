@@ -4209,6 +4209,16 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deploys a protective barrier that
+blocks projectile attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170528Z" creationid="Syn Spawacza" creationdate="20200601T170528Z">
+        <seg>Wytwarza ochronną barierę
+chroniącą przed pociskami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Photo</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085705Z" creationid="Syn Spawacza" creationdate="20200601T085705Z">
@@ -8564,6 +8574,18 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141232Z" creationid="Syn Spawacza" creationdate="20200530T141232Z">
         <seg>Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Produces a mass of energy that
+sprouts from the ground in the
+shape of deadly spears.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170455Z" creationid="Syn Spawacza" creationdate="20200601T170455Z">
+        <seg>Wytwarza masę energii, która
+wyrasta z ziemi w formie
+śmiercionośnych włóczni.</seg>
       </tuv>
     </tu>
     <tu>
