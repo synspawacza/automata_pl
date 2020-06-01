@@ -540,6 +540,15 @@ projektowi daje wrażenie poważnej broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black spear used by warrior
+monks of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161554Z" creationid="Syn Spawacza" creationdate="20200601T161554Z">
+        <seg>Czarne włócznia wojownika z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A blade once held by an attendant who cared deeply for 
 his lord. Like his loyalty, its blade is unbent.</seg>
       </tuv>
@@ -1275,6 +1284,15 @@ przez władcę by stłumić bunt wśród swoich poddanych.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A spear made from the plume
+of a phoenix.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161423Z" creationid="Syn Spawacza" creationdate="20200601T161423Z">
+        <seg>Włócznia z pióra feniksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A spear symbolic of the covenant between a
 mighty warlord and an ancient dragon.</seg>
       </tuv>
@@ -1285,12 +1303,39 @@ wojownikiem a starożytnym smokiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A spear used by a prince's double
+to murder his liege.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161535Z" creationid="Syn Spawacza" creationdate="20200601T161535Z">
+        <seg>Włócznia którą sobowtór księcia
+zabił swojego pana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A spear used by machine lifeforms, specially
 formed from scrap metal to destroy androids.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154229Z" creationid="Syn Spawacza" creationdate="20200601T154229Z">
         <seg>Włócznia używana przez mechaniczne formy życia,
 stworzona z złomu do niszczenia androidów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A spear used by machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161600Z" creationid="Syn Spawacza" creationdate="20200601T161600Z">
+        <seg>Włócznia używany przez mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A spear with the king of beasts
+as its motif.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161437Z" creationid="Syn Spawacza" creationdate="20200601T161437Z">
+        <seg>Włócznia z motywem króla zwierząt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1486,6 +1531,15 @@ of the East.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161341Z" creationid="Syn Spawacza" creationdate="20200601T161341Z">
         <seg>Biała katana samuraja z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A white spear used by samurai
+of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161547Z" creationid="Syn Spawacza" creationdate="20200601T161547Z">
+        <seg>Biała włócznia samuraja z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2190,6 +2244,14 @@ front lines. Its power increases with its charge.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T144902Z" creationid="Syn Spawacza" creationdate="20200601T144902Z">
         <seg>Nowoczesna broń, przydzielana elitarnym jednostkom
 YoRHa. Moc miecza zwiększa się po naładowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An axe used by machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161412Z" creationid="Syn Spawacza" creationdate="20200601T161412Z">
+        <seg>Topór używany przez mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7542,6 +7604,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outdated YoRHa models.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161644Z" creationid="Syn Spawacza" creationdate="20200601T161644Z">
+        <seg>Przestarzały model YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overlap</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134703Z" creationid="Syn Spawacza" creationdate="20200530T134703Z">
@@ -9788,6 +9858,15 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Symbol of the bond between a lord
+and an old dragon.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161507Z" creationid="Syn Spawacza" creationdate="20200601T161507Z">
+        <seg>Symbol więzi między władcą a starym smokiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Synchronization Rate: 100%</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130246Z" creationid="Syn Spawacza" creationdate="20200530T130246Z">
@@ -10104,6 +10183,14 @@ Mogą zostać sprzedane.</seg>
         <seg>The latest YoRHa model.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160826Z" creationid="Syn Spawacza" creationdate="20200601T160826Z">
+        <seg>Ostatni model YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The latest YoRHa models.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161641Z" creationid="Syn Spawacza" creationdate="20200601T161641Z">
         <seg>Ostatni model YoRHa.</seg>
       </tuv>
     </tu>
@@ -11708,6 +11795,33 @@ the unholy fangs of demons.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154513Z" creationid="Syn Spawacza" creationdate="20200601T154513Z">
         <seg>Broń ukształtowana w odległej krainie na kształt
 przeklętych kłów demona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons made of white armor
+from the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161715Z" creationid="Syn Spawacza" creationdate="20200601T161715Z">
+        <seg>Białe rękawice samuraja z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons shaped after a demon's
+profane fangs.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161635Z" creationid="Syn Spawacza" creationdate="20200601T161635Z">
+        <seg>Broń w kształcie kłów demona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons shaped after an angel's
+holy wings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161623Z" creationid="Syn Spawacza" creationdate="20200601T161623Z">
+        <seg>Broń w kształcie skrzydeł anioła.</seg>
       </tuv>
     </tu>
     <tu>
