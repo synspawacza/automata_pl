@@ -2708,6 +2708,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Area Name</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180223Z" creationid="Syn Spawacza" creationdate="20200601T180223Z">
+        <seg>Nazwa obszaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assault</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173256Z" creationid="Syn Spawacza" creationdate="20200601T173256Z">
@@ -3771,6 +3779,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>City Ruins: Cave</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180201Z" creationid="Syn Spawacza" creationdate="20200601T180201Z">
+        <seg>Ruiny miasta: jaskinia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>City Ruins: Center</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175942Z" creationid="Syn Spawacza" creationdate="20200601T175911Z">
@@ -4245,6 +4261,22 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Current Destination</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180217Z" creationid="Syn Spawacza" creationdate="20200601T180217Z">
+        <seg>Obecny cel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Current Location</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180211Z" creationid="Syn Spawacza" creationdate="20200601T180211Z">
+        <seg>Obecne położenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Custom</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134356Z" creationid="Syn Spawacza" creationdate="20200530T134356Z">
@@ -4531,10 +4563,18 @@ chroniącą przed pociskami.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert: Housing Complex</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180013Z" creationid="Syn Spawacza" creationdate="20200601T180013Z">
+        <seg>Pustynia: kompleks mieszkalny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert: Oil Field</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175951Z" creationid="Syn Spawacza" creationdate="20200601T175951Z">
-        <seg>Pustynia: Obóz</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180016Z" creationid="Syn Spawacza" creationdate="20200601T175951Z">
+        <seg>Pustynia: pola naftowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -4945,6 +4985,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emil's Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180241Z" creationid="Syn Spawacza" creationdate="20200601T180241Z">
+        <seg>Sklep Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emits a temporary beam 
 capable of healing the 
 combatants as long as they 
@@ -5254,6 +5302,30 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Factory: Entrance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180133Z" creationid="Syn Spawacza" creationdate="20200601T180133Z">
+        <seg>Fabryka: wejście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Factory: Furnace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180147Z" creationid="Syn Spawacza" creationdate="20200601T180147Z">
+        <seg>Fabryka: piece</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Factory: Hangar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180136Z" creationid="Syn Spawacza" creationdate="20200601T180136Z">
+        <seg>Fabryka: hangar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Faith</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134722Z" creationid="Syn Spawacza" creationdate="20200601T134722Z">
@@ -5442,6 +5514,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flooded City: Coast</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180155Z" creationid="Syn Spawacza" creationdate="20200601T180155Z">
+        <seg>Zatopione miasto: brzeg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flying (M)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075719Z" creationid="Syn Spawacza" creationdate="20200601T075719Z">
@@ -5482,6 +5562,22 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Forest Castle: Front</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180108Z" creationid="Syn Spawacza" creationdate="20200601T180108Z">
+        <seg>Leśny zamek: przód</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forest Castle: Royal Chamber</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180121Z" creationid="Syn Spawacza" creationdate="20200601T180121Z">
+        <seg>Leśny zamek: komnaty królewskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forest Photo</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085711Z" creationid="Syn Spawacza" creationdate="20200601T085711Z">
@@ -5502,6 +5598,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175008Z" creationid="Syn Spawacza" creationdate="20200601T175005Z">
         <seg>Obszar leśny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forest Zone: Center</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180101Z" creationid="Syn Spawacza" creationdate="20200601T180101Z">
+        <seg>Obszar leśny: środek</seg>
       </tuv>
     </tu>
     <tu>
@@ -6820,6 +6924,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Item Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180237Z" creationid="Syn Spawacza" creationdate="20200601T180237Z">
+        <seg>Sklep z przedmiotami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Items Obtained</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073254Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
@@ -7618,6 +7730,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174306Z" creationid="Syn Spawacza" creationdate="20200601T174306Z">
         <seg>Konserwacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maintenance Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180254Z" creationid="Syn Spawacza" creationdate="20200601T180254Z">
+        <seg>Warsztat</seg>
       </tuv>
     </tu>
     <tu>
@@ -8783,6 +8903,38 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090836Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
         <seg>Klucz dostępu z w. miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Park Ruins: Above Theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180049Z" creationid="Syn Spawacza" creationdate="20200601T180049Z">
+        <seg>W. miasteczko: Nad teatrem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Park Ruins: Attraction Sq.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180038Z" creationid="Syn Spawacza" creationdate="20200601T180038Z">
+        <seg>W. miasteczko: Plac atrakcji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Park Ruins: Coaster</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180043Z" creationid="Syn Spawacza" creationdate="20200601T180043Z">
+        <seg>W. miasteczko: Kolejka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Park Ruins: Theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180055Z" creationid="Syn Spawacza" creationdate="20200601T180055Z">
+        <seg>W. miasteczko: Teatr</seg>
       </tuv>
     </tu>
     <tu>
@@ -13366,6 +13518,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143559Z" creationid="Syn Spawacza" creationdate="20200530T143559Z">
         <seg>Zestaw broni 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180248Z" creationid="Syn Spawacza" creationdate="20200601T180248Z">
+        <seg>Sklep z bronią</seg>
       </tuv>
     </tu>
     <tu>
