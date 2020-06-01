@@ -7020,6 +7020,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sturdy Socket</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083702Z" creationid="Syn Spawacza" creationdate="20200601T083702Z">
+        <seg>Solidne gniazdko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sub-monitor 1</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134320Z" creationid="Syn Spawacza" creationdate="20200530T134320Z">
@@ -8412,6 +8420,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135956Z" creationid="Syn Spawacza" creationdate="20200530T135956Z">
         <seg>Chód 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warped Wire</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083934Z" creationid="Syn Spawacza" creationdate="20200601T083934Z">
+        <seg>Poskręcany drut</seg>
       </tuv>
     </tu>
     <tu>
