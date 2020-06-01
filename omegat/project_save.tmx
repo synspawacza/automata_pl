@@ -543,9 +543,9 @@ Może zostać sprzedana.</seg>
 Heavily damaged, there is little that
 can be analyzed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115808Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115824Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
         <seg>Czip z zapisem danych na temat A2.
-Zbyt uszkodzony do analizy.</seg>
+Zbyt uszkodzony by nadawać się do analizy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -820,12 +820,29 @@ na Ziemię.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A restored photo. It's much clearer now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120056Z" creationid="Syn Spawacza" creationdate="20200601T120056Z">
+        <seg>Odtworzone, wyraźne zdjęcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rose that bloomed in the desert.
 Can be exchanged for money.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110854Z" creationid="Syn Spawacza" creationdate="20200601T110854Z">
         <seg>Róża która zakwitła na pustyni.
 Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A rusted musical box that can no
+longer play.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115918Z" creationid="Syn Spawacza" creationdate="20200601T115918Z">
+        <seg>Zardzewiała pozytywka, nie odtwarzająca już melodii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3278,6 +3295,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182351Z" creationid="Syn Spawacza" creationdate="20200530T182351Z">
         <seg>To bez znaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dog tag of a member of the Resistance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115842Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
+        <seg>Nieśmiertelnik członka ruchu oporu.</seg>
       </tuv>
     </tu>
     <tu>
