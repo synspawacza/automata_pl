@@ -549,6 +549,26 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cable with five colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120628Z" creationid="Syn Spawacza" creationdate="20200601T120628Z">
+        <seg>Kabel z złączami w pięciu kolorach.
+Używany przy tworzeniu gier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cable with four colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120619Z" creationid="Syn Spawacza" creationdate="20200601T120619Z">
+        <seg>Kabel z złączami w czterech kolorach.
+Używany przy tworzeniu gier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cable with three colored connectors.
 Used for creating games.</seg>
       </tuv>
@@ -609,6 +629,15 @@ leather.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111028Z" creationid="Syn Spawacza" creationdate="20200601T111028Z">
         <seg>Związek używany przy produkcji skóry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cosmetic item humans would rub on
+their lips to make themselves beautiful.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121011Z" creationid="Syn Spawacza" creationdate="20200601T121011Z">
+        <seg>Przyrząd kosmetyczny aplikowany na usta przez ludzi by się upiększyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -963,6 +992,17 @@ a dictionary.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113658Z" creationid="Syn Spawacza" creationdate="20200601T113555Z">
         <seg>Książka wyglądająca na gruby słownik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tool humans used to brush their teeth.
+Reduces the probability of cavities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120710Z" creationid="Syn Spawacza" creationdate="20200601T120710Z">
+        <seg>Przyrząd używany przez ludzi do
+czyszczenia zębów. Zmniejsza występowanie
+próchnicy.</seg>
       </tuv>
     </tu>
     <tu>
