@@ -1749,6 +1749,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access Point</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180301Z" creationid="Syn Spawacza" creationdate="20200601T180301Z">
+        <seg>Punkt dostępu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accounting Book</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090037Z" creationid="Syn Spawacza" creationdate="20200601T090037Z">
@@ -2712,6 +2720,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180223Z" creationid="Syn Spawacza" creationdate="20200601T180223Z">
         <seg>Nazwa obszaru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Area Names</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180551Z" creationid="Syn Spawacza" creationdate="20200601T180551Z">
+        <seg>Nazwa obszarów</seg>
       </tuv>
     </tu>
     <tu>
@@ -4285,6 +4301,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Custom Marker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180338Z" creationid="Syn Spawacza" creationdate="20200601T180338Z">
+        <seg>Znacznik użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customize Keyboard</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135029Z" creationid="Syn Spawacza" creationdate="20200530T135014Z">
@@ -5242,6 +5266,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172529Z" creationid="Syn Spawacza" creationdate="20200530T172529Z">
         <seg>Unik (Podwójne naciśnięcie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Event Marker</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180319Z" creationid="Syn Spawacza" creationdate="20200601T180319Z">
+        <seg>Znacznik wydarzenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -6928,6 +6960,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180237Z" creationid="Syn Spawacza" creationdate="20200601T180237Z">
         <seg>Sklep z przedmiotami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Item Shops</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180558Z" creationid="Syn Spawacza" creationdate="20200601T180558Z">
+        <seg>Sklepy z przedmiotami</seg>
       </tuv>
     </tu>
     <tu>
@@ -9553,6 +9593,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094143Z" creationid="Syn Spawacza" creationdate="20200601T094143Z">
         <seg>Wytworny woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quest Destination</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180307Z" creationid="Syn Spawacza" creationdate="20200601T180307Z">
+        <seg>Cel zadania</seg>
       </tuv>
     </tu>
     <tu>
@@ -13026,10 +13074,26 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View Emil's shop.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180407Z" creationid="Syn Spawacza" creationdate="20200601T180407Z">
+        <seg>Zobacz sklep Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View a list of icons used on the map.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073909Z" creationid="Syn Spawacza" creationdate="20200530T142822Z">
         <seg>Zobacz listę ikon używanych na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View access points.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180445Z" creationid="Syn Spawacza" creationdate="20200601T180445Z">
+        <seg>Zobacz punkty dostępu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13106,6 +13170,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View areas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180346Z" creationid="Syn Spawacza" creationdate="20200601T180346Z">
+        <seg>Zobacz obszary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View completed quests.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143401Z" creationid="Syn Spawacza" creationdate="20200530T143401Z">
@@ -13114,10 +13186,34 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View current destination.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180458Z" creationid="Syn Spawacza" creationdate="20200601T180458Z">
+        <seg>Zobacz obecny cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View current play records.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144726Z" creationid="Syn Spawacza" creationdate="20200530T144726Z">
         <seg>Zobacz statystyki obecnej rozgrywki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View custom markers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180532Z" creationid="Syn Spawacza" creationdate="20200601T180532Z">
+        <seg>Zobacz znaczniki użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View event markers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180522Z" creationid="Syn Spawacza" creationdate="20200601T180522Z">
+        <seg>Zobacz znaczniki wydarzeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13146,6 +13242,22 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>View item shops.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180400Z" creationid="Syn Spawacza" creationdate="20200601T180400Z">
+        <seg>Zobacz  sklepy z przedmiotami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View maintenance shops.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180429Z" creationid="Syn Spawacza" creationdate="20200601T180429Z">
+        <seg>Zobacz warsztaty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>View novels.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144419Z" creationid="Syn Spawacza" creationdate="20200530T144419Z">
@@ -13166,6 +13278,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144320Z" creationid="Syn Spawacza" creationdate="20200530T144253Z">
         <seg>Zobacz książki z ilustracjami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View quest destinations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180507Z" creationid="Syn Spawacza" creationdate="20200601T180507Z">
+        <seg>Zobacz cel misji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13238,6 +13358,22 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144318Z" creationid="Syn Spawacza" creationdate="20200530T144202Z">
         <seg>Zobacz historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View weapons dealers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180419Z" creationid="Syn Spawacza" creationdate="20200601T180419Z">
+        <seg>Zobacz handlarzy bronią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View your previous body.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180545Z" creationid="Syn Spawacza" creationdate="20200601T180545Z">
+        <seg>Zobacz twoje poprzednie ciało</seg>
       </tuv>
     </tu>
     <tu>
