@@ -488,6 +488,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A book humans used for recording
+family finances.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120443Z" creationid="Syn Spawacza" creationdate="20200601T120443Z">
+        <seg>Książka używana przez ludzi do
+zapisywania rodzinnych wydatków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book too worn to read.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110959Z" creationid="Syn Spawacza" creationdate="20200601T110959Z">
@@ -535,6 +545,16 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103450Z" creationid="Syn Spawacza" creationdate="20200601T103450Z">
         <seg>Złamany, bezużyteczny klucz naciągowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cable with three colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120610Z" creationid="Syn Spawacza" creationdate="20200601T120610Z">
+        <seg>Kabel z złączami w trzech kolorach.
+Używany przy tworzeniu gier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -888,6 +908,16 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
         <seg>Małe kółko zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A small shoe thought to have been
+worn by a human girl.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120511Z" creationid="Syn Spawacza" creationdate="20200601T120511Z">
+        <seg>Mały bucik który mógł być noszony
+przez ludzką dziewczynkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2908,6 +2938,15 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164920Z" creationid="Syn Spawacza" creationdate="20200530T164920Z">
         <seg>Utworzyć dane zapisu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Created by humans, this broken toy
+no longer works.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120345Z" creationid="Syn Spawacza" creationdate="20200601T120345Z">
+        <seg>Niedziałająca zabawka stworzona przez ludzi.</seg>
       </tuv>
     </tu>
     <tu>
