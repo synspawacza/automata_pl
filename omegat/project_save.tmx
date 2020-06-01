@@ -685,6 +685,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A rusted, beat-up bolt.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111451Z" creationid="Syn Spawacza" creationdate="20200601T111451Z">
+        <seg>Zardzewiała, zbita śruba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A seed fallen from a tree.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110822Z" creationid="Syn Spawacza" creationdate="20200601T110729Z">
@@ -1389,6 +1397,15 @@ przez pnie drzew.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
         <seg>Zdjęcie z wesołego miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An elastic substance extracted from
+plants.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111433Z" creationid="Syn Spawacza" creationdate="20200601T111433Z">
+        <seg>Elastyczna substancja z roślin.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5539,6 +5556,16 @@ Na maszyny jednak nie działa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mined ore. A semi-translucent jewel
+created from petrified tree sap.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111242Z" creationid="Syn Spawacza" creationdate="20200601T111242Z">
+        <seg>Półprzeźroczysty minerał powstały
+z skamieniałej żywicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini-map</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161807Z" creationid="Syn Spawacza" creationdate="20200530T161807Z">
@@ -9177,8 +9204,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Tree Sap</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082841Z" creationid="Syn Spawacza" creationdate="20200601T082841Z">
-        <seg>Sok drzewny</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111332Z" creationid="Syn Spawacza" creationdate="20200601T082841Z">
+        <seg>Żywica drzewa</seg>
       </tuv>
     </tu>
     <tu>
