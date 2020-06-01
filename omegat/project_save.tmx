@@ -7716,6 +7716,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Item Scan</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184533Z" creationid="Syn Spawacza" creationdate="20200601T184533Z">
+        <seg>Skan przedmiotów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Item Shop</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180237Z" creationid="Syn Spawacza" creationdate="20200601T180237Z">
@@ -10043,6 +10051,70 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overclock +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184228Z" creationid="Syn Spawacza" creationdate="20200601T184226Z">
+        <seg>Przetaktowanie +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184231Z" creationid="Syn Spawacza" creationdate="20200601T184231Z">
+        <seg>Przetaktowanie +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184232Z" creationid="Syn Spawacza" creationdate="20200601T184232Z">
+        <seg>Przetaktowanie +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184233Z" creationid="Syn Spawacza" creationdate="20200601T184233Z">
+        <seg>Przetaktowanie +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184235Z" creationid="Syn Spawacza" creationdate="20200601T184235Z">
+        <seg>Przetaktowanie +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184236Z" creationid="Syn Spawacza" creationdate="20200601T184236Z">
+        <seg>Przetaktowanie +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184239Z" creationid="Syn Spawacza" creationdate="20200601T184239Z">
+        <seg>Przetaktowanie +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overclock +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184241Z" creationid="Syn Spawacza" creationdate="20200601T184241Z">
+        <seg>Przetaktowanie +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overlap</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134703Z" creationid="Syn Spawacza" creationdate="20200530T134703Z">
@@ -11313,6 +11385,78 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140000Z" creationid="Syn Spawacza" creationdate="20200530T140000Z">
         <seg>Reset kamery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184449Z" creationid="Syn Spawacza" creationdate="20200601T184344Z">
+        <seg>Odporność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184451Z" creationid="Syn Spawacza" creationdate="20200601T184451Z">
+        <seg>Odporność +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184452Z" creationid="Syn Spawacza" creationdate="20200601T184452Z">
+        <seg>Odporność +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184454Z" creationid="Syn Spawacza" creationdate="20200601T184454Z">
+        <seg>Odporność +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184455Z" creationid="Syn Spawacza" creationdate="20200601T184455Z">
+        <seg>Odporność +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184456Z" creationid="Syn Spawacza" creationdate="20200601T184456Z">
+        <seg>Odporność +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184458Z" creationid="Syn Spawacza" creationdate="20200601T184458Z">
+        <seg>Odporność +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184459Z" creationid="Syn Spawacza" creationdate="20200601T184459Z">
+        <seg>Odporność +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resilience +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184501Z" creationid="Syn Spawacza" creationdate="20200601T184501Z">
+        <seg>Odporność +8</seg>
       </tuv>
     </tu>
     <tu>
