@@ -1472,6 +1472,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beautiful Glass</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085216Z" creationid="Syn Spawacza" creationdate="20200601T085216Z">
+        <seg>Piękne szkiełko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because I'm really hoping we'll be a good team going forward.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211909Z" creationid="Syn Spawacza" creationdate="20200530T205331Z">
@@ -4242,6 +4250,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Letter for Jean-Paul</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085011Z" creationid="Syn Spawacza" creationdate="20200601T085011Z">
+        <seg>List do Jean-Paula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Letter for Sartre</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085003Z" creationid="Syn Spawacza" creationdate="20200601T085003Z">
+        <seg>List do Sartre'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>License</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130707Z" creationid="Syn Spawacza" creationdate="20200530T130707Z">
@@ -4494,6 +4518,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084946Z" creationid="Syn Spawacza" creationdate="20200601T084946Z">
         <seg>Rdzeń maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Fossil</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085254Z" creationid="Syn Spawacza" creationdate="20200601T085254Z">
+        <seg>Skamieniałość maszyny</seg>
       </tuv>
     </tu>
     <tu>
