@@ -3901,6 +3901,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Big Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200948Z" creationid="Syn Spawacza" creationdate="20200601T200948Z">
+        <seg>Duża maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biped (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075813Z" creationid="Syn Spawacza" creationdate="20200601T075722Z">
@@ -4709,6 +4717,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164415Z" creationid="Syn Spawacza" creationdate="20200601T164415Z">
         <seg>Ładuje się przy spoczynku. Chwilowo zwiększa atak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cheerful Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200816Z" creationid="Syn Spawacza" creationdate="20200601T200749Z">
+        <seg>Wesoła maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -6217,6 +6233,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131903Z" creationid="Syn Spawacza" creationdate="20200530T131903Z">
         <seg>Odległość (standardowa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Distracted Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200937Z" creationid="Syn Spawacza" creationdate="20200601T200937Z">
+        <seg>Rozproszona maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -7834,6 +7858,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133011Z" creationid="Syn Spawacza" creationdate="20200530T133011Z">
         <seg>Jakość grafiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Guard Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200915Z" creationid="Syn Spawacza" creationdate="20200601T200915Z">
+        <seg>Maszyna strażnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -10190,6 +10222,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine on Edge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200737Z" creationid="Syn Spawacza" creationdate="20200601T200737Z">
+        <seg>Maszyna na skraju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine on a Break</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195543Z" creationid="Syn Spawacza" creationdate="20200601T195543Z">
@@ -11835,6 +11875,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overprotective Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200954Z" creationid="Syn Spawacza" creationdate="20200601T200954Z">
+        <seg>Nadopiekuńcza matka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overwrite save in this slot?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165622Z" creationid="Syn Spawacza" creationdate="20200530T165622Z">
@@ -12129,6 +12177,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165738Z" creationid="Syn Spawacza" creationdate="20200530T165738Z">
         <seg>Zagraj by dowiedzieć się jak zapisywać grę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Playful Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200812Z" creationid="Syn Spawacza" creationdate="20200601T200804Z">
+        <seg>Radosna maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -13469,8 +13525,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Revved-up Machine</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200051Z" creationid="Syn Spawacza" creationdate="20200601T200051Z">
-        <seg>Podekscytowana maszyna</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200719Z" creationid="Syn Spawacza" creationdate="20200601T200051Z">
+        <seg>Nakręcona maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -14345,6 +14401,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Simple Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200742Z" creationid="Syn Spawacza" creationdate="20200601T200742Z">
+        <seg>Prosta maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skill Salve (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080615Z" creationid="Syn Spawacza" creationdate="20200601T080615Z">
@@ -14413,6 +14477,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200940Z" creationid="Syn Spawacza" creationdate="20200601T200940Z">
+        <seg>Mała maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Small Recovery</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150029Z" creationid="Syn Spawacza" creationdate="20200530T145829Z">
@@ -14433,6 +14505,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151101Z" creationid="Syn Spawacza" creationdate="20200530T151101Z">
         <seg>Miecze małe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Smaller Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200944Z" creationid="Syn Spawacza" creationdate="20200601T200944Z">
+        <seg>Mniejsza maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -14483,6 +14563,14 @@ your fallen body.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171858Z" creationid="Syn Spawacza" creationdate="20200530T171838Z">
         <seg>Ktoś pomodlił się nad
 twoim poległym ciałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Son Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200958Z" creationid="Syn Spawacza" creationdate="20200601T200958Z">
+        <seg>Maszyna syn</seg>
       </tuv>
     </tu>
     <tu>
@@ -15971,6 +16059,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131642Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
         <seg>Ustaw czy minimapa powinna się obracać czy pozostać statyczna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Too Playful Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200853Z" creationid="Syn Spawacza" creationdate="20200601T200853Z">
+        <seg>Zbyt radosna maszyna</seg>
       </tuv>
     </tu>
     <tu>
