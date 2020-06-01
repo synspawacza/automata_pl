@@ -544,6 +544,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>7E</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212600Z" creationid="Syn Spawacza" creationdate="20200601T212600Z">
+        <seg>7E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>7E down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174010Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
@@ -4300,6 +4308,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134907Z" creationid="Syn Spawacza" creationdate="20200530T134907Z">
         <seg>Tryb B (przytrzymaj)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>BERSERK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212450Z" creationid="Syn Spawacza" creationdate="20200601T212450Z">
+        <seg>BERSERK</seg>
       </tuv>
     </tu>
     <tu>
@@ -11482,6 +11498,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LIMITER RELEASED</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212433Z" creationid="Syn Spawacza" creationdate="20200601T212433Z">
+        <seg>OGRANICZENIE ZNIESIONE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LOAD GAME</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144629Z" creationid="Syn Spawacza" creationdate="20200530T141435Z">
@@ -12034,6 +12058,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204220Z" creationid="Syn Spawacza" creationdate="20200601T204220Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MANUAL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212512Z" creationid="Syn Spawacza" creationdate="20200601T212512Z">
+        <seg>INSTRUKCJA</seg>
       </tuv>
     </tu>
     <tu>
@@ -16375,6 +16407,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SELF-DESTRUCT SYSTEM ACTIVATED</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212700Z" creationid="Syn Spawacza" creationdate="20200601T212700Z">
+        <seg>AKTYWOWANY SYSTEM AUTODESTRUKCJI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SETTINGS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131028Z" creationid="Syn Spawacza" creationdate="20200530T131028Z">
@@ -16393,8 +16433,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>SKL</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T111338Z" creationid="Syn Spawacza" creationdate="20200530T172252Z">
-        <seg>FUNC</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212530Z" creationid="Syn Spawacza" creationdate="20200530T172252Z">
+        <seg>UMJT</seg>
       </tuv>
     </tu>
     <tu>
@@ -17205,6 +17245,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shoot</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212414Z" creationid="Syn Spawacza" creationdate="20200601T212414Z">
+        <seg>Strzał</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shopkeeper Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195359Z" creationid="Syn Spawacza" creationdate="20200601T195359Z">
@@ -17217,6 +17265,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175023Z" creationid="Syn Spawacza" creationdate="20200601T175023Z">
         <seg>Centrum handlowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcut Menu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212548Z" creationid="Syn Spawacza" creationdate="20200601T212548Z">
+        <seg>Menu skrótów</seg>
       </tuv>
     </tu>
     <tu>
