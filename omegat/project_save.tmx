@@ -1536,6 +1536,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Black Pearl</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083152Z" creationid="Syn Spawacza" creationdate="20200601T083152Z">
+        <seg>Czarna perła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blur</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
@@ -2486,6 +2494,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182351Z" creationid="Syn Spawacza" creationdate="20200530T182351Z">
         <seg>To bez znaczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drab Bracelet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083609Z" creationid="Syn Spawacza" creationdate="20200601T083609Z">
+        <seg>Posępna bransoleta</seg>
       </tuv>
     </tu>
     <tu>
@@ -6670,6 +6686,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133044Z" creationid="Syn Spawacza" creationdate="20200530T133044Z">
         <seg>Cienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shattered Earring</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083313Z" creationid="Syn Spawacza" creationdate="20200601T083313Z">
+        <seg>Potrzaskany kolczyk</seg>
       </tuv>
     </tu>
     <tu>
