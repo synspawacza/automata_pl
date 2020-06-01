@@ -520,6 +520,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;Selection&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202421Z" creationid="Syn Spawacza" creationdate="20200601T202421Z">
+        <seg>&lt;Wybór&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Villager's Request</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174412Z" creationid="Syn Spawacza" creationdate="20200601T174412Z">
@@ -10562,6 +10570,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180609Z" creationid="Syn Spawacza" creationdate="20200601T180609Z">
         <seg>Warsztaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Man</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202508Z" creationid="Syn Spawacza" creationdate="20200601T202429Z">
+        <seg>Człowiek</seg>
       </tuv>
     </tu>
     <tu>
