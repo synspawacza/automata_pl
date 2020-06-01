@@ -2298,8 +2298,8 @@ przeznaczona dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Beastbane</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134752Z" creationid="Syn Spawacza" creationdate="20200601T134752Z">
-        <seg>Zmora</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135249Z" creationid="Syn Spawacza" creationdate="20200601T134752Z">
+        <seg>Zmora Bestii</seg>
       </tuv>
     </tu>
     <tu>
@@ -3209,6 +3209,14 @@ no longer works.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120345Z" creationid="Syn Spawacza" creationdate="20200601T120345Z">
         <seg>Niedziałająca zabawka stworzona przez ludzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cruel Blood Oath</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135433Z" creationid="Syn Spawacza" creationdate="20200601T135433Z">
+        <seg>Krwawa Przysięga</seg>
       </tuv>
     </tu>
     <tu>
@@ -5901,6 +5909,14 @@ Część 1 z 5 kolekcji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Axe</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135500Z" creationid="Syn Spawacza" creationdate="20200601T135500Z">
+        <seg>Topór maszyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Core</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084946Z" creationid="Syn Spawacza" creationdate="20200601T084946Z">
@@ -7142,6 +7158,22 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134824Z" creationid="Syn Spawacza" creationdate="20200601T134759Z">
         <seg>Sztylet Feniksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phoenix Lance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135611Z" creationid="Syn Spawacza" creationdate="20200601T135611Z">
+        <seg>Włócznia Feniksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Phoenix Sword</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135307Z" creationid="Syn Spawacza" creationdate="20200601T135307Z">
+        <seg>Miecz Feniksa</seg>
       </tuv>
     </tu>
     <tu>
@@ -10111,18 +10143,34 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type-3 Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135341Z" creationid="Syn Spawacza" creationdate="20200601T135330Z">
+        <seg>Ostrze typ 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type-3 Sword</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134910Z" creationid="Syn Spawacza" creationdate="20200601T134910Z">
-        <seg>Miecz typu 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135333Z" creationid="Syn Spawacza" creationdate="20200601T134910Z">
+        <seg>Miecz typ 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type-4O Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135339Z" creationid="Syn Spawacza" creationdate="20200601T135313Z">
+        <seg>Ostrze typ 4O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-4O Sword</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134859Z" creationid="Syn Spawacza" creationdate="20200601T134859Z">
-        <seg>Miecz typu 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135332Z" creationid="Syn Spawacza" creationdate="20200601T134859Z">
+        <seg>Miecz typ 4O</seg>
       </tuv>
     </tu>
     <tu>
@@ -10706,16 +10754,16 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Virtuous Contract</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155417Z" creationid="Syn Spawacza" creationdate="20200530T155417Z">
-        <seg>Cnotliwy kontrakt</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135447Z" creationid="Syn Spawacza" creationdate="20200530T155417Z">
+        <seg>Cnotliwy Kontrakt</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Virtuous Treaty</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155407Z" creationid="Syn Spawacza" creationdate="20200530T155407Z">
-        <seg>Cnotliwy traktat</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135437Z" creationid="Syn Spawacza" creationdate="20200530T155407Z">
+        <seg>Cnotliwy Traktat</seg>
       </tuv>
     </tu>
     <tu>
