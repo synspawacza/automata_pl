@@ -15029,6 +15029,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reflect the changes to the control scheme? This will overwrite the customized controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204507Z" creationid="Syn Spawacza" creationdate="20200601T204507Z">
+        <seg>Uwzględnić zmiany w schemacie sterowania? Nadpisze to ustawienia użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regardless, that's the end of the check for now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204913Z" creationid="Syn Spawacza" creationdate="20200530T204913Z">
@@ -16757,6 +16765,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some buttons are overlapping. Please assign duplicates to separate buttons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204526Z" creationid="Syn Spawacza" creationdate="20200601T204526Z">
+        <seg>Konflikt ustawień przycisków. Przypisz zduplikowane ustawienia do osobnych przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Someone has prayed over
 your fallen body.</seg>
       </tuv>
@@ -17834,6 +17850,16 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following actions are not mapped to a button.
+Do you want to proceed with this configuration anyway?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204510Z" creationid="Syn Spawacza" creationdate="20200601T204510Z">
+        <seg>Ta akcja nie jest zmapowana do przycisku.
+Kontynuować mimo to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The handful of survivors that remained fled from Earth, seeking refuge on the moon.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194705Z" creationid="Syn Spawacza" creationdate="20200530T194705Z">
@@ -18104,10 +18130,26 @@ wszystkim jednostkom YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This includes prohibited symbols (%, \, ", '). Please choose a new name.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204536Z" creationid="Syn Spawacza" creationdate="20200601T204536Z">
+        <seg>Wykryto niedozwolone symbole (%, \, ", '). Proszę wybrać inne imię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes prohibited words.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161646Z" creationid="Syn Spawacza" creationdate="20200530T161646Z">
         <seg>Wykryto niedozwolone słowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes prohibited words. Please choose a new name.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204533Z" creationid="Syn Spawacza" creationdate="20200601T204533Z">
+        <seg>Wykryto niedozwolone słowa. Proszę wybrać inne imię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18238,6 +18280,16 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210638Z" creationid="Syn Spawacza" creationdate="20200530T161137Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will restore all settings to their default values, except for the language and screen settings. 
+Are you sure?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204518Z" creationid="Syn Spawacza" creationdate="20200601T204518Z">
+        <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu. 
+Jesteś pewien?</seg>
       </tuv>
     </tu>
     <tu>
@@ -18771,6 +18823,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161444Z" creationid="Syn Spawacza" creationdate="20200530T161444Z">
         <seg>Nie wykryto kontrolera bezprzewodowego DUALSHOCK®4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unable to detect DUALSHOCK®4 wireless controller. Please reconnect it to resume play.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204529Z" creationid="Syn Spawacza" creationdate="20200601T204529Z">
+        <seg>Nie wykryto kontrolera bezprzewodowego DUALSHOCK®4. Podłącz kontroler, by wrócić do gry.</seg>
       </tuv>
     </tu>
     <tu>
