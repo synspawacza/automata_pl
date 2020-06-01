@@ -2269,6 +2269,22 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alien Cells</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190304Z" creationid="Syn Spawacza" creationdate="20200601T190304Z">
+        <seg>Komórki obcych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alien Heart</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190310Z" creationid="Syn Spawacza" creationdate="20200601T190310Z">
+        <seg>Serce obcych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alien Mask</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094753Z" creationid="Syn Spawacza" creationdate="20200601T094753Z">
@@ -2928,6 +2944,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
         <seg>Kod uwierzytelniania: YoRHa Numer 9 Typ S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190409Z" creationid="Syn Spawacza" creationdate="20200601T190409Z">
+        <seg>Autoatak</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,6 +7024,30 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HUD: Control</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190233Z" creationid="Syn Spawacza" creationdate="20200601T190233Z">
+        <seg>HUD: kontrola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Damage Values</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190143Z" creationid="Syn Spawacza" creationdate="20200601T190143Z">
+        <seg>HUD: wartości obrażeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: EXP Gauge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190110Z" creationid="Syn Spawacza" creationdate="20200601T190110Z">
+        <seg>HUD: wskaźnik PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HUD: Enemy Data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185649Z" creationid="Syn Spawacza" creationdate="20200601T185649Z">
@@ -7008,10 +7056,42 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HUD: Fishing Spots</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190323Z" creationid="Syn Spawacza" creationdate="20200601T190323Z">
+        <seg>HUD: łowiska wędkarskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HUD: HP Gauge</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185632Z" creationid="Syn Spawacza" creationdate="20200601T185632Z">
         <seg>HUD: wskaźnik PŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Mini-map</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190104Z" creationid="Syn Spawacza" creationdate="20200601T190104Z">
+        <seg>HUD: minimapa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Objectives</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190205Z" creationid="Syn Spawacza" creationdate="20200601T190205Z">
+        <seg>HUD: cele</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Save Points</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190130Z" creationid="Syn Spawacza" creationdate="20200601T190130Z">
+        <seg>HUD: punkty zapisu</seg>
       </tuv>
     </tu>
     <tu>
