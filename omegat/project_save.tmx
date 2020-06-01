@@ -671,6 +671,17 @@ Niezwykle rzadka.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A letter addressed to Jean-Paul that
+seems to contain a question.
+You shouldn't read it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114502Z" creationid="Syn Spawacza" creationdate="20200601T114502Z">
+        <seg>List z pytaniem adresowany do Jean-Paula.
+Nie powinieneś go nie czytać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A letter addressed to Sartre that
 seems to contain a question.
 You shouldn't read it.</seg>
