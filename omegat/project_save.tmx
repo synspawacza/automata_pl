@@ -1968,6 +1968,14 @@ przeznaczona dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Angel's Folly</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140326Z" creationid="Syn Spawacza" creationdate="20200601T140326Z">
+        <seg>Anielska Głupota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animal Bait</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081153Z" creationid="Syn Spawacza" creationdate="20200601T081153Z">
@@ -3221,18 +3229,26 @@ no longer works.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cruel Arrogance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135903Z" creationid="Syn Spawacza" creationdate="20200601T135903Z">
+        <seg>Okrutna Arogancja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cruel Blood Oath</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135433Z" creationid="Syn Spawacza" creationdate="20200601T135433Z">
-        <seg>Krwawa Przysięga</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135914Z" creationid="Syn Spawacza" creationdate="20200601T135433Z">
+        <seg>Okrutna Przysięga Krwi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Cruel Oath</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134920Z" creationid="Syn Spawacza" creationdate="20200601T134920Z">
-        <seg>Okrutna przysięga</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135920Z" creationid="Syn Spawacza" creationdate="20200601T134920Z">
+        <seg>Okrutna Przysięga</seg>
       </tuv>
     </tu>
     <tu>
@@ -5985,6 +6001,14 @@ Część 1 z 5 kolekcji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090948Z" creationid="Syn Spawacza" creationdate="20200601T090948Z">
         <seg>Część maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Spear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135940Z" creationid="Syn Spawacza" creationdate="20200601T135940Z">
+        <seg>Włócznia maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -10175,6 +10199,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type-3 Lance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135820Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
+        <seg>Włócznia typ 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type-3 Sword</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135333Z" creationid="Syn Spawacza" creationdate="20200601T134910Z">
@@ -10187,6 +10219,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135339Z" creationid="Syn Spawacza" creationdate="20200601T135313Z">
         <seg>Ostrze typ 4O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type-4O Lance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135816Z" creationid="Syn Spawacza" creationdate="20200601T135816Z">
+        <seg>Włócznia typ 4O</seg>
       </tuv>
     </tu>
     <tu>
@@ -10780,6 +10820,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135447Z" creationid="Syn Spawacza" creationdate="20200530T155417Z">
         <seg>Cnotliwy Kontrakt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtuous Dignity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135831Z" creationid="Syn Spawacza" creationdate="20200601T135831Z">
+        <seg>Cnotliwa Godność</seg>
       </tuv>
     </tu>
     <tu>
