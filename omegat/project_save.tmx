@@ -1067,6 +1067,16 @@ longer play.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A rusty iron pipe covered in the vital fluids of machine
+lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T141607Z" creationid="Syn Spawacza" creationdate="20200601T141607Z">
+        <seg>Zardzewiała żelazna rura pokryta płynami ustrojowymi
+mechanicznych form życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A seed fallen from a tree.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110822Z" creationid="Syn Spawacza" creationdate="20200601T110729Z">
@@ -1161,6 +1171,16 @@ przez pnie drzew.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112418Z" creationid="Syn Spawacza" creationdate="20200601T112418Z">
         <seg>Rozciągnięty, bezużyteczny zwój.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sword decorated with a bestial motif.
+Short and thin, it easily goes unnoticed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T141648Z" creationid="Syn Spawacza" creationdate="20200601T141648Z">
+        <seg>Miecz zdobiony motywem zwierzęcym.
+Tak krótki i cienki że łatwo go nie zauważyć.</seg>
       </tuv>
     </tu>
     <tu>
