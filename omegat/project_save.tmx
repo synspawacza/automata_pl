@@ -4977,6 +4977,19 @@ w którym zwrócony jest pod.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fires a wire in the direction that
+the Pod is facing. If it hits a foe,
+it launches the combatant right to
+the target for an up-close assault.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171134Z" creationid="Syn Spawacza" creationdate="20200601T171134Z">
+        <seg>Wystrzeliwuje przewód w kierunku
+w którym zwrócony jest pod. Gdy trafi
+przeciwnika, walczący przyciągany wjego kierunku, pozwalając na walkę wręcz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Firing Direction</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T121254Z" creationid="Syn Spawacza" creationdate="20200531T121254Z">
