@@ -521,6 +521,15 @@ of the East.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black katana kept by warrior
+monks of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161357Z" creationid="Syn Spawacza" creationdate="20200601T161357Z">
+        <seg>Czarne katana wojownika z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black oriental sword. Its no-frills
 design gives it an aura of serious weaponry.</seg>
       </tuv>
@@ -725,10 +734,19 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A colossal axe offered unto the
+gods.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161213Z" creationid="Syn Spawacza" creationdate="20200601T161213Z">
+        <seg>Ogromny topór ofiarowany bogom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A colossal iron blade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161112Z" creationid="Syn Spawacza" creationdate="20200601T161112Z">
-        <seg>Ogromne żelazne ostrze</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161139Z" creationid="Syn Spawacza" creationdate="20200601T161112Z">
+        <seg>Ogromna żelazna klinga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -864,9 +882,27 @@ nie wiadomo do czego służy.</seg>
         <seg>A giant, cursed axe, anointed with the blood of
 innocent twins to assuage the wrath of the gods.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151014Z" creationid="Syn Spawacza" creationdate="20200601T151014Z">
-        <seg>Ogromny miecz namaszczony krwią niewinnych
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161127Z" creationid="Syn Spawacza" creationdate="20200601T151014Z">
+        <seg>Ogromny topór namaszczony krwią niewinnych
 bliźniąt by uspokoić gniew bogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A greatsword made from the plume
+of a phoenix.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161327Z" creationid="Syn Spawacza" creationdate="20200601T161327Z">
+        <seg>Miecz wielki z pióra feniksa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A greatsword shaped after the
+king of beasts.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161316Z" creationid="Syn Spawacza" creationdate="20200601T161316Z">
+        <seg>Miecz wielki z motywem króla zwierząt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1441,6 +1477,15 @@ of the East.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160915Z" creationid="Syn Spawacza" creationdate="20200601T160915Z">
         <seg>Białe ostrze samuraja z Wschodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A white katana kept by samurai
+of the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161341Z" creationid="Syn Spawacza" creationdate="20200601T161341Z">
+        <seg>Biała katana samuraja z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
