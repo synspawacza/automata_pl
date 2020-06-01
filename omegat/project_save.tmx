@@ -11208,6 +11208,30 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Accessory]
+A head covering worn by machine
+lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130230Z" creationid="Syn Spawacza" creationdate="20200601T130230Z">
+        <seg>[Akcesoria]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Equipment]
+Protective armor formally issued
+to YoRHa troops. 2B can equip this
+costume.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T125550Z" creationid="Syn Spawacza" creationdate="20200601T125550Z">
+        <seg>[Wyposażenie]
+Przydziałowa zbroja ochronna używana
+przez żołnierzy YoRHa. Może być używana
+przez 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\&lt;removeme&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135536Z" creationid="Syn Spawacza" creationdate="20200530T135536Z">
