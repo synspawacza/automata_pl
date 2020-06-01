@@ -9317,6 +9317,18 @@ zostali zniszczeni prze ruch oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The core of a machine lifeform
+containing a copious amount of data. 
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134036Z" creationid="Syn Spawacza" creationdate="20200601T134036Z">
+        <seg>Rdzeń mechanicznej formy życia zawierający
+mnóstwo danych.
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181134Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
@@ -11415,9 +11427,10 @@ A purple Pod skin filled with the
 hopes and dreams of millions of
 children.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132514Z" creationid="Syn Spawacza" creationdate="20200601T132510Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T133855Z" creationid="Syn Spawacza" creationdate="20200601T132510Z">
         <seg>[Wygląd poda]
-</seg>
+Wygląd poda wypełniony
+marzeniami milionów dzieci.</seg>
       </tuv>
     </tu>
     <tu>
