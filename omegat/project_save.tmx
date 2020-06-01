@@ -2061,6 +2061,16 @@ formy życia. Może i jest z złomu, ale robi swoją robotę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An old YoRHa spear, built to imitate ancient human
+weaponry. Old-fashioned, but reliable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153732Z" creationid="Syn Spawacza" creationdate="20200601T153641Z">
+        <seg>Stara lanca YoRHa, imitująca starożytną ludzką broń.
+Staromodna, ale niezawodna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An old mask left behind by a 
 machine lifeform.
 Can be exchanged for money.</seg>
@@ -10139,6 +10149,16 @@ wszystkim jednostkom YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This pure white spear shines with the pride
+of the haughty samurai who once bore it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153959Z" creationid="Syn Spawacza" creationdate="20200601T153959Z">
+        <seg>Nieskazitelnie biała włócznia, promieniejąca dumą
+wyniosłego samuraja który niegdyś ją dzierżył.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This samurai sword's pure white blade is not yet
 sullied by a single drop of blood.</seg>
       </tuv>
@@ -11598,6 +11618,17 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071700Z" creationid="Syn Spawacza" creationdate="20200601T071700Z">
         <seg>Żołnierze YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa commanders' guards wield this advanced spear.
+Its power increases as it charges with energy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153654Z" creationid="Syn Spawacza" creationdate="20200601T153606Z">
+        <seg>Nowoczesna lanca używana przez ochronę
+dowódców YoRHa. Moc lancy zwiększa się
+po naładowaniu.</seg>
       </tuv>
     </tu>
     <tu>
