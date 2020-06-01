@@ -288,6 +288,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S Captured</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173748Z" creationid="Syn Spawacza" creationdate="20200601T173748Z">
+        <seg>9S schwytany</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9S black box signal detected.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
@@ -3775,6 +3783,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082406Z" creationid="Syn Spawacza" creationdate="20200601T082406Z">
         <seg>Złożony mechanizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confession</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173819Z" creationid="Syn Spawacza" creationdate="20200601T173819Z">
+        <seg>Wyznanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -7523,6 +7539,22 @@ z skamieniałej żywicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Missile Supply Mission</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173729Z" creationid="Syn Spawacza" creationdate="20200601T173729Z">
+        <seg>Misja: zaopatrzenie rakiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mission Details</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173825Z" creationid="Syn Spawacza" creationdate="20200601T173825Z">
+        <seg>Szczegóły misji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Model Viewer</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140740Z" creationid="Syn Spawacza" creationdate="20200530T140740Z">
@@ -8161,6 +8193,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200557Z" creationid="Syn Spawacza" creationdate="20200530T200557Z">
         <seg>Okej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Olive Branch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173831Z" creationid="Syn Spawacza" creationdate="20200601T173831Z">
+        <seg>Gałązka oliwna</seg>
       </tuv>
     </tu>
     <tu>
@@ -9053,6 +9093,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Redheads</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173734Z" creationid="Syn Spawacza" creationdate="20200601T173734Z">
+        <seg>Rudowłose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reflect the changes to the control scheme?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160900Z" creationid="Syn Spawacza" creationdate="20200530T160900Z">
@@ -9193,6 +9241,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190719Z" creationid="Syn Spawacza" creationdate="20200530T190719Z">
         <seg>Proszę o... zniszczenie wrogów przez reakcję czarnych skrzynek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rescue 2B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173812Z" creationid="Syn Spawacza" creationdate="20200601T173812Z">
+        <seg>Ratunek 2B</seg>
       </tuv>
     </tu>
     <tu>
@@ -11635,6 +11691,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143945Z" creationid="Syn Spawacza" creationdate="20200530T143945Z">
         <seg>Samouczki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Twisted Religion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173856Z" creationid="Syn Spawacza" creationdate="20200601T173856Z">
+        <seg>Skrzywiona religia</seg>
       </tuv>
     </tu>
     <tu>
