@@ -10098,6 +10098,16 @@ wszystkim jednostkom YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This samurai sword's pure white blade is not yet
+sullied by a single drop of blood.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151807Z" creationid="Syn Spawacza" creationdate="20200601T151807Z">
+        <seg>Białe ostrze tego samurajskiego miecza nie
+zostało splamione jeszcze nawet kroplą krwi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This setting can only be changed at the Start Menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131336Z" creationid="Syn Spawacza" creationdate="20200530T131336Z">
@@ -10110,6 +10120,16 @@ wszystkim jednostkom YoRHa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131342Z" creationid="Syn Spawacza" creationdate="20200530T131342Z">
         <seg>Ustawnie może zostać zmienione tylko w trakcie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This warrior's sword has been stained jet black
+with the blood of years of conflict.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T152254Z" creationid="Syn Spawacza" creationdate="20200601T152254Z">
+        <seg>Miecz wojownika, który przez lata walk krew
+zabarwiła na czarno.</seg>
       </tuv>
     </tu>
     <tu>
