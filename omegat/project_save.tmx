@@ -498,6 +498,17 @@ zapisywania rodzinnych wydatków.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A book of pharmaceuticals for living
+organisms that already existed in the
+Pod's database.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121943Z" creationid="Syn Spawacza" creationdate="20200601T121703Z">
+        <seg>Książka o leczeniu żywych organizmów,
+która znajdowała już się w pamięci poda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book too worn to read.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110959Z" creationid="Syn Spawacza" creationdate="20200601T110959Z">
@@ -1000,10 +1011,10 @@ a dictionary.</seg>
 Records indicate these were believed
 to be mightier than swords.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121623Z" creationid="Syn Spawacza" creationdate="20200601T121623Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121709Z" creationid="Syn Spawacza" creationdate="20200601T121623Z">
         <seg>Przyrząd do zapisywania informacji.
 Zapiski wskazują że były one uważane
-za mocniejsze od miecza.</seg>
+za silniejsze od miecza.</seg>
       </tuv>
     </tu>
     <tu>
