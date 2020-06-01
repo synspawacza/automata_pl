@@ -659,6 +659,16 @@ w wesołym miasteczku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A ceremonial implement allegedly made from phoenix
+feathers. Mostly decorative. Untested in combat.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T143426Z" creationid="Syn Spawacza" creationdate="20200601T143426Z">
+        <seg>Ozdobne, ceremonialne ostrze, rzekomo stworzone z pióra
+feniksa. Niesprawdzone w boju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A chip containing a data log on A2.
 Heavily damaged, there is little that
 can be analyzed.</seg>
