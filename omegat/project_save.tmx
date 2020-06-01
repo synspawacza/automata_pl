@@ -504,6 +504,30 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A newly made screw.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102613Z" creationid="Syn Spawacza" creationdate="20200601T102613Z">
+        <seg>Wkręt w stanie fabrycznym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A small gear for something.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
+        <seg>Małe kółko zębate z jakiegoś urządzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A worn-down, unusable screw.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102541Z" creationid="Syn Spawacza" creationdate="20200601T102541Z">
+        <seg>Zużyty, nieprzydatny wkręt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A.D.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194057Z" creationid="Syn Spawacza" creationdate="20200530T194057Z">
@@ -5075,6 +5099,16 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181627Z" creationid="Syn Spawacza" creationdate="20200530T181627Z">
         <seg>Może go... No nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat from a white-furred moose.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102336Z" creationid="Syn Spawacza" creationdate="20200601T102336Z">
+        <seg>Mięso pozyskane z białego łosia.
+Może zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
