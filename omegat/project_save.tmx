@@ -1136,6 +1136,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal Bait</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081153Z" creationid="Syn Spawacza" creationdate="20200601T081153Z">
+        <seg>Przynęta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animation</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140508Z" creationid="Syn Spawacza" creationdate="20200530T140508Z">
@@ -2426,6 +2434,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E-Drug</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081439Z" creationid="Syn Spawacza" creationdate="20200601T081439Z">
+        <seg>E-dopalacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ENDING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173305Z" creationid="Syn Spawacza" creationdate="20200530T173305Z">
@@ -3586,6 +3602,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Impact Bracer (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081044Z" creationid="Syn Spawacza" creationdate="20200601T081044Z">
+        <seg>Ochraniacz (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impact Bracer (S)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081039Z" creationid="Syn Spawacza" creationdate="20200601T081039Z">
@@ -3982,6 +4006,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131059Z" creationid="Syn Spawacza" creationdate="20200530T131059Z">
         <seg>Język</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large G Luck+</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081246Z" creationid="Syn Spawacza" creationdate="20200601T081246Z">
+        <seg>Szczęście do G + (L)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5290,6 +5322,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Popola's Booze</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081145Z" creationid="Syn Spawacza" creationdate="20200601T081145Z">
+        <seg>Gorzała Popoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pray and Continue</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141854Z" creationid="Syn Spawacza" creationdate="20200530T141854Z">
@@ -6466,6 +6506,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small G Luck+</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081241Z" creationid="Syn Spawacza" creationdate="20200601T081241Z">
+        <seg>Szczęście do G + (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Small Gear</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150448Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
@@ -6600,6 +6648,22 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073018Z" creationid="Syn Spawacza" creationdate="20200601T073018Z">
         <seg>Umiejętności specjalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speed Salve (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081106Z" creationid="Syn Spawacza" creationdate="20200601T081106Z">
+        <seg>Balsam prędkości (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speed Salve (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081100Z" creationid="Syn Spawacza" creationdate="20200601T081100Z">
+        <seg>Balsam prędkości (S)</seg>
       </tuv>
     </tu>
     <tu>
