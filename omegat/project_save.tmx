@@ -2682,6 +2682,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dress Module</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094605Z" creationid="Syn Spawacza" creationdate="20200601T094605Z">
+        <seg>Moduł stroju</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dye</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082952Z" creationid="Syn Spawacza" creationdate="20200601T082952Z">
@@ -3274,6 +3282,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gift Voucher</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094447Z" creationid="Syn Spawacza" creationdate="20200601T094447Z">
+        <seg>Voucher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glory to mankind!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195530Z" creationid="Syn Spawacza" creationdate="20200530T195530Z">
@@ -3422,6 +3438,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170253Z" creationid="Syn Spawacza" creationdate="20200530T170253Z">
         <seg>Idź do prywatnej kwatery 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy Armor A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094642Z" creationid="Syn Spawacza" creationdate="20200601T094642Z">
+        <seg>Ciężka Zbroja A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heavy Armor B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094645Z" creationid="Syn Spawacza" creationdate="20200601T094645Z">
+        <seg>Ciężka Zbroja B</seg>
       </tuv>
     </tu>
     <tu>
@@ -4758,6 +4790,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082145Z" creationid="Syn Spawacza" creationdate="20200601T082145Z">
         <seg>Noga maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094720Z" creationid="Syn Spawacza" creationdate="20200601T094720Z">
+        <seg>Maska maszyny</seg>
       </tuv>
     </tu>
     <tu>
