@@ -528,6 +528,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ARCADE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074753Z" creationid="Syn Spawacza" creationdate="20200601T074753Z">
+        <seg>SALON GIER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AUTO MODE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140305Z" creationid="Syn Spawacza" creationdate="20200530T140305Z">
@@ -1696,6 +1704,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Challenge Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074815Z" creationid="Syn Spawacza" creationdate="20200601T074815Z">
+        <seg>Tryb wyzwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134557Z" creationid="Syn Spawacza" creationdate="20200530T134557Z">
@@ -1820,6 +1836,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205810Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
         <seg>Wybierz monitor, na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear as many hacking games as you can.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074927Z" creationid="Syn Spawacza" creationdate="20200601T074927Z">
+        <seg>Ukończ jak najwięcej gier za jednym podejściem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,8 +3444,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Inbox</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145129Z" creationid="Syn Spawacza" creationdate="20200530T145129Z">
-        <seg>Odebrane</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074736Z" creationid="Syn Spawacza" creationdate="20200530T145129Z">
+        <seg>Poczta</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,8 +5996,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Select transport destination.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210147Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
-        <seg>Wybierz miejsce, do którego przetransportować.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074708Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
+        <seg>Wybierz miejsce docelowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6988,6 +7012,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140142Z" creationid="Syn Spawacza" creationdate="20200530T140142Z">
         <seg>Razem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Training</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074825Z" creationid="Syn Spawacza" creationdate="20200601T074825Z">
+        <seg>Trening</seg>
       </tuv>
     </tu>
     <tu>
