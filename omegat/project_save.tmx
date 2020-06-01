@@ -1608,6 +1608,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blue Stripes Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095224Z" creationid="Syn Spawacza" creationdate="20200601T095224Z">
+        <seg>Pod w paski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blur</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
@@ -1860,6 +1868,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174039Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
         <seg>Kapitanie, chyba...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cardboard Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095109Z" creationid="Syn Spawacza" creationdate="20200601T095109Z">
+        <seg>Kartonowy pod</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6622,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142013Z" creationid="Syn Spawacza" creationdate="20200530T142013Z">
         <seg>Odzyskaj ciało.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retro Red Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095620Z" creationid="Syn Spawacza" creationdate="20200601T095620Z">
+        <seg>Pod retro — czerwony</seg>
       </tuv>
     </tu>
     <tu>
