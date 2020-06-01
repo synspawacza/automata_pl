@@ -504,6 +504,44 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cut, unusable cable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103623Z" creationid="Syn Spawacza" creationdate="20200601T103623Z">
+        <seg>Przerwany, bezużyteczny kabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A gadget so complex you don't
+know what it's for.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103831Z" creationid="Syn Spawacza" creationdate="20200601T103831Z">
+        <seg>Mechanizm tak złożony, że
+nie wiadomo do czego służy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A gadget so elaborate you don't
+know what it's for.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103822Z" creationid="Syn Spawacza" creationdate="20200601T103822Z">
+        <seg>Mechanizm tak wyrafinowany, że
+nie wiadomo do czego służy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A gadget so simple you don't
+know what it's for.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103815Z" creationid="Syn Spawacza" creationdate="20200601T103815Z">
+        <seg>Mechanizm tak prosty, że
+nie wiadomo do czego służy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A large gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102719Z" creationid="Syn Spawacza" creationdate="20200601T102719Z">
@@ -532,6 +570,30 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073406Z" creationid="Syn Spawacza" creationdate="20200601T073406Z">
         <seg>Błąd połączenia z siecią. Funkcje sieciowe są wyłączone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A newly made bolt.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103639Z" creationid="Syn Spawacza" creationdate="20200601T103639Z">
+        <seg>Śruba w stanie fabrycznym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A newly made cable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103630Z" creationid="Syn Spawacza" creationdate="20200601T103630Z">
+        <seg>Kabel w stanie fabrycznym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A newly made nut.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103656Z" creationid="Syn Spawacza" creationdate="20200601T103656Z">
+        <seg>Nakrętka w stanie fabrycznym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8375,6 +8437,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The arm unit of a machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103706Z" creationid="Syn Spawacza" creationdate="20200601T103706Z">
+        <seg>Ramię mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The black box...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190622Z" creationid="Syn Spawacza" creationdate="20200530T190622Z">
@@ -8423,10 +8493,26 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The head unit of a machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103728Z" creationid="Syn Spawacza" creationdate="20200601T103728Z">
+        <seg>Głowa mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The honor was mine.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190853Z" creationid="Syn Spawacza" creationdate="20200530T190853Z">
         <seg>Wzajemnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The leg unit of a machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103711Z" creationid="Syn Spawacza" creationdate="20200601T103711Z">
+        <seg>Noga mechanicznej formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8483,6 +8569,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211310Z" creationid="Syn Spawacza" creationdate="20200530T183634Z">
         <seg>Sygnały życiowe zbyt słabe, by podjąć próbę naprawy polowej w obecnej—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The torso unit of a machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103717Z" creationid="Syn Spawacza" creationdate="20200601T103717Z">
+        <seg>Tułów mechanicznej formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9135,6 +9229,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130950Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
         <seg>Użyj menu debugowego by swobodnie rozmieszczać przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this to make your Pod stronger.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103911Z" creationid="Syn Spawacza" creationdate="20200601T103911Z">
+        <seg>Użyj, by wzmocnić poda.</seg>
       </tuv>
     </tu>
     <tu>
