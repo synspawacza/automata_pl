@@ -4662,6 +4662,18 @@ w jej zasięgu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emits ultrasonic waves to 
+scan the surroundings 
+in search of hidden items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T172808Z" creationid="Syn Spawacza" creationdate="20200601T172808Z">
+        <seg>Emituje falę ultradźwiękowa
+która skanuje otoczenie w
+poszukiwaniu ukrytych obiektów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Empty Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082624Z" creationid="Syn Spawacza" creationdate="20200601T082624Z">
