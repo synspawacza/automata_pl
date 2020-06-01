@@ -11383,6 +11383,20 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Pod Model]
+A high-capacity device used in the
+Gestalt Project. It exudes a vague 
+aura of pompousness.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T131951Z" creationid="Syn Spawacza" creationdate="20200601T131951Z">
+        <seg>[Wygląd poda]
+Urządzenie o dużej pojemności
+używane w Projekcie Gestalt.
+Wytwarza nieuchwytną aurę wyniosłości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Pod Skin]
 Shaped after a common household
 appliance vital for survival.</seg>
