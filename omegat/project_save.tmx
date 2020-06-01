@@ -3562,6 +3562,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jukebox</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072014Z" creationid="Syn Spawacza" creationdate="20200601T072014Z">
+        <seg>Szafa grająca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jump</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134519Z" creationid="Syn Spawacza" creationdate="20200530T134519Z">
@@ -5722,6 +5730,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a difficulty level. This can be changed in-game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072126Z" creationid="Syn Spawacza" creationdate="20200601T072126Z">
+        <seg>Wybierz poziom trudności (może zostać zmieniony w trakcie gry).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a key to change assignment.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134732Z" creationid="Syn Spawacza" creationdate="20200530T134732Z">
@@ -6144,6 +6160,22 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180804Z" creationid="Syn Spawacza" creationdate="20200530T180804Z">
         <seg>Przestań mówić mi per „pani”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strange Resistance Man</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071955Z" creationid="Syn Spawacza" creationdate="20200601T071955Z">
+        <seg>Dziwny mężczyzna z ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strange Resistance Woman</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071944Z" creationid="Syn Spawacza" creationdate="20200601T071944Z">
+        <seg>Dziwna kobieta z ruchu oporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8004,6 +8036,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194335Z" creationid="Syn Spawacza" creationdate="20200530T194335Z">
         <seg>świat został zaatakowany przez obcych z głębi kosmosu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>© 2017 SQUARE ENIX CO., LTD. All Rights Reserved.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072106Z" creationid="Syn Spawacza" creationdate="20200601T072106Z">
+        <seg>© 2017 SQUARE ENIX CO., LTD. Wszystkie prawa zastrzeżone.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
