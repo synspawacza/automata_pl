@@ -2588,8 +2588,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Free Enemy Tracking</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132057Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
-        <seg>Prędkość śledzenia przeciwników</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072224Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
+        <seg>Śledzenie przeciwników</seg>
       </tuv>
     </tu>
     <tu>
@@ -2892,8 +2892,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Horizontal Map Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132205Z" creationid="Syn Spawacza" creationdate="20200530T132205Z">
-        <seg>Sterowanie mapy w osi poziomej</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072303Z" creationid="Syn Spawacza" creationdate="20200530T132205Z">
+        <seg>Obracanie mapy w osi poziomej</seg>
       </tuv>
     </tu>
     <tu>
@@ -3732,8 +3732,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Left Stick Map Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132309Z" creationid="Syn Spawacza" creationdate="20200530T132309Z">
-        <seg>Sterowanie mapy - Lewy analog</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072347Z" creationid="Syn Spawacza" creationdate="20200530T132309Z">
+        <seg>Przesuwanie mapy (l. analog)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3924,8 +3924,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Locked Enemy Tracking</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132118Z" creationid="Syn Spawacza" creationdate="20200530T132118Z">
-        <seg>Prędkość śledzenia p. namierzonych </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072252Z" creationid="Syn Spawacza" creationdate="20200530T132118Z">
+        <seg>Śledzenie namierzonych p.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7106,8 +7106,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Vertical Map Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132208Z" creationid="Syn Spawacza" creationdate="20200530T132208Z">
-        <seg>Sterowanie mapy w osi pionowej</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072310Z" creationid="Syn Spawacza" creationdate="20200530T132208Z">
+        <seg>Obracanie mapy w osi pionowej</seg>
       </tuv>
     </tu>
     <tu>
