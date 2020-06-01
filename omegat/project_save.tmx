@@ -3875,6 +3875,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Charge Attack</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184859Z" creationid="Syn Spawacza" creationdate="20200601T184859Z">
+        <seg>Szarża</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Charges on standby. Increases Attack for a time.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164415Z" creationid="Syn Spawacza" creationdate="20200601T164415Z">
@@ -4263,6 +4271,78 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073152Z" creationid="Syn Spawacza" creationdate="20200601T073152Z">
         <seg>Koszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184536Z" creationid="Syn Spawacza" creationdate="20200601T184536Z">
+        <seg>Kontra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184538Z" creationid="Syn Spawacza" creationdate="20200601T184538Z">
+        <seg>Kontra +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184539Z" creationid="Syn Spawacza" creationdate="20200601T184539Z">
+        <seg>Kontra +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184540Z" creationid="Syn Spawacza" creationdate="20200601T184540Z">
+        <seg>Kontra +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184541Z" creationid="Syn Spawacza" creationdate="20200601T184541Z">
+        <seg>Kontra +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184543Z" creationid="Syn Spawacza" creationdate="20200601T184543Z">
+        <seg>Kontra +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184544Z" creationid="Syn Spawacza" creationdate="20200601T184544Z">
+        <seg>Kontra +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184545Z" creationid="Syn Spawacza" creationdate="20200601T184545Z">
+        <seg>Kontra +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184547Z" creationid="Syn Spawacza" creationdate="20200601T184547Z">
+        <seg>Kontra +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -13199,6 +13279,78 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
         <seg>Wykryto cel misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184713Z" creationid="Syn Spawacza" creationdate="20200601T184713Z">
+        <seg>Prowokacja +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184716Z" creationid="Syn Spawacza" creationdate="20200601T184716Z">
+        <seg>Prowokacja +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184717Z" creationid="Syn Spawacza" creationdate="20200601T184717Z">
+        <seg>Prowokacja +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184719Z" creationid="Syn Spawacza" creationdate="20200601T184719Z">
+        <seg>Prowokacja +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184721Z" creationid="Syn Spawacza" creationdate="20200601T184721Z">
+        <seg>Prowokacja +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184722Z" creationid="Syn Spawacza" creationdate="20200601T184722Z">
+        <seg>Prowokacja +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184724Z" creationid="Syn Spawacza" creationdate="20200601T184724Z">
+        <seg>Prowokacja +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184726Z" creationid="Syn Spawacza" creationdate="20200601T184726Z">
+        <seg>Prowokacja +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunt Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184728Z" creationid="Syn Spawacza" creationdate="20200601T184728Z">
+        <seg>Prowokacja +8</seg>
       </tuv>
     </tu>
     <tu>
