@@ -2080,6 +2080,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Complex Gadget</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082406Z" creationid="Syn Spawacza" creationdate="20200601T082406Z">
+        <seg>Złożony mechanizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confirm</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140458Z" creationid="Syn Spawacza" creationdate="20200530T140458Z">
@@ -2534,6 +2542,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133047Z" creationid="Syn Spawacza" creationdate="20200530T133047Z">
         <seg>Efekty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elaborate Gadget</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082356Z" creationid="Syn Spawacza" creationdate="20200601T082356Z">
+        <seg>Wyrafinowany mechanizm</seg>
       </tuv>
     </tu>
     <tu>
@@ -5430,6 +5446,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081145Z" creationid="Syn Spawacza" creationdate="20200601T081145Z">
         <seg>Gorzała Popoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerup Part M</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082529Z" creationid="Syn Spawacza" creationdate="20200601T082529Z">
+        <seg>Część ulepszenia (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Powerup Part S</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082526Z" creationid="Syn Spawacza" creationdate="20200601T082526Z">
+        <seg>Część ulepszenia (S)</seg>
       </tuv>
     </tu>
     <tu>
