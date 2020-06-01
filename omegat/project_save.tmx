@@ -520,6 +520,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A piece of a meteorite that fell to
+the earth.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103222Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
+        <seg>Fragment meteorytu, który spadł
+na Ziemię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A small gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
@@ -1156,6 +1166,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173848Z" creationid="Syn Spawacza" creationdate="20200530T173848Z">
         <seg>Do wszystkich jednostek, aktywować sterowanie ręczne i unikać ataków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alloy composed of rare metals.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103319Z" creationid="Syn Spawacza" creationdate="20200601T103319Z">
+        <seg>Stop rzadkich metali. </seg>
       </tuv>
     </tu>
     <tu>
