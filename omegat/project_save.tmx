@@ -5329,6 +5329,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Council of Humanity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202959Z" creationid="Syn Spawacza" creationdate="20200601T202959Z">
+        <seg>Rada Ludzkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Counter</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184536Z" creationid="Syn Spawacza" creationdate="20200601T184536Z">
@@ -10646,6 +10654,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Masked Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203021Z" creationid="Syn Spawacza" creationdate="20200601T203021Z">
+        <seg>Zamaskowany handlarz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Materials</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150939Z" creationid="Syn Spawacza" creationdate="20200530T150939Z">
@@ -12405,6 +12421,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plato 1728</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203007Z" creationid="Syn Spawacza" creationdate="20200601T203007Z">
+        <seg>Platon 1728</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Play Records</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075617Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
@@ -13581,6 +13605,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resistance Secretary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203232Z" creationid="Syn Spawacza" creationdate="20200601T203232Z">
+        <seg>Sekretarka ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resistance Supply Trader</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201616Z" creationid="Syn Spawacza" creationdate="20200601T201616Z">
@@ -13593,6 +13625,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132941Z" creationid="Syn Spawacza" creationdate="20200530T132941Z">
         <seg>Rozdzielczość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resource Recovery Unit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202904Z" creationid="Syn Spawacza" creationdate="20200601T202904Z">
+        <seg>Jednostka odzyskiwania zasobów</seg>
       </tuv>
     </tu>
     <tu>
@@ -14473,6 +14513,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Server Manager</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202949Z" creationid="Syn Spawacza" creationdate="20200601T202949Z">
+        <seg>Zarządca serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Set Death Message</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144952Z" creationid="Syn Spawacza" creationdate="20200530T144813Z">
@@ -15345,6 +15393,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134326Z" creationid="Syn Spawacza" creationdate="20200530T134326Z">
         <seg>Monitor dodatkowy 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subtitle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202914Z" creationid="Syn Spawacza" creationdate="20200601T202914Z">
+        <seg>Podtytuł</seg>
       </tuv>
     </tu>
     <tu>
@@ -16307,6 +16363,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164036Z" creationid="Syn Spawacza" creationdate="20200530T164036Z">
         <seg>Stop tytanu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202908Z" creationid="Syn Spawacza" creationdate="20200601T202908Z">
+        <seg>Tytuł</seg>
       </tuv>
     </tu>
     <tu>
@@ -18673,6 +18737,14 @@ This head covering belongs to Emil.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130420Z" creationid="Syn Spawacza" creationdate="20200601T130341Z">
         <seg>[Dodatek]
 Nakrycie głowy należące do Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Anonymous]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203033Z" creationid="Syn Spawacza" creationdate="20200601T203033Z">
+        <seg>[Anonim]</seg>
       </tuv>
     </tu>
     <tu>
