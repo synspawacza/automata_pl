@@ -2994,6 +2994,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Filthy Mask</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091811Z" creationid="Syn Spawacza" creationdate="20200601T091811Z">
+        <seg>Brudna maska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Finish</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080157Z" creationid="Syn Spawacza" creationdate="20200601T080157Z">
@@ -7344,6 +7352,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161626Z" creationid="Syn Spawacza" creationdate="20200530T161626Z">
         <seg>Rozpocząć używając imienia „&lt;NAME&gt;”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Statue of a Girl</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092136Z" creationid="Syn Spawacza" creationdate="20200601T092136Z">
+        <seg>Pomnik dziewczyny</seg>
       </tuv>
     </tu>
     <tu>
