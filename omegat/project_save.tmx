@@ -11209,6 +11209,18 @@ przez 30 sekund.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[Accessory]
+A cool blue ribbon with an elegant
+design. Goes well with rough jackets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T131506Z" creationid="Syn Spawacza" creationdate="20200601T131506Z">
+        <seg>[Dodatek]
+Szałowa niebieska kokarda w eleganckim
+stylu. Świetnie pasuje do staromodnej kurtki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
 A head covering worn by machine
 lifeforms.</seg>
       </tuv>
