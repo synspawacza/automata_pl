@@ -5539,8 +5539,9 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
         <seg>Listen to nice BGM on the jukebox.
 Part 1 of a set of 5.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124607Z" creationid="Syn Spawacza" creationdate="20200601T124607Z">
-        <seg>Słuchaj ścieżki dźwiękowej na szafie grającej.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124620Z" creationid="Syn Spawacza" creationdate="20200601T124607Z">
+        <seg>Słuchaj ścieżki dźwiękowej na szafie grającej.
+Część 1 z 5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10022,6 +10023,50 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172954Z" creationid="Syn Spawacza" creationdate="20200530T172954Z">
         <seg>Uaktualniono dane na temat jednostki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 2 of a set of 5 amazing
+soundtracks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124744Z" creationid="Syn Spawacza" creationdate="20200601T124744Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 2 z 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 3 of a set of 5 soundtracks 
+in extremely high demand.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124749Z" creationid="Syn Spawacza" creationdate="20200601T124749Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 3 z 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 4 of a set of 5 highly anticipated
+soundtracks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124755Z" creationid="Syn Spawacza" creationdate="20200601T124755Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 4 z 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+The final part in possibly the best 
+soundtrack series ever.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124839Z" creationid="Syn Spawacza" creationdate="20200601T124839Z">
+        <seg>Więcej utworów dla szafy grającej.
+Ostatnia część z 5.</seg>
       </tuv>
     </tu>
     <tu>
