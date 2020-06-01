@@ -949,6 +949,41 @@ information.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Causes them to approach and
+wait for you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124524Z" creationid="Syn Spawacza" creationdate="20200601T124524Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta podchodzą
+i czekają na ciebie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Lets you ride them anytime
+you want.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124448Z" creationid="Syn Spawacza" creationdate="20200601T124448Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta pozwalają się ujeżdżać
+w każdej  chwili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Prevents them from running
+when approached.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124415Z" creationid="Syn Spawacza" creationdate="20200601T124415Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta przed tobą nie uciekają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A restored photo. It's much clearer now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120056Z" creationid="Syn Spawacza" creationdate="20200601T120056Z">
@@ -5501,6 +5536,15 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listen to nice BGM on the jukebox.
+Part 1 of a set of 5.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124607Z" creationid="Syn Spawacza" creationdate="20200601T124607Z">
+        <seg>Słuchaj ścieżki dźwiękowej na szafie grającej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Load</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144436Z" creationid="Syn Spawacza" creationdate="20200530T144436Z">
@@ -9452,6 +9496,16 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130749Z" creationid="Syn Spawacza" creationdate="20200530T130749Z">
         <seg>(może zostać zmieniony w trakcie gry).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This can be traded for a single
+item at a shop.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124302Z" creationid="Syn Spawacza" creationdate="20200601T124256Z">
+        <seg>Może być wymieniony na pojedynczy
+przedmiot w sklepie.</seg>
       </tuv>
     </tu>
     <tu>
