@@ -2224,6 +2224,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Crushed Nut</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083047Z" creationid="Syn Spawacza" creationdate="20200601T083047Z">
+        <seg>Zmiażdżona nakrętka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Crystal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150540Z" creationid="Syn Spawacza" creationdate="20200530T150540Z">
@@ -2362,6 +2370,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert Rose</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082920Z" creationid="Syn Spawacza" creationdate="20200601T082920Z">
+        <seg>Róża pustyni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the Goliath-class unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
@@ -2474,6 +2490,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dye</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082952Z" creationid="Syn Spawacza" creationdate="20200601T082952Z">
+        <seg>Barwnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E-Drug</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081439Z" creationid="Syn Spawacza" creationdate="20200601T081439Z">
@@ -2502,6 +2526,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140830Z" creationid="Syn Spawacza" creationdate="20200530T140830Z">
         <seg>PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eagle Eggs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083144Z" creationid="Syn Spawacza" creationdate="20200601T083144Z">
+        <seg>Jaja orła</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,6 +3014,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080426Z" creationid="Syn Spawacza" creationdate="20200601T080426Z">
         <seg>Działko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Giant Egg</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083131Z" creationid="Syn Spawacza" creationdate="20200601T083131Z">
+        <seg>Ogromne jako</seg>
       </tuv>
     </tu>
     <tu>
@@ -4738,6 +4778,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mushroom</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082923Z" creationid="Syn Spawacza" creationdate="20200601T082923Z">
+        <seg>Grzyb</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Music Volume</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133717Z" creationid="Syn Spawacza" creationdate="20200530T133717Z">
@@ -5316,8 +5364,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Plant Seed</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082729Z" creationid="Syn Spawacza" creationdate="20200601T082729Z">
-        <seg>Nasiono</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082852Z" creationid="Syn Spawacza" creationdate="20200601T082729Z">
+        <seg>Nasiono rośliny</seg>
       </tuv>
     </tu>
     <tu>
@@ -5602,10 +5650,26 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pure Water</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082847Z" creationid="Syn Spawacza" creationdate="20200601T082847Z">
+        <seg>Czysta woda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pursuit Speed</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132123Z" creationid="Syn Spawacza" creationdate="20200530T132123Z">
         <seg>Prędkość podążania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pyrite</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082959Z" creationid="Syn Spawacza" creationdate="20200601T082959Z">
+        <seg>Piryt</seg>
       </tuv>
     </tu>
     <tu>
@@ -7044,6 +7108,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tanning Agent</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082934Z" creationid="Syn Spawacza" creationdate="20200601T082934Z">
+        <seg>Garbnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target Acquired</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124236Z" creationid="Syn Spawacza" creationdate="20200530T124236Z">
@@ -7600,6 +7672,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Torn Book</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082929Z" creationid="Syn Spawacza" creationdate="20200601T082929Z">
+        <seg>Podarta książka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140142Z" creationid="Syn Spawacza" creationdate="20200530T140142Z">
@@ -7660,6 +7740,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082841Z" creationid="Syn Spawacza" creationdate="20200601T082841Z">
         <seg>Sok drzewny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tree Seed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082915Z" creationid="Syn Spawacza" creationdate="20200601T082915Z">
+        <seg>Nasiono drzewa</seg>
       </tuv>
     </tu>
     <tu>
