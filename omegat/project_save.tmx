@@ -5004,6 +5004,16 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases plug-in
+chip capacity by 8.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134622Z" creationid="Syn Spawacza" creationdate="20200601T134622Z">
+        <seg>Zwiększa ilość miejsca
+na czipy rozszerzeń o 8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increases the power of 
 weapon-based attacks 
 by 50% for 30 seconds. 
