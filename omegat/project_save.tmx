@@ -11383,6 +11383,18 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Pod Skin]
+Shaped after a common household
+appliance vital for survival.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T131601Z" creationid="Syn Spawacza" creationdate="20200601T131601Z">
+        <seg>[Wygląd poda]
+Stylizowany na niezbędny do przetrwania
+przedmiot codziennego użytku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>\&lt;removeme&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135536Z" creationid="Syn Spawacza" creationdate="20200530T135536Z">
