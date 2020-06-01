@@ -5786,6 +5786,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Plug-in Chip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092849Z" creationid="Syn Spawacza" creationdate="20200601T092849Z">
+        <seg>Czip rozszerzeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plug-in Chips</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143433Z" creationid="Syn Spawacza" creationdate="20200530T143433Z">
@@ -6502,6 +6510,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200436Z" creationid="Syn Spawacza" creationdate="20200530T200436Z">
         <seg>W porządku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rigid Tree Bark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093009Z" creationid="Syn Spawacza" creationdate="20200601T093009Z">
+        <seg>Sztywna kora</seg>
       </tuv>
     </tu>
     <tu>
