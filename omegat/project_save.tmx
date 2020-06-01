@@ -996,6 +996,18 @@ a dictionary.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tool for recording information.
+Records indicate these were believed
+to be mightier than swords.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121623Z" creationid="Syn Spawacza" creationdate="20200601T121623Z">
+        <seg>Przyrząd do zapisywania informacji.
+Zapiski wskazują że były one uważane
+za mocniejsze od miecza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool humans used to brush their teeth.
 Reduces the probability of cavities.</seg>
       </tuv>
@@ -9865,6 +9877,18 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184140Z" creationid="Syn Spawacza" creationdate="20200530T184140Z">
         <seg>Użyj poda...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Used by humans to reduce fat levels
+caused by consuming more energy
+than necessary.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121139Z" creationid="Syn Spawacza" creationdate="20200601T121139Z">
+        <seg>Używany przez ludzi by zmniejszyć
+poziom tłuszczu spowodowany
+nadmierną konsumpcją energii.</seg>
       </tuv>
     </tu>
     <tu>
