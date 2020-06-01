@@ -7099,6 +7099,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert Area</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214039Z" creationid="Syn Spawacza" creationdate="20200601T214039Z">
+        <seg>Obszar pustynny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Housing</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174823Z" creationid="Syn Spawacza" creationdate="20200601T174823Z">
@@ -9012,6 +9020,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180101Z" creationid="Syn Spawacza" creationdate="20200601T180101Z">
         <seg>Obszar leśny: środek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forest of Myth</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214057Z" creationid="Syn Spawacza" creationdate="20200601T214057Z">
+        <seg>Las Mitu</seg>
       </tuv>
     </tu>
     <tu>
@@ -16861,6 +16877,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seafront</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214126Z" creationid="Syn Spawacza" creationdate="20200601T214126Z">
+        <seg>Wybrzeże</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Secret Shop</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175851Z" creationid="Syn Spawacza" creationdate="20200601T175851Z">
@@ -18747,6 +18771,14 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162532Z" creationid="Syn Spawacza" creationdate="20200530T162532Z">
         <seg>Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Aerie</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214046Z" creationid="Syn Spawacza" creationdate="20200601T214046Z">
+        <seg>Aerie</seg>
       </tuv>
     </tu>
     <tu>
