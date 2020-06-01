@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Mash) Taunt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213736Z" creationid="Syn Spawacza" creationdate="20200601T213736Z">
+        <seg>(Szybko naciskaj) Prowokacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Remaining: &lt;NUM&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173022Z" creationid="Syn Spawacza" creationdate="20200530T173022Z">
@@ -684,6 +692,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172937Z" creationid="Syn Spawacza" creationdate="20200530T172937Z">
         <seg>Użyto przedmiotu: &lt;ITEM NAME&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;ITEM NAME&gt; used. (Remaining: &lt;NUM&gt;)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213810Z" creationid="Syn Spawacza" creationdate="20200601T213810Z">
+        <seg>Użyto przedmiotu: &lt;ITEM NAME&gt; (zostało: &lt;NUM&gt;).</seg>
       </tuv>
     </tu>
     <tu>
