@@ -4589,6 +4589,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damage Absorb</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183920Z" creationid="Syn Spawacza" creationdate="20200601T183920Z">
+        <seg>Pochłanianie obrażeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damaged Dog Tag</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085552Z" creationid="Syn Spawacza" creationdate="20200601T085552Z">
@@ -5271,6 +5279,30 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drop Rate Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183612Z" creationid="Syn Spawacza" creationdate="20200601T183612Z">
+        <seg>Upuszczane przedmioty +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183613Z" creationid="Syn Spawacza" creationdate="20200601T183613Z">
+        <seg>Upuszczane przedmioty +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183616Z" creationid="Syn Spawacza" creationdate="20200601T183616Z">
+        <seg>Upuszczane przedmioty +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dye</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082952Z" creationid="Syn Spawacza" creationdate="20200601T082952Z">
@@ -5307,6 +5339,78 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140830Z" creationid="Syn Spawacza" creationdate="20200530T140830Z">
         <seg>PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183651Z" creationid="Syn Spawacza" creationdate="20200601T183651Z">
+        <seg>Przyrost doświadczenia +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183652Z" creationid="Syn Spawacza" creationdate="20200601T183652Z">
+        <seg>Przyrost doświadczenia +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183654Z" creationid="Syn Spawacza" creationdate="20200601T183654Z">
+        <seg>Przyrost doświadczenia +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183655Z" creationid="Syn Spawacza" creationdate="20200601T183655Z">
+        <seg>Przyrost doświadczenia +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183656Z" creationid="Syn Spawacza" creationdate="20200601T183656Z">
+        <seg>Przyrost doświadczenia +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183658Z" creationid="Syn Spawacza" creationdate="20200601T183658Z">
+        <seg>Przyrost doświadczenia +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183700Z" creationid="Syn Spawacza" creationdate="20200601T183700Z">
+        <seg>Przyrost doświadczenia +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183701Z" creationid="Syn Spawacza" creationdate="20200601T183701Z">
+        <seg>Przyrost doświadczenia +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EXP Gain Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183704Z" creationid="Syn Spawacza" creationdate="20200601T183704Z">
+        <seg>Przyrost doświadczenia +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -7798,6 +7902,78 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174729Z" creationid="Syn Spawacza" creationdate="20200530T174729Z">
         <seg>Przywrócono komunikację laserową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183827Z" creationid="Syn Spawacza" creationdate="20200601T183827Z">
+        <seg>Ostatnia szansa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183829Z" creationid="Syn Spawacza" creationdate="20200601T183829Z">
+        <seg>Ostatnia szansa +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183833Z" creationid="Syn Spawacza" creationdate="20200601T183830Z">
+        <seg>Ostatnia szansa +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183834Z" creationid="Syn Spawacza" creationdate="20200601T183834Z">
+        <seg>Ostatnia szansa +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183835Z" creationid="Syn Spawacza" creationdate="20200601T183835Z">
+        <seg>Ostatnia szansa +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183837Z" creationid="Syn Spawacza" creationdate="20200601T183837Z">
+        <seg>Ostatnia szansa +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183839Z" creationid="Syn Spawacza" creationdate="20200601T183839Z">
+        <seg>Ostatnia szansa +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183840Z" creationid="Syn Spawacza" creationdate="20200601T183840Z">
+        <seg>Ostatnia szansa +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last Stand +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183842Z" creationid="Syn Spawacza" creationdate="20200601T183842Z">
+        <seg>Ostatnia szansa +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -12037,6 +12213,78 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163740Z" creationid="Syn Spawacza" creationdate="20200601T163740Z">
         <seg>Unik teleportacyjny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183713Z" creationid="Syn Spawacza" creationdate="20200601T183713Z">
+        <seg>Fala uderzeniowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183715Z" creationid="Syn Spawacza" creationdate="20200601T183715Z">
+        <seg>Fala uderzeniowa +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183716Z" creationid="Syn Spawacza" creationdate="20200601T183716Z">
+        <seg>Fala uderzeniowa +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183718Z" creationid="Syn Spawacza" creationdate="20200601T183718Z">
+        <seg>Fala uderzeniowa +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183720Z" creationid="Syn Spawacza" creationdate="20200601T183720Z">
+        <seg>Fala uderzeniowa +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183721Z" creationid="Syn Spawacza" creationdate="20200601T183721Z">
+        <seg>Fala uderzeniowa +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183723Z" creationid="Syn Spawacza" creationdate="20200601T183723Z">
+        <seg>Fala uderzeniowa +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183724Z" creationid="Syn Spawacza" creationdate="20200601T183724Z">
+        <seg>Fala uderzeniowa +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shock Wave +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183725Z" creationid="Syn Spawacza" creationdate="20200601T183725Z">
+        <seg>Fala uderzeniowa +8</seg>
       </tuv>
     </tu>
     <tu>
