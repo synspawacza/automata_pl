@@ -5223,6 +5223,54 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drop Rate Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183558Z" creationid="Syn Spawacza" creationdate="20200601T183558Z">
+        <seg>Upuszczane przedmioty +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183602Z" creationid="Syn Spawacza" creationdate="20200601T183602Z">
+        <seg>Upuszczane przedmioty +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183603Z" creationid="Syn Spawacza" creationdate="20200601T183603Z">
+        <seg>Upuszczane przedmioty +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183605Z" creationid="Syn Spawacza" creationdate="20200601T183605Z">
+        <seg>Upuszczane przedmioty +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183609Z" creationid="Syn Spawacza" creationdate="20200601T183606Z">
+        <seg>Upuszczane przedmioty +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop Rate Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183611Z" creationid="Syn Spawacza" creationdate="20200601T183611Z">
+        <seg>Upuszczane przedmioty +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dye</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082952Z" creationid="Syn Spawacza" creationdate="20200601T082952Z">
@@ -5485,8 +5533,8 @@ poszukiwaniu ukrytych obiektów</seg>
         <seg>Enemies drop more money for
 30 seconds.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101749Z" creationid="Syn Spawacza" creationdate="20200601T101749Z">
-        <seg>Wrogowie wyrzucają więcej
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183506Z" creationid="Syn Spawacza" creationdate="20200601T101749Z">
+        <seg>Wrogowie upuszczają więcej
 pieniędzy przez 30 sekund.</seg>
       </tuv>
     </tu>
@@ -5495,8 +5543,8 @@ pieniędzy przez 30 sekund.</seg>
         <seg>Enemies drop more money for
 60 seconds.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101756Z" creationid="Syn Spawacza" creationdate="20200601T101756Z">
-        <seg>Wrogowie wyrzucają więcej
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183528Z" creationid="Syn Spawacza" creationdate="20200601T101756Z">
+        <seg>Wrogowie upuszczają więcej
 pieniędzy przez 60 sekund.</seg>
       </tuv>
     </tu>
@@ -8997,6 +9045,70 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183323Z" creationid="Syn Spawacza" creationdate="20200601T183323Z">
         <seg>Prędkość poruszania +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183329Z" creationid="Syn Spawacza" creationdate="20200601T183324Z">
+        <seg>Prędkość poruszania +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183331Z" creationid="Syn Spawacza" creationdate="20200601T183327Z">
+        <seg>Prędkość poruszania +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183336Z" creationid="Syn Spawacza" creationdate="20200601T183332Z">
+        <seg>Prędkość poruszania +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183334Z" creationid="Syn Spawacza" creationdate="20200601T183334Z">
+        <seg>Prędkość poruszania +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183339Z" creationid="Syn Spawacza" creationdate="20200601T183339Z">
+        <seg>Prędkość poruszania +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183340Z" creationid="Syn Spawacza" creationdate="20200601T183340Z">
+        <seg>Prędkość poruszania +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183343Z" creationid="Syn Spawacza" creationdate="20200601T183343Z">
+        <seg>Prędkość poruszania +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moving Speed Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183345Z" creationid="Syn Spawacza" creationdate="20200601T183345Z">
+        <seg>Prędkość poruszania +8</seg>
       </tuv>
     </tu>
     <tu>
