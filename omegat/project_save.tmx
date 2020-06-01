@@ -1918,6 +1918,16 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An advanced blade, issued to elite YoRHa on the
+front lines. Its power increases with its charge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T144902Z" creationid="Syn Spawacza" creationdate="20200601T144902Z">
+        <seg>Nowoczesna broń, przydzielana elitarnym jednostkom
+YoRHa. Moc miecza zwiększa się po naładowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An earring worn by humans.
 Can be exchanged for money.</seg>
       </tuv>
