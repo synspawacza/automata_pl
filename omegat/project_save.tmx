@@ -1456,6 +1456,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beast Hide</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081444Z" creationid="Syn Spawacza" creationdate="20200601T081444Z">
+        <seg>Futro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Because I'm really hoping we'll be a good team going forward.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211909Z" creationid="Syn Spawacza" creationdate="20200530T205331Z">
@@ -1532,6 +1540,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
         <seg>Rozmycia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boar Meat</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081501Z" creationid="Syn Spawacza" creationdate="20200601T081501Z">
+        <seg>Mięso z dzika</seg>
       </tuv>
     </tu>
     <tu>
@@ -4522,6 +4538,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Moose Meat</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081505Z" creationid="Syn Spawacza" creationdate="20200601T081505Z">
+        <seg>Mięso z łosia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Morning.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205524Z" creationid="Syn Spawacza" creationdate="20200530T205524Z">
@@ -5374,6 +5398,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073310Z" creationid="Syn Spawacza" creationdate="20200601T073310Z">
         <seg>Cena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pristine Screw</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081549Z" creationid="Syn Spawacza" creationdate="20200601T081549Z">
+        <seg>Nietknięty wkręt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6516,8 +6548,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Small Gear</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150448Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
-        <seg>Mały trybik</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081644Z" creationid="Syn Spawacza" creationdate="20200530T150448Z">
+        <seg>Mały koło zębate</seg>
       </tuv>
     </tu>
     <tu>
@@ -6728,6 +6760,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071944Z" creationid="Syn Spawacza" creationdate="20200601T071944Z">
         <seg>Dziwna kobieta z ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stripped Screw</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081533Z" creationid="Syn Spawacza" creationdate="20200601T081533Z">
+        <seg>Obdarty wkręt</seg>
       </tuv>
     </tu>
     <tu>
@@ -8020,6 +8060,22 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163912Z" creationid="Syn Spawacza" creationdate="20200530T163912Z">
         <seg>Balsam przeciwnapięciowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W. Boar Meat</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081510Z" creationid="Syn Spawacza" creationdate="20200601T081510Z">
+        <seg>Mięso z b. dzika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W. Moose Meat</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081517Z" creationid="Syn Spawacza" creationdate="20200601T081517Z">
+        <seg>Mięso z b. łosia</seg>
       </tuv>
     </tu>
     <tu>
