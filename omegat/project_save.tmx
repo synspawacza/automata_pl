@@ -4400,8 +4400,8 @@ pieniędzy przez 60 sekund.</seg>
         <seg>First introduced in A.D. 11940, these YoRHa knuckle
 weapons become powerful with more energy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154642Z" creationid="Syn Spawacza" creationdate="20200601T154642Z">
-        <seg>Kastety wprowadzone do służby w roku 11940.
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154701Z" creationid="Syn Spawacza" creationdate="20200601T154642Z">
+        <seg>Kastety wprowadzone do służby w YoRHa w roku 11940.
 Moc kastetów zwiększa się po naładowaniu.</seg>
       </tuv>
     </tu>
@@ -10035,6 +10035,16 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075652Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
         <seg>Twoje obecne rekordy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These old YoRHa weapons have a crude but reliable
+mechanism that imparts blows with explosive power.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154952Z" creationid="Syn Spawacza" creationdate="20200601T154952Z">
+        <seg>Stara broń YoRHa wyposażona w prymitywny, ale
+niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       </tuv>
     </tu>
     <tu>
