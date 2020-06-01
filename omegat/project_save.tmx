@@ -1656,6 +1656,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Book: "Pensées"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093226Z" creationid="Syn Spawacza" creationdate="20200601T093226Z">
+        <seg>Książka „Myśli”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boost!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183004Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
@@ -2570,6 +2578,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dirty Bag</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093043Z" creationid="Syn Spawacza" creationdate="20200601T093043Z">
+        <seg>Brudna torba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dirty Dog Tag</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085541Z" creationid="Syn Spawacza" creationdate="20200601T085541Z">
@@ -2750,6 +2766,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082356Z" creationid="Syn Spawacza" creationdate="20200601T082356Z">
         <seg>Wyrafinowany mechanizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elevator Key</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093048Z" creationid="Syn Spawacza" creationdate="20200601T093048Z">
+        <seg>Klucz do windy</seg>
       </tuv>
     </tu>
     <tu>
@@ -4878,6 +4902,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163953Z" creationid="Syn Spawacza" creationdate="20200530T163953Z">
         <seg>Obrona wręcz + (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Membership Card</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093020Z" creationid="Syn Spawacza" creationdate="20200601T093020Z">
+        <seg>Karta członkowska</seg>
       </tuv>
     </tu>
     <tu>
