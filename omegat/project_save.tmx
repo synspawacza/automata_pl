@@ -1128,6 +1128,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Android sub-quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075541Z" creationid="Syn Spawacza" creationdate="20200601T075541Z">
+        <seg>Pod-zadań androidów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animation</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140508Z" creationid="Syn Spawacza" creationdate="20200530T140508Z">
@@ -1468,6 +1476,30 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175032Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
         <seg>Następnym razem niech się pani upewni że naprawdę nie żyje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biped (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075813Z" creationid="Syn Spawacza" creationdate="20200601T075722Z">
+        <seg>Dwunóg (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biped (M)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075809Z" creationid="Syn Spawacza" creationdate="20200601T075707Z">
+        <seg>Dwunóg (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biped (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075816Z" creationid="Syn Spawacza" creationdate="20200601T075816Z">
+        <seg>Dwunóg (S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1828,6 +1860,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130649Z" creationid="Syn Spawacza" creationdate="20200530T130649Z">
         <seg>Wybierz rozdział</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075658Z" creationid="Syn Spawacza" creationdate="20200601T075658Z">
+        <seg>Postać</seg>
       </tuv>
     </tu>
     <tu>
@@ -2230,6 +2270,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204130Z" creationid="Syn Spawacza" creationdate="20200530T204130Z">
         <seg>Czułaś?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Diff.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075637Z" creationid="Syn Spawacza" creationdate="20200601T075637Z">
+        <seg>Róż.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,6 +2710,22 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174139Z" creationid="Syn Spawacza" creationdate="20200530T174139Z">
         <seg>Porzucono systemy kontroli lotu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flying (M)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075719Z" creationid="Syn Spawacza" creationdate="20200601T075719Z">
+        <seg>Latający (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flying (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075715Z" creationid="Syn Spawacza" creationdate="20200601T075715Z">
+        <seg>Latający (S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4146,6 +4210,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine sub-quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075612Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
+        <seg>Pod-zadań maszyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Main Monitor</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134243Z" creationid="Syn Spawacza" creationdate="20200530T134243Z">
@@ -4964,8 +5036,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Play Records</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144734Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
-        <seg>Statystyki</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075617Z" creationid="Syn Spawacza" creationdate="20200530T144456Z">
+        <seg>Rekordy</seg>
       </tuv>
     </tu>
     <tu>
@@ -6784,6 +6856,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202628Z" creationid="Syn Spawacza" creationdate="20200530T202628Z">
         <seg>Jest coś uspokajającego w twoim głosie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are your current play records.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075652Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
+        <seg>Twoje obecne rekordy:</seg>
       </tuv>
     </tu>
     <tu>
