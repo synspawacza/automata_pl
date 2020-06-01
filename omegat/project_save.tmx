@@ -515,9 +515,9 @@ tylko klawiatury w układzie QWERTY.</seg>
         <seg>A black oriental sword. Its no-frills
 design gives it an aura of serious weaponry.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145959Z" creationid="Syn Spawacza" creationdate="20200601T145959Z">
-        <seg>Orientalny, czarny miecz. Jego pozbawiony fanaberii
-projekt daje wrażenie poważnej broni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T150335Z" creationid="Syn Spawacza" creationdate="20200601T145959Z">
+        <seg>Orientalny, czarny miecz. Dzięki pozbawionemu fanaberii
+projektowi daje wrażenie poważnej broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1974,6 +1974,16 @@ plants.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111433Z" creationid="Syn Spawacza" creationdate="20200601T111433Z">
         <seg>Elastyczna substancja z roślin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An improvised blade used by machine lifeforms. It
+may be made from scraps, but it gets the job done.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T150503Z" creationid="Syn Spawacza" creationdate="20200601T150503Z">
+        <seg>Improwizowany miecz używany przez mechaniczne
+formy życia. Może i jest z złomu, ale robi swoją robotę.</seg>
       </tuv>
     </tu>
     <tu>
