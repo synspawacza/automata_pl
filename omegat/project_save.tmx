@@ -6238,6 +6238,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evasive System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185858Z" creationid="Syn Spawacza" creationdate="20200601T185858Z">
+        <seg>System unikowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Event Marker</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180319Z" creationid="Syn Spawacza" creationdate="20200601T180319Z">
@@ -6964,6 +6972,30 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140850Z" creationid="Syn Spawacza" creationdate="20200530T140850Z">
         <seg>PŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Enemy Data</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185649Z" creationid="Syn Spawacza" creationdate="20200601T185649Z">
+        <seg>HUD: dane o wrogach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: HP Gauge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185632Z" creationid="Syn Spawacza" creationdate="20200601T185632Z">
+        <seg>HUD: wskaźnik PŻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Sound Waves</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185641Z" creationid="Syn Spawacza" creationdate="20200601T185641Z">
+        <seg>HUD: fale dzwiękowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -10169,6 +10201,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174104Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
         <seg>O-operator do 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OS Chip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185711Z" creationid="Syn Spawacza" creationdate="20200601T185711Z">
+        <seg>Czip OS</seg>
       </tuv>
     </tu>
     <tu>
