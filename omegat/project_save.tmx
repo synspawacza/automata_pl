@@ -825,6 +825,16 @@ nie wiadomo do czego służy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A giant, cursed axe, anointed with the blood of
+innocent twins to assuage the wrath of the gods.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151014Z" creationid="Syn Spawacza" creationdate="20200601T151014Z">
+        <seg>Ogromny miecz namaszczony krwią niewinnych
+bliźniąt by uspokoić gniew bogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A heavily dented metal plate.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105840Z" creationid="Syn Spawacza" creationdate="20200601T105840Z">
@@ -9671,6 +9681,16 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190622Z" creationid="Syn Spawacza" creationdate="20200530T190622Z">
         <seg>Czarna skrzynka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The blade is dull - Its power comes from mass alone.
+Does it smell of iron, or is that human blood...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T150556Z" creationid="Syn Spawacza" creationdate="20200601T150556Z">
+        <seg>Ostrze jest tępe — jego moc bierze się z masy.
+Czy to zapach żelaza, czy ludzkiej krwi?</seg>
       </tuv>
     </tu>
     <tu>
