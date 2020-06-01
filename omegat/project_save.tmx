@@ -539,6 +539,17 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A chip containing a data log on A2.
+Heavily damaged, there is little that
+can be analyzed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115808Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
+        <seg>Czip z zapisem danych na temat A2.
+Zbyt uszkodzony do analizy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A chip with nothing saved on it.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103931Z" creationid="Syn Spawacza" creationdate="20200601T103931Z">
@@ -649,6 +660,18 @@ nie wiadomo do czego służy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105840Z" creationid="Syn Spawacza" creationdate="20200601T105840Z">
         <seg>Mocno pognieciona, metalowa płytka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A journal left behind by a man.
+Thoughts about his fallen comrades are
+spelled out within.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115614Z" creationid="Syn Spawacza" creationdate="20200601T115614Z">
+        <seg>Pamiętnik pozostawiony przez mężczyznę.
+Zawiera przemyślenia na temat jego
+poległych towarzyszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8927,10 +8950,10 @@ twoim poległym ciałem.</seg>
 machine lifeform. Says its allies
 were destroyed by the resistance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115440Z" creationid="Syn Spawacza" creationdate="20200601T115440Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115503Z" creationid="Syn Spawacza" creationdate="20200601T115440Z">
         <seg>Zakrwawiony czip pamięci mechanicznej
-formy życia. Mówi że jego towarzysz
-został zniszczony prze ruch oporu.</seg>
+formy życia. Mówi, że jego towarzysze
+zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
     </tu>
     <tu>
