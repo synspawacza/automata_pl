@@ -2605,6 +2605,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aircraft Carrier Captain</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201736Z" creationid="Syn Spawacza" creationdate="20200601T201736Z">
+        <seg>Kapitan lotniskowca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Bulletproof apparatus detected on enemies.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180116Z" creationid="Syn Spawacza" creationdate="20200530T180011Z">
@@ -3334,6 +3342,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attacked Believer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201812Z" creationid="Syn Spawacza" creationdate="20200601T201812Z">
+        <seg>Zaatakowany wierny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attacks on allies prohibited</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171753Z" creationid="Syn Spawacza" creationdate="20200530T171753Z">
@@ -3897,6 +3913,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184600Z" creationid="Syn Spawacza" creationdate="20200530T184600Z">
         <seg>Dostosowano tablicę zachowań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Believer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201744Z" creationid="Syn Spawacza" creationdate="20200601T201744Z">
+        <seg>Wierny</seg>
       </tuv>
     </tu>
     <tu>
@@ -6277,6 +6301,14 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Distracted Child Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201820Z" creationid="Syn Spawacza" creationdate="20200601T201820Z">
+        <seg>Rozproszona maszyna dziecko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Distracted Friend Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201339Z" creationid="Syn Spawacza" creationdate="20200601T201339Z">
@@ -7180,6 +7212,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Factory PA</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201858Z" creationid="Syn Spawacza" creationdate="20200601T201858Z">
+        <seg>Komunikat z fabryki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Factory Recon</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155840Z" creationid="Syn Spawacza" creationdate="20200530T155840Z">
@@ -7756,6 +7796,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194023Z" creationid="Syn Spawacza" creationdate="20200601T194023Z">
         <seg>Butla gazu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gatekeeper</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201700Z" creationid="Syn Spawacza" creationdate="20200601T201700Z">
+        <seg>Bramkarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -10082,6 +10130,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142111Z" creationid="Syn Spawacza" creationdate="20200530T142111Z">
         <seg>MAPA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MC</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201710Z" creationid="Syn Spawacza" creationdate="20200601T201710Z">
+        <seg>Konferansjer</seg>
       </tuv>
     </tu>
     <tu>
@@ -12573,6 +12629,22 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Priest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201739Z" creationid="Syn Spawacza" creationdate="20200601T201739Z">
+        <seg>Kapłan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Priests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201741Z" creationid="Syn Spawacza" creationdate="20200601T201741Z">
+        <seg>Kapłani</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pristine Cable</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082057Z" creationid="Syn Spawacza" creationdate="20200601T082057Z">
@@ -13101,6 +13173,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Receptionist</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201705Z" creationid="Syn Spawacza" creationdate="20200601T201705Z">
+        <seg>Recepcjonista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recover NFCS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174604Z" creationid="Syn Spawacza" creationdate="20200601T174604Z">
@@ -13425,6 +13505,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195316Z" creationid="Syn Spawacza" creationdate="20200601T195316Z">
         <seg>Badacz z ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resistance Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201616Z" creationid="Syn Spawacza" creationdate="20200601T201616Z">
+        <seg>Handlarz zaopatrzeniem z ruchu oporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13965,6 +14053,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180455Z" creationid="Syn Spawacza" creationdate="20200530T180455Z">
         <seg>Skanerzy tacy jak ja pracują samotnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scared Believer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201752Z" creationid="Syn Spawacza" creationdate="20200601T201752Z">
+        <seg>Wystraszony wierny</seg>
       </tuv>
     </tu>
     <tu>
@@ -14637,6 +14733,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small Machine Lifeform</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201605Z" creationid="Syn Spawacza" creationdate="20200601T201605Z">
+        <seg>Mała mechaniczna forma życia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Small Recovery</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150029Z" creationid="Syn Spawacza" creationdate="20200530T145829Z">
@@ -15180,6 +15284,14 @@ potężne celowi uderzenie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195021Z" creationid="Syn Spawacza" creationdate="20200601T195021Z">
         <seg>Handlarz zaopatrzeniem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Supply Trading Believer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201800Z" creationid="Syn Spawacza" creationdate="20200601T201800Z">
+        <seg>Wierny handlarz zaopatrzeniem</seg>
       </tuv>
     </tu>
     <tu>
