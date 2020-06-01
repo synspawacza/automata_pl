@@ -4091,6 +4091,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Detonates the final hit of close-range combos.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164535Z" creationid="Syn Spawacza" creationdate="20200601T164535Z">
+        <seg>Dodaje wybuch w ostatnim uderzeniu kombinacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Devil's Hatred</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162929Z" creationid="Syn Spawacza" creationdate="20200601T162929Z">
@@ -5820,6 +5828,22 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases attack power when HP is 30% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164627Z" creationid="Syn Spawacza" creationdate="20200601T164627Z">
+        <seg>Zwiększa moc ataku przy 30% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases attack power when HP is full.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164607Z" creationid="Syn Spawacza" creationdate="20200601T164607Z">
+        <seg>Zwiększa moc ataku przy pełnych PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increases defense.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163947Z" creationid="Syn Spawacza" creationdate="20200601T163947Z">
@@ -6621,6 +6645,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134228Z" creationid="Syn Spawacza" creationdate="20200530T134228Z">
         <seg>Niskie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lowers skill-gauge cooldown when attacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164746Z" creationid="Syn Spawacza" creationdate="20200601T164746Z">
+        <seg>Wskaźnik umiejętności ładuje się szybciej podczas atakowania.</seg>
       </tuv>
     </tu>
     <tu>
