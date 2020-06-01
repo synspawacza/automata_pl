@@ -901,6 +901,15 @@ na Ziemię.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A plug-in chip containing classified
+information.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122903Z" creationid="Syn Spawacza" creationdate="20200601T122903Z">
+        <seg>Czip rozszerzeń zawierający poufne dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A restored photo. It's much clearer now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120056Z" creationid="Syn Spawacza" creationdate="20200601T120056Z">
@@ -4217,6 +4226,16 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grants the bearer access to the
+gambling arena.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123121Z" creationid="Syn Spawacza" creationdate="20200601T123121Z">
+        <seg>Karta pozwalająca na wstęp do
+strefy hazardowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Graphics Presets</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133011Z" creationid="Syn Spawacza" creationdate="20200530T133011Z">
@@ -6343,6 +6362,16 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180243Z" creationid="Syn Spawacza" creationdate="20200530T180243Z">
         <seg>Pobliscy wrogowie zakłócają sygnał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Necessary for restoring a machine
+lifeform's memory banks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122832Z" creationid="Syn Spawacza" creationdate="20200601T122832Z">
+        <seg>Potrzebny do naprawy banków pamięci
+mechanicznej formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9001,6 +9030,16 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140003Z" creationid="Syn Spawacza" creationdate="20200530T140003Z">
         <seg>Menu systemowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taken from a plant with tough bark.
+Necessary for creating a fuel filter.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122941Z" creationid="Syn Spawacza" creationdate="20200601T122941Z">
+        <seg>Wytrzymała kora potrzebna do zrobienia
+filtru paliwa.</seg>
       </tuv>
     </tu>
     <tu>
