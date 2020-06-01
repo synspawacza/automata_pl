@@ -2772,6 +2772,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attraction Square</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175239Z" creationid="Syn Spawacza" creationdate="20200601T175239Z">
+        <seg>Plac atrakcji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Output</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
@@ -3215,6 +3223,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183004Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
         <seg>Dopalacz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Border Area</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175133Z" creationid="Syn Spawacza" creationdate="20200601T175133Z">
+        <seg>Obszar graniczny</seg>
       </tuv>
     </tu>
     <tu>
@@ -4777,6 +4793,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emil's Residence</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175105Z" creationid="Syn Spawacza" creationdate="20200601T175105Z">
+        <seg>Mieszkanie Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emits a temporary beam 
 capable of healing the 
 combatants as long as they 
@@ -5720,6 +5744,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hidden Dungeon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175058Z" creationid="Syn Spawacza" creationdate="20200601T175058Z">
+        <seg>Ukryte podziemia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hide Text</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140800Z" creationid="Syn Spawacza" creationdate="20200530T140800Z">
@@ -5749,6 +5781,14 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124218Z" creationid="Syn Spawacza" creationdate="20200601T124218Z">
         <seg>Lepki smar używany przez mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>His Grace's Room</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175316Z" creationid="Syn Spawacza" creationdate="20200601T175316Z">
+        <seg>Pokój Jego Wysokości</seg>
       </tuv>
     </tu>
     <tu>
@@ -5805,6 +5845,14 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131855Z" creationid="Syn Spawacza" creationdate="20200530T131855Z">
         <seg>Prędkość obrotu w poziomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Housing Complex</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175153Z" creationid="Syn Spawacza" creationdate="20200601T175153Z">
+        <seg>Kompleks mieszkalny</seg>
       </tuv>
     </tu>
     <tu>
@@ -7126,6 +7174,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lower Castle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175253Z" creationid="Syn Spawacza" creationdate="20200601T175253Z">
+        <seg>Dolny zamek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lowers skill-gauge cooldown when attacking.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164746Z" creationid="Syn Spawacza" creationdate="20200601T164746Z">
@@ -7374,6 +7430,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Main Square</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175205Z" creationid="Syn Spawacza" creationdate="20200601T175205Z">
+        <seg>Główny plac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Maintenance</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174306Z" creationid="Syn Spawacza" creationdate="20200601T174306Z">
@@ -7450,6 +7514,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181627Z" creationid="Syn Spawacza" creationdate="20200530T181627Z">
         <seg>Może go... No nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat Box</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175400Z" creationid="Syn Spawacza" creationdate="20200601T175400Z">
+        <seg>Pudełko mięsa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8163,6 +8235,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nostalgic Room</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175122Z" creationid="Syn Spawacza" creationdate="20200601T175122Z">
+        <seg>Nostalgiczny pokój</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Not good</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200708Z" creationid="Syn Spawacza" creationdate="20200530T200708Z">
@@ -8657,6 +8737,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095947Z" creationid="Syn Spawacza" creationdate="20200601T095947Z">
         <seg>Różowa kokarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pit Hollow</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175330Z" creationid="Syn Spawacza" creationdate="20200601T175330Z">
+        <seg>Dziura</seg>
       </tuv>
     </tu>
     <tu>
@@ -9961,6 +10049,14 @@ for cruelty, blackened with the blood of his foes.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T155920Z" creationid="Syn Spawacza" creationdate="20200601T155914Z">
         <seg>Samurajskie rękawice noszone przez dowódcę osławionego
 swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sand Cave</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175140Z" creationid="Syn Spawacza" creationdate="20200601T175140Z">
+        <seg>Piaskowa jaskinia</seg>
       </tuv>
     </tu>
     <tu>
@@ -11426,6 +11522,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175244Z" creationid="Syn Spawacza" creationdate="20200601T175244Z">
+        <seg>Teatr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then access the—</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183432Z" creationid="Syn Spawacza" creationdate="20200530T183432Z">
@@ -12175,6 +12279,22 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Under the Theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175249Z" creationid="Syn Spawacza" creationdate="20200601T175249Z">
+        <seg>Pod teatrem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Underground Area</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175343Z" creationid="Syn Spawacza" creationdate="20200601T175343Z">
+        <seg>Obszar podziemny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Understood, sir.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195510Z" creationid="Syn Spawacza" creationdate="20200530T195510Z">
@@ -12295,6 +12415,14 @@ Forest Kingdom.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122012Z" creationid="Syn Spawacza" creationdate="20200601T122012Z">
         <seg>Odblokowuje podsystem Wieży
 w Leśnym Królestwie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upper Castle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175256Z" creationid="Syn Spawacza" creationdate="20200601T175256Z">
+        <seg>Górny zamek</seg>
       </tuv>
     </tu>
     <tu>
