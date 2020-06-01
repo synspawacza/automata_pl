@@ -4938,6 +4938,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Play hacking games you've already cleared.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074958Z" creationid="Syn Spawacza" creationdate="20200601T074958Z">
+        <seg>Zagraj w ukończone gry hakerskie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Play hacking games you've cleared.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145443Z" creationid="Syn Spawacza" creationdate="20200530T145443Z">
@@ -5942,6 +5950,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143916Z" creationid="Syn Spawacza" creationdate="20200530T143916Z">
         <seg>Wybierz miejsce na broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a stage to play.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075102Z" creationid="Syn Spawacza" creationdate="20200601T075102Z">
+        <seg>Wybierz poziom.</seg>
       </tuv>
     </tu>
     <tu>
