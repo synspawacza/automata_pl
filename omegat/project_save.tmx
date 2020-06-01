@@ -944,6 +944,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aged Stick</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091525Z" creationid="Syn Spawacza" creationdate="20200601T091525Z">
+        <seg>Stara laska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aggressive</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110937Z" creationid="Syn Spawacza" creationdate="20200530T141409Z">
@@ -4706,6 +4714,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Part</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090948Z" creationid="Syn Spawacza" creationdate="20200601T090948Z">
+        <seg>Część maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Torso</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082203Z" creationid="Syn Spawacza" creationdate="20200601T082203Z">
@@ -5386,6 +5402,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ocean Access Key</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090814Z" creationid="Syn Spawacza" creationdate="20200601T090814Z">
+        <seg>Klucz dostępu z morza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Off</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140118Z" creationid="Syn Spawacza" creationdate="20200530T140118Z">
@@ -5590,6 +5614,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085747Z" creationid="Syn Spawacza" creationdate="20200601T085747Z">
         <seg>Paczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Park Access Key</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090836Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
+        <seg>Klucz dostępu z w. miasteczka</seg>
       </tuv>
     </tu>
     <tu>
@@ -7264,6 +7296,22 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075840Z" creationid="Syn Spawacza" creationdate="20200601T075840Z">
         <seg>Kula (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stamp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090952Z" creationid="Syn Spawacza" creationdate="20200601T090952Z">
+        <seg>Pieczątka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stamp Card</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091002Z" creationid="Syn Spawacza" creationdate="20200601T091002Z">
+        <seg>Karta na pieczątki</seg>
       </tuv>
     </tu>
     <tu>
