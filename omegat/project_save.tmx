@@ -512,6 +512,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black oriental sword. Its no-frills
+design gives it an aura of serious weaponry.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145959Z" creationid="Syn Spawacza" creationdate="20200601T145959Z">
+        <seg>Orientalny, czarny miecz. Jego pozbawiony fanaberii
+projekt daje wrażenie poważnej broni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A blade once held by an attendant who cared deeply for 
 his lord. Like his loyalty, its blade is unbent.</seg>
       </tuv>
@@ -10348,8 +10358,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Type-3 Lance</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135820Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
-        <seg>Włócznia typ 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145631Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
+        <seg>Lanca typ 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -10380,8 +10390,8 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Type-4O Lance</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135816Z" creationid="Syn Spawacza" creationdate="20200601T135816Z">
-        <seg>Włócznia typ 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145626Z" creationid="Syn Spawacza" creationdate="20200601T135816Z">
+        <seg>Lanca typ 4O</seg>
       </tuv>
     </tu>
     <tu>
