@@ -11212,8 +11212,20 @@ przez 30 sekund.</seg>
 A head covering worn by machine
 lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130230Z" creationid="Syn Spawacza" creationdate="20200601T130230Z">
-        <seg>[Akcesoria]</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130327Z" creationid="Syn Spawacza" creationdate="20200601T130230Z">
+        <seg>[Akcesoria]
+Nakrycie głowy używane przez
+mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+This head covering belongs to Emil.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130341Z" creationid="Syn Spawacza" creationdate="20200601T130341Z">
+        <seg>[Akcesoria]
+Nakrycie głowy należące do Emila.</seg>
       </tuv>
     </tu>
     <tu>
