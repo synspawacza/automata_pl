@@ -497,6 +497,16 @@ nadawała się do czytania.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bracelet worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111916Z" creationid="Syn Spawacza" creationdate="20200601T111916Z">
+        <seg>Bransoleta używana przez ludzi.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A broken, unusable battery.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103527Z" creationid="Syn Spawacza" creationdate="20200601T103527Z">
@@ -1415,6 +1425,16 @@ przez pnie drzew.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
         <seg>Zdjęcie z wesołego miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An earring worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111858Z" creationid="Syn Spawacza" creationdate="20200601T111858Z">
+        <seg>Kolczyk używany przez ludzi.
+Może zostać sprzedany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,8 +2956,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Dietary Goods</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090542Z" creationid="Syn Spawacza" creationdate="20200601T090542Z">
-        <seg>Suplement diety</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112054Z" creationid="Syn Spawacza" creationdate="20200601T090542Z">
+        <seg>Środek na odchudzanie</seg>
       </tuv>
     </tu>
     <tu>
