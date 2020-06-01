@@ -1773,6 +1773,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adds a shock wave when finishing off enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165245Z" creationid="Syn Spawacza" creationdate="20200601T165245Z">
+        <seg>Dodaje falę uderzeniową podczas dobijania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adds a shock wave when striking enemy projectiles.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164333Z" creationid="Syn Spawacza" creationdate="20200601T164333Z">
@@ -3404,6 +3412,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143929Z" creationid="Syn Spawacza" creationdate="20200530T143929Z">
         <seg>Zmień broń do ataków ciężkich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Changes damage values and your evade maneuver.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165356Z" creationid="Syn Spawacza" creationdate="20200601T165356Z">
+        <seg>Zmienia wartości obrażeń i manewr uniku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8970,6 +8986,14 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100055Z" creationid="Syn Spawacza" creationdate="20200601T100055Z">
         <seg>Przywraca 75% punktów życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores HP when finishing off enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165255Z" creationid="Syn Spawacza" creationdate="20200601T165230Z">
+        <seg>Przywraca PŻ podczas dobijania wrogów.</seg>
       </tuv>
     </tu>
     <tu>
