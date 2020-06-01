@@ -4195,6 +4195,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Carp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191523Z" creationid="Syn Spawacza" creationdate="20200601T191523Z">
+        <seg>Karp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Castle Blacksmith</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175824Z" creationid="Syn Spawacza" creationdate="20200601T175824Z">
@@ -7250,6 +7258,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fur Carp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191559Z" creationid="Syn Spawacza" creationdate="20200601T191559Z">
+        <seg>Karp włochaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fusion Cost</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073035Z" creationid="Syn Spawacza" creationdate="20200601T073035Z">
@@ -8902,6 +8918,22 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184010Z" creationid="Syn Spawacza" creationdate="20200530T184010Z">
         <seg>Zabij...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Killifish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191520Z" creationid="Syn Spawacza" creationdate="20200601T191520Z">
+        <seg>Proporczykowiec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Koi Carp</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191527Z" creationid="Syn Spawacza" creationdate="20200601T191527Z">
+        <seg>Karp Koi</seg>
       </tuv>
     </tu>
     <tu>
