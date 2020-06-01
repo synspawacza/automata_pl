@@ -524,8 +524,8 @@ of the East.</seg>
         <seg>A black katana kept by warrior
 monks of the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161357Z" creationid="Syn Spawacza" creationdate="20200601T161357Z">
-        <seg>Czarne katana wojownika z Wschodu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161732Z" creationid="Syn Spawacza" creationdate="20200601T161357Z">
+        <seg>Czarna katana wojownika z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -543,8 +543,8 @@ projektowi daje wrażenie poważnej broni.</seg>
         <seg>A black spear used by warrior
 monks of the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161554Z" creationid="Syn Spawacza" creationdate="20200601T161554Z">
-        <seg>Czarne włócznia wojownika z Wschodu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161723Z" creationid="Syn Spawacza" creationdate="20200601T161554Z">
+        <seg>Czarna włócznia wojownika z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1010,6 +1010,16 @@ the Resistance.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A magical blade used by a
+royal family.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161828Z" creationid="Syn Spawacza" creationdate="20200601T161828Z">
+        <seg>Magiczne ostrze używane
+w rodzinie królewskiej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A metal used in welding.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111047Z" creationid="Syn Spawacza" creationdate="20200601T111047Z">
@@ -1360,6 +1370,14 @@ as its motif.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122711Z" creationid="Syn Spawacza" creationdate="20200601T122711Z">
         <seg>Pomnik przedstawiający młodą dziewczynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stick made of cypress wood.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161849Z" creationid="Syn Spawacza" creationdate="20200601T161849Z">
+        <seg>Kij z drewna cyprysowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3651,6 +3669,14 @@ no longer works.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120345Z" creationid="Syn Spawacza" creationdate="20200601T120345Z">
         <seg>Niedziałająca zabawka stworzona przez ludzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Critical +</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161942Z" creationid="Syn Spawacza" creationdate="20200601T161942Z">
+        <seg>Krytyczne +</seg>
       </tuv>
     </tu>
     <tu>
@@ -9794,6 +9820,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stun Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162029Z" creationid="Syn Spawacza" creationdate="20200601T162029Z">
+        <seg>Ogłuszenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sturdy Socket</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083702Z" creationid="Syn Spawacza" creationdate="20200601T083702Z">
@@ -10982,6 +11016,15 @@ mechanicznych form życia potrafi naprawdę przywalić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unique weapons shaped like 
+Emil's head.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161918Z" creationid="Syn Spawacza" creationdate="20200601T161918Z">
+        <seg>Unikatowa broń w kształcie głowy Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit Data</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143942Z" creationid="Syn Spawacza" creationdate="20200530T143942Z">
@@ -11795,6 +11838,25 @@ the unholy fangs of demons.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154513Z" creationid="Syn Spawacza" creationdate="20200601T154513Z">
         <seg>Broń ukształtowana w odległej krainie na kształt
 przeklętych kłów demona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons made from machine
+lifeforms' heads.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161806Z" creationid="Syn Spawacza" creationdate="20200601T161806Z">
+        <seg>Broń zrobiona z głowy mechanicznej
+formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons made of black armor
+from the East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161739Z" creationid="Syn Spawacza" creationdate="20200601T161739Z">
+        <seg>Czarne rękawice wojownika z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
