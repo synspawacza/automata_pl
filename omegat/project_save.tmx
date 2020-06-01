@@ -2341,6 +2341,19 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Allows a combatant to ride atop
+a Pod—with a certain degree of
+directional control—as it rushes
+forward into the fray.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T172724Z" creationid="Syn Spawacza" creationdate="20200601T172724Z">
+        <seg>Pozwala walczącemu być wystrzelonym
+na podzie, zachowując w pewnym
+stopniu kontrolę kierunku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alloy composed of rare metals.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103319Z" creationid="Syn Spawacza" creationdate="20200601T103319Z">
@@ -9250,6 +9263,18 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165255Z" creationid="Syn Spawacza" creationdate="20200601T165230Z">
         <seg>Przywraca PŻ podczas dobijania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restrains and shocks one nearby
+enemy, causing continuous
+damage over a set period of time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171915Z" creationid="Syn Spawacza" creationdate="20200601T171915Z">
+        <seg>Więzi i razi jednego z pobliskich
+przeciwników, zadając obrażenia
+przez ustalony czas.</seg>
       </tuv>
     </tu>
     <tu>
