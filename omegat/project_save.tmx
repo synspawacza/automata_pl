@@ -4641,9 +4641,10 @@ capable of healing the
 combatants as long as they 
 remain within its radius.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171529Z" creationid="Syn Spawacza" creationdate="20200601T171529Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171536Z" creationid="Syn Spawacza" creationdate="20200601T171529Z">
         <seg>Emituje chwilowo wiązkę leczącą
-walczących, gdy ciz najdują sięw jej zasięgu.</seg>
+walczących, gdy ci znajdują się
+w jej zasięgu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11246,6 +11247,17 @@ mechanicznych form życia potrafi naprawdę przywalić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Throws a volley of small
+explosive charges over a set
+period of time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171709Z" creationid="Syn Spawacza" creationdate="20200601T171709Z">
+        <seg>Wyrzuca serię małych ładunków
+wybuchowych przez ustalony czas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Time Until Emil Self-Destructs</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171941Z" creationid="Syn Spawacza" creationdate="20200530T171941Z">
@@ -11691,6 +11703,15 @@ Emil's head.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172954Z" creationid="Syn Spawacza" creationdate="20200530T172954Z">
         <seg>Uaktualniono dane na temat jednostki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unleashes a blast that sucks in
+any enemies in the vicinity.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T171757Z" creationid="Syn Spawacza" creationdate="20200601T171757Z">
+        <seg>Wytarza pole przyciągające przeciwników.</seg>
       </tuv>
     </tu>
     <tu>
