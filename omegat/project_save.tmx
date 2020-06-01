@@ -7320,6 +7320,16 @@ inne losowe efekty.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Do you want to use auto-control chips?
+* All of your chip set types will be changed to "Balance Focus."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212247Z" creationid="Syn Spawacza" creationdate="20200601T212247Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+* Wszystkie twoje zestawy czipów zostaną zmienione na „Zbalansowane”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
 * Your current chip set type will be changed to "Balance Focus."</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211953Z" creationid="Syn Spawacza" creationdate="20200601T211100Z">
@@ -14345,6 +14355,18 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Parameter for experimental purposes. Changing it may lead to anomalies in your visual data.
+ 
+YoRHa Technology Division</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212213Z" creationid="Syn Spawacza" creationdate="20200601T212213Z">
+        <seg>Parametr eksperymentalny. Zmiana ustawień może prowadzić do amonali w sygnale wizualnym.
+
+Dział Technologii YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paramétrage UDB</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203910Z" creationid="Syn Spawacza" creationdate="20200601T203910Z">
@@ -18670,6 +18692,16 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163518Z" creationid="Syn Spawacza" creationdate="20200530T163518Z">
         <seg>Zmieniono ustawienia obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The screen settings have been changed.
+Are these settings okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212103Z" creationid="Syn Spawacza" creationdate="20200601T212103Z">
+        <seg>Zmieniono ustawienia obrazu.
+Pozostawić ustawienia?</seg>
       </tuv>
     </tu>
     <tu>
