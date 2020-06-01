@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>(Hold) Self-Destruct</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213557Z" creationid="Syn Spawacza" creationdate="20200601T213557Z">
+        <seg>(Przytrzymaj) Autodestrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Remaining: &lt;NUM&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173022Z" creationid="Syn Spawacza" creationdate="20200530T173022Z">
@@ -4615,6 +4623,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Berserker Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213301Z" creationid="Syn Spawacza" creationdate="20200601T213301Z">
+        <seg>Tryb berserkera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Better make sure he's actually dead next time.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175032Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
@@ -5367,6 +5383,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145047Z" creationid="Syn Spawacza" creationdate="20200530T141738Z">
         <seg>Zmień wiadomość</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Weapon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213316Z" creationid="Syn Spawacza" creationdate="20200601T213316Z">
+        <seg>Zmiana broni</seg>
       </tuv>
     </tu>
     <tu>
@@ -6917,6 +6941,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Debug Menu</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213243Z" creationid="Syn Spawacza" creationdate="20200601T213243Z">
+        <seg>Menu debugowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Debug Room</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130659Z" creationid="Syn Spawacza" creationdate="20200530T130659Z">
@@ -7295,6 +7327,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162149Z" creationid="Syn Spawacza" creationdate="20200601T162149Z">
         <seg>Zniżka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dismount</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213231Z" creationid="Syn Spawacza" creationdate="20200601T213231Z">
+        <seg>Zejdź</seg>
       </tuv>
     </tu>
     <tu>
@@ -13123,6 +13163,14 @@ z skamieniałej żywicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Missile Barrage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213422Z" creationid="Syn Spawacza" creationdate="20200601T213422Z">
+        <seg>Ostrzał rakietowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Missile Supply Mission</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173729Z" creationid="Syn Spawacza" creationdate="20200601T173729Z">
@@ -17879,6 +17927,14 @@ wśród wrogów których dotknie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sprint</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213224Z" creationid="Syn Spawacza" creationdate="20200601T213224Z">
+        <seg>Sprint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stamp</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090952Z" creationid="Syn Spawacza" creationdate="20200601T090952Z">
@@ -18256,6 +18312,14 @@ potężne celowi uderzenie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165428Z" creationid="Syn Spawacza" creationdate="20200601T165428Z">
         <seg>Machaj bronią by słyszeć głos Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch Lock-on Target</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213431Z" creationid="Syn Spawacza" creationdate="20200601T213431Z">
+        <seg>Zmiana namierzanego celu</seg>
       </tuv>
     </tu>
     <tu>
