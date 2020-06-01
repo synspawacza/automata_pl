@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1852,6 +1852,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183852Z" creationid="Syn Spawacza" creationdate="20200530T183852Z">
         <seg>Odebrano polecenie 677.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Commander</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071612Z" creationid="Syn Spawacza" creationdate="20200601T071612Z">
+        <seg>Dowódca</seg>
       </tuv>
     </tu>
     <tu>
@@ -5282,6 +5290,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resistance Member</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071903Z" creationid="Syn Spawacza" creationdate="20200601T071903Z">
+        <seg>Członek ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132941Z" creationid="Syn Spawacza" creationdate="20200530T132941Z">
@@ -7684,6 +7700,22 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174331Z" creationid="Syn Spawacza" creationdate="20200530T174331Z">
         <seg>Zauważyłam to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa Soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071641Z" creationid="Syn Spawacza" creationdate="20200601T071641Z">
+        <seg>Żołnierz YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa Soldiers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071700Z" creationid="Syn Spawacza" creationdate="20200601T071700Z">
+        <seg>Żołnierze YoRHa</seg>
       </tuv>
     </tu>
     <tu>
