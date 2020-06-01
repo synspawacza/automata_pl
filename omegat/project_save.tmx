@@ -2304,6 +2304,14 @@ przeznaczona dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beastcurse</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135618Z" creationid="Syn Spawacza" creationdate="20200601T135618Z">
+        <seg>Klątwa Bestii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beastlord</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135244Z" creationid="Syn Spawacza" creationdate="20200601T135244Z">
@@ -3639,6 +3647,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083609Z" creationid="Syn Spawacza" creationdate="20200601T083609Z">
         <seg>Posępna bransoleta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dragoon Lance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135800Z" creationid="Syn Spawacza" creationdate="20200601T135800Z">
+        <seg>Kopia Dragona</seg>
       </tuv>
     </tu>
     <tu>
@@ -9046,6 +9062,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170304Z" creationid="Syn Spawacza" creationdate="20200530T170304Z">
         <seg>Porozmawiaj z Dowódcą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spear of the Usurper</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135809Z" creationid="Syn Spawacza" creationdate="20200601T135809Z">
+        <seg>Włócznia Uzurpatora</seg>
       </tuv>
     </tu>
     <tu>
