@@ -3843,6 +3843,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bloat Fish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192829Z" creationid="Syn Spawacza" creationdate="20200601T192829Z">
+        <seg>Nadymka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bloody Dog Tag</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085601Z" creationid="Syn Spawacza" creationdate="20200601T085601Z">
@@ -15471,10 +15479,26 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Twinfish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193830Z" creationid="Syn Spawacza" creationdate="20200601T193830Z">
+        <seg>Dwuryba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Twisted Religion</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173856Z" creationid="Syn Spawacza" creationdate="20200601T173856Z">
         <seg>Skrzywiona religia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Twoface</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192851Z" creationid="Syn Spawacza" creationdate="20200601T192851Z">
+        <seg>Dwugłów</seg>
       </tuv>
     </tu>
     <tu>
