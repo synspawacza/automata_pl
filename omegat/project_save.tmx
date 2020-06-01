@@ -1589,6 +1589,26 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An old, rusty machine fossil intended
+for Jean-Paul.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114748Z" creationid="Syn Spawacza" creationdate="20200601T114748Z">
+        <seg>Stara, zardzewiała skamieniałość maszyny
+przeznaczona dla Jean-Paula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An old, rusty machine fossil intended
+for Sartre.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114735Z" creationid="Syn Spawacza" creationdate="20200601T114735Z">
+        <seg>Stara, zardzewiała skamieniałość maszyny
+przeznaczona dla Sartre'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: This elevator's controls are locked and cannot be used.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
@@ -1953,6 +1973,26 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085216Z" creationid="Syn Spawacza" creationdate="20200601T085216Z">
         <seg>Piękne szkiełko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beautifully polished glass intended for
+Jean-Paul.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114635Z" creationid="Syn Spawacza" creationdate="20200601T114635Z">
+        <seg>Wspaniale wypolerowany kawałek szkła
+przeznaczony dla Jean-Paula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Beautifully polished glass intended for
+Sartre.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114641Z" creationid="Syn Spawacza" creationdate="20200601T114627Z">
+        <seg>Wspaniale wypolerowany kawałek szkła
+przeznaczony dla Sartre'a.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,8 +5344,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Lovely Choker</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084209Z" creationid="Syn Spawacza" creationdate="20200601T084209Z">
-        <seg>Ładny czoker</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114658Z" creationid="Syn Spawacza" creationdate="20200601T084209Z">
+        <seg>Uroczy czoker</seg>
       </tuv>
     </tu>
     <tu>
@@ -7745,6 +7785,16 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085301Z" creationid="Syn Spawacza" creationdate="20200601T085301Z">
         <seg>List Sartre'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sartre's letter. It reads: 
+"I've left to seek the truth of the world.
+Throw that trash away!"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114824Z" creationid="Syn Spawacza" creationdate="20200601T114824Z">
+        <seg>List od Sartre'a. Jest w nim napisane:</seg>
       </tuv>
     </tu>
     <tu>
