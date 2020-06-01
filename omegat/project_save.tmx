@@ -1613,6 +1613,70 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A100: Decoy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165712Z" creationid="Syn Spawacza" creationdate="20200601T165712Z">
+        <seg>A100: Wabik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A110: Slow</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165724Z" creationid="Syn Spawacza" creationdate="20200601T165724Z">
+        <seg>A110: Spowolnienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A120: Repair</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165734Z" creationid="Syn Spawacza" creationdate="20200601T165734Z">
+        <seg>A120: Naprawa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A130: Bomb</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165737Z" creationid="Syn Spawacza" creationdate="20200601T165737Z">
+        <seg>A130: Bomba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A140: Gravity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165748Z" creationid="Syn Spawacza" creationdate="20200601T165748Z">
+        <seg>A140: Przyciąganie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A150: Volt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165801Z" creationid="Syn Spawacza" creationdate="20200601T165801Z">
+        <seg>A150: Napięcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A160: Missile</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165828Z" creationid="Syn Spawacza" creationdate="20200601T165828Z">
+        <seg>A160: Rakieta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A170: Scanner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165832Z" creationid="Syn Spawacza" creationdate="20200601T165832Z">
+        <seg>A170: Skaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A2 Wig</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095914Z" creationid="Syn Spawacza" creationdate="20200601T095914Z">
@@ -2429,6 +2493,20 @@ przeznaczona dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
         <seg>Analiza: Sterowanie windą jest zablokowane i nie można go użyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analyzes all enemies in a fixed
+radius, allowing combatants to
+deliver a series of deadly slashes
+to all who are caught within.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170116Z" creationid="Syn Spawacza" creationdate="20200601T170116Z">
+        <seg>Analizuje wszystkich wrogów
+w ustalonym promieniu, pozwalając
+walczącym na zadanie im serii
+śmiercionośnych ciosów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4865,6 +4943,16 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135828Z" creationid="Syn Spawacza" creationdate="20200530T135828Z">
         <seg>Strzał 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fires a powerful laser in the
+direction that the Pod is facing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165908Z" creationid="Syn Spawacza" creationdate="20200601T165908Z">
+        <seg>Wystrzeliwuje potężny laser w kierunku
+w którym zwrócony jest pod.</seg>
       </tuv>
     </tu>
     <tu>
