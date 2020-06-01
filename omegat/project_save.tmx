@@ -5395,6 +5395,18 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mined ore containing iron. 
+Iron can be extracted by heating 
+it to 3000 degrees in a furnace.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T104933Z" creationid="Syn Spawacza" creationdate="20200601T104933Z">
+        <seg>Ruda zawierająca żelazo.
+Żelazo można wytapiać w piecu hutniczym
+w temperaturze 2000 stopni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini-map</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161807Z" creationid="Syn Spawacza" creationdate="20200530T161807Z">
