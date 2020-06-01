@@ -4490,6 +4490,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Core</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084946Z" creationid="Syn Spawacza" creationdate="20200601T084946Z">
+        <seg>Rdzeń maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Head</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082208Z" creationid="Syn Spawacza" creationdate="20200601T082208Z">
@@ -4658,6 +4666,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meteorite</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084939Z" creationid="Syn Spawacza" creationdate="20200601T084939Z">
+        <seg>Meteoryt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meteorite Shard</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081707Z" creationid="Syn Spawacza" creationdate="20200601T081707Z">
@@ -4702,6 +4718,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140740Z" creationid="Syn Spawacza" creationdate="20200530T140740Z">
         <seg>Podgląd modelu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moldavite</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084934Z" creationid="Syn Spawacza" creationdate="20200601T084934Z">
+        <seg>Mołdawit</seg>
       </tuv>
     </tu>
     <tu>
@@ -5366,6 +5390,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
         <seg>Pasywny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pearl</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084905Z" creationid="Syn Spawacza" creationdate="20200601T084905Z">
+        <seg>Perła</seg>
       </tuv>
     </tu>
     <tu>
@@ -7472,6 +7504,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075652Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
         <seg>Twoje obecne rekordy:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thick Dictionary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084903Z" creationid="Syn Spawacza" creationdate="20200601T084903Z">
+        <seg>Gruby słownik</seg>
       </tuv>
     </tu>
     <tu>
