@@ -539,6 +539,16 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A choker used by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113257Z" creationid="Syn Spawacza" creationdate="20200601T113257Z">
+        <seg>Czoker używany przez ludzi.
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cluster of mined crystals.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113239Z" creationid="Syn Spawacza" creationdate="20200601T113239Z">
