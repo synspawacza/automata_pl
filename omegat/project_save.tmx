@@ -2954,6 +2954,16 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemies drop more money for
+30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101749Z" creationid="Syn Spawacza" creationdate="20200601T101749Z">
+        <seg>Wrogowie wyrzucają więcej
+pieniędzy przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemy analysis complete.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182758Z" creationid="Syn Spawacza" creationdate="20200530T182758Z">
@@ -3398,6 +3408,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094447Z" creationid="Syn Spawacza" creationdate="20200601T094447Z">
         <seg>Voucher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Give to an animal in order to ride them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101615Z" creationid="Syn Spawacza" creationdate="20200601T101615Z">
+        <seg>Dana zwierzętom pozwala je ujeżdżać.</seg>
       </tuv>
     </tu>
     <tu>
