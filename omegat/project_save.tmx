@@ -10218,6 +10218,18 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spins a Pod around the player at
+high speed, wreaking havoc on
+any enemies it touches.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170358Z" creationid="Syn Spawacza" creationdate="20200601T170358Z">
+        <seg>Pod  wiruje wokół gracza z dużą
+prędkością, siejąc spustoszenie
+wśród wrogów których dotknie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stamp</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090952Z" creationid="Syn Spawacza" creationdate="20200601T090952Z">
@@ -10384,6 +10396,17 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134326Z" creationid="Syn Spawacza" creationdate="20200530T134326Z">
         <seg>Monitor dodatkowy 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summons a mass of energy that
+unleashes a devastating blow
+upon its target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T170219Z" creationid="Syn Spawacza" creationdate="20200601T170219Z">
+        <seg>Przyzywa masę energii zadającą
+potężne celowi uderzenie.</seg>
       </tuv>
     </tu>
     <tu>
