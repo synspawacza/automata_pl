@@ -1256,6 +1256,17 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A white sword like those carried by samurai of
+old. Looks flashy, but the blade is top quality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145622Z" creationid="Syn Spawacza" creationdate="20200601T145622Z">
+        <seg>Biały miecz przypominający te używane przez
+dawnych samurajów. Wygląda paradnie, ale
+jego ostrze jest najwyższej klasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A worn-down, unusable screw.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102541Z" creationid="Syn Spawacza" creationdate="20200601T102541Z">
