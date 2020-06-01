@@ -1536,6 +1536,38 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bodies collected</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075849Z" creationid="Syn Spawacza" creationdate="20200601T075849Z">
+        <seg>Ciał zebranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bodies infected</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080049Z" creationid="Syn Spawacza" creationdate="20200601T080049Z">
+        <seg>Ciał zainfekowanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bodies repaired</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075907Z" creationid="Syn Spawacza" creationdate="20200601T075907Z">
+        <seg>Ciał naprawionych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bodies uploaded</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080025Z" creationid="Syn Spawacza" creationdate="20200601T080025Z">
+        <seg>Ciał wysłanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Body</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073038Z" creationid="Syn Spawacza" creationdate="20200601T073038Z">
@@ -3530,6 +3562,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Infected bodies subdued</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080144Z" creationid="Syn Spawacza" creationdate="20200601T080144Z">
+        <seg>Ujarzmionych zainfekowanych ciał</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Infiltrate the abandoned factory.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162204Z" creationid="Syn Spawacza" creationdate="20200530T162204Z">
@@ -5178,6 +5218,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prayers received</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080034Z" creationid="Syn Spawacza" creationdate="20200601T080034Z">
+        <seg>Modlitw odebranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Any Button</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130617Z" creationid="Syn Spawacza" creationdate="20200530T130617Z">
@@ -5270,6 +5318,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142114Z" creationid="Syn Spawacza" creationdate="20200530T142114Z">
         <seg>ZADANIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quadruped (M)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075826Z" creationid="Syn Spawacza" creationdate="20200601T075826Z">
+        <seg>Czworonóg (M)</seg>
       </tuv>
     </tu>
     <tu>
@@ -6416,6 +6472,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073018Z" creationid="Syn Spawacza" creationdate="20200601T073018Z">
         <seg>Umiejętności specjalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sphere (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075840Z" creationid="Syn Spawacza" creationdate="20200601T075840Z">
+        <seg>Kula (S)</seg>
       </tuv>
     </tu>
     <tu>
