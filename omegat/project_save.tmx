@@ -4884,8 +4884,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Place Marker</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140653Z" creationid="Syn Spawacza" creationdate="20200530T140653Z">
-        <seg>Umieść znacznik</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073444Z" creationid="Syn Spawacza" creationdate="20200530T140653Z">
+        <seg>Dodaj znacznik</seg>
       </tuv>
     </tu>
     <tu>
@@ -6636,6 +6636,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The standard, most enjoyable difficulty. Probably.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073522Z" creationid="Syn Spawacza" creationdate="20200601T073522Z">
+        <seg>Standardowy, najprzyjemniejszy poziom trudności. Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The subject's vital signs are too poor to attempt field repair in the current—</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211310Z" creationid="Syn Spawacza" creationdate="20200530T183634Z">
@@ -8114,16 +8122,16 @@ Auto-zmiana broni.</seg>
       <tuv lang="en-US">
         <seg>Zoom In</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140656Z" creationid="Syn Spawacza" creationdate="20200530T140656Z">
-        <seg>Zbliżenie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073448Z" creationid="Syn Spawacza" creationdate="20200530T140656Z">
+        <seg>Przybliż</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Zoom Out</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140658Z" creationid="Syn Spawacza" creationdate="20200530T140658Z">
-        <seg>Oddalenie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073433Z" creationid="Syn Spawacza" creationdate="20200530T140658Z">
+        <seg>Oddal</seg>
       </tuv>
     </tu>
     <tu>
