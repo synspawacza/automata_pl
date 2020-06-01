@@ -512,6 +512,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A2 Wig</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095914Z" creationid="Syn Spawacza" creationdate="20200601T095914Z">
+        <seg>Peruka A2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACCESS POINT</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142143Z" creationid="Syn Spawacza" creationdate="20200530T142143Z">
@@ -6626,10 +6634,42 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retro Black Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095629Z" creationid="Syn Spawacza" creationdate="20200601T095629Z">
+        <seg>Pod retro — czarny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retro Grey Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095633Z" creationid="Syn Spawacza" creationdate="20200601T095633Z">
+        <seg>Pod retro — szary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retro Purple Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095812Z" creationid="Syn Spawacza" creationdate="20200601T095812Z">
+        <seg>Pod retro — fioletowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retro Red Pod</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095620Z" creationid="Syn Spawacza" creationdate="20200601T095620Z">
         <seg>Pod retro — czerwony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retro White Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095624Z" creationid="Syn Spawacza" creationdate="20200601T095624Z">
+        <seg>Pod retro — biały</seg>
       </tuv>
     </tu>
     <tu>
@@ -8676,6 +8716,38 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130703Z" creationid="Syn Spawacza" creationdate="20200530T130703Z">
         <seg>Nazwa użytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valve: Both Eyes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095838Z" creationid="Syn Spawacza" creationdate="20200601T095838Z">
+        <seg>Zawór: oboje oczu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valve: Head</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095851Z" creationid="Syn Spawacza" creationdate="20200601T095851Z">
+        <seg>Zawór: głowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valve: Left Eye</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095821Z" creationid="Syn Spawacza" creationdate="20200601T095821Z">
+        <seg>Zawór: lewe oko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Valve: Right Eye</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095826Z" creationid="Syn Spawacza" creationdate="20200601T095826Z">
+        <seg>Zawór: prawe oko</seg>
       </tuv>
     </tu>
     <tu>
