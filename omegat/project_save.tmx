@@ -2530,6 +2530,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dietary Goods</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090542Z" creationid="Syn Spawacza" creationdate="20200601T090542Z">
+        <seg>Suplement diety</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diff.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075637Z" creationid="Syn Spawacza" creationdate="20200601T075637Z">
@@ -3070,6 +3078,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191107Z" creationid="Syn Spawacza" creationdate="20200530T191107Z">
         <seg>Za wysłanie moich danych do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forest Access Key</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090806Z" creationid="Syn Spawacza" creationdate="20200601T090806Z">
+        <seg>Klucz dostępu z lasu</seg>
       </tuv>
     </tu>
     <tu>
@@ -4774,6 +4790,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181627Z" creationid="Syn Spawacza" creationdate="20200530T181627Z">
         <seg>Może go... No nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medical Journal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090700Z" creationid="Syn Spawacza" creationdate="20200601T090700Z">
+        <seg>Pismo medyczne</seg>
       </tuv>
     </tu>
     <tu>
@@ -8956,6 +8980,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185307Z" creationid="Syn Spawacza" creationdate="20200530T184842Z">
         <seg>Gińże w końcu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Writing Implement</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090550Z" creationid="Syn Spawacza" creationdate="20200601T090550Z">
+        <seg>Przyrząd do pisania</seg>
       </tuv>
     </tu>
     <tu>
