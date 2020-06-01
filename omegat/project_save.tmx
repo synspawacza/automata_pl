@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204312Z" creationid="Syn Spawacza" creationdate="20200601T204312Z">
+        <seg>!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"&lt;CHIP_NAME&gt;" Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170442Z" creationid="Syn Spawacza" creationdate="20200530T170442Z">
@@ -38,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204305Z" creationid="Syn Spawacza" creationdate="20200601T204305Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204309Z" creationid="Syn Spawacza" creationdate="20200601T204309Z">
+        <seg>$</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>(Remaining: &lt;NUM&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173022Z" creationid="Syn Spawacza" creationdate="20200530T173022Z">
@@ -58,6 +82,22 @@
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165450Z" creationid="Syn Spawacza" creationdate="20200530T165450Z">
         <seg>(może zostać zmienione w dowolnym momencie w menu systemowym).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204308Z" creationid="Syn Spawacza" creationdate="20200601T204308Z">
+        <seg>)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>*</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204310Z" creationid="Syn Spawacza" creationdate="20200601T204310Z">
+        <seg>*</seg>
       </tuv>
     </tu>
     <tu>
@@ -84,6 +124,14 @@ supports "QWERTY" keyboards.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134444Z" creationid="Syn Spawacza" creationdate="20200530T134444Z">
         <seg>***UWAGA*** Ta gra wspiera
 tylko klawiatury w układzie QWERTY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>+</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204304Z" creationid="Syn Spawacza" creationdate="20200601T204304Z">
+        <seg>+</seg>
       </tuv>
     </tu>
     <tu>
@@ -196,6 +244,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
         <seg>...Co to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204419Z" creationid="Syn Spawacza" creationdate="20200601T204419Z">
+        <seg>/</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,10 +608,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204256Z" creationid="Syn Spawacza" creationdate="20200601T204256Z">
+        <seg>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204214Z" creationid="Syn Spawacza" creationdate="20200601T204214Z">
         <seg>;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204313Z" creationid="Syn Spawacza" creationdate="20200601T204313Z">
+        <seg>&lt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -792,10 +864,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204314Z" creationid="Syn Spawacza" creationdate="20200601T204314Z">
+        <seg>&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>???</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203822Z" creationid="Syn Spawacza" creationdate="20200601T203822Z">
         <seg>???</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>@</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204301Z" creationid="Syn Spawacza" creationdate="20200601T204301Z">
+        <seg>@</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3302,14 @@ stopniu kontrolę kierunku.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173852Z" creationid="Syn Spawacza" creationdate="20200530T173852Z">
         <seg>Aktywowano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204421Z" creationid="Syn Spawacza" creationdate="20200601T204421Z">
+        <seg>Alt</seg>
       </tuv>
     </tu>
     <tu>
@@ -6259,6 +6355,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ctrl</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204420Z" creationid="Syn Spawacza" creationdate="20200601T204420Z">
+        <seg>Ctrl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cure All + Heal All</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150257Z" creationid="Syn Spawacza" creationdate="20200530T150139Z">
@@ -6703,6 +6807,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140827Z" creationid="Syn Spawacza" creationdate="20200530T140827Z">
         <seg>Obrona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204233Z" creationid="Syn Spawacza" creationdate="20200601T204233Z">
+        <seg>Delete</seg>
       </tuv>
     </tu>
     <tu>
@@ -7620,6 +7732,14 @@ poszukiwaniu ukrytych obiektów</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203424Z" creationid="Syn Spawacza" creationdate="20200601T203424Z">
         <seg>Maszyna zachęcająca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204236Z" creationid="Syn Spawacza" creationdate="20200601T204236Z">
+        <seg>End</seg>
       </tuv>
     </tu>
     <tu>
@@ -9495,6 +9615,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204425Z" creationid="Syn Spawacza" creationdate="20200601T204425Z">
+        <seg>Home</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Horizontal Auto Adjust</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132044Z" creationid="Syn Spawacza" creationdate="20200530T132044Z">
@@ -10246,6 +10374,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163755Z" creationid="Syn Spawacza" creationdate="20200601T163755Z">
         <seg>Niepoczytalność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204424Z" creationid="Syn Spawacza" creationdate="20200601T204424Z">
+        <seg>Insert</seg>
       </tuv>
     </tu>
     <tu>
@@ -12925,6 +13061,142 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Num *</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204242Z" creationid="Syn Spawacza" creationdate="20200601T204242Z">
+        <seg>Num *</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num +</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204249Z" creationid="Syn Spawacza" creationdate="20200601T204249Z">
+        <seg>Num +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num -</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204243Z" creationid="Syn Spawacza" creationdate="20200601T204243Z">
+        <seg>Num -</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num .</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204253Z" creationid="Syn Spawacza" creationdate="20200601T204253Z">
+        <seg>Num .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num /</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204241Z" creationid="Syn Spawacza" creationdate="20200601T204241Z">
+        <seg>Num /</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 0</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204252Z" creationid="Syn Spawacza" creationdate="20200601T204252Z">
+        <seg>Num 0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204250Z" creationid="Syn Spawacza" creationdate="20200601T204250Z">
+        <seg>Num 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204250Z" creationid="Syn Spawacza" creationdate="20200601T204250Z">
+        <seg>Num 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204251Z" creationid="Syn Spawacza" creationdate="20200601T204251Z">
+        <seg>Num 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204246Z" creationid="Syn Spawacza" creationdate="20200601T204246Z">
+        <seg>Num 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204247Z" creationid="Syn Spawacza" creationdate="20200601T204247Z">
+        <seg>Num 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204248Z" creationid="Syn Spawacza" creationdate="20200601T204248Z">
+        <seg>Num 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204244Z" creationid="Syn Spawacza" creationdate="20200601T204244Z">
+        <seg>Num 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204245Z" creationid="Syn Spawacza" creationdate="20200601T204245Z">
+        <seg>Num 8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num 9</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204245Z" creationid="Syn Spawacza" creationdate="20200601T204245Z">
+        <seg>Num 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num Enter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204259Z" creationid="Syn Spawacza" creationdate="20200601T204259Z">
+        <seg>Num Enter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Num Lock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204241Z" creationid="Syn Spawacza" creationdate="20200601T204241Z">
+        <seg>Num Lock</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number 4</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194631Z" creationid="Syn Spawacza" creationdate="20200601T194631Z">
@@ -12961,6 +13233,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174104Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
         <seg>O-operator do 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204324Z" creationid="Syn Spawacza" creationdate="20200601T204324Z">
+        <seg>OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -13467,6 +13747,22 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Page Down</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204236Z" creationid="Syn Spawacza" creationdate="20200601T204236Z">
+        <seg>Page Down</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204235Z" creationid="Syn Spawacza" creationdate="20200601T204235Z">
+        <seg>Page Up</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paramétrage UDB</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203910Z" creationid="Syn Spawacza" creationdate="20200601T203910Z">
@@ -13593,6 +13889,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
         <seg>Pasywny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pause</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204423Z" creationid="Syn Spawacza" creationdate="20200601T204423Z">
+        <seg>Pause</seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,6 +15997,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132954Z" creationid="Syn Spawacza" creationdate="20200530T132954Z">
         <seg>Tryb wyświetlania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Scroll Lock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204422Z" creationid="Syn Spawacza" creationdate="20200601T204422Z">
+        <seg>Scroll Lock</seg>
       </tuv>
     </tu>
     <tu>
@@ -20637,6 +20949,22 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204416Z" creationid="Syn Spawacza" creationdate="20200601T204416Z">
+        <seg>]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>^</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204257Z" creationid="Syn Spawacza" creationdate="20200601T204257Z">
+        <seg>^</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>_</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203901Z" creationid="Syn Spawacza" creationdate="20200601T203901Z">
@@ -20701,6 +21029,38 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>´</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204303Z" creationid="Syn Spawacza" creationdate="20200601T204303Z">
+        <seg>´</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ä</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204306Z" creationid="Syn Spawacza" creationdate="20200601T204306Z">
+        <seg>Ä</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ö</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204306Z" creationid="Syn Spawacza" creationdate="20200601T204306Z">
+        <seg>Ö</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ü</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204303Z" creationid="Syn Spawacza" creationdate="20200601T204303Z">
+        <seg>Ü</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Überprüfung der Gedächtniseinheit: grün</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203940Z" creationid="Syn Spawacza" creationdate="20200601T203940Z">
@@ -20725,10 +21085,74 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ß</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204302Z" creationid="Syn Spawacza" creationdate="20200601T204302Z">
+        <seg>ß</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ù</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204311Z" creationid="Syn Spawacza" creationdate="20200601T204311Z">
+        <seg>ù</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>‐</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204153Z" creationid="Syn Spawacza" creationdate="20200601T204153Z">
         <seg>‐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>←</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204238Z" creationid="Syn Spawacza" creationdate="20200601T204238Z">
+        <seg>←</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>↑</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204237Z" creationid="Syn Spawacza" creationdate="20200601T204237Z">
+        <seg>↑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>→</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204240Z" creationid="Syn Spawacza" creationdate="20200601T204240Z">
+        <seg>→</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>↓</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204239Z" creationid="Syn Spawacza" creationdate="20200601T204239Z">
+        <seg>↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>システムチェック開始</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204402Z" creationid="Syn Spawacza" creationdate="20200601T204402Z">
+        <seg>システムチェック開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>システム起動中</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204401Z" creationid="Syn Spawacza" creationdate="20200601T204401Z">
+        <seg>システム起動中</seg>
       </tuv>
     </tu>
     <tu>
@@ -20773,6 +21197,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>メモリーユニットチェック：グリーン</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204403Z" creationid="Syn Spawacza" creationdate="20200601T204403Z">
+        <seg>メモリーユニットチェック：グリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>地形データ：ロード開始</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203842Z" creationid="Syn Spawacza" creationdate="20200601T203842Z">
@@ -20785,6 +21217,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203849Z" creationid="Syn Spawacza" creationdate="20200601T203849Z">
         <seg>慣性制御システム起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>戦術ログ：初期化</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204404Z" creationid="Syn Spawacza" creationdate="20200601T204404Z">
+        <seg>戦術ログ：初期化</seg>
       </tuv>
     </tu>
     <tu>
