@@ -4934,6 +4934,18 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean-Paul's letter. It reads: 
+"I've left to seek the truth of the world.
+Throw that trash away!"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115052Z" creationid="Syn Spawacza" creationdate="20200601T115052Z">
+        <seg>List od Jean-Paula. Jest w nim napisane:
+„Wyruszyłem w podróż by odnaleźć
+prawdę tego świata. Wyrzućcie te śmieci.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jukebox</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072014Z" creationid="Syn Spawacza" creationdate="20200601T072014Z">
@@ -7793,8 +7805,10 @@ i leczy wszystkie zaburzenia.</seg>
 "I've left to seek the truth of the world.
 Throw that trash away!"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114824Z" creationid="Syn Spawacza" creationdate="20200601T114824Z">
-        <seg>List od Sartre'a. Jest w nim napisane:</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115040Z" creationid="Syn Spawacza" creationdate="20200601T114824Z">
+        <seg>List od Sartre'a. Jest w nim napisane:
+„Wyruszyłem w podróż by odnaleźć
+prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -8905,6 +8919,18 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190622Z" creationid="Syn Spawacza" creationdate="20200530T190622Z">
         <seg>Czarna skrzynka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The bloodied memory chip of a
+machine lifeform. Says its allies
+were destroyed by the resistance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115440Z" creationid="Syn Spawacza" creationdate="20200601T115440Z">
+        <seg>Zakrwawiony czip pamięci mechanicznej
+formy życia. Mówi że jego towarzysz
+został zniszczony prze ruch oporu.</seg>
       </tuv>
     </tu>
     <tu>
