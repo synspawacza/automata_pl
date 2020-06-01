@@ -4240,6 +4240,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Automatic</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211854Z" creationid="Syn Spawacza" creationdate="20200601T211854Z">
+        <seg>Automatycznie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Automatically select and equip chips.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211219Z" creationid="Syn Spawacza" creationdate="20200601T211219Z">
@@ -6509,6 +6517,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211847Z" creationid="Syn Spawacza" creationdate="20200601T211847Z">
+        <seg>Personalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Customize Keyboard</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135029Z" creationid="Syn Spawacza" creationdate="20200530T135014Z">
@@ -7306,9 +7322,9 @@ inne losowe efekty.</seg>
         <seg>Do you want to use auto-control chips?
 * Your current chip set type will be changed to "Balance Focus."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211100Z" creationid="Syn Spawacza" creationdate="20200601T211100Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211953Z" creationid="Syn Spawacza" creationdate="20200601T211100Z">
         <seg>Czy chcesz używać czipów autosterowania?
-* Twój zestaw czipó zostanie zmieniony na „Zbalansowany”</seg>
+* Twój zestaw czipów zostanie zmieniony na „Zbalansowany”</seg>
       </tuv>
     </tu>
     <tu>
@@ -8058,6 +8074,16 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163223Z" creationid="Syn Spawacza" creationdate="20200530T163223Z">
         <seg>Używane czipy autosterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped auto-control chips.
+&lt;KC_LOCKON_2&gt; has now changed from "lock on" to "toggle auto-play."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212055Z" creationid="Syn Spawacza" creationdate="20200601T212055Z">
+        <seg>Użyto czipów autosterowania.
+&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16669,6 +16695,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a chip to destroy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211820Z" creationid="Syn Spawacza" creationdate="20200601T211820Z">
+        <seg>Wybierz czip do zniszczenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select a combat style for your allies.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131601Z" creationid="Syn Spawacza" creationdate="20200530T131601Z">
@@ -16753,6 +16787,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143859Z" creationid="Syn Spawacza" creationdate="20200530T143859Z">
         <seg>Wybierz broń do użycia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select and destroy a chip.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211818Z" creationid="Syn Spawacza" creationdate="20200601T211818Z">
+        <seg>Wybierz i zniszcz czip.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17443,6 +17485,30 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sort: Category</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211923Z" creationid="Syn Spawacza" creationdate="20200601T211902Z">
+        <seg>Sort.: Kategoria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort: Cost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211928Z" creationid="Syn Spawacza" creationdate="20200601T211908Z">
+        <seg>Sort.: Koszt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sort: Equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211934Z" creationid="Syn Spawacza" creationdate="20200601T211918Z">
+        <seg>Sort.: Używane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Soul Box</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175405Z" creationid="Syn Spawacza" creationdate="20200601T175405Z">
@@ -17725,6 +17791,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092834Z" creationid="Syn Spawacza" creationdate="20200601T092834Z">
         <seg>Nośnik danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Storage Used</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211837Z" creationid="Syn Spawacza" creationdate="20200601T211837Z">
+        <seg>Używana pojemność</seg>
       </tuv>
     </tu>
     <tu>
