@@ -520,6 +520,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Villager's Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174412Z" creationid="Syn Spawacza" creationdate="20200601T174412Z">
+        <seg>Prośba mieszkańca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black blade used by warriors
 of the East.</seg>
       </tuv>
@@ -2406,6 +2414,14 @@ stopniu kontrolę kierunku.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
         <seg>Zdjęcie z wesołego miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An Odd Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174313Z" creationid="Syn Spawacza" creationdate="20200601T174313Z">
+        <seg>Dziwna maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -4327,6 +4343,14 @@ chroniącą przed pociskami.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082920Z" creationid="Syn Spawacza" creationdate="20200601T082920Z">
         <seg>Róża pustyni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174258Z" creationid="Syn Spawacza" creationdate="20200601T174258Z">
+        <seg>Zniszczyć maszyny</seg>
       </tuv>
     </tu>
     <tu>
@@ -6404,6 +6428,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It Takes a Village</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174341Z" creationid="Syn Spawacza" creationdate="20200601T174341Z">
+        <seg>Trzeba całej wioski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It doesn't look like that's...going to be necessary...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190308Z" creationid="Syn Spawacza" creationdate="20200530T190308Z">
@@ -6974,6 +7006,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loss</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174200Z" creationid="Syn Spawacza" creationdate="20200601T174200Z">
+        <seg>Strata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lovely Choker</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114658Z" creationid="Syn Spawacza" creationdate="20200601T084209Z">
@@ -7090,6 +7130,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084946Z" creationid="Syn Spawacza" creationdate="20200601T084946Z">
         <seg>Rdzeń maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Destruction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174245Z" creationid="Syn Spawacza" creationdate="20200601T174245Z">
+        <seg>Zniszczenie maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -7218,6 +7266,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134243Z" creationid="Syn Spawacza" creationdate="20200530T134243Z">
         <seg>Monitor główny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maintenance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174306Z" creationid="Syn Spawacza" creationdate="20200601T174306Z">
+        <seg>Konserwacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -8389,6 +8445,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pascal's Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174319Z" creationid="Syn Spawacza" creationdate="20200601T174319Z">
+        <seg>Prośba Pascala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Passive</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
@@ -8861,6 +8925,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Protect the Children</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174450Z" creationid="Syn Spawacza" creationdate="20200601T174450Z">
+        <seg>Ochrona dzieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Provide support to the attack squad.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170112Z" creationid="Syn Spawacza" creationdate="20200530T170112Z">
@@ -9209,6 +9281,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140718Z" creationid="Syn Spawacza" creationdate="20200530T140718Z">
         <seg>Powtórka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174158Z" creationid="Syn Spawacza" creationdate="20200601T174158Z">
+        <seg>Raport</seg>
       </tuv>
     </tu>
     <tu>
@@ -12438,6 +12518,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144318Z" creationid="Syn Spawacza" creationdate="20200530T144202Z">
         <seg>Zobacz historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Village Turmoil</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174429Z" creationid="Syn Spawacza" creationdate="20200601T174429Z">
+        <seg>Chaos w wiosce</seg>
       </tuv>
     </tu>
     <tu>
