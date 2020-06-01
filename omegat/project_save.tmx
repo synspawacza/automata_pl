@@ -3178,6 +3178,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fuel Filter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093232Z" creationid="Syn Spawacza" creationdate="20200601T093232Z">
+        <seg>Filtr paliwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full HP Restored</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171919Z" creationid="Syn Spawacza" creationdate="20200530T171919Z">
@@ -6682,6 +6690,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sachet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093518Z" creationid="Syn Spawacza" creationdate="20200601T093518Z">
+        <seg>Woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sartre's Letter</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085301Z" creationid="Syn Spawacza" creationdate="20200601T085301Z">
@@ -8772,6 +8788,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155407Z" creationid="Syn Spawacza" creationdate="20200530T155407Z">
         <seg>Cnotliwy traktat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Viscous Oil</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093238Z" creationid="Syn Spawacza" creationdate="20200601T093238Z">
+        <seg>Lepki smar</seg>
       </tuv>
     </tu>
     <tu>
