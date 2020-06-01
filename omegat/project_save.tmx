@@ -2410,8 +2410,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>Cure All Status</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150121Z" creationid="Syn Spawacza" creationdate="20200530T150056Z">
-        <seg>Lek na wszystkie statusy</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100505Z" creationid="Syn Spawacza" creationdate="20200530T150056Z">
+        <seg>Lek na wszystkie zaburzenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -2424,10 +2424,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cures aural status ailments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100422Z" creationid="Syn Spawacza" creationdate="20200601T100255Z">
+        <seg>Leczy dźwiękowe efekty statusu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cures control anomalies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100439Z" creationid="Syn Spawacza" creationdate="20200601T100410Z">
+        <seg>Leczy zaburzenia sterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cures visual status ailments.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100245Z" creationid="Syn Spawacza" creationdate="20200601T100245Z">
-        <seg>Leczy wizualne efekty statusowe.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100518Z" creationid="Syn Spawacza" creationdate="20200601T100245Z">
+        <seg>Leczy zaburzenia wizualne.</seg>
       </tuv>
     </tu>
     <tu>
