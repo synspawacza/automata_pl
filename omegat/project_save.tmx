@@ -2652,6 +2652,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Assault</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173256Z" creationid="Syn Spawacza" creationdate="20200601T173256Z">
+        <seg>Atak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assign Pod abilities.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143539Z" creationid="Syn Spawacza" creationdate="20200530T143539Z">
@@ -5258,6 +5266,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gathering Intel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173135Z" creationid="Syn Spawacza" creationdate="20200601T173135Z">
+        <seg>Zbieranie wywiadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gatling</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080426Z" creationid="Syn Spawacza" creationdate="20200601T080426Z">
@@ -7086,6 +7102,22 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Recon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173155Z" creationid="Syn Spawacza" creationdate="20200601T173155Z">
+        <seg>Rozpoznanie maszyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173217Z" creationid="Syn Spawacza" creationdate="20200601T173217Z">
+        <seg>Prośba maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Spear</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135940Z" creationid="Syn Spawacza" creationdate="20200601T135940Z">
@@ -7106,6 +7138,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082203Z" creationid="Syn Spawacza" creationdate="20200601T082203Z">
         <seg>Tułów maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Trade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173233Z" creationid="Syn Spawacza" creationdate="20200601T173233Z">
+        <seg>Handel z maszynami</seg>
       </tuv>
     </tu>
     <tu>
@@ -10759,6 +10799,14 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191035Z" creationid="Syn Spawacza" creationdate="20200530T191035Z">
         <seg>Goliaty zniszczone, zabezpieczyliśmy drogę na terytorium wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Machine Surge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T172945Z" creationid="Syn Spawacza" creationdate="20200601T172945Z">
+        <seg>Powstanie maszyn</seg>
       </tuv>
     </tu>
     <tu>
