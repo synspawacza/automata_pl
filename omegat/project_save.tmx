@@ -11401,10 +11401,22 @@ Wytwarza nieuchwytną aurę wyniosłości.</seg>
 Shaped after a common household
 appliance vital for survival.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T131601Z" creationid="Syn Spawacza" creationdate="20200601T131601Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132043Z" creationid="Syn Spawacza" creationdate="20200601T131601Z">
         <seg>[Wygląd poda]
-Stylizowany na niezbędny do przetrwania
-przedmiot codziennego użytku.</seg>
+Wzorowany na niezbędnym do przetrwania
+sprzęcie codziennego użytku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Pod Skin]
+Shaped after a very sturdy box used
+for transporting goods in the jungle.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132315Z" creationid="Syn Spawacza" creationdate="20200601T132007Z">
+        <seg>[Wygląd poda]
+Wzorowany na wytrzymałym pudle
+używanym do transportu towarów w dżungli.</seg>
       </tuv>
     </tu>
     <tu>
