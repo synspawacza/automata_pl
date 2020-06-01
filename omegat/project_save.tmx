@@ -549,8 +549,8 @@ lying outside of Pascal's house,
 in a thoroughly used state.
 Can be exchanged for money.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134429Z" creationid="Syn Spawacza" creationdate="20200601T134429Z">
-        <seg>Książka o życiu i śmierci. Leżała
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140635Z" creationid="Syn Spawacza" creationdate="20200601T134429Z">
+        <seg>Książka o życiu i śmierci, która leżała
 zniszczona przed domem Pascala.
 Może zostać sprzedana.</seg>
       </tuv>
@@ -3245,6 +3245,14 @@ no longer works.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cruel Lament</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140443Z" creationid="Syn Spawacza" creationdate="20200601T140443Z">
+        <seg>Okrutny Lament</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cruel Oath</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135920Z" creationid="Syn Spawacza" creationdate="20200601T134920Z">
@@ -3345,6 +3353,14 @@ no longer works.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144535Z" creationid="Syn Spawacza" creationdate="20200530T144535Z">
         <seg>Zmień ustawienia przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cypress Stick</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140517Z" creationid="Syn Spawacza" creationdate="20200601T140517Z">
+        <seg>Cyprysowy kij</seg>
       </tuv>
     </tu>
     <tu>
@@ -3813,6 +3829,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emil Heads</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140529Z" creationid="Syn Spawacza" creationdate="20200601T140529Z">
+        <seg>Głowy Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emil Mask</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094738Z" creationid="Syn Spawacza" creationdate="20200601T094738Z">
@@ -3917,6 +3941,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184707Z" creationid="Syn Spawacza" creationdate="20200530T184707Z">
         <seg>Ujarzmienie wroga zakończone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Engine Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140509Z" creationid="Syn Spawacza" creationdate="20200601T140509Z">
+        <seg>Ostrze napędowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -5976,6 +6008,14 @@ Część 1 z 5 kolekcji.</seg>
         <seg>Machine Head</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082208Z" creationid="Syn Spawacza" creationdate="20200601T082208Z">
+        <seg>Głowa maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Heads</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140503Z" creationid="Syn Spawacza" creationdate="20200601T140503Z">
         <seg>Głowa maszyny</seg>
       </tuv>
     </tu>
@@ -10207,6 +10247,14 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Type-3 Fists</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140424Z" creationid="Syn Spawacza" creationdate="20200601T140424Z">
+        <seg>Kastety typ 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Type-3 Lance</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135820Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
@@ -10844,6 +10892,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135831Z" creationid="Syn Spawacza" creationdate="20200601T135831Z">
         <seg>Cnotliwa Godność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtuous Grief</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140433Z" creationid="Syn Spawacza" creationdate="20200601T140433Z">
+        <seg>Cnotliwy Żal</seg>
       </tuv>
     </tu>
     <tu>
