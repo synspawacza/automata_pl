@@ -3182,6 +3182,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apologetic Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201953Z" creationid="Syn Spawacza" creationdate="20200601T201953Z">
+        <seg>Przepraszająca maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arapaima Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192625Z" creationid="Syn Spawacza" creationdate="20200601T192625Z">
@@ -4153,6 +4161,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175133Z" creationid="Syn Spawacza" creationdate="20200601T175133Z">
         <seg>Obszar graniczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boss Enemy Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201939Z" creationid="Syn Spawacza" creationdate="20200601T201939Z">
+        <seg>Maszyna boss</seg>
       </tuv>
     </tu>
     <tu>
@@ -5373,6 +5389,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184547Z" creationid="Syn Spawacza" creationdate="20200601T184547Z">
         <seg>Kontra +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Courageous Brother</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202018Z" creationid="Syn Spawacza" creationdate="20200601T202018Z">
+        <seg>Odważny brat</seg>
       </tuv>
     </tu>
     <tu>
@@ -7916,6 +7940,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gold Goliath Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202058Z" creationid="Syn Spawacza" creationdate="20200601T202058Z">
+        <seg>Złoty goliat dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gold Ore</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150519Z" creationid="Syn Spawacza" creationdate="20200530T150519Z">
@@ -8162,6 +8194,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141103Z" creationid="Syn Spawacza" creationdate="20200530T141103Z">
         <seg>Trudny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hateful Sister</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202026Z" creationid="Syn Spawacza" creationdate="20200601T202026Z">
+        <seg>Nienawistna siostra</seg>
       </tuv>
     </tu>
     <tu>
@@ -10254,6 +10294,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Lifeform</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201947Z" creationid="Syn Spawacza" creationdate="20200601T201947Z">
+        <seg>Mechaniczna forma życia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Lifeform A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201353Z" creationid="Syn Spawacza" creationdate="20200601T201353Z">
@@ -11015,6 +11063,14 @@ z skamieniałej żywicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131508Z" creationid="Syn Spawacza" creationdate="20200530T131508Z">
         <seg>Obracanie minimapy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minor Enemy Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201932Z" creationid="Syn Spawacza" creationdate="20200601T201932Z">
+        <seg>Maszyna pomniejszy wróg</seg>
       </tuv>
     </tu>
     <tu>
@@ -14991,6 +15047,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Spider Boss</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202008Z" creationid="Syn Spawacza" creationdate="20200601T202008Z">
+        <seg>Boss-pająk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spins a Pod around the player at
 high speed, wreaking havoc on
 any enemies it touches.</seg>
@@ -17054,6 +17118,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184115Z" creationid="Syn Spawacza" creationdate="20200601T184115Z">
         <seg>Zemsta +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vengeful Son</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202036Z" creationid="Syn Spawacza" creationdate="20200601T202036Z">
+        <seg>Mściwy syn</seg>
       </tuv>
     </tu>
     <tu>
