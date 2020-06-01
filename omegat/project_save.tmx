@@ -2424,10 +2424,18 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Cures all status ailments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100545Z" creationid="Syn Spawacza" creationdate="20200601T100545Z">
+        <seg>Leczy wszystkie zaburzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cures aural status ailments.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100422Z" creationid="Syn Spawacza" creationdate="20200601T100255Z">
-        <seg>Leczy dźwiękowe efekty statusu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100528Z" creationid="Syn Spawacza" creationdate="20200601T100255Z">
+        <seg>Leczy zaburzenia dźwiękowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5074,6 +5082,16 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Melee damage taken is reduced by
+50% for 15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100829Z" creationid="Syn Spawacza" creationdate="20200601T100829Z">
+        <seg>Obrażenia od ataków wręcz zredukowane
+o połowę przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Membership Card</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093020Z" creationid="Syn Spawacza" creationdate="20200601T093020Z">
@@ -6084,6 +6102,26 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod ranged attacks do double damage
+for 15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100754Z" creationid="Syn Spawacza" creationdate="20200601T100754Z">
+        <seg>Strzały poda zadaje podwójne obrażenia
+przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod ranged attacks do double damage
+for 30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100800Z" creationid="Syn Spawacza" creationdate="20200601T100800Z">
+        <seg>Strzały poda zadaje podwójne obrażenia
+przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod, get me staunching gel and logic-virus vaccines.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183405Z" creationid="Syn Spawacza" creationdate="20200530T183405Z">
@@ -6688,6 +6726,16 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163810Z" creationid="Syn Spawacza" creationdate="20200530T163810Z">
         <seg>Przywróć ustawienia klawiszy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores 100% HP and cures all
+status ailments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100607Z" creationid="Syn Spawacza" creationdate="20200601T100607Z">
+        <seg>Przywraca 100% punktów życia
+i leczy wszystkie zaburzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9374,6 +9422,26 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143953Z" creationid="Syn Spawacza" creationdate="20200530T143953Z">
         <seg>Historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon attacks do double damage for
+15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100700Z" creationid="Syn Spawacza" creationdate="20200601T100700Z">
+        <seg>Atak bronią zadaje podwójne obrażenia
+przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon attacks do double damage for
+30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100706Z" creationid="Syn Spawacza" creationdate="20200601T100706Z">
+        <seg>Atak bronią zadaje podwójne obrażenia
+przez 30 sekund.</seg>
       </tuv>
     </tu>
     <tu>
