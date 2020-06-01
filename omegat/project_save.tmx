@@ -4138,6 +4138,19 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increases the power of 
+weapon-based attacks 
+by 50% for 30 seconds. 
+Also restores 100% HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101451Z" creationid="Syn Spawacza" creationdate="20200601T101451Z">
+        <seg>Zwiększa moc ataków bronią
+o 50% przez 30 sekund.
+Przywraca też 100% PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Infected bodies subdued</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080144Z" creationid="Syn Spawacza" creationdate="20200601T080144Z">
@@ -5302,6 +5315,26 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Movement speed increases for
+15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101329Z" creationid="Syn Spawacza" creationdate="20200601T101313Z">
+        <seg>Zwiększa szybkość ruchu
+przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Movement speed increases for
+30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101331Z" creationid="Syn Spawacza" creationdate="20200601T101319Z">
+        <seg>Zwiększa szybkość ruchu
+przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple surrounding enemy air units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174022Z" creationid="Syn Spawacza" creationdate="20200530T174022Z">
@@ -6200,6 +6233,26 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130617Z" creationid="Syn Spawacza" creationdate="20200530T130617Z">
         <seg>Naciśnij dowolny przycisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prevents staggering from an attack for
+15 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101246Z" creationid="Syn Spawacza" creationdate="20200601T101246Z">
+        <seg>Zapobiega oszołomieniu od ataku
+przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prevents staggering from an attack for
+30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101250Z" creationid="Syn Spawacza" creationdate="20200601T101250Z">
+        <seg>Zapobiega oszołomieniu od ataku
+przez 30 sekund.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7560,6 +7613,16 @@ for 15 seconds.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101131Z" creationid="Syn Spawacza" creationdate="20200601T101131Z">
         <seg>Wskaźnik umiejętności odnawia się
 2 razy szybciej przez 15 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Skill gauge replenishes twice as fast
+for 30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101138Z" creationid="Syn Spawacza" creationdate="20200601T101138Z">
+        <seg>Wskaźnik umiejętności odnawia się
+2 razy szybciej przez 30 sekund.</seg>
       </tuv>
     </tu>
     <tu>
