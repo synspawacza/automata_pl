@@ -11212,8 +11212,8 @@ przez 30 sekund.</seg>
 A head covering worn by machine
 lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130327Z" creationid="Syn Spawacza" creationdate="20200601T130230Z">
-        <seg>[Akcesoria]
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130418Z" creationid="Syn Spawacza" creationdate="20200601T130230Z">
+        <seg>[Dodatek]
 Nakrycie głowy używane przez
 mechaniczne formy życia.</seg>
       </tuv>
@@ -11221,10 +11221,54 @@ mechaniczne formy życia.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[Accessory]
+A mask bearing Emil's likeness.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130500Z" creationid="Syn Spawacza" creationdate="20200601T130500Z">
+        <seg>[Dodatek]
+Maska z podobizną Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+A mask of an alien face.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130635Z" creationid="Syn Spawacza" creationdate="20200601T130635Z">
+        <seg>[Dodatek]
+Maska twarzy obcego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+Emil gave you this wearable 
+Lunar Tear.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130451Z" creationid="Syn Spawacza" creationdate="20200601T130451Z">
+        <seg>[Dodatek]
+Księżycowa łza podarowana
+przez Emila.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+Glasses worn by Adam. Equip them
+to instantly feel more intelligent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130618Z" creationid="Syn Spawacza" creationdate="20200601T130618Z">
+        <seg>[Dodatek]
+Okulary Adama. Założenie pozwala
+poczuć się mądrym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
 This head covering belongs to Emil.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130341Z" creationid="Syn Spawacza" creationdate="20200601T130341Z">
-        <seg>[Akcesoria]
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130420Z" creationid="Syn Spawacza" creationdate="20200601T130341Z">
+        <seg>[Dodatek]
 Nakrycie głowy należące do Emila.</seg>
       </tuv>
     </tu>
