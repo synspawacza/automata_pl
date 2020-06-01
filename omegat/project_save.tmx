@@ -815,6 +815,25 @@ przez pnie drzew.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tech manual written in letters you
+can't understand.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113422Z" creationid="Syn Spawacza" creationdate="20200601T113422Z">
+        <seg>Techniczna książka napisana
+niezrozumiałymi literami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A thick book thought to be 
+a dictionary.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113555Z" creationid="Syn Spawacza" creationdate="20200601T113555Z">
+        <seg>Książka </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A worn-down, unusable screw.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102541Z" creationid="Syn Spawacza" creationdate="20200601T102541Z">
@@ -1502,6 +1521,18 @@ plants.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111433Z" creationid="Syn Spawacza" creationdate="20200601T111433Z">
         <seg>Elastyczna substancja z roślin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An old mask left behind by a 
+machine lifeform.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113338Z" creationid="Syn Spawacza" creationdate="20200601T113338Z">
+        <seg>Stara maska pozostawiona przez
+mechaniczną formę życia.
+Może zostać sprzedana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3196,6 +3227,16 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083144Z" creationid="Syn Spawacza" creationdate="20200601T083144Z">
         <seg>Jaja orła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Earrings worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113352Z" creationid="Syn Spawacza" creationdate="20200601T113352Z">
+        <seg>Kolczyki używane przez ludzi.
+Mogą zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
