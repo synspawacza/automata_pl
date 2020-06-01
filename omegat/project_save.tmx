@@ -9812,6 +9812,36 @@ Auto-zmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlocks a Tower sub-unit in the
+Amusement Park.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122134Z" creationid="Syn Spawacza" creationdate="20200601T122134Z">
+        <seg>Odblokowuje podsystem Wieży
+w wesołym miasteczku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlocks a Tower sub-unit in the
+Flooded City.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122027Z" creationid="Syn Spawacza" creationdate="20200601T122027Z">
+        <seg>Odblokowuje podsystem Wieży
+w zalanym mieście.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlocks a Tower sub-unit in the
+Forest Kingdom.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122012Z" creationid="Syn Spawacza" creationdate="20200601T122012Z">
+        <seg>Odblokowuje podsystem Wieży
+w Leśnym Królestwie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usage rights transferred from 9S to 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183933Z" creationid="Syn Spawacza" creationdate="20200530T183933Z">
