@@ -1480,6 +1480,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Body</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073038Z" creationid="Syn Spawacza" creationdate="20200601T073038Z">
+        <seg>Ciało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Boost!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183004Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
@@ -2386,6 +2394,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072944Z" creationid="Syn Spawacza" creationdate="20200601T072944Z">
+        <seg>Wyposaż</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipment Authentication: Complete</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123951Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
@@ -2638,6 +2654,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140133Z" creationid="Syn Spawacza" creationdate="20200530T140133Z">
         <seg>Fundusze (G)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fusion Cost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073035Z" creationid="Syn Spawacza" creationdate="20200601T073035Z">
+        <seg>Koszt połączenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -4962,6 +4986,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Previous Body</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073045Z" creationid="Syn Spawacza" creationdate="20200601T073045Z">
+        <seg>Poprzednie ciało</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Previous Pod</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134801Z" creationid="Syn Spawacza" creationdate="20200530T134801Z">
@@ -5030,6 +5062,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142114Z" creationid="Syn Spawacza" creationdate="20200530T142114Z">
         <seg>ZADANIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quest Reward</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073128Z" creationid="Syn Spawacza" creationdate="20200601T073128Z">
+        <seg>Nagroda za wykonanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6140,6 +6180,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Special Abilities</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073018Z" creationid="Syn Spawacza" creationdate="20200601T073018Z">
+        <seg>Umiejętności specjalne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Standard comm systems down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174144Z" creationid="Syn Spawacza" creationdate="20200530T174144Z">
@@ -6916,6 +6964,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143945Z" creationid="Syn Spawacza" creationdate="20200530T143945Z">
         <seg>Samouczki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072946Z" creationid="Syn Spawacza" creationdate="20200601T072946Z">
+        <seg>Typ</seg>
       </tuv>
     </tu>
     <tu>
