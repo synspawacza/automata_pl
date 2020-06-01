@@ -788,6 +788,17 @@ Nie powinieneś go nie czytać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A package that was kept in the
+Resistance's materials storeroom.
+The contents are unknown.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120323Z" creationid="Syn Spawacza" creationdate="20200601T120323Z">
+        <seg>Paczka przechowywana w magazynie
+ruchu oporu. Zawartość nieznana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A part obtained from a special
 machine lifeform. 
 Can be exchanged for money.</seg>
@@ -841,8 +852,8 @@ Może zostać sprzedana.</seg>
         <seg>A rusted musical box that can no
 longer play.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115918Z" creationid="Syn Spawacza" creationdate="20200601T115918Z">
-        <seg>Zardzewiała pozytywka, nie odtwarzająca już melodii.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120142Z" creationid="Syn Spawacza" creationdate="20200601T115918Z">
+        <seg>Zardzewiała, niedziałająca pozytywka.</seg>
       </tuv>
     </tu>
     <tu>
