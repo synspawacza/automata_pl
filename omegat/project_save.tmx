@@ -3020,6 +3020,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-collect Items</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185929Z" creationid="Syn Spawacza" creationdate="20200601T185929Z">
+        <seg>Autozbieranie przedmiotów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-item chips cannot be used on Very Hard mode, so they will be removed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163725Z" creationid="Syn Spawacza" creationdate="20200530T163725Z">
@@ -3535,6 +3543,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164041Z" creationid="Syn Spawacza" creationdate="20200601T162208Z">
         <seg>Pochłanianie pocisków</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bullet Detonation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185917Z" creationid="Syn Spawacza" creationdate="20200601T185917Z">
+        <seg>Detonacja pocisków</seg>
       </tuv>
     </tu>
     <tu>
@@ -4407,6 +4423,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130619Z" creationid="Syn Spawacza" creationdate="20200530T130619Z">
         <seg>Kontynuuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continuous Combo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185908Z" creationid="Syn Spawacza" creationdate="20200601T185908Z">
+        <seg>Ciągłe kombo</seg>
       </tuv>
     </tu>
     <tu>
@@ -6992,10 +7016,26 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HUD: Skill Gauge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185938Z" creationid="Syn Spawacza" creationdate="20200601T185938Z">
+        <seg>HUD: wskaźnik umiejętności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HUD: Sound Waves</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185641Z" creationid="Syn Spawacza" creationdate="20200601T185641Z">
         <seg>HUD: fale dzwiękowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HUD: Text Log</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190058Z" creationid="Syn Spawacza" creationdate="20200601T190058Z">
+        <seg>HUD: dziennik tekstowy</seg>
       </tuv>
     </tu>
     <tu>
