@@ -4175,40 +4175,40 @@ gdy znajdą się w zasięgu poda.</seg>
       <tuv lang="en-US">
         <seg>Critical +</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161942Z" creationid="Syn Spawacza" creationdate="20200601T161942Z">
-        <seg>Krytyczne +</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182334Z" creationid="Syn Spawacza" creationdate="20200601T161942Z">
+        <seg>Atak krytyczny +</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182010Z" creationid="Syn Spawacza" creationdate="20200601T182010Z">
-        <seg>Krytyczne +</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182340Z" creationid="Syn Spawacza" creationdate="20200601T182010Z">
+        <seg>Atak krytyczny +</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +1</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182012Z" creationid="Syn Spawacza" creationdate="20200601T182012Z">
-        <seg>Krytyczne +1</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182400Z" creationid="Syn Spawacza" creationdate="20200601T182012Z">
+        <seg>Atak krytyczny +1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +2</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182015Z" creationid="Syn Spawacza" creationdate="20200601T182015Z">
-        <seg>Krytyczne +2</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182401Z" creationid="Syn Spawacza" creationdate="20200601T182015Z">
+        <seg>Atak krytyczny +2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Critical Up +3</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182020Z" creationid="Syn Spawacza" creationdate="20200601T182020Z">
-        <seg>Krytyczne +3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182402Z" creationid="Syn Spawacza" creationdate="20200601T182020Z">
+        <seg>Atak krytyczny +3</seg>
       </tuv>
     </tu>
     <tu>
@@ -4899,6 +4899,78 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115842Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
         <seg>Nieśmiertelnik członka ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182216Z" creationid="Syn Spawacza" creationdate="20200601T182216Z">
+        <seg>Wykończenie +</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182227Z" creationid="Syn Spawacza" creationdate="20200601T182218Z">
+        <seg>Wykończenie +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182228Z" creationid="Syn Spawacza" creationdate="20200601T182218Z">
+        <seg>Wykończenie +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182234Z" creationid="Syn Spawacza" creationdate="20200601T182219Z">
+        <seg>Wykończenie +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182235Z" creationid="Syn Spawacza" creationdate="20200601T182220Z">
+        <seg>Wykończenie +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182236Z" creationid="Syn Spawacza" creationdate="20200601T182220Z">
+        <seg>Wykończenie +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182238Z" creationid="Syn Spawacza" creationdate="20200601T182221Z">
+        <seg>Wykończenie +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182239Z" creationid="Syn Spawacza" creationdate="20200601T182222Z">
+        <seg>Wykończenie +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Down-Attack Up +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T182241Z" creationid="Syn Spawacza" creationdate="20200601T182225Z">
+        <seg>Wykończenie +8</seg>
       </tuv>
     </tu>
     <tu>
