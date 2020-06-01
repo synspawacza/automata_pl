@@ -515,6 +515,14 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A broken, unusable circuit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112456Z" creationid="Syn Spawacza" creationdate="20200601T112456Z">
+        <seg>Zniszczony, bezużyteczny obwód elektryczny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A broken, unusable winding key.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103450Z" creationid="Syn Spawacza" creationdate="20200601T103450Z">
@@ -527,6 +535,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103931Z" creationid="Syn Spawacza" creationdate="20200601T103931Z">
         <seg>Czip bez żadnych danych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cluster of mined crystals.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113239Z" creationid="Syn Spawacza" creationdate="20200601T113239Z">
+        <seg>Skupisko kryształów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -560,6 +576,14 @@ leather.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103623Z" creationid="Syn Spawacza" creationdate="20200601T103623Z">
         <seg>Przerwany, bezużyteczny kabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dented, unusable socket.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112501Z" creationid="Syn Spawacza" creationdate="20200601T112433Z">
+        <seg>Wgniecione, bezużyteczne gniazdko.</seg>
       </tuv>
     </tu>
     <tu>
@@ -769,6 +793,14 @@ tree stumps.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110635Z" creationid="Syn Spawacza" creationdate="20200601T110635Z">
         <seg>Lepka substancja wydzielana
 przez pnie drzew.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stretched out, unusable coil.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112418Z" creationid="Syn Spawacza" creationdate="20200601T112418Z">
+        <seg>Rozciągnięty, bezużyteczny zwój.</seg>
       </tuv>
     </tu>
     <tu>
