@@ -120,6 +120,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203900Z" creationid="Syn Spawacza" creationdate="20200601T203900Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174043Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
@@ -180,6 +188,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
         <seg>...Co to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204147Z" creationid="Syn Spawacza" creationdate="20200601T204147Z">
+        <seg>1</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,6 +280,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204147Z" creationid="Syn Spawacza" creationdate="20200601T204147Z">
+        <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203749Z" creationid="Syn Spawacza" creationdate="20200601T203749Z">
@@ -336,10 +360,26 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204148Z" creationid="Syn Spawacza" creationdate="20200601T204148Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203731Z" creationid="Syn Spawacza" creationdate="20200601T203731Z">
         <seg>3B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204148Z" creationid="Syn Spawacza" creationdate="20200601T204148Z">
+        <seg>4</seg>
       </tuv>
     </tu>
     <tu>
@@ -356,6 +396,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203810Z" creationid="Syn Spawacza" creationdate="20200601T203810Z">
         <seg>4S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204149Z" creationid="Syn Spawacza" creationdate="20200601T204149Z">
+        <seg>5</seg>
       </tuv>
     </tu>
     <tu>
@@ -380,6 +428,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203734Z" creationid="Syn Spawacza" creationdate="20200601T203734Z">
         <seg>5B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204149Z" creationid="Syn Spawacza" creationdate="20200601T204149Z">
+        <seg>6</seg>
       </tuv>
     </tu>
     <tu>
@@ -1893,6 +1949,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AD</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204135Z" creationid="Syn Spawacza" creationdate="20200601T204135Z">
+        <seg>AD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ARCADE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074753Z" creationid="Syn Spawacza" creationdate="20200601T074753Z">
@@ -1913,6 +1977,22 @@ jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140305Z" creationid="Syn Spawacza" creationdate="20200530T140305Z">
         <seg>TRYB AUTO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AVVIO DEL SISTEMA</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203916Z" creationid="Syn Spawacza" creationdate="20200601T203916Z">
+        <seg>AVVIO DEL SISTEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>AZERTY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204122Z" creationid="Syn Spawacza" creationdate="20200601T204122Z">
+        <seg>AZERTY</seg>
       </tuv>
     </tu>
     <tu>
@@ -2333,6 +2413,38 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Activar FCS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204004Z" creationid="Syn Spawacza" creationdate="20200601T204004Z">
+        <seg>Activar FCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activar IFF</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204003Z" creationid="Syn Spawacza" creationdate="20200601T204003Z">
+        <seg>Activar IFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activar sensor ambiental</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204007Z" creationid="Syn Spawacza" creationdate="20200601T204007Z">
+        <seg>Activar sensor ambiental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activar sistema de control de inercia</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204006Z" creationid="Syn Spawacza" creationdate="20200601T204006Z">
+        <seg>Activar sistema de control de inercia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Activating Environmental Sensors</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123947Z" creationid="Syn Spawacza" creationdate="20200530T123947Z">
@@ -2385,6 +2497,30 @@ jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174224Z" creationid="Syn Spawacza" creationdate="20200530T174224Z">
         <seg>Aktywowanie wyposażenia ofensywnego krótkiego zasięgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activation de l'IFF</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203908Z" creationid="Syn Spawacza" creationdate="20200601T203908Z">
+        <seg>Activation de l'IFF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activation du capteur environnemental</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203912Z" creationid="Syn Spawacza" creationdate="20200601T203912Z">
+        <seg>Activation du capteur environnemental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Activation du système de contrôle inertiel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203911Z" creationid="Syn Spawacza" creationdate="20200601T203911Z">
+        <seg>Activation du système de contrôle inertiel</seg>
       </tuv>
     </tu>
     <tu>
@@ -3184,6 +3320,14 @@ przeznaczona dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analyse de la mémoire : vert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203903Z" creationid="Syn Spawacza" creationdate="20200601T203903Z">
+        <seg>Analyse de la mémoire : vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: This elevator's controls are locked and cannot be used.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
@@ -3558,6 +3702,38 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attivazione IAN</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203929Z" creationid="Syn Spawacza" creationdate="20200601T203929Z">
+        <seg>Attivazione IAN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attivazione SCV</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203929Z" creationid="Syn Spawacza" creationdate="20200601T203929Z">
+        <seg>Attivazione SCV</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attivazione del sensore ambientale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203933Z" creationid="Syn Spawacza" creationdate="20200601T203933Z">
+        <seg>Attivazione del sensore ambientale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attivazione del sistema di controllo inerziale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203933Z" creationid="Syn Spawacza" creationdate="20200601T203933Z">
+        <seg>Attivazione del sistema di controllo inerziale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attraction Square</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175239Z" creationid="Syn Spawacza" creationdate="20200601T175239Z">
@@ -3606,10 +3782,50 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ausrüstungsauthentifikation: abgeschlossen</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203951Z" creationid="Syn Spawacza" creationdate="20200601T203951Z">
+        <seg>Ausrüstungsauthentifikation: abgeschlossen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Autentificazione equipaggiamento: completata</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203934Z" creationid="Syn Spawacza" creationdate="20200601T203934Z">
+        <seg>Autentificazione equipaggiamento: completata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Authentication Code: YoRHa Number 9 Type-S</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
         <seg>Kod uwierzytelniania: YoRHa Numer 9 Typ S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authentification de l'équipement : terminée</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203912Z" creationid="Syn Spawacza" creationdate="20200601T203912Z">
+        <seg>Authentification de l'équipement : terminée</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto (5.1)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204118Z" creationid="Syn Spawacza" creationdate="20200601T204118Z">
+        <seg>Auto (5.1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto (Stereo)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204120Z" creationid="Syn Spawacza" creationdate="20200601T204120Z">
+        <seg>Auto (Stereo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3842,6 +4058,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173712Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
         <seg>Wszystkie systemy autopilota w normie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avvio del controllo del sistema</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203919Z" creationid="Syn Spawacza" creationdate="20200601T203919Z">
+        <seg>Avvio del controllo del sistema</seg>
       </tuv>
     </tu>
     <tu>
@@ -4221,6 +4445,22 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blackbox-Innendruck: normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203945Z" creationid="Syn Spawacza" creationdate="20200601T203945Z">
+        <seg>Blackbox-Innendruck: normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blackbox-Temperatur: normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203944Z" creationid="Syn Spawacza" creationdate="20200601T203944Z">
+        <seg>Blackbox-Temperatur: normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bloat Fish</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192829Z" creationid="Syn Spawacza" creationdate="20200601T192829Z">
@@ -4521,6 +4761,30 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205002Z" creationid="Syn Spawacza" creationdate="20200530T205002Z">
         <seg>Ale takie są przepisy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CARGANDO</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203955Z" creationid="Syn Spawacza" creationdate="20200601T203955Z">
+        <seg>CARGANDO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CARICAMENTO IN CORSO</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203915Z" creationid="Syn Spawacza" creationdate="20200601T203915Z">
+        <seg>CARICAMENTO IN CORSO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CHARGEMENT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203859Z" creationid="Syn Spawacza" creationdate="20200601T203859Z">
+        <seg>CHARGEMENT</seg>
       </tuv>
     </tu>
     <tu>
@@ -5361,10 +5625,58 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Comprobación de MP restante: 100 %</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204001Z" creationid="Syn Spawacza" creationdate="20200601T204001Z">
+        <seg>Comprobación de MP restante: 100 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comprobación de estado de equipo: verde</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204009Z" creationid="Syn Spawacza" creationdate="20200601T204009Z">
+        <seg>Comprobación de estado de equipo: verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comprobación de la unidad de memoria: verde</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203958Z" creationid="Syn Spawacza" creationdate="20200601T203958Z">
+        <seg>Comprobación de la unidad de memoria: verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comprobación de signos vitales: verde</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204000Z" creationid="Syn Spawacza" creationdate="20200601T204000Z">
+        <seg>Comprobación de signos vitales: verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Confession</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173819Z" creationid="Syn Spawacza" creationdate="20200601T173819Z">
         <seg>Wyznanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configuración UD</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204006Z" creationid="Syn Spawacza" creationdate="20200601T204006Z">
+        <seg>Configuración UD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Configurazione UDB</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203932Z" creationid="Syn Spawacza" creationdate="20200601T203932Z">
+        <seg>Configurazione UDB</seg>
       </tuv>
     </tu>
     <tu>
@@ -5461,6 +5773,38 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184544Z" creationid="Syn Spawacza" creationdate="20200530T184407Z">
         <seg>Kontrola...nad ramieniem...przejęta od przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controllo PM rimanenti: 100%</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203926Z" creationid="Syn Spawacza" creationdate="20200601T203926Z">
+        <seg>Controllo PM rimanenti: 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controllo segni vitali: OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203924Z" creationid="Syn Spawacza" creationdate="20200601T203924Z">
+        <seg>Controllo segni vitali: OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controllo stato dell'equipaggiamento: OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203935Z" creationid="Syn Spawacza" creationdate="20200601T203935Z">
+        <seg>Controllo stato dell'equipaggiamento: OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controllo unità di memoria: OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203920Z" creationid="Syn Spawacza" creationdate="20200601T203920Z">
+        <seg>Controllo unità di memoria: OK</seg>
       </tuv>
     </tu>
     <tu>
@@ -5939,6 +6283,22 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DBE-Setup</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203949Z" creationid="Syn Spawacza" creationdate="20200601T203949Z">
+        <seg>DBE-Setup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DBUセットアップ</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203849Z" creationid="Syn Spawacza" creationdate="20200601T203849Z">
+        <seg>DBUセットアップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DEF</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140949Z" creationid="Syn Spawacza" creationdate="20200530T140949Z">
@@ -6103,6 +6463,22 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085510Z" creationid="Syn Spawacza" creationdate="20200601T085510Z">
         <seg>Czip danych E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dati geografici: caricamento avviato</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203921Z" creationid="Syn Spawacza" creationdate="20200601T203921Z">
+        <seg>Dati geografici: caricamento avviato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Datos geográficos: carga iniciada</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203959Z" creationid="Syn Spawacza" creationdate="20200601T203959Z">
+        <seg>Datos geográficos: carga iniciada</seg>
       </tuv>
     </tu>
     <tu>
@@ -6409,6 +6785,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deutsch</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204038Z" creationid="Syn Spawacza" creationdate="20200601T204038Z">
+        <seg>Deutsch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Devil's Hatred</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162929Z" creationid="Syn Spawacza" creationdate="20200601T162929Z">
@@ -6625,6 +7009,14 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115842Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
         <seg>Nieśmiertelnik członka ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Données géographiques : chargement en cours</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203905Z" creationid="Syn Spawacza" creationdate="20200601T203905Z">
+        <seg>Données géographiques : chargement en cours</seg>
       </tuv>
     </tu>
     <tu>
@@ -7340,6 +7732,22 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Esc</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204136Z" creationid="Syn Spawacza" creationdate="20200601T204136Z">
+        <seg>Esc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Español</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204039Z" creationid="Syn Spawacza" creationdate="20200601T204039Z">
+        <seg>Español</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134535Z" creationid="Syn Spawacza" creationdate="20200530T134535Z">
@@ -7504,6 +7912,118 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144749Z" creationid="Syn Spawacza" creationdate="20200530T144749Z">
         <seg>Wyjdź z gry i wróć do pulpitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204137Z" creationid="Syn Spawacza" creationdate="20200601T204137Z">
+        <seg>F1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F10</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204145Z" creationid="Syn Spawacza" creationdate="20200601T204145Z">
+        <seg>F10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F11</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204146Z" creationid="Syn Spawacza" creationdate="20200601T204146Z">
+        <seg>F11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F12</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204146Z" creationid="Syn Spawacza" creationdate="20200601T204146Z">
+        <seg>F12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204138Z" creationid="Syn Spawacza" creationdate="20200601T204138Z">
+        <seg>F2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204139Z" creationid="Syn Spawacza" creationdate="20200601T204139Z">
+        <seg>F3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204141Z" creationid="Syn Spawacza" creationdate="20200601T204141Z">
+        <seg>F4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204142Z" creationid="Syn Spawacza" creationdate="20200601T204142Z">
+        <seg>F5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204143Z" creationid="Syn Spawacza" creationdate="20200601T204143Z">
+        <seg>F6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204143Z" creationid="Syn Spawacza" creationdate="20200601T204143Z">
+        <seg>F7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204144Z" creationid="Syn Spawacza" creationdate="20200601T204144Z">
+        <seg>F8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F9</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204144Z" creationid="Syn Spawacza" creationdate="20200601T204144Z">
+        <seg>F9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FCS起動</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203847Z" creationid="Syn Spawacza" creationdate="20200601T203847Z">
+        <seg>FCS起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FFE wird aktiviert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203946Z" creationid="Syn Spawacza" creationdate="20200601T203946Z">
+        <seg>FFE wird aktiviert</seg>
       </tuv>
     </tu>
     <tu>
@@ -7968,6 +8488,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Français</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204037Z" creationid="Syn Spawacza" creationdate="20200601T204037Z">
+        <seg>Français</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free Enemy Tracking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072224Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
@@ -8160,6 +8688,22 @@ from an elevated height.</seg>
         <seg>Generuje potężną falę uderzeniową
 przez uderzenie podem w ziemię
 z dużej wysokości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Geografische Daten: Ladevorgang gestartet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203942Z" creationid="Syn Spawacza" creationdate="20200601T203942Z">
+        <seg>Geografische Daten: Ladevorgang gestartet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gesundheitsüberprüfung: grün</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203943Z" creationid="Syn Spawacza" creationdate="20200601T203943Z">
+        <seg>Gesundheitsüberprüfung: grün</seg>
       </tuv>
     </tu>
     <tu>
@@ -9231,10 +9775,34 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>IFF起動</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203847Z" creationid="Syn Spawacza" creationdate="20200601T203847Z">
+        <seg>IFF起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>IN USE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140213Z" creationid="Syn Spawacza" creationdate="20200530T140213Z">
         <seg>UŻYWANE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INICIANDO SISTEMA</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203955Z" creationid="Syn Spawacza" creationdate="20200601T203955Z">
+        <seg>INICIANDO SISTEMA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>INITIALISATION DU SYSTÈME</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203859Z" creationid="Syn Spawacza" creationdate="20200601T203859Z">
+        <seg>INITIALISATION DU SYSTÈME</seg>
       </tuv>
     </tu>
     <tu>
@@ -9458,6 +10026,30 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Iniciando conexión para transferencia de pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204005Z" creationid="Syn Spawacza" creationdate="20200601T204005Z">
+        <seg>Iniciando conexión para transferencia de pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Iniciar comprobación del sistema</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203957Z" creationid="Syn Spawacza" creationdate="20200601T203957Z">
+        <seg>Iniciar comprobación del sistema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Initialisation de la connexion pour transmission de pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203909Z" creationid="Syn Spawacza" creationdate="20200601T203909Z">
+        <seg>Initialisation de la connexion pour transmission de pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Initializing Pod Connection</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123937Z" creationid="Syn Spawacza" creationdate="20200530T123937Z">
@@ -9486,6 +10078,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174220Z" creationid="Syn Spawacza" creationdate="20200530T174220Z">
         <seg>Inicjalizacja kamuflażu radiowego krótkiego zasięgu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Inizializzazione connessione trasmissione Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203930Z" creationid="Syn Spawacza" creationdate="20200601T203930Z">
+        <seg>Inizializzazione connessione trasmissione Pod</seg>
       </tuv>
     </tu>
     <tu>
@@ -9690,6 +10290,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Italiano</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204037Z" creationid="Syn Spawacza" creationdate="20200601T204037Z">
+        <seg>Italiano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Item Scan</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184533Z" creationid="Syn Spawacza" creationdate="20200601T184533Z">
@@ -9792,6 +10400,14 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Journal tactique : initialisé</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203904Z" creationid="Syn Spawacza" creationdate="20200601T203904Z">
+        <seg>Journal tactique : initialisé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jukebox</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072014Z" creationid="Syn Spawacza" creationdate="20200601T072014Z">
@@ -9882,6 +10498,22 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>KSS aktiv</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203947Z" creationid="Syn Spawacza" creationdate="20200601T203947Z">
+        <seg>KSS aktiv</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kampfvorbereitungen abgeschlossen</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203954Z" creationid="Syn Spawacza" creationdate="20200601T203954Z">
+        <seg>Kampfvorbereitungen abgeschlossen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Key Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150944Z" creationid="Syn Spawacza" creationdate="20200530T150944Z">
@@ -9962,6 +10594,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LADE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203937Z" creationid="Syn Spawacza" creationdate="20200601T203937Z">
+        <seg>LADE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>LEVEL UP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172500Z" creationid="Syn Spawacza" creationdate="20200530T172500Z">
@@ -9982,6 +10622,14 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123439Z" creationid="Syn Spawacza" creationdate="20200530T123439Z">
         <seg>LOADING</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Lancement de la vérification du système</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203902Z" creationid="Syn Spawacza" creationdate="20200601T203902Z">
+        <seg>Lancement de la vérification du système</seg>
       </tuv>
     </tu>
     <tu>
@@ -10530,6 +11178,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172356Z" creationid="Syn Spawacza" creationdate="20200530T172356Z">
         <seg>WIADOMOŚĆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MP残量チェック：100%</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203844Z" creationid="Syn Spawacza" creationdate="20200601T203844Z">
+        <seg>MP残量チェック：100%</seg>
       </tuv>
     </tu>
     <tu>
@@ -12603,6 +13259,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paramétrage UDB</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203910Z" creationid="Syn Spawacza" creationdate="20200601T203910Z">
+        <seg>Paramétrage UDB</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Park Access Key</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090836Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
@@ -13049,6 +13713,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod-Übertragungsverbindung wird initialisiert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203948Z" creationid="Syn Spawacza" creationdate="20200601T203948Z">
+        <seg>Pod-Übertragungsverbindung wird initialisiert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Popola</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203719Z" creationid="Syn Spawacza" creationdate="20200601T203719Z">
@@ -13113,10 +13785,50 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Preparativi per il combattimento completati</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203937Z" creationid="Syn Spawacza" creationdate="20200601T203937Z">
+        <seg>Preparativi per il combattimento completati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preparativos de combate completados</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204010Z" creationid="Syn Spawacza" creationdate="20200601T204010Z">
+        <seg>Preparativos de combate completados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presión interna de caja negra: normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204002Z" creationid="Syn Spawacza" creationdate="20200601T204002Z">
+        <seg>Presión interna de caja negra: normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Press Any Button</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130617Z" creationid="Syn Spawacza" creationdate="20200530T130617Z">
         <seg>Naciśnij dowolny przycisk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pression interne de la boîte noire : normale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203907Z" creationid="Syn Spawacza" creationdate="20200601T203907Z">
+        <seg>Pression interne de la boîte noire : normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pressione interna scatola nera: normale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203928Z" creationid="Syn Spawacza" creationdate="20200601T203928Z">
+        <seg>Pressione interna scatola nera: normale</seg>
       </tuv>
     </tu>
     <tu>
@@ -13293,6 +14005,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Préparatifs de combat terminés</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203915Z" creationid="Syn Spawacza" creationdate="20200601T203915Z">
+        <seg>Préparatifs de combat terminés</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pure Water</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082847Z" creationid="Syn Spawacza" creationdate="20200601T082847Z">
@@ -13321,6 +14041,22 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142114Z" creationid="Syn Spawacza" creationdate="20200530T142114Z">
         <seg>ZADANIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QWERTY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204121Z" creationid="Syn Spawacza" creationdate="20200601T204121Z">
+        <seg>QWERTY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>QWERTZ</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204123Z" creationid="Syn Spawacza" creationdate="20200601T204123Z">
+        <seg>QWERTZ</seg>
       </tuv>
     </tu>
     <tu>
@@ -13769,6 +14505,22 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204913Z" creationid="Syn Spawacza" creationdate="20200530T204913Z">
         <seg>Tak czy siak, na razie koniec testów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Registro de tácticas: iniciado</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203959Z" creationid="Syn Spawacza" creationdate="20200601T203959Z">
+        <seg>Registro de tácticas: iniciado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Registro tattico: inizializzato</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203921Z" creationid="Syn Spawacza" creationdate="20200601T203921Z">
+        <seg>Registro tattico: inizializzato</seg>
       </tuv>
     </tu>
     <tu>
@@ -14451,6 +15203,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SCR activé</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203908Z" creationid="Syn Spawacza" creationdate="20200601T203908Z">
+        <seg>SCR activé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SETTINGS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131028Z" creationid="Syn Spawacza" creationdate="20200530T131028Z">
@@ -14503,6 +15263,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140348Z" creationid="Syn Spawacza" creationdate="20200530T140348Z">
         <seg>KOMUNIKAT SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SYSTEM WIRD HOCHGEFAHREN</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203938Z" creationid="Syn Spawacza" creationdate="20200601T203938Z">
+        <seg>SYSTEM WIRD HOCHGEFAHREN</seg>
       </tuv>
     </tu>
     <tu>
@@ -15265,6 +16033,22 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sistemas: verde</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204009Z" creationid="Syn Spawacza" creationdate="20200601T204009Z">
+        <seg>Sistemas: verde</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sistemi: OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203936Z" creationid="Syn Spawacza" creationdate="20200601T203936Z">
+        <seg>Sistemi: OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Skill Salve (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080615Z" creationid="Syn Spawacza" creationdate="20200601T080615Z">
@@ -15709,6 +16493,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stereo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204116Z" creationid="Syn Spawacza" creationdate="20200601T204116Z">
+        <seg>Stereo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Still, I'll keep it a secret from the Commander.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205058Z" creationid="Syn Spawacza" creationdate="20200530T205058Z">
@@ -16065,6 +16857,30 @@ and an old dragon.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Systeme: grün</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203953Z" creationid="Syn Spawacza" creationdate="20200601T203953Z">
+        <seg>Systeme: grün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Systemüberprüfung wird gestartet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203939Z" creationid="Syn Spawacza" creationdate="20200601T203939Z">
+        <seg>Systemüberprüfung wird gestartet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Systèmes : vert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203914Z" creationid="Syn Spawacza" creationdate="20200601T203914Z">
+        <seg>Systèmes : vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Taken from a plant with tough bark.
 Necessary for creating a fuel filter.</seg>
       </tuv>
@@ -16079,6 +16895,14 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174154Z" creationid="Syn Spawacza" creationdate="20200601T174154Z">
         <seg>Przejmowanie kontroli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taktiklog: initialisiert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203941Z" creationid="Syn Spawacza" creationdate="20200601T203941Z">
+        <seg>Taktiklog: initialisiert</seg>
       </tuv>
     </tu>
     <tu>
@@ -16199,6 +17023,30 @@ filtru paliwa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084900Z" creationid="Syn Spawacza" creationdate="20200601T084900Z">
         <seg>Podręcznik techniczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temperatura de caja negra: normal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204002Z" creationid="Syn Spawacza" creationdate="20200601T204002Z">
+        <seg>Temperatura de caja negra: normal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Temperatura scatola nera: normale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203927Z" creationid="Syn Spawacza" creationdate="20200601T203927Z">
+        <seg>Temperatura scatola nera: normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Température de la boîte noire : normale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203906Z" creationid="Syn Spawacza" creationdate="20200601T203906Z">
+        <seg>Température de la boîte noire : normale</seg>
       </tuv>
     </tu>
     <tu>
@@ -17151,6 +17999,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Trägheitssteuersystem wird aktiviert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203949Z" creationid="Syn Spawacza" creationdate="20200601T203949Z">
+        <seg>Trägheitssteuersystem wird aktiviert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn network functions On/Off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144839Z" creationid="Syn Spawacza" creationdate="20200530T144839Z">
@@ -17323,6 +18179,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T192059Z" creationid="Syn Spawacza" creationdate="20200530T192059Z">
         <seg>Uhm, wysłałem twoje dane?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Umgebungssensor wird aktiviert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203950Z" creationid="Syn Spawacza" creationdate="20200601T203950Z">
+        <seg>Umgebungssensor wird aktiviert</seg>
       </tuv>
     </tu>
     <tu>
@@ -17634,6 +18498,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>V-Sync</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204107Z" creationid="Syn Spawacza" creationdate="20200601T204107Z">
+        <seg>Synchronizacja pionowa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Valve: Both Eyes</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095838Z" creationid="Syn Spawacza" creationdate="20200601T095838Z">
@@ -17742,6 +18614,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202036Z" creationid="Syn Spawacza" creationdate="20200601T202036Z">
         <seg>Mściwy syn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Verificación de equipo: completada</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204008Z" creationid="Syn Spawacza" creationdate="20200601T204008Z">
+        <seg>Verificación de equipo: completada</seg>
       </tuv>
     </tu>
     <tu>
@@ -18234,6 +19114,30 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vérification MP restants : 100%</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203906Z" creationid="Syn Spawacza" creationdate="20200601T203906Z">
+        <seg>Vérification MP restants : 100%</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vérification de l'état de l'équipement : vert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203913Z" creationid="Syn Spawacza" creationdate="20200601T203913Z">
+        <seg>Vérification de l'état de l'équipement : vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vérification des paramètres vitaux : vert</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203905Z" creationid="Syn Spawacza" creationdate="20200601T203905Z">
+        <seg>Vérification des paramètres vitaux : vert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>W. Boar Meat</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081510Z" creationid="Syn Spawacza" creationdate="20200601T081510Z">
@@ -18262,6 +19166,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142121Z" creationid="Syn Spawacza" creationdate="20200530T142121Z">
         <seg>BRONIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WS</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204134Z" creationid="Syn Spawacza" creationdate="20200601T204134Z">
+        <seg>WS</seg>
       </tuv>
     </tu>
     <tu>
@@ -19413,6 +20325,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>_</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203901Z" creationid="Syn Spawacza" creationdate="20200601T203901Z">
+        <seg>_</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>amazarashi Head</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100036Z" creationid="Syn Spawacza" creationdate="20200601T100036Z">
@@ -19467,6 +20387,126 @@ Popularne na Dalekim Wschodzie.</seg>
         <seg>© 2017 SQUARE ENIX CO., LTD. Wszystkie prawa zastrzeżone.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Überprüfung der Gedächtniseinheit: grün</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203940Z" creationid="Syn Spawacza" creationdate="20200601T203940Z">
+        <seg>Überprüfung der Gedächtniseinheit: grün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Überprüfung der verbleibenden MP: 100 %</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203944Z" creationid="Syn Spawacza" creationdate="20200601T203944Z">
+        <seg>Überprüfung der verbleibenden MP: 100 %</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Überprüfung des Ausrüstungsstatus: grün</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203952Z" creationid="Syn Spawacza" creationdate="20200601T203952Z">
+        <seg>Überprüfung des Ausrüstungsstatus: grün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>システム：オールグリーン</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203852Z" creationid="Syn Spawacza" creationdate="20200601T203852Z">
+        <seg>システム：オールグリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>バイタルチェック：グリーン</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203839Z" creationid="Syn Spawacza" creationdate="20200601T203839Z">
+        <seg>バイタルチェック：グリーン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ブラックボックス内圧力正常</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203846Z" creationid="Syn Spawacza" creationdate="20200601T203846Z">
+        <seg>ブラックボックス内圧力正常</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ブラックボックス温度：適正</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203845Z" creationid="Syn Spawacza" creationdate="20200601T203845Z">
+        <seg>ブラックボックス温度：適正</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ポッド通信接続開始</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203848Z" creationid="Syn Spawacza" creationdate="20200601T203848Z">
+        <seg>ポッド通信接続開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>地形データ：ロード開始</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203842Z" creationid="Syn Spawacza" creationdate="20200601T203842Z">
+        <seg>地形データ：ロード開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>慣性制御システム起動</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203849Z" creationid="Syn Spawacza" creationdate="20200601T203849Z">
+        <seg>慣性制御システム起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>戦闘準備完了</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203853Z" creationid="Syn Spawacza" creationdate="20200601T203853Z">
+        <seg>戦闘準備完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>日本語</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204025Z" creationid="Syn Spawacza" creationdate="20200601T204025Z">
+        <seg>日本語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>環境センサー起動</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203850Z" creationid="Syn Spawacza" creationdate="20200601T203850Z">
+        <seg>環境センサー起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>装備状態チェック：クリア</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203852Z" creationid="Syn Spawacza" creationdate="20200601T203852Z">
+        <seg>装備状態チェック：クリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>装備認証：完了</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203851Z" creationid="Syn Spawacza" creationdate="20200601T203851Z">
+        <seg>装備認証：完了</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">messcore.properties</prop>
@@ -19514,7 +20554,7 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>English</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131053Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204033Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
         <seg>Polski</seg>
       </tuv>
     </tu>
