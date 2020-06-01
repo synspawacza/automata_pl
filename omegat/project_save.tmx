@@ -512,6 +512,17 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A blade once held by an attendant who cared deeply for 
+his lord. Like his loyalty, its blade is unbent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T141457Z" creationid="Syn Spawacza" creationdate="20200601T141457Z">
+        <seg>Miecz należący kiedyś do sługi, który troszczył się o swego
+pana. W odróżnieniu od jego lojalności, jego
+ostrze jest nieskrzywione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book humans used for recording
 family finances.</seg>
       </tuv>
@@ -2284,6 +2295,15 @@ przeznaczona dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151226Z" creationid="Syn Spawacza" creationdate="20200530T151226Z">
         <seg>Gołe pięści</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bare android fists are passable weapons, but it can be
+difficult to land effective blows with them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140827Z" creationid="Syn Spawacza" creationdate="20200601T140827Z">
+        <seg>Gołe pięści androida to zadowalająca broń, ale może być trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
     </tu>
     <tu>
