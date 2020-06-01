@@ -3132,6 +3132,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arapaima Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192625Z" creationid="Syn Spawacza" creationdate="20200601T192625Z">
+        <seg>Arapaima maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arcade</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074645Z" creationid="Syn Spawacza" creationdate="20200601T074645Z">
@@ -3653,6 +3661,14 @@ difficult to land effective blows with them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Basking Shark</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192543Z" creationid="Syn Spawacza" creationdate="20200601T192543Z">
+        <seg>Długoszpar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Battles are tougher and you can't use lock-on.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141308Z" creationid="Syn Spawacza" creationdate="20200530T141308Z">
@@ -3957,8 +3973,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Bream</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192012Z" creationid="Syn Spawacza" creationdate="20200601T192012Z">
-        <seg>Leszcz</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192530Z" creationid="Syn Spawacza" creationdate="20200601T192012Z">
+        <seg>Dorada</seg>
       </tuv>
     </tu>
     <tu>
@@ -4223,6 +4239,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191523Z" creationid="Syn Spawacza" creationdate="20200601T191523Z">
         <seg>Karp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carp Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192629Z" creationid="Syn Spawacza" creationdate="20200601T192629Z">
+        <seg>Karp maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -8978,10 +9002,26 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Killifish Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192553Z" creationid="Syn Spawacza" creationdate="20200601T192553Z">
+        <seg>Proporczykowiec maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Koi Carp</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191527Z" creationid="Syn Spawacza" creationdate="20200601T191527Z">
-        <seg>Karp Koi</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192618Z" creationid="Syn Spawacza" creationdate="20200601T191527Z">
+        <seg>Karp koi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Koi Carp Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192603Z" creationid="Syn Spawacza" creationdate="20200601T192603Z">
+        <seg>Karp koi maszyna</seg>
       </tuv>
     </tu>
     <tu>
