@@ -3222,6 +3222,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Armed YoRHa Soldiers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194609Z" creationid="Syn Spawacza" creationdate="20200601T194609Z">
+        <seg>Uzbrojeni żołnierze YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arowana Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193955Z" creationid="Syn Spawacza" creationdate="20200601T193955Z">
@@ -4133,6 +4141,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bunker PA System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194948Z" creationid="Syn Spawacza" creationdate="20200601T194948Z">
+        <seg>Komunikat Bunkra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195356Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
@@ -5013,6 +5029,14 @@ Może zostać sprzedana.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185239Z" creationid="Syn Spawacza" creationdate="20200530T185239Z">
         <seg>Skontaktuj się z dowództwem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contaminated YoRHa</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194625Z" creationid="Syn Spawacza" creationdate="20200601T194625Z">
+        <seg>Skażeni YoRHa</seg>
       </tuv>
     </tu>
     <tu>
@@ -8810,6 +8834,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Internal Broadcast</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194739Z" creationid="Syn Spawacza" creationdate="20200601T194739Z">
+        <seg>Komunikat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inverted</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131945Z" creationid="Syn Spawacza" creationdate="20200530T131945Z">
@@ -11029,6 +11061,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194631Z" creationid="Syn Spawacza" creationdate="20200601T194631Z">
+        <seg>Numer 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number Held</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
@@ -12521,6 +12561,22 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174604Z" creationid="Syn Spawacza" creationdate="20200601T174604Z">
         <seg>Odzyskanie systemu NFCS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red Girl A</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194550Z" creationid="Syn Spawacza" creationdate="20200601T194550Z">
+        <seg>Czerwona dziewczyna A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red Girl B</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194553Z" creationid="Syn Spawacza" creationdate="20200601T194553Z">
+        <seg>Czerwona dziewczyna B</seg>
       </tuv>
     </tu>
     <tu>
@@ -17253,6 +17309,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174331Z" creationid="Syn Spawacza" creationdate="20200530T174331Z">
         <seg>Zauważyłam to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa S-Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194640Z" creationid="Syn Spawacza" creationdate="20200601T194640Z">
+        <seg>YoRHa typ S</seg>
       </tuv>
     </tu>
     <tu>
