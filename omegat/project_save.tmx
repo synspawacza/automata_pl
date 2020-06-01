@@ -590,6 +590,16 @@ Używany przy tworzeniu gier.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A card used for collecting stamps at
+the amusement park.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122332Z" creationid="Syn Spawacza" creationdate="20200601T122332Z">
+        <seg>Karta używana do zbierania pieczątek
+w wesołym miasteczku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A chip containing a data log on A2.
 Heavily damaged, there is little that
 can be analyzed.</seg>
@@ -944,6 +954,18 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A slab with the laws of an ancient
+country written upon it. Many of
+them don't make any sense.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122502Z" creationid="Syn Spawacza" creationdate="20200601T122502Z">
+        <seg>Kamienna tablica z prawami
+starożytnego kraju. Wiele z nich
+wydaje się nie mieć sensu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A small gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
@@ -966,6 +988,22 @@ przez ludzką dziewczynkę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112325Z" creationid="Syn Spawacza" creationdate="20200601T112325Z">
         <seg>Gniazdko na wtyczkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stamp from the amusement park.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122210Z" creationid="Syn Spawacza" creationdate="20200601T122210Z">
+        <seg>Pieczątka z wesołego miasteczka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A stick of unknown purpose.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122351Z" creationid="Syn Spawacza" creationdate="20200601T122351Z">
+        <seg>Laska o nieznanym przeznaczeniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6744,6 +6782,16 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090836Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
         <seg>Klucz dostępu z w. miasteczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Part of a machine lifeform. May have
+something to do with the treasure
+of the forest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122309Z" creationid="Syn Spawacza" creationdate="20200601T122309Z">
+        <seg>Część mechanicznej formy życia. Wydaje się mieć coś wspólnego z leśnym skarbem.</seg>
       </tuv>
     </tu>
     <tu>
