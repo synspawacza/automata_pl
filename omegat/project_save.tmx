@@ -3291,6 +3291,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bunker Item Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175551Z" creationid="Syn Spawacza" creationdate="20200601T175551Z">
+        <seg>Sklep z przedmiotami w Bunkrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195356Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
@@ -3383,6 +3391,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095939Z" creationid="Syn Spawacza" creationdate="20200601T095939Z">
         <seg>Wizjer kamuflujący</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Camp Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175528Z" creationid="Syn Spawacza" creationdate="20200601T175511Z">
+        <seg>Handlarz zaopatrzeniem — obóz</seg>
       </tuv>
     </tu>
     <tu>
@@ -4411,6 +4427,14 @@ chroniącą przed pociskami.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175633Z" creationid="Syn Spawacza" creationdate="20200601T175633Z">
+        <seg>Handlarz zaopatrzeniem — pustynia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Zone</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175015Z" creationid="Syn Spawacza" creationdate="20200601T174813Z">
@@ -4447,6 +4471,14 @@ chroniącą przed pociskami.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162929Z" creationid="Syn Spawacza" creationdate="20200601T162929Z">
         <seg>Diabelska nienawiść</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Devola's Item Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175558Z" creationid="Syn Spawacza" creationdate="20200601T175536Z">
+        <seg>Sklep z przedmiotami Devoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -4757,6 +4789,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082356Z" creationid="Syn Spawacza" creationdate="20200601T082356Z">
         <seg>Wyrafinowany mechanizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Elevator</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175427Z" creationid="Syn Spawacza" creationdate="20200601T175427Z">
+        <seg>Winda</seg>
       </tuv>
     </tu>
     <tu>
@@ -5338,6 +5378,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Forest Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175628Z" creationid="Syn Spawacza" creationdate="20200601T175628Z">
+        <seg>Handlarz zaopatrzeniem — las</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forest Zone</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175008Z" creationid="Syn Spawacza" creationdate="20200601T175005Z">
@@ -5530,6 +5578,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211611Z" creationid="Syn Spawacza" creationdate="20200530T202225Z">
         <seg>No dalej, dostosuj ustawienia tak, byś mnie słyszała.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>God Box</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175408Z" creationid="Syn Spawacza" creationdate="20200601T175408Z">
+        <seg>Pudełko boga</seg>
       </tuv>
     </tu>
     <tu>
@@ -7182,6 +7238,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lower Section</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175415Z" creationid="Syn Spawacza" creationdate="20200601T175415Z">
+        <seg>Sekcja dolna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lowers skill-gauge cooldown when attacking.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164746Z" creationid="Syn Spawacza" creationdate="20200601T164746Z">
@@ -8325,6 +8389,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oasis Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175639Z" creationid="Syn Spawacza" creationdate="20200601T175639Z">
+        <seg>Handlarz zaopatrzeniem — oaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Obtain Keys</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174538Z" creationid="Syn Spawacza" creationdate="20200601T174538Z">
@@ -8665,6 +8737,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
         <seg>Pasywny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Peak</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175424Z" creationid="Syn Spawacza" creationdate="20200601T175424Z">
+        <seg>Szczyt</seg>
       </tuv>
     </tu>
     <tu>
@@ -9385,6 +9465,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073148Z" creationid="Syn Spawacza" creationdate="20200601T073148Z">
         <seg>Ranga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ravine Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175654Z" creationid="Syn Spawacza" creationdate="20200601T175654Z">
+        <seg>Handlarz zaopatrzeniem — wąwóz</seg>
       </tuv>
     </tu>
     <tu>
@@ -10727,6 +10815,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Soul Box</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175405Z" creationid="Syn Spawacza" creationdate="20200601T175405Z">
+        <seg>Pudełko duszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sound</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
@@ -10787,6 +10883,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110511Z" creationid="Syn Spawacza" creationdate="20200531T110511Z">
         <seg>Spacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Space Materials Shop</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175622Z" creationid="Syn Spawacza" creationdate="20200601T175622Z">
+        <seg>Sklep z materiałami kosmicznymi</seg>
       </tuv>
     </tu>
     <tu>
@@ -12427,6 +12531,14 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Upper Section</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175422Z" creationid="Syn Spawacza" creationdate="20200601T175422Z">
+        <seg>Sekcja górna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Usage rights transferred from 9S to 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183933Z" creationid="Syn Spawacza" creationdate="20200530T183933Z">
@@ -12846,6 +12958,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144318Z" creationid="Syn Spawacza" creationdate="20200530T144202Z">
         <seg>Zobacz historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Village Supply Trader</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175604Z" creationid="Syn Spawacza" creationdate="20200601T175604Z">
+        <seg>Handlarz zaopatrzeniem — wioska</seg>
       </tuv>
     </tu>
     <tu>
