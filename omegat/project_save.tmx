@@ -2879,6 +2879,16 @@ YoRHa. Moc miecza zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An aquatic machine.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194158Z" creationid="Syn Spawacza" creationdate="20200601T194158Z">
+        <seg>Maszyna wodna.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An axe used by machine lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161412Z" creationid="Syn Spawacza" creationdate="20200601T161412Z">
@@ -3208,6 +3218,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180551Z" creationid="Syn Spawacza" creationdate="20200601T180551Z">
         <seg>Nazwa obszarów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arowana Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193955Z" creationid="Syn Spawacza" creationdate="20200601T193955Z">
+        <seg>Arowana maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -3669,6 +3687,22 @@ difficult to land effective blows with them.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Basking Shark Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193959Z" creationid="Syn Spawacza" creationdate="20200601T193959Z">
+        <seg>Długoszpar maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Battery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194030Z" creationid="Syn Spawacza" creationdate="20200601T194030Z">
+        <seg>Bateria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Battles are tougher and you can't use lock-on.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141308Z" creationid="Syn Spawacza" creationdate="20200530T141308Z">
@@ -4027,6 +4061,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Broken Firearm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194110Z" creationid="Syn Spawacza" creationdate="20200601T194110Z">
+        <seg>Zepsuta broń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Broken Key</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103452Z" creationid="Syn Spawacza" creationdate="20200530T150442Z">
@@ -4303,6 +4345,26 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150950Z" creationid="Syn Spawacza" creationdate="20200530T150950Z">
         <seg>Złapane ryby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caught in a river.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194130Z" creationid="Syn Spawacza" creationdate="20200601T194130Z">
+        <seg>Złapana w rzece.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caught in the sea.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194140Z" creationid="Syn Spawacza" creationdate="20200601T194140Z">
+        <seg>Złapana w morzu.
+Może zostać sprzedana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7322,6 +7384,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freshwater Ray Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194005Z" creationid="Syn Spawacza" creationdate="20200601T194005Z">
+        <seg>Płaszczka słodkowodna maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fuel Filter</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093232Z" creationid="Syn Spawacza" creationdate="20200601T093232Z">
@@ -7398,6 +7468,14 @@ dysponują wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
         <seg>Gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gas Cylinder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194023Z" creationid="Syn Spawacza" creationdate="20200601T194023Z">
+        <seg>Butla gazu</seg>
       </tuv>
     </tu>
     <tu>
@@ -8061,6 +8139,14 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191952Z" creationid="Syn Spawacza" creationdate="20200601T191952Z">
         <seg>Skrzypłocz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Horseshoe Crab Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193949Z" creationid="Syn Spawacza" creationdate="20200601T193949Z">
+        <seg>Skrzypłocz maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -9002,6 +9088,16 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just some old junk.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194236Z" creationid="Syn Spawacza" creationdate="20200601T194236Z">
+        <seg>Jakiś złom.
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Key Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150944Z" creationid="Syn Spawacza" creationdate="20200530T150944Z">
@@ -9682,6 +9778,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082145Z" creationid="Syn Spawacza" creationdate="20200601T082145Z">
         <seg>Noga maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Lifeform Head</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194016Z" creationid="Syn Spawacza" creationdate="20200601T194016Z">
+        <seg>Głowa mechanicznej formy życia</seg>
       </tuv>
     </tu>
     <tu>
@@ -15275,6 +15379,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172151Z" creationid="Syn Spawacza" creationdate="20200530T172151Z">
         <seg>Czas od uderzenia rakiety:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tire</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194019Z" creationid="Syn Spawacza" creationdate="20200601T194019Z">
+        <seg>Opona</seg>
       </tuv>
     </tu>
     <tu>
