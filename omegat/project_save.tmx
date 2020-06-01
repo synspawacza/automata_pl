@@ -2008,6 +2008,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Choice Sachet</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094151Z" creationid="Syn Spawacza" creationdate="20200601T094151Z">
+        <seg>Wykwintny woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Choose a conjunction to input.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080320Z" creationid="Syn Spawacza" creationdate="20200601T080320Z">
@@ -7320,6 +7328,46 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131115Z" creationid="Syn Spawacza" creationdate="20200530T131115Z">
         <seg>Dźwięk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Data 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094159Z" creationid="Syn Spawacza" creationdate="20200601T094159Z">
+        <seg>Dane dźwiękowe 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Data 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094201Z" creationid="Syn Spawacza" creationdate="20200601T094201Z">
+        <seg>Dane dźwiękowe 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Data 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094203Z" creationid="Syn Spawacza" creationdate="20200601T094203Z">
+        <seg>Dane dźwiękowe 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Data 4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094206Z" creationid="Syn Spawacza" creationdate="20200601T094206Z">
+        <seg>Dane dźwiękowe 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sound Data 5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094208Z" creationid="Syn Spawacza" creationdate="20200601T094208Z">
+        <seg>Dane dźwiękowe 5</seg>
       </tuv>
     </tu>
     <tu>
