@@ -776,6 +776,17 @@ Nie najnowszy, ale sprawdzony w boju.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A durable, older model YoRHa weapon, time-tested
+and proven for turning machine lifeforms into scrap.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151715Z" creationid="Syn Spawacza" creationdate="20200601T151715Z">
+        <seg>Sprawdzony, starszy model broni YoRHa. Niejednokrotnie
+udowodnił zdolność przerabiana mechanicznych form
+życia na złom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A filter used by androids to refine
 fuel.</seg>
       </tuv>
@@ -1972,8 +1983,10 @@ jego ostrze jest najwyższej klasy.</seg>
         <seg>An advanced YoRHa weapon designed to defeat giant
 machine lifeforms. Its power increases with its charge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151440Z" creationid="Syn Spawacza" creationdate="20200601T151440Z">
-        <seg>Nowoczesna broń YoRHa, zaprojektowana do walki zogromnymi maszynami. Moc miecza zwiększa się po naładowaniu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151501Z" creationid="Syn Spawacza" creationdate="20200601T151440Z">
+        <seg>Nowoczesna broń YoRHa, zaprojektowana do walki z
+ogromnymi maszynami. Moc ostrza zwiększa się
+po naładowaniu.</seg>
       </tuv>
     </tu>
     <tu>
