@@ -3181,6 +3181,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Chips</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211158Z" creationid="Syn Spawacza" creationdate="20200601T211158Z">
+        <seg>Wszystkie czipy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -4228,6 +4236,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185053Z" creationid="Syn Spawacza" creationdate="20200601T185053Z">
         <seg>Autoużycie przedmiotów +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Automatically select and equip chips.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211219Z" creationid="Syn Spawacza" creationdate="20200601T211219Z">
+        <seg>Automatycznie wybierz i użyj czipów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7990,6 +8006,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Equipped Chips</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211240Z" creationid="Syn Spawacza" creationdate="20200601T211240Z">
+        <seg>Używane czipy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Equipped auto-control chips.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163223Z" creationid="Syn Spawacza" creationdate="20200530T163223Z">
@@ -9206,6 +9230,358 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204211Z" creationid="Syn Spawacza" creationdate="20200601T204211Z">
         <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #01</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211322Z" creationid="Syn Spawacza" creationdate="20200601T211322Z">
+        <seg>GRA HAKERSKA #01</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #02</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211323Z" creationid="Syn Spawacza" creationdate="20200601T211323Z">
+        <seg>GRA HAKERSKA #02</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #03</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211324Z" creationid="Syn Spawacza" creationdate="20200601T211324Z">
+        <seg>GRA HAKERSKA #03</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #04</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211325Z" creationid="Syn Spawacza" creationdate="20200601T211325Z">
+        <seg>GRA HAKERSKA #04</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #05</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211326Z" creationid="Syn Spawacza" creationdate="20200601T211326Z">
+        <seg>GRA HAKERSKA #05</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #06</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211328Z" creationid="Syn Spawacza" creationdate="20200601T211328Z">
+        <seg>GRA HAKERSKA #06</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #07</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211329Z" creationid="Syn Spawacza" creationdate="20200601T211329Z">
+        <seg>GRA HAKERSKA #07</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #08</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211330Z" creationid="Syn Spawacza" creationdate="20200601T211330Z">
+        <seg>GRA HAKERSKA #08</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #09</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211332Z" creationid="Syn Spawacza" creationdate="20200601T211332Z">
+        <seg>GRA HAKERSKA #09</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #10</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211334Z" creationid="Syn Spawacza" creationdate="20200601T211334Z">
+        <seg>GRA HAKERSKA #10</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #11</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211335Z" creationid="Syn Spawacza" creationdate="20200601T211335Z">
+        <seg>GRA HAKERSKA #11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #12</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211336Z" creationid="Syn Spawacza" creationdate="20200601T211336Z">
+        <seg>GRA HAKERSKA #12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #13</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211338Z" creationid="Syn Spawacza" creationdate="20200601T211338Z">
+        <seg>GRA HAKERSKA #13</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #14</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211339Z" creationid="Syn Spawacza" creationdate="20200601T211339Z">
+        <seg>GRA HAKERSKA #14</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #15</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211341Z" creationid="Syn Spawacza" creationdate="20200601T211341Z">
+        <seg>GRA HAKERSKA #15</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #16</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211342Z" creationid="Syn Spawacza" creationdate="20200601T211342Z">
+        <seg>GRA HAKERSKA #16</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #17</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211343Z" creationid="Syn Spawacza" creationdate="20200601T211343Z">
+        <seg>GRA HAKERSKA #17</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #18</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211344Z" creationid="Syn Spawacza" creationdate="20200601T211344Z">
+        <seg>GRA HAKERSKA #18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #19</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211345Z" creationid="Syn Spawacza" creationdate="20200601T211345Z">
+        <seg>GRA HAKERSKA #19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #20</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211348Z" creationid="Syn Spawacza" creationdate="20200601T211348Z">
+        <seg>GRA HAKERSKA #20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #21</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211349Z" creationid="Syn Spawacza" creationdate="20200601T211349Z">
+        <seg>GRA HAKERSKA #21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #22</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211350Z" creationid="Syn Spawacza" creationdate="20200601T211350Z">
+        <seg>GRA HAKERSKA #22</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #23</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211413Z" creationid="Syn Spawacza" creationdate="20200601T211351Z">
+        <seg>GRA HAKERSKA #23</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #24</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211414Z" creationid="Syn Spawacza" creationdate="20200601T211414Z">
+        <seg>GRA HAKERSKA #24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #25</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211415Z" creationid="Syn Spawacza" creationdate="20200601T211415Z">
+        <seg>GRA HAKERSKA #25</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #26</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211417Z" creationid="Syn Spawacza" creationdate="20200601T211417Z">
+        <seg>GRA HAKERSKA #26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #27</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211418Z" creationid="Syn Spawacza" creationdate="20200601T211418Z">
+        <seg>GRA HAKERSKA #27</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #28</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211419Z" creationid="Syn Spawacza" creationdate="20200601T211419Z">
+        <seg>GRA HAKERSKA #28</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #29</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211422Z" creationid="Syn Spawacza" creationdate="20200601T211422Z">
+        <seg>GRA HAKERSKA #29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #30</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211428Z" creationid="Syn Spawacza" creationdate="20200601T211428Z">
+        <seg>GRA HAKERSKA #30</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #31</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211428Z" creationid="Syn Spawacza" creationdate="20200601T211428Z">
+        <seg>GRA HAKERSKA #31</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #32</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211429Z" creationid="Syn Spawacza" creationdate="20200601T211429Z">
+        <seg>GRA HAKERSKA #32</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #33</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211430Z" creationid="Syn Spawacza" creationdate="20200601T211430Z">
+        <seg>GRA HAKERSKA #33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #34</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211431Z" creationid="Syn Spawacza" creationdate="20200601T211431Z">
+        <seg>GRA HAKERSKA #34</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #35</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211432Z" creationid="Syn Spawacza" creationdate="20200601T211432Z">
+        <seg>GRA HAKERSKA #35</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #36</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211433Z" creationid="Syn Spawacza" creationdate="20200601T211433Z">
+        <seg>GRA HAKERSKA #36</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #37</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211435Z" creationid="Syn Spawacza" creationdate="20200601T211435Z">
+        <seg>GRA HAKERSKA #37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #38</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211436Z" creationid="Syn Spawacza" creationdate="20200601T211436Z">
+        <seg>GRA HAKERSKA #38</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #39</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211437Z" creationid="Syn Spawacza" creationdate="20200601T211437Z">
+        <seg>GRA HAKERSKA #39</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #40</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211443Z" creationid="Syn Spawacza" creationdate="20200601T211443Z">
+        <seg>GRA HAKERSKA #40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #41</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211444Z" creationid="Syn Spawacza" creationdate="20200601T211444Z">
+        <seg>GRA HAKERSKA #41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #42</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211444Z" creationid="Syn Spawacza" creationdate="20200601T211444Z">
+        <seg>GRA HAKERSKA #42</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #43</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211446Z" creationid="Syn Spawacza" creationdate="20200601T211446Z">
+        <seg>GRA HAKERSKA #43</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>HACKING GAME #44</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211447Z" creationid="Syn Spawacza" creationdate="20200601T211447Z">
+        <seg>GRA HAKERSKA #44</seg>
       </tuv>
     </tu>
     <tu>
@@ -13633,6 +14009,22 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optimize</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211230Z" creationid="Syn Spawacza" creationdate="20200601T211230Z">
+        <seg>Optymalizuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optimize chip arrangement.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211312Z" creationid="Syn Spawacza" creationdate="20200601T211312Z">
+        <seg>Optymalizuj ułożenie czipów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Or some kind of punishment?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173633Z" creationid="Syn Spawacza" creationdate="20200530T173633Z">
@@ -16253,9 +16645,17 @@ prawdę tego świata. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select chip category.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211254Z" creationid="Syn Spawacza" creationdate="20200601T211254Z">
+        <seg>Wybierz kategorię czipów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select item.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170850Z" creationid="Syn Spawacza" creationdate="20200530T170850Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211411Z" creationid="Syn Spawacza" creationdate="20200530T170850Z">
         <seg>Wybierz przedmiot.</seg>
       </tuv>
     </tu>
