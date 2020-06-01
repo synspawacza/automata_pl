@@ -1241,6 +1241,16 @@ stworzona z złomu do niszczenia androidów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A stick made of cypress wood. Can hardly be called 
+a weapon, but somehow grants courage to its user.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160502Z" creationid="Syn Spawacza" creationdate="20200601T160502Z">
+        <seg>Kij zrobiony z drewna cyprysowego. Trudno nazwać go bronią,
+ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stick of unknown purpose.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122351Z" creationid="Syn Spawacza" creationdate="20200601T122351Z">
