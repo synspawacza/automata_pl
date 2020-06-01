@@ -1621,6 +1621,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ATK Speed Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162038Z" creationid="Syn Spawacza" creationdate="20200601T162038Z">
+        <seg>Szybki atak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AUTO MODE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140305Z" creationid="Syn Spawacza" creationdate="20200530T140305Z">
@@ -2748,6 +2756,14 @@ kto ośmiela się podważyć autorytet właściciela.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beast's Roar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162243Z" creationid="Syn Spawacza" creationdate="20200601T162243Z">
+        <seg>Ryk bestii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beastbane</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135249Z" creationid="Syn Spawacza" creationdate="20200601T134752Z">
@@ -3020,6 +3036,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085820Z" creationid="Syn Spawacza" creationdate="20200601T085820Z">
         <seg>Zepsuta zabawka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bullet Absorb</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162208Z" creationid="Syn Spawacza" creationdate="20200601T162208Z">
+        <seg>Absorpcja pocisków</seg>
       </tuv>
     </tu>
     <tu>
@@ -4059,6 +4083,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discount</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162149Z" creationid="Syn Spawacza" creationdate="20200601T162149Z">
+        <seg>Zniżka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Displaying on HUD.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211236Z" creationid="Syn Spawacza" creationdate="20200530T182841Z">
@@ -4317,6 +4349,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141525Z" creationid="Syn Spawacza" creationdate="20200530T141525Z">
         <seg>Zakończenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Endurance Up</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162058Z" creationid="Syn Spawacza" creationdate="20200601T162058Z">
+        <seg>Wytrzymałość</seg>
       </tuv>
     </tu>
     <tu>
@@ -5103,6 +5143,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134218Z" creationid="Syn Spawacza" creationdate="20200530T134218Z">
         <seg>Wysokie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>High Stun</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162229Z" creationid="Syn Spawacza" creationdate="20200601T162229Z">
+        <seg>Wysokie ogłuszenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -7760,6 +7808,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Phoenix Flash</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162310Z" creationid="Syn Spawacza" creationdate="20200601T162310Z">
+        <seg>Błysk feniksa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Phoenix Lance</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135611Z" creationid="Syn Spawacza" creationdate="20200601T135611Z">
@@ -8778,6 +8834,14 @@ i leczy wszystkie zaburzenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093009Z" creationid="Syn Spawacza" creationdate="20200601T093009Z">
         <seg>Sztywna kora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Robot Discount</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162156Z" creationid="Syn Spawacza" creationdate="20200601T162156Z">
+        <seg>Zniżka u robotów</seg>
       </tuv>
     </tu>
     <tu>
