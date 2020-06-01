@@ -488,6 +488,15 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A book too worn to read.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110959Z" creationid="Syn Spawacza" creationdate="20200601T110959Z">
+        <seg>Książka zbyt zużyta, by
+nadawała się do czytania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A broken, unusable battery.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103527Z" creationid="Syn Spawacza" creationdate="20200601T103527Z">
@@ -512,10 +521,28 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A compound used when producing
+leather.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111028Z" creationid="Syn Spawacza" creationdate="20200601T111028Z">
+        <seg>Związek używany przy produkcji skóry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cut, unusable cable.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103623Z" creationid="Syn Spawacza" creationdate="20200601T103623Z">
         <seg>Przerwany, bezużyteczny kabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A fungus that grows at the roots of
+trees.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110924Z" creationid="Syn Spawacza" creationdate="20200601T110924Z">
+        <seg>Grzyb rosnący przy korzeniach drzew.</seg>
       </tuv>
     </tu>
     <tu>
@@ -566,10 +593,26 @@ nie wiadomo do czego służy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A liquid used for coloring.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111104Z" creationid="Syn Spawacza" creationdate="20200601T111104Z">
+        <seg>Ciecz używana do barwienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A long-lasting battery.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103543Z" creationid="Syn Spawacza" creationdate="20200601T103543Z">
         <seg>Bateria o przedłużonym działaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A metal used in welding.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111047Z" creationid="Syn Spawacza" creationdate="20200601T111047Z">
+        <seg>Metal używany przy spawaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5488,6 +5531,14 @@ Na maszyny jednak nie działa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mined ore that sets off sparks when hit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111150Z" creationid="Syn Spawacza" creationdate="20200601T111150Z">
+        <seg>Minerał tworzący iskry przy uderzeniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mini-map</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161807Z" creationid="Syn Spawacza" creationdate="20200530T161807Z">
@@ -6066,6 +6117,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175154Z" creationid="Syn Spawacza" creationdate="20200530T175154Z">
         <seg>Aha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oil that leaked from machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111015Z" creationid="Syn Spawacza" creationdate="20200601T111015Z">
+        <seg>Smar wyciekający z maszyn.</seg>
       </tuv>
     </tu>
     <tu>
