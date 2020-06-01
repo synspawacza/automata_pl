@@ -1616,6 +1616,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blue Ribbon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095953Z" creationid="Syn Spawacza" creationdate="20200601T095953Z">
+        <seg>Niebieska kokarda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blue Stripes Pod</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095224Z" creationid="Syn Spawacza" creationdate="20200601T095224Z">
@@ -1832,6 +1840,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Camouflage Goggles</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095939Z" creationid="Syn Spawacza" creationdate="20200601T095939Z">
+        <seg>Wizjer kamuflujący</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can be changed in-game and on the Start Menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131402Z" creationid="Syn Spawacza" creationdate="20200530T131402Z">
@@ -2044,6 +2060,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075658Z" creationid="Syn Spawacza" creationdate="20200601T075658Z">
         <seg>Postać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Children's Cores</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100004Z" creationid="Syn Spawacza" creationdate="20200601T100004Z">
+        <seg>Rdzenie dzieci</seg>
       </tuv>
     </tu>
     <tu>
@@ -2396,6 +2420,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150102Z" creationid="Syn Spawacza" creationdate="20200530T145928Z">
         <seg>Lek na sterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cures visual status ailments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100245Z" creationid="Syn Spawacza" creationdate="20200601T100245Z">
+        <seg>Leczy wizualne efekty statusowe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5546,6 +5578,16 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nullifies electrical attacks for
+30 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100155Z" creationid="Syn Spawacza" creationdate="20200601T100146Z">
+        <seg>Uodparnia na ataki elektryczne
+na 30 sekund</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number Held</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
@@ -5802,6 +5844,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pascal's Book</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100015Z" creationid="Syn Spawacza" creationdate="20200601T100015Z">
+        <seg>Książka Pascala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pascal's Core</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095959Z" creationid="Syn Spawacza" creationdate="20200601T095959Z">
+        <seg>Rdzeń Pascala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Passive</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110942Z" creationid="Syn Spawacza" creationdate="20200530T141418Z">
@@ -5838,6 +5896,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144302Z" creationid="Syn Spawacza" creationdate="20200530T144017Z">
         <seg>Książki z obrazkami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pink Ribbon</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095947Z" creationid="Syn Spawacza" creationdate="20200601T095947Z">
+        <seg>Różowa kokarda</seg>
       </tuv>
     </tu>
     <tu>
@@ -6606,6 +6672,38 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163810Z" creationid="Syn Spawacza" creationdate="20200530T163810Z">
         <seg>Przywróć ustawienia klawiszy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores 100% of HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100100Z" creationid="Syn Spawacza" creationdate="20200601T100100Z">
+        <seg>Przywraca 100% punktów życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores 25% of HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100047Z" creationid="Syn Spawacza" creationdate="20200601T100047Z">
+        <seg>Przywraca 25% punktów życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores 50% of HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100052Z" creationid="Syn Spawacza" creationdate="20200601T100052Z">
+        <seg>Przywraca 50% punktów życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Restores 75% of HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100055Z" creationid="Syn Spawacza" creationdate="20200601T100055Z">
+        <seg>Przywraca 75% punktów życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9692,6 +9790,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135536Z" creationid="Syn Spawacza" creationdate="20200530T135536Z">
         <seg>\</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>amazarashi Head</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100036Z" creationid="Syn Spawacza" creationdate="20200601T100036Z">
+        <seg>Głowa amazarashi</seg>
       </tuv>
     </tu>
     <tu>
