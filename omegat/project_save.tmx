@@ -3471,6 +3471,14 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demon's Cry</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140332Z" creationid="Syn Spawacza" creationdate="20200601T140332Z">
+        <seg>Demoniczny Płacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dented Plate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164149Z" creationid="Syn Spawacza" creationdate="20200530T164149Z">
@@ -10219,6 +10227,14 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135339Z" creationid="Syn Spawacza" creationdate="20200601T135313Z">
         <seg>Ostrze typ 4O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type-4O Fists</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140422Z" creationid="Syn Spawacza" creationdate="20200601T140422Z">
+        <seg>Kastety typ 4O</seg>
       </tuv>
     </tu>
     <tu>
