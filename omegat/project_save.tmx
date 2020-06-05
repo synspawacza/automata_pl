@@ -4642,10 +4642,42 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-activate Pod programs near hostile enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184600Z" creationid="Syn Spawacza" creationdate="20200605T184600Z">
+        <seg>Automatycznie uruchamia program poda w pobliżu wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-attack hostile enemies in melee range.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184502Z" creationid="Syn Spawacza" creationdate="20200605T184502Z">
+        <seg>Automatycznie atakuje wrogów w walce wręcz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-collect Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185929Z" creationid="Syn Spawacza" creationdate="20200601T185929Z">
         <seg>Autozbieranie przedmiotów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-evade enemy attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184539Z" creationid="Syn Spawacza" creationdate="20200605T184539Z">
+        <seg>Automatycznie unika ataków wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-fire projectiles at nearby hostile enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184521Z" creationid="Syn Spawacza" creationdate="20200605T184521Z">
+        <seg>Automatycznie ostrzeliwuje pobliskich wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4670,6 +4702,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072558Z" creationid="Syn Spawacza" creationdate="20200530T135642Z">
         <seg>Bieg automatyczny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-switch weapons when attacking at close range.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184630Z" creationid="Syn Spawacza" creationdate="20200605T184630Z">
+        <seg>Automatycznie zmienia broń przy ataku na krótki dystans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8163,6 +8203,20 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T210953Z" creationid="Syn Spawacza" creationdate="20200601T210953Z">
         <seg>Czy chcesz używać czipów autosterowania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
+This will equip Auto-Attack, Auto-Fire,
+Auto-Evade, Auto-Program, and 
+Auto-Weapon Switch.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184726Z" creationid="Syn Spawacza" creationdate="20200605T184726Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+Włączy to Autoatak, Autostrzał,
+Autounik, Autoprogram i
+Autozmiana broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20982,6 +21036,18 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The System Menu allows you to check intel, change gear, adjust settings, and more.
+ 
+* Tutorial messages like this one can be accessed at any time from the Intel tab.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184641Z" creationid="Syn Spawacza" creationdate="20200605T184641Z">
+        <seg>Menu systemowe pozwala na sprawdzenie informacji, wybór wyposażenia, zmianę ustawień, itd.
+ 
+* Samouczki takie jak ten mogą być obejrzane w dowolnym momencie w zakładce Dane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Third Dimension</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214353Z" creationid="Syn Spawacza" creationdate="20200601T214353Z">
@@ -21575,6 +21641,16 @@ zabarwiła na czarno.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162115Z" creationid="Syn Spawacza" creationdate="20200530T162115Z">
         <seg>Gra zostanie zamknięta, a ustawienia zapisane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will close the game and apply the settings.
+Is that okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184704Z" creationid="Syn Spawacza" creationdate="20200605T184704Z">
+        <seg>Gra zostanie zamknięta, a ustawienia zapisane.
+Kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
