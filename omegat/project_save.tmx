@@ -1149,6 +1149,16 @@ nadawała się do czytania.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A bracelet worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180359Z" creationid="Syn Spawacza" creationdate="20200605T180359Z">
+        <seg>Bransoleta używana przez ludzi.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A brilliantly shining pearl.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113657Z" creationid="Syn Spawacza" creationdate="20200601T113657Z">
@@ -1248,6 +1258,16 @@ Zbyt uszkodzony by nadawać się do analizy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113257Z" creationid="Syn Spawacza" creationdate="20200601T113257Z">
         <seg>Czoker używany przez ludzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A choker used by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180414Z" creationid="Syn Spawacza" creationdate="20200605T180414Z">
+        <seg>Czoker używany przez ludzi.
+Może zostać sprzedany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1472,6 +1492,16 @@ the shopping mall.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A large pearl with a black luster. 
+Extremely rare.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180337Z" creationid="Syn Spawacza" creationdate="20200605T180337Z">
+        <seg>Wielka perła o czarnym połysku. 
+Niezwykle rzadka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A letter addressed to Jean-Paul that
 seems to contain a question.</seg>
       </tuv>
@@ -1486,6 +1516,17 @@ seems to contain a question.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114447Z" creationid="Syn Spawacza" creationdate="20200601T114447Z">
         <seg>List z pytaniem adresowany do Sartre'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A letter addressed to Sartre that
+seems to contain a question.
+You shouldn't read it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180506Z" creationid="Syn Spawacza" creationdate="20200605T180506Z">
+        <seg>List z pytaniem adresowany do Sartre'a.
+Nie powinieneś go nie czytać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1601,6 +1642,18 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A part obtained from a special
+machine lifeform. 
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180453Z" creationid="Syn Spawacza" creationdate="20200605T180453Z">
+        <seg>Element pochodząca z
+mechanicznej formy życia. 
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A piece of a meteorite that fell to
 the earth.</seg>
       </tuv>
@@ -1675,6 +1728,16 @@ of a phoenix.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A rose that bloomed in the desert.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180315Z" creationid="Syn Spawacza" creationdate="20200605T180315Z">
+        <seg>Róża która zakwitła na pustyni.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A rusted musical box that can no
 longer play.</seg>
       </tuv>
@@ -1714,6 +1777,16 @@ mechanicznych form życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110106Z" creationid="Syn Spawacza" creationdate="20200601T110106Z">
         <seg>Nasiono jakiejś rośliny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A seed of some plant. Seems it would
+be tricky to grow.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180257Z" creationid="Syn Spawacza" creationdate="20200605T180257Z">
+        <seg>Nasiono jakiejś rośliny. Wydaje się
+trudna w hodowli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3496,6 +3569,16 @@ YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An earring worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180350Z" creationid="Syn Spawacza" creationdate="20200605T180350Z">
+        <seg>Kolczyk używany przez ludzi.
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An elastic substance extracted from
 plants.</seg>
       </tuv>
@@ -3529,6 +3612,18 @@ machine lifeform.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113338Z" creationid="Syn Spawacza" creationdate="20200601T113338Z">
         <seg>Stara maska pozostawiona przez
 mechaniczną formę życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An old mask left behind by a 
+machine lifeform.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180423Z" creationid="Syn Spawacza" creationdate="20200605T180423Z">
+        <seg>Stara maska pozostawiona przez
+mechaniczną formę życia.
+Może zostać sprzedana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8014,6 +8109,16 @@ inne losowe efekty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113352Z" creationid="Syn Spawacza" creationdate="20200601T113352Z">
         <seg>Kolczyki używane przez ludzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Earrings worn by humans.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180427Z" creationid="Syn Spawacza" creationdate="20200605T180427Z">
+        <seg>Kolczyki używane przez ludzi.
+Mogą zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13767,10 +13872,34 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mined ore containing gold. Humans
+treasured gold as a valuable mineral,
+but to machines it's worthless.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180252Z" creationid="Syn Spawacza" creationdate="20200605T180252Z">
+        <seg>Ruda zwierająca złoto. Ludzie uważali
+złoto za cenny materiał, dla maszyn
+zaś jest bezwartościowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mined ore containing iron.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T104933Z" creationid="Syn Spawacza" creationdate="20200601T104933Z">
         <seg>Ruda zawierająca żelazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mined ore containing iron. 
+Iron can be extracted by heating 
+it to 3000 degrees in a furnace.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180228Z" creationid="Syn Spawacza" creationdate="20200605T180228Z">
+        <seg>Ruda zawierająca żelazo. 
+Żelazo można wytapiać w piecu hutniczym
+w temperaturze 2000 stopni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15117,6 +15246,20 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105554Z" creationid="Syn Spawacza" creationdate="20200601T104544Z">
         <seg>Ruda zawierająca miedź.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ore containing copper.
+It's usually mined, but
+for some reason, this stuff 
+is lying around everywhere.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180226Z" creationid="Syn Spawacza" creationdate="20200605T180226Z">
+        <seg>Ruda zawierająca miedź.
+Wydobywana w kopalniach,
+ale z jakiegoś powodu
+poniewiera się na powierzchni.</seg>
       </tuv>
     </tu>
     <tu>
