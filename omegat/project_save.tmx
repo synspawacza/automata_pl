@@ -5858,6 +5858,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Class 1 Patient Health Record</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173053Z" creationid="Syn Spawacza" creationdate="20200605T173053Z">
+        <seg>Pacjent klasy 1: Karta zdrowia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clean Nut</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082134Z" creationid="Syn Spawacza" creationdate="20200601T082134Z">
@@ -20421,6 +20429,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tower System Outline</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172953Z" creationid="Syn Spawacza" creationdate="20200605T172953Z">
+        <seg>Zarys systemu Wieży</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tower System Service</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141226Z" creationid="Syn Spawacza" creationdate="20200601T202805Z">
@@ -22903,6 +22919,30 @@ of pink.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132623Z" creationid="Syn Spawacza" creationdate="20200601T132354Z">
         <seg>[Wygląd poda]
 Biało-niebieskie paski z nutą różowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Top Secret] Black Box</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173117Z" creationid="Syn Spawacza" creationdate="20200605T173117Z">
+        <seg>[Ściśle tajne] Czarna skrzynka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Top Secret] Model No.2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173127Z" creationid="Syn Spawacza" creationdate="20200605T173127Z">
+        <seg>[Ściśle tajne] Model nr. 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Top Secret] Project YoRHa</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173108Z" creationid="Syn Spawacza" creationdate="20200605T173108Z">
+        <seg>[Ściśle tajne] Projekt YoRHa</seg>
       </tuv>
     </tu>
     <tu>
