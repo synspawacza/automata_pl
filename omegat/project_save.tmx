@@ -12844,8 +12844,8 @@ jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Machine sub-quests</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075612Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
-        <seg>Pod-zadań maszyn</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154930Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
+        <seg>Podzadań maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -18662,6 +18662,14 @@ wśród wrogów których dotknie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stubby (S)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T160619Z" creationid="Syn Spawacza" creationdate="20200605T160619Z">
+        <seg>Resorak (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stun</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185221Z" creationid="Syn Spawacza" creationdate="20200601T185221Z">
@@ -19671,8 +19679,8 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>These are your current play records.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075652Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
-        <seg>Twoje obecne rekordy:</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154943Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
+        <seg>To twoje obecne rekordy.</seg>
       </tuv>
     </tu>
     <tu>
