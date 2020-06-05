@@ -1070,6 +1070,16 @@ monks of the East.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black oriental sword. Its no-frills
+design gives it an aura of serious weaponry.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181805Z" creationid="Syn Spawacza" creationdate="20200605T181805Z">
+        <seg>Orientalny, czarny miecz. Dzięki pozbawionemu fanaberii
+projektowi daje wrażenie poważnej broni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black spear used by warrior
 monks of the East.</seg>
       </tuv>
@@ -1428,10 +1438,9 @@ Nie najnowszy, ale sprawdzony w boju.</seg>
         <seg>A durable, older model YoRHa weapon, time-tested
 and proven for turning machine lifeforms into scrap.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151715Z" creationid="Syn Spawacza" creationdate="20200601T151715Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181936Z" creationid="Syn Spawacza" creationdate="20200601T151715Z">
         <seg>Sprawdzony, starszy model broni YoRHa. Niejednokrotnie
-udowodnił zdolność przerabiana mechanicznych form
-życia na złom.</seg>
+udowodnił zdolność przerabiana maszyn na złom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2101,6 +2110,16 @@ by temple guards.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151320Z" creationid="Syn Spawacza" creationdate="20200601T151320Z">
         <seg>Miecz, rzekomo zrobiony z piór feniksa, używany przez
 straż świątynną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sword allegedly made from phoenix feathers, used
+by temple guards. As yet untested in combat.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181827Z" creationid="Syn Spawacza" creationdate="20200605T181827Z">
+        <seg>Miecz, rzekomo zrobiony z piór feniksa, używany przez
+straż świątynną. Póki co niesprawdzony w boju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3733,6 +3752,16 @@ ogromnymi maszynami.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An advanced YoRHa weapon designed to defeat giant
+machine lifeforms. Its power increases with its charge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181919Z" creationid="Syn Spawacza" creationdate="20200605T181852Z">
+        <seg>Nowoczesna broń YoRHa, zaprojektowana do walki z
+wielkimi maszynami. Jego moc zwiększa się po naładowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An advanced blade, issued to elite YoRHa on the
 front lines.</seg>
       </tuv>
@@ -3801,6 +3830,16 @@ plants.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T150503Z" creationid="Syn Spawacza" creationdate="20200601T150503Z">
         <seg>Improwizowany miecz używany przez mechaniczne
 formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An improvised blade used by machine lifeforms. It
+may be made from scraps, but it gets the job done.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181811Z" creationid="Syn Spawacza" creationdate="20200605T181811Z">
+        <seg>Improwizowany miecz używany przez mechaniczne
+formy życia. Może i jest z złomu, ale robi swoją robotę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20699,6 +20738,16 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The blade is dull - Its power comes from mass alone.
+Does it smell of iron, or is that human blood...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181821Z" creationid="Syn Spawacza" creationdate="20200605T181821Z">
+        <seg>Ostrze jest tępe — jego moc bierze się z masy.
+Czy to zapach żelaza, czy ludzkiej krwi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The bloodied memory chip of a
 machine lifeform.</seg>
       </tuv>
@@ -21171,9 +21220,9 @@ wyniosłego samuraja który niegdyś ją dzierżył.</seg>
         <seg>This samurai sword's pure white blade is not yet
 sullied by a single drop of blood.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T151807Z" creationid="Syn Spawacza" creationdate="20200601T151807Z">
-        <seg>Białe ostrze tego samurajskiego miecza nie
-zostało splamione jeszcze nawet kroplą krwi.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182000Z" creationid="Syn Spawacza" creationdate="20200601T151807Z">
+        <seg>Białe ostrze tego samurajskiego miecza nie zostało
+jeszcze splamione nawet kroplą krwi.</seg>
       </tuv>
     </tu>
     <tu>
