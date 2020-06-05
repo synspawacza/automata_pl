@@ -13792,6 +13792,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multi-level (M)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T160936Z" creationid="Syn Spawacza" creationdate="20200605T160936Z">
+        <seg>Piętrowy (M)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple surrounding enemy air units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174022Z" creationid="Syn Spawacza" creationdate="20200530T174022Z">
@@ -16882,6 +16890,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170224Z" creationid="Syn Spawacza" creationdate="20200530T170224Z">
         <seg>Ponownie spotkaj się z 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reverse-jointed (L)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161017Z" creationid="Syn Spawacza" creationdate="20200605T161017Z">
+        <seg>Odwrócony (L)</seg>
       </tuv>
     </tu>
     <tu>
