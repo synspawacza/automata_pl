@@ -1089,6 +1089,16 @@ pana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A blade once held by an attendant who cared deeply for 
+his lord. Like his loyalty, its blade is unbent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181559Z" creationid="Syn Spawacza" creationdate="20200605T181559Z">
+        <seg>Miecz należący kiedyś do sługi, który troszczył się o swego
+pana. Podobnie jak jego lojalność, ostrze jest nieskrzywione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book humans used for recording
 family finances.</seg>
       </tuv>
@@ -1393,6 +1403,16 @@ usta przez ludzi by się upiększyć.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145007Z" creationid="Syn Spawacza" creationdate="20200601T145007Z">
         <seg>Starszy miecz YoRHa który zyskał zaufanie weteranów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dated YoRHa blade trusted by android veterans.
+Not the latest model, but proven in combat.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181614Z" creationid="Syn Spawacza" creationdate="20200605T181614Z">
+        <seg>Starszy miecz YoRHa który zyskał zaufanie weteranów.
+Nie najnowszy, ale sprawdzony w boju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2093,6 +2113,16 @@ straż świątynną.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A sword decorated with a bestial motif.
+Short and thin, it easily goes unnoticed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181604Z" creationid="Syn Spawacza" creationdate="20200605T181604Z">
+        <seg>Miecz zdobiony motywem zwierzęcym.
+Tak krótki i cienki że łatwo go nie zauważyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A sword passed down and continously improved among 
 the royal family of a land where magic prospers.</seg>
       </tuv>
@@ -2250,6 +2280,16 @@ old.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145622Z" creationid="Syn Spawacza" creationdate="20200601T145622Z">
         <seg>Biały miecz przypominający te używane przez
 dawnych samurajów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A white sword like those carried by samurai of
+old. Looks flashy, but the blade is top quality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181756Z" creationid="Syn Spawacza" creationdate="20200605T181624Z">
+        <seg>Biały miecz podobny do mieczy dawnych samurajów.
+Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3703,6 +3743,16 @@ YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An advanced blade, issued to elite YoRHa on the
+front lines. Its power increases with its charge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181609Z" creationid="Syn Spawacza" creationdate="20200605T181609Z">
+        <seg>Nowoczesna broń, przydzielana elitarnym jednostkom
+YoRHa. Moc miecza zwiększa się po naładowaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An aquatic machine.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194158Z" creationid="Syn Spawacza" creationdate="20200601T194158Z">
@@ -4807,8 +4857,9 @@ walczącym na zadanie im serii
         <seg>Bare android fists are passable weapons, but it can be
 difficult to land effective blows with them.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140827Z" creationid="Syn Spawacza" creationdate="20200601T140827Z">
-        <seg>Gołe pięści androida to zadowalająca broń, ale może być trudno zadać nimi efektywne obrażenia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181506Z" creationid="Syn Spawacza" creationdate="20200601T140827Z">
+        <seg>Gołe pięści androida to zadowalająca broń, ale może być
+trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6249,8 +6300,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Combat Bracers</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151217Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
-        <seg>Kastety</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181436Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
+        <seg>Karwasze</seg>
       </tuv>
     </tu>
     <tu>
@@ -21679,8 +21730,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Type-3 Fists</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140424Z" creationid="Syn Spawacza" creationdate="20200601T140424Z">
-        <seg>Kastety typ 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181431Z" creationid="Syn Spawacza" creationdate="20200601T140424Z">
+        <seg>Kastety typu 3</seg>
       </tuv>
     </tu>
     <tu>
