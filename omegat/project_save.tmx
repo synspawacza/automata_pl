@@ -10642,6 +10642,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human Server Records</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172903Z" creationid="Syn Spawacza" creationdate="20200605T172903Z">
+        <seg>Dane serwera ludzkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Humanity launched its counterattack, deploying an army of androids from a network of orbiting bases.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195324Z" creationid="Syn Spawacza" creationdate="20200530T195002Z">
@@ -12266,6 +12274,14 @@ w każdej  chwili.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174649Z" creationid="Syn Spawacza" creationdate="20200601T174649Z">
         <seg>Biblioteka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Library Index</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172711Z" creationid="Syn Spawacza" creationdate="20200605T172711Z">
+        <seg>Katalog biblioteki</seg>
       </tuv>
     </tu>
     <tu>
