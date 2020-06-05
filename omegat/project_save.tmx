@@ -3791,6 +3791,14 @@ YoRHa. Jego moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An android's central system. Removal means death.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184116Z" creationid="Syn Spawacza" creationdate="20200605T184116Z">
+        <seg>Jednostka centralna androida. Usunięcie oznacza śmierć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An aquatic machine.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194158Z" creationid="Syn Spawacza" creationdate="20200601T194158Z">
@@ -4726,6 +4734,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185053Z" creationid="Syn Spawacza" creationdate="20200601T185053Z">
         <seg>Autoużycie przedmiotów +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184014Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
+        <seg>Automatycznie używa przedmiotów leczących gdy PŻ poniżej 30%. Leczy 15% więcej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7991,6 +8007,22 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180815Z" creationid="Syn Spawacza" creationdate="20200601T180815Z">
         <seg>Pokaż ikonę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display enemies' levels and HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184048Z" creationid="Syn Spawacza" creationdate="20200605T184048Z">
+        <seg>Wyświetla poziomi i PŻ wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the player's HP gauge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184029Z" creationid="Syn Spawacza" creationdate="20200605T184029Z">
+        <seg>Wyświetla wskaźnik PŻ gracza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17641,6 +17673,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reflect the changes to the control scheme? This will overwrite the customized controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183842Z" creationid="Syn Spawacza" creationdate="20200605T183842Z">
+        <seg>Uwzględnić zmiany w schemacie sterowania? Nadpisze to ustawienia własne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regardless, that's the end of the check for now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204913Z" creationid="Syn Spawacza" creationdate="20200530T204913Z">
@@ -19702,6 +19742,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some buttons are overlapping. Please assign duplicates to separate buttons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183905Z" creationid="Syn Spawacza" creationdate="20200605T183905Z">
+        <seg>Konflikt ustawień przycisków. Przypisz zduplikowane ustawienia do osobnych przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Someone has prayed over
 your fallen body.</seg>
       </tuv>
@@ -21052,6 +21100,16 @@ soundtrack series ever.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The following actions are not mapped to a button.
+Do you want to proceed with this configuration anyway?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183855Z" creationid="Syn Spawacza" creationdate="20200605T183855Z">
+        <seg>Ta akcja nie jest zmapowana do przycisku.
+Kontynuować mimo to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The handful of survivors that remained fled from Earth, seeking refuge on the moon.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194705Z" creationid="Syn Spawacza" creationdate="20200530T194705Z">
@@ -21339,10 +21397,26 @@ wszystkim jednostkom YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This includes prohibited symbols (%, \, ", '). Please choose a new name.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183912Z" creationid="Syn Spawacza" creationdate="20200605T183912Z">
+        <seg>Wykryto niedozwolone symbole (%, \, ", '). Proszę wybrać inne imię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes prohibited words.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204533Z" creationid="Syn Spawacza" creationdate="20200601T204533Z">
         <seg>Wykryto niedozwolone słowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This includes prohibited words. Please choose a new name.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183910Z" creationid="Syn Spawacza" creationdate="20200605T183910Z">
+        <seg>Wykryto niedozwolone słowa. Proszę wybrać inne imię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21473,6 +21547,16 @@ Auto-zmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204518Z" creationid="Syn Spawacza" creationdate="20200601T204518Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will restore all settings to their default values, except for the language and screen settings. 
+Are you sure?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183901Z" creationid="Syn Spawacza" creationdate="20200605T183901Z">
+        <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu. 
+Jesteś pewien?</seg>
       </tuv>
     </tu>
     <tu>
