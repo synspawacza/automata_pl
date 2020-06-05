@@ -5102,6 +5102,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bulletin Record</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174506Z" creationid="Syn Spawacza" creationdate="20200605T174506Z">
+        <seg>Zapisku z biuletynu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bunker</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175855Z" creationid="Syn Spawacza" creationdate="20200601T175855Z">
@@ -7234,6 +7242,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084006Z" creationid="Syn Spawacza" creationdate="20200601T084006Z">
         <seg>Wgniecione gniazdko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Department Store Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174638Z" creationid="Syn Spawacza" creationdate="20200605T174638Z">
+        <seg>Ulotka z domu towarowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -15180,6 +15196,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Paper Attached to Vehicle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174516Z" creationid="Syn Spawacza" creationdate="20200605T174516Z">
+        <seg>Kartka przyczepiona do pojazdu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paradise</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214312Z" creationid="Syn Spawacza" creationdate="20200601T214312Z">
@@ -16301,6 +16325,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ragged DVD</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174550Z" creationid="Syn Spawacza" creationdate="20200605T174550Z">
+        <seg>Obdrapane DVD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged Attack</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140945Z" creationid="Syn Spawacza" creationdate="20200530T140945Z">
@@ -17296,8 +17328,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Rotten Info Sheet</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174136Z" creationid="Syn Spawacza" creationdate="20200605T174136Z">
-        <seg>Zgniły biuletyn</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174436Z" creationid="Syn Spawacza" creationdate="20200605T174136Z">
+        <seg>Zgniła broszura</seg>
       </tuv>
     </tu>
     <tu>
