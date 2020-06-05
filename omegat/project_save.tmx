@@ -410,6 +410,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>21O</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145403Z" creationid="Syn Spawacza" creationdate="20200605T145403Z">
+        <seg>21O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>22B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203749Z" creationid="Syn Spawacza" creationdate="20200601T203749Z">
@@ -422,6 +430,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203712Z" creationid="Syn Spawacza" creationdate="20200601T203712Z">
         <seg>2B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B Copy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145407Z" creationid="Syn Spawacza" creationdate="20200605T145407Z">
+        <seg>Kopia 2B</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,6 +3380,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amusement Park Goliath Tank</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145310Z" creationid="Syn Spawacza" creationdate="20200605T145310Z">
+        <seg>Czołg Goliat z parku rozrywki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amusement Park Photo</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
@@ -3955,6 +3979,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133856Z" creationid="Syn Spawacza" creationdate="20200530T133856Z">
         <seg>Wyjście dźwięku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auguste</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145347Z" creationid="Syn Spawacza" creationdate="20200605T145347Z">
+        <seg>Auguste</seg>
       </tuv>
     </tu>
     <tu>
@@ -4858,6 +4890,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144049Z" creationid="Syn Spawacza" creationdate="20200605T144049Z">
         <seg>Raport ciała</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Boku-Shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145344Z" creationid="Syn Spawacza" creationdate="20200605T145344Z">
+        <seg>Boku-Shi</seg>
       </tuv>
     </tu>
     <tu>
@@ -7930,6 +7970,14 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Emil Clones</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145414Z" creationid="Syn Spawacza" creationdate="20200605T145414Z">
+        <seg>Klony Emila</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emil Heads</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140529Z" creationid="Syn Spawacza" creationdate="20200601T140529Z">
@@ -9123,6 +9171,14 @@ Moc kastetów zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Friedrich</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145348Z" creationid="Syn Spawacza" creationdate="20200605T145348Z">
+        <seg>Friedrich</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Friend Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201330Z" creationid="Syn Spawacza" creationdate="20200601T201330Z">
@@ -9407,10 +9463,26 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goliath Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145321Z" creationid="Syn Spawacza" creationdate="20200605T145321Z">
+        <seg>Latający Goliat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goliath Take Down</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155859Z" creationid="Syn Spawacza" creationdate="20200530T155859Z">
         <seg>Likwidacja Goliata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goliath Tank</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145314Z" creationid="Syn Spawacza" creationdate="20200605T145314Z">
+        <seg>Czołg Goliat</seg>
       </tuv>
     </tu>
     <tu>
@@ -9461,6 +9533,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201542Z" creationid="Syn Spawacza" creationdate="20200601T201504Z">
         <seg>Maszyna strażnik grobu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grün</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145351Z" creationid="Syn Spawacza" creationdate="20200605T145351Z">
+        <seg>Grün</seg>
       </tuv>
     </tu>
     <tu>
@@ -10165,6 +10245,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135630Z" creationid="Syn Spawacza" creationdate="20200530T135630Z">
         <seg>Atak ciężki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hegel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145347Z" creationid="Syn Spawacza" creationdate="20200605T145347Z">
+        <seg>Hegel</seg>
       </tuv>
     </tu>
     <tu>
@@ -11756,6 +11844,22 @@ zatytułowana „Pensées”.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ko-Shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145345Z" creationid="Syn Spawacza" creationdate="20200605T145345Z">
+        <seg>Ko-Shi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ko-shi &amp; Ro-shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145328Z" creationid="Syn Spawacza" creationdate="20200605T145328Z">
+        <seg>Ko-shi i Ro-shi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Koi Carp</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192618Z" creationid="Syn Spawacza" creationdate="20200601T191527Z">
@@ -12912,6 +13016,14 @@ wydaje się nie mieć sensu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184450Z" creationid="Syn Spawacza" creationdate="20200530T184450Z">
         <seg>Oznaczam słaby punkt....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Marx</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145350Z" creationid="Syn Spawacza" creationdate="20200605T145350Z">
+        <seg>Marx</seg>
       </tuv>
     </tu>
     <tu>
@@ -16143,6 +16255,14 @@ za silniejsze od miecza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Red Girl</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145357Z" creationid="Syn Spawacza" creationdate="20200605T145357Z">
+        <seg>Czerwona dziewczyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red Girl A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194550Z" creationid="Syn Spawacza" creationdate="20200601T194550Z">
@@ -16794,6 +16914,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093009Z" creationid="Syn Spawacza" creationdate="20200601T093009Z">
         <seg>Sztywna kora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ro-Shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145345Z" creationid="Syn Spawacza" creationdate="20200605T145345Z">
+        <seg>Ro-Shi</seg>
       </tuv>
     </tu>
     <tu>
@@ -18068,6 +18196,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180219Z" creationid="Syn Spawacza" creationdate="20200530T180202Z">
         <seg>To je otwórz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So-Shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145343Z" creationid="Syn Spawacza" creationdate="20200605T145343Z">
+        <seg>So-Shi</seg>
       </tuv>
     </tu>
     <tu>
