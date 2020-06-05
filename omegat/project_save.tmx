@@ -1836,10 +1836,9 @@ Sprawia że zwierzęta przed tobą nie uciekają.</seg>
         <seg>A prince's body double used this spear to slay his
 liege, and met his own fate on the same edge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153444Z" creationid="Syn Spawacza" creationdate="20200601T153444Z">
-        <seg>Sobowtór księcia zabił swojego pana za pomocą
-tej włóczni, po czym spotkał go taki sam los od
-tej samej broni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182106Z" creationid="Syn Spawacza" creationdate="20200601T153444Z">
+        <seg>Sobowtór księcia zabił swojego pana za pomocą tej
+włóczni, po czym spotkał go taki sam los.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2022,9 +2021,9 @@ zabił swojego pana.</seg>
         <seg>A spear used by machine lifeforms, specially
 formed from scrap metal to destroy androids.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154229Z" creationid="Syn Spawacza" creationdate="20200601T154229Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182306Z" creationid="Syn Spawacza" creationdate="20200601T154229Z">
         <seg>Włócznia używana przez mechaniczne formy życia,
-stworzona z złomu do niszczenia androidów.</seg>
+stworzona z złomu by niszczyć androidów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3775,9 +3774,9 @@ YoRHa.</seg>
         <seg>An advanced blade, issued to elite YoRHa on the
 front lines. Its power increases with its charge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181609Z" creationid="Syn Spawacza" creationdate="20200605T181609Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182205Z" creationid="Syn Spawacza" creationdate="20200605T181609Z">
         <seg>Nowoczesna broń, przydzielana elitarnym jednostkom
-YoRHa. Moc miecza zwiększa się po naładowaniu.</seg>
+YoRHa. Jego moc zwiększa się po naładowaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3849,6 +3848,16 @@ weaponry.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153732Z" creationid="Syn Spawacza" creationdate="20200601T153641Z">
         <seg>Stara lanca YoRHa, imitująca starożytną ludzką broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An old YoRHa spear, built to imitate ancient human
+weaponry. Old-fashioned, but reliable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182227Z" creationid="Syn Spawacza" creationdate="20200605T182227Z">
+        <seg>Stara włócznia YoRHa, imitująca starożytną ludzką
+broń. Staromodna, ale niezawodna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9445,9 +9454,9 @@ jego stronę, pozwalając na atak wręcz.</seg>
         <seg>First introduced in A.D. 11940, these YoRHa knuckle
 weapons become powerful with more energy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154701Z" creationid="Syn Spawacza" creationdate="20200601T154642Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182331Z" creationid="Syn Spawacza" creationdate="20200601T154642Z">
         <seg>Kastety wprowadzone do służby w YoRHa w roku 11940.
-Moc kastetów zwiększa się po naładowaniu.</seg>
+Ich moc zwiększa się po naładowaniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23561,6 +23570,16 @@ singular element.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153654Z" creationid="Syn Spawacza" creationdate="20200601T153606Z">
         <seg>Nowoczesna lanca używana przez ochronę
 dowódców YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa commanders' guards wield this advanced spear.
+Its power increases as it charges with energy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182156Z" creationid="Syn Spawacza" creationdate="20200605T182114Z">
+        <seg>Nowoczesna włócznia używana przez ochronę dowódców
+YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
     </tu>
     <tu>
