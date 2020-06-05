@@ -17294,8 +17294,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>Select a difficulty level. This can be changed in-game.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072126Z" creationid="Syn Spawacza" creationdate="20200601T072126Z">
-        <seg>Wybierz poziom trudności (może zostać zmieniony w trakcie gry).</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141526Z" creationid="Syn Spawacza" creationdate="20200601T072126Z">
+        <seg>Wybierz poziom trudności. Może to zostać zmienione w trakcie gry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20503,8 +20503,8 @@ w Leśnym Królestwie.</seg>
       <tuv lang="en-US">
         <seg>Use the debug menu to freely place enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130950Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
-        <seg>Użyj menu debugowego by swobodnie rozmieszczać przeciwników.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141542Z" creationid="Syn Spawacza" creationdate="20200530T130950Z">
+        <seg>Użyj menu debugowego by swobodnie umieszczać przeciwników.</seg>
       </tuv>
     </tu>
     <tu>
