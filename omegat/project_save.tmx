@@ -4854,6 +4854,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bodies corrupted</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161228Z" creationid="Syn Spawacza" creationdate="20200605T161209Z">
+        <seg>Ciał zepsutych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bodies infected</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080049Z" creationid="Syn Spawacza" creationdate="20200601T080049Z">
@@ -7032,6 +7040,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185617Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
         <seg>Okrzyk śmierci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deaths by corrupted bodies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161241Z" creationid="Syn Spawacza" creationdate="20200605T161241Z">
+        <seg>Śmierci od zepsutych ciał</seg>
       </tuv>
     </tu>
     <tu>
@@ -13800,6 +13816,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multi-tier Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161109Z" creationid="Syn Spawacza" creationdate="20200605T161109Z">
+        <seg>Wielopoziomowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multiple surrounding enemy air units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174022Z" creationid="Syn Spawacza" creationdate="20200530T174022Z">
@@ -18462,6 +18486,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075840Z" creationid="Syn Spawacza" creationdate="20200601T075840Z">
         <seg>Kula (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spherical Link</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161154Z" creationid="Syn Spawacza" creationdate="20200605T161154Z">
+        <seg>Łańcuch kul</seg>
       </tuv>
     </tu>
     <tu>
