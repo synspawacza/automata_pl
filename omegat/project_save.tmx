@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184920Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
+        <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>#</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204305Z" creationid="Syn Spawacza" creationdate="20200601T204305Z">
@@ -964,10 +972,26 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184923Z" creationid="Syn Spawacza" creationdate="20200605T184923Z">
+        <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;Selection&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202421Z" creationid="Syn Spawacza" creationdate="20200601T202421Z">
         <seg>&lt;Wybór&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;WEAPON_NAME&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184954Z" creationid="Syn Spawacza" creationdate="20200605T184954Z">
+        <seg>&lt;WEAPON_NAME&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17542,6 +17566,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Random</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184933Z" creationid="Syn Spawacza" creationdate="20200605T184933Z">
+        <seg>Losowo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ranged Attack</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140945Z" creationid="Syn Spawacza" creationdate="20200530T140945Z">
@@ -18491,6 +18523,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141730Z" creationid="Syn Spawacza" creationdate="20200530T141730Z">
         <seg>Powrót do ekranu tytułowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return to the title screen without saving?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184943Z" creationid="Syn Spawacza" creationdate="20200605T184943Z">
+        <seg>Powrócić do ekranu tytułowego bez zapisywania?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21599,6 +21639,16 @@ wszystkim jednostkom YoRHa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165410Z" creationid="Syn Spawacza" creationdate="20200530T165410Z">
         <seg>Gra używa funkcji sieciowych do dzielenia się wiadomościami .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This game uses online functionality for its message-sharing features. 
+Connect to the network? (This can be changed from the System Menu at any time.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184918Z" creationid="Syn Spawacza" creationdate="20200605T184918Z">
+        <seg>Gra używa funkcji sieciowych do dzielenia się wiadomościami . 
+Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu systemowym).</seg>
       </tuv>
     </tu>
     <tu>
