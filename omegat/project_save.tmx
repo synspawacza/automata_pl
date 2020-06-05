@@ -1493,6 +1493,14 @@ w rodzinie królewskiej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A network error has occurred. The network function has been turned off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144358Z" creationid="Syn Spawacza" creationdate="20200605T144358Z">
+        <seg>Błąd połączenia z siecią. Funkcje sieciowe są wyłączone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A newly made bolt.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103639Z" creationid="Syn Spawacza" creationdate="20200601T103639Z">
@@ -11455,8 +11463,8 @@ poniewiera się na powierzchni.</seg>
       <tuv lang="en-US">
         <seg>Items Obtained</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073254Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
-        <seg>Przedmiotów zdobytych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144323Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
+        <seg>Zdobyte przedmioty</seg>
       </tuv>
     </tu>
     <tu>
@@ -12187,6 +12195,14 @@ ostrze jest nieskrzywione.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123856Z" creationid="Syn Spawacza" creationdate="20200530T123856Z">
         <seg>Ładowanie danych geograficznych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading System Screen</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144337Z" creationid="Syn Spawacza" creationdate="20200605T144337Z">
+        <seg>Ładowanie ekranu systemowego</seg>
       </tuv>
     </tu>
     <tu>
@@ -13472,6 +13488,14 @@ włócznię na pielgrzymki.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195547Z" creationid="Syn Spawacza" creationdate="20200601T195547Z">
         <seg>Maszyna matka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Motion Number</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144254Z" creationid="Syn Spawacza" creationdate="20200605T144254Z">
+        <seg>Numer ruchu</seg>
       </tuv>
     </tu>
     <tu>
@@ -19412,6 +19436,14 @@ soundtrack series ever.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The standard, most enjoyable difficulty. Probably.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144437Z" creationid="Syn Spawacza" creationdate="20200605T144437Z">
+        <seg>Standardowy, najprzyjemniejszy poziom trudności. Chyba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The subject's vital signs are too poor to attempt field repair in the current—</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211310Z" creationid="Syn Spawacza" creationdate="20200530T183634Z">
@@ -19967,16 +19999,16 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Total Quests Cleared</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T143920Z" creationid="Syn Spawacza" creationdate="20200605T143920Z">
-        <seg>Ilość ukończonych zadań</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144221Z" creationid="Syn Spawacza" creationdate="20200605T143920Z">
+        <seg>Razem ukończonych zadań</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Total Stages Cleared</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144208Z" creationid="Syn Spawacza" creationdate="20200605T144208Z">
-        <seg>Ukończonych poziomów razem</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144231Z" creationid="Syn Spawacza" creationdate="20200605T144208Z">
+        <seg>Razem ukończonych poziomów</seg>
       </tuv>
     </tu>
     <tu>
