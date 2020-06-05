@@ -3610,6 +3610,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All auto-control chips have been removed.
+You can now use &lt;KC_LOCKON_2&gt; to lock on, and &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; to switch targets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184743Z" creationid="Syn Spawacza" creationdate="20200605T184743Z">
+        <seg>Wszystkie czipy autosterowania zostały usunięte.
+Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; do zmiany celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All right, then.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180826Z" creationid="Syn Spawacza" creationdate="20200530T180826Z">
@@ -8208,6 +8218,26 @@ inne losowe efekty.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Do you want to use auto-control chips?
+* All of your chip set types will be changed to "Balance Focus."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184808Z" creationid="Syn Spawacza" creationdate="20200605T184808Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+* Wszystkie twoje zestawy czipów zostaną zmienione na „Zbalansowane”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
+* Your current chip set type will be changed to "Balance Focus."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184747Z" creationid="Syn Spawacza" creationdate="20200605T184747Z">
+        <seg>Czy chcesz używać czipów autosterowania?
+* Twój zestaw czipów zostanie zmieniony na „Zbalansowany”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to use auto-control chips?
 This will equip Auto-Attack, Auto-Fire,
 Auto-Evade, Auto-Program, and 
 Auto-Weapon Switch.</seg>
@@ -9018,6 +9048,26 @@ poczuć się mądrym.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211005Z" creationid="Syn Spawacza" creationdate="20200601T211005Z">
         <seg>Używane czipy autosterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped auto-control chips.
+&lt;KC_LOCKON_2&gt; has now changed from "lock on" to "toggle auto-play."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184750Z" creationid="Syn Spawacza" creationdate="20200605T184750Z">
+        <seg>Używane czipy autosterowania.
+&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped auto-control chips.
+&lt;KC_LOCKON_2&gt; has now changed from "lock-on" to "toggle auto-control."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184739Z" creationid="Syn Spawacza" creationdate="20200605T184739Z">
+        <seg>Używane czipy autosterowania.
+&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
       </tuv>
     </tu>
     <tu>
@@ -14649,6 +14699,14 @@ włócznię na pielgrzymki.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move to &lt;AREA_NAME&gt;?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184857Z" creationid="Syn Spawacza" creationdate="20200605T184857Z">
+        <seg>Przenieść do &lt;AREA_NAME&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moved it somewhere?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181638Z" creationid="Syn Spawacza" creationdate="20200530T181638Z">
@@ -15923,6 +15981,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165025Z" creationid="Syn Spawacza" creationdate="20200530T165025Z">
         <seg>Nadpisać ten zapis?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overwrite this save? (The game will resume from the nearest access point.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184825Z" creationid="Syn Spawacza" creationdate="20200605T184825Z">
+        <seg>Nadpisać ten zapis? (Gra ponownie rozpocznie się od najbliższego punktu dostępu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -18812,6 +18878,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Save to this slot? (The game will resume from the nearest access point.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184822Z" creationid="Syn Spawacza" creationdate="20200605T184822Z">
+        <seg>Zapisać w tym slocie? (Gra ponownie rozpocznie się od najbliższego punktu dostępu).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save your current progress.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142728Z" creationid="Syn Spawacza" creationdate="20200530T142728Z">
@@ -21320,6 +21394,16 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The screen settings have been changed.
+Are these settings okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184755Z" creationid="Syn Spawacza" creationdate="20200605T184755Z">
+        <seg>Zmieniono ustawienia obrazu.
+Pozostawić ustawienia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The standard, most enjoyable difficulty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073522Z" creationid="Syn Spawacza" creationdate="20200601T073522Z">
@@ -21499,6 +21583,14 @@ wszystkim jednostkom YoRHa.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143459Z" creationid="Syn Spawacza" creationdate="20200530T143459Z">
         <seg>Ta funkcja nie może być teraz użyta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This function cannot be used.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184834Z" creationid="Syn Spawacza" creationdate="20200605T184834Z">
+        <seg>Ta funkcja nie może być użyta.</seg>
       </tuv>
     </tu>
     <tu>
