@@ -20704,11 +20704,37 @@ mnóstwo danych.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The core of a machine lifeform
+containing a copious amount of data. 
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181224Z" creationid="Syn Spawacza" creationdate="20200605T181224Z">
+        <seg>Rdzeń mechanicznej formy życia
+zawierający mnóstwo danych. 
+Może zostać sprzedany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The cores of children from Pascal's
 village.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134245Z" creationid="Syn Spawacza" creationdate="20200601T134245Z">
         <seg>Rdzenie dzieci z wioski Pascala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The cores of children from Pascal's
+village. It is clear they were cherished 
+by the villagers.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181243Z" creationid="Syn Spawacza" creationdate="20200605T181243Z">
+        <seg>Rdzenie dzieci z wioski Pascala.
+Bez wątpienia były otoczone
+troskliwą opieką.
+Mogą zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21645,8 +21671,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Type-3 Blade</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135341Z" creationid="Syn Spawacza" creationdate="20200601T135330Z">
-        <seg>Ostrze typ 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181331Z" creationid="Syn Spawacza" creationdate="20200601T135330Z">
+        <seg>Ostrze typu 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -21661,48 +21687,48 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Type-3 Lance</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145631Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
-        <seg>Lanca typ 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181400Z" creationid="Syn Spawacza" creationdate="20200601T135820Z">
+        <seg>Włócznia typu 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-3 Sword</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135333Z" creationid="Syn Spawacza" creationdate="20200601T134910Z">
-        <seg>Miecz typ 3</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181310Z" creationid="Syn Spawacza" creationdate="20200601T134910Z">
+        <seg>Miecz typu 3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-4O Blade</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135339Z" creationid="Syn Spawacza" creationdate="20200601T135313Z">
-        <seg>Ostrze typ 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181329Z" creationid="Syn Spawacza" creationdate="20200601T135313Z">
+        <seg>Ostrze typu 4O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-4O Fists</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140422Z" creationid="Syn Spawacza" creationdate="20200601T140422Z">
-        <seg>Kastety typ 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181410Z" creationid="Syn Spawacza" creationdate="20200601T140422Z">
+        <seg>Kastety typu 4O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-4O Lance</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145626Z" creationid="Syn Spawacza" creationdate="20200601T135816Z">
-        <seg>Lanca typ 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181349Z" creationid="Syn Spawacza" creationdate="20200601T135816Z">
+        <seg>Włócznia typu 4O</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Type-4O Sword</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135332Z" creationid="Syn Spawacza" creationdate="20200601T134859Z">
-        <seg>Miecz typ 4O</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181308Z" creationid="Syn Spawacza" creationdate="20200601T134859Z">
+        <seg>Miecz typu 4O</seg>
       </tuv>
     </tu>
     <tu>
@@ -23764,6 +23790,19 @@ stylu.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[Accessory]
+A cool blue ribbon with an elegant
+design. Goes well with rough jackets.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181210Z" creationid="Syn Spawacza" creationdate="20200605T181210Z">
+        <seg>[Dodatek]
+Szałowa niebieska kokarda w
+eleganckim stylu. Świetnie pasuje
+do staromodnej kurtki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
 A head covering worn by machine
 lifeforms.</seg>
       </tuv>
@@ -23817,11 +23856,73 @@ Modna różowa kokarda w prostym stylu.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[Accessory]
+A trendy pink ribbon with a simple
+design. Popular among androids of
+all ages.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181158Z" creationid="Syn Spawacza" creationdate="20200605T181158Z">
+        <seg>[Dodatek]
+Modna różowa kokarda w prostym
+stylu. Popularna wśród androidów
+w każdym wieku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
 A valve-shaped accessory.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130718Z" creationid="Syn Spawacza" creationdate="20200601T130718Z">
         <seg>[Dodatek]
 Dodatek w kształcie zaworu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+A valve-shaped accessory.
+Can be equipped in both eyes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181146Z" creationid="Syn Spawacza" creationdate="20200605T181146Z">
+        <seg>[Dodatek]
+Dodatek w kształcie zaworu.
+Do użytku w obojgu oczu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+A valve-shaped accessory.
+Can be equipped on your head.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181147Z" creationid="Syn Spawacza" creationdate="20200605T181147Z">
+        <seg>[Dodatek]
+Dodatek w kształcie zaworu.
+Do użytku na głowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+A valve-shaped accessory.
+Use in left eye only.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181144Z" creationid="Syn Spawacza" creationdate="20200605T181144Z">
+        <seg>[Dodatek]
+Dodatek w kształcie zaworu.
+Do użytku w lewym oku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
+A valve-shaped accessory.
+Use in right eye only.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181145Z" creationid="Syn Spawacza" creationdate="20200605T181145Z">
+        <seg>[Dodatek]
+Dodatek w kształcie zaworu.
+Do użytku w prawym oku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24022,10 +24123,11 @@ sprzęcie codziennego użytku.</seg>
 Shaped after a very sturdy box used
 for transporting goods in the jungle.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132315Z" creationid="Syn Spawacza" creationdate="20200601T132007Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181134Z" creationid="Syn Spawacza" creationdate="20200601T132007Z">
         <seg>[Wygląd poda]
 Wzorowany na wytrzymałym pudle
-używanym do transportu towarów w dżungli.</seg>
+używanym do transportu towarów
+w dżungli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24037,6 +24139,18 @@ of pink.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T132623Z" creationid="Syn Spawacza" creationdate="20200601T132354Z">
         <seg>[Wygląd poda]
 Biało-niebieskie paski z nutą różowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Pod Skin]
+White and blue stripes with a dash
+of pink. Common in the Far East.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181127Z" creationid="Syn Spawacza" creationdate="20200605T181127Z">
+        <seg>[Wygląd poda]
+Biało-niebieskie paski z nutą różowego.
+Popularne na Dalekim Wschodzie.</seg>
       </tuv>
     </tu>
     <tu>
