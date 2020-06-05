@@ -2077,6 +2077,16 @@ as its motif.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A stick made of cypress wood. Can hardly be called 
+a weapon, but somehow grants courage to its user.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182400Z" creationid="Syn Spawacza" creationdate="20200605T182400Z">
+        <seg>Kij zrobiony z drewna cyprysowego. Trudno nazwać go bronią,
+ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A stick of unknown purpose.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122351Z" creationid="Syn Spawacza" creationdate="20200601T122351Z">
@@ -6106,6 +6116,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Charges on standby. Increases Attack for a time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182529Z" creationid="Syn Spawacza" creationdate="20200605T182529Z">
+        <seg>Ładuje się przy spoczynku. Chwilowo zwiększa atak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Charging:</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212734Z" creationid="Syn Spawacza" creationdate="20200601T212734Z">
@@ -9481,6 +9499,16 @@ Ich moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160130Z" creationid="Syn Spawacza" creationdate="20200601T160130Z">
         <seg>Szpadryny zrobione z głów maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fist weapons made from the heads of machines.
+Though simple, they have notable power due to their mass.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182354Z" creationid="Syn Spawacza" creationdate="20200605T182354Z">
+        <seg>Szpadryny zrobione z głów maszyn. Mimo prostoty, dysponują
+wielką siłą z względu na swoją masę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17149,6 +17177,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>R010: Laser</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182539Z" creationid="Syn Spawacza" creationdate="20200605T182539Z">
+        <seg>R010: Laser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>R020: Mirage</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T165434Z" creationid="Syn Spawacza" creationdate="20200601T165434Z">
@@ -19835,6 +19871,16 @@ wśród wrogów których dotknie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stark white samurai gauntlets, kept pristine.
+Their master never saw a moment of conflict.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182343Z" creationid="Syn Spawacza" creationdate="20200605T182343Z">
+        <seg>Nieskalanie białe samurajskie rękawice.
+Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Start Fishing</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213206Z" creationid="Syn Spawacza" creationdate="20200601T213206Z">
@@ -21908,8 +21954,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Unarmed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160604Z" creationid="Syn Spawacza" creationdate="20200601T160604Z">
-        <seg>Bez broni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182415Z" creationid="Syn Spawacza" creationdate="20200601T160604Z">
+        <seg>Brak broni.</seg>
       </tuv>
     </tu>
     <tu>
