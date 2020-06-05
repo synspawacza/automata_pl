@@ -14442,6 +14442,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nuclear Arms Manual</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T174949Z" creationid="Syn Spawacza" creationdate="20200605T174949Z">
+        <seg>Instrukcja wytwarzania broni jądrowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nullifies electrical attacks for
 30 seconds.</seg>
       </tuv>
