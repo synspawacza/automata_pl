@@ -1119,6 +1119,17 @@ gave you.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A book of philosophy that Anemone
+gave you. Its title means "thoughts"
+in an ancient language.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180836Z" creationid="Syn Spawacza" creationdate="20200605T180836Z">
+        <seg>Książka o filozofii od Anemone.
+Oryginalnie zatytułowana „Pensées”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A book on life and death. It was
 lying outside of Pascal's house,
 in a thoroughly used state.
@@ -1758,6 +1769,41 @@ love.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Causes them to approach and
+wait for you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180932Z" creationid="Syn Spawacza" creationdate="20200605T180932Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta podchodzą
+i czekają na ciebie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Lets you ride them anytime
+you want.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180923Z" creationid="Syn Spawacza" creationdate="20200605T180923Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta pozwalają się ujeżdżać
+w każdej  chwili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A pouch that emits a scent animals
+love. Prevents them from running
+when approached.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180915Z" creationid="Syn Spawacza" creationdate="20200605T180915Z">
+        <seg>Woreczek wydzielający przyjemny zapach.
+Sprawia że zwierzęta przed tobą nie uciekają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A prince's body double used this spear to slay his
 liege, and met his own fate on the same edge.</seg>
       </tuv>
@@ -2157,6 +2203,16 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122653Z" creationid="Syn Spawacza" creationdate="20200601T122653Z">
         <seg>Ciężka, kamienna maska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weighty stone mask. It's as dirty as
+it is heavy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180815Z" creationid="Syn Spawacza" creationdate="20200605T180815Z">
+        <seg>Ciężka, kamienna maska.
+Równie brudna, co ciężka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12712,6 +12768,16 @@ ostrze jest nieskrzywione.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listen to nice BGM on the jukebox.
+Part 1 of a set of 5.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180939Z" creationid="Syn Spawacza" creationdate="20200605T180939Z">
+        <seg>Posłuchaj ścieżki dźwiękowej na szafie grającej.
+Część 1 z 5 kolekcji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Little Brother Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195510Z" creationid="Syn Spawacza" creationdate="20200601T195510Z">
@@ -21803,6 +21869,51 @@ any enemies in the vicinity.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 2 of a set of 5 amazing
+soundtracks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180942Z" creationid="Syn Spawacza" creationdate="20200605T180942Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 2 z 5 kolekcji niesamowitej ścieżki dźwiękowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 3 of a set of 5 soundtracks 
+in extremely high demand.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180946Z" creationid="Syn Spawacza" creationdate="20200605T180946Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 3 z 5 niezwykle popularnej kolekcji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+Part 4 of a set of 5 highly anticipated
+soundtracks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180956Z" creationid="Syn Spawacza" creationdate="20200605T180956Z">
+        <seg>Więcej utworów dla szafy grającej.
+Część 4 z 5 gorąco oczekiwanej kolekcji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock more BGM on the jukebox.
+The final part in possibly the best 
+soundtrack series ever.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181021Z" creationid="Syn Spawacza" creationdate="20200605T181021Z">
+        <seg>Więcej utworów dla szafy grającej.
+Ostatnia, piąta część najwspanialszej
+ścieżki dźwiękowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unlocks a Tower sub-unit in the
 Amusement Park.</seg>
       </tuv>
@@ -21933,6 +22044,17 @@ w Leśnym Królestwie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T125445Z" creationid="Syn Spawacza" creationdate="20200601T125445Z">
         <seg>Użyj by zmienić kostium.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this to change your costume.
+Taking damage will not remove your 
+clothes in any way.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181044Z" creationid="Syn Spawacza" creationdate="20200605T181044Z">
+        <seg>Użyj by zmienić kostium. Sprawia, że
+dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23727,6 +23849,18 @@ Okulary Adama.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>[Accessory]
+Glasses worn by Adam. Equip them
+to instantly feel more intelligent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181059Z" creationid="Syn Spawacza" creationdate="20200605T181059Z">
+        <seg>[Dodatek]
+Okulary Adama. Założenie pozwala
+poczuć się mądrym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Accessory]
 Goggles with so much camouflage
 they became entirely invisible.</seg>
       </tuv>
@@ -23768,6 +23902,20 @@ przez żołnierzy YoRHa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Equipment]
+Protective armor formally issued
+to YoRHa troops. 2B can equip this
+costume.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181049Z" creationid="Syn Spawacza" creationdate="20200605T181049Z">
+        <seg>[Wyposażenie]
+Przydziałowa zbroja ochronna używana
+przez żołnierzy YoRHa. Może być używana
+przez 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Pod Model]
 A high-capacity device used in the
 Gestalt Project.</seg>
@@ -23776,6 +23924,20 @@ Gestalt Project.</seg>
         <seg>[Wygląd poda]
 Urządzenie o dużej pojemności
 używane w Projekcie Gestalt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Pod Model]
+A high-capacity device used in the
+Gestalt Project. It exudes a vague 
+aura of pompousness.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181111Z" creationid="Syn Spawacza" creationdate="20200605T181111Z">
+        <seg>[Wygląd poda]
+Urządzenie o dużej pojemności
+używane w Projekcie Gestalt. Wytwarza
+nieuchwytną aurę wyniosłości.</seg>
       </tuv>
     </tu>
     <tu>
