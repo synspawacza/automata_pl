@@ -4152,6 +4152,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Arapaima</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183640Z" creationid="Syn Spawacza" creationdate="20200605T183640Z">
+        <seg>Arapaima</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Arapaima Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T192625Z" creationid="Syn Spawacza" creationdate="20200601T192625Z">
@@ -4458,8 +4466,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Authentication Code: YoRHa Number 9 Type-S</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T124207Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
-        <seg>Kod uwierzytelniania: YoRHa Numer 9 Typ S</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183244Z" creationid="Syn Spawacza" creationdate="20200530T124207Z">
+        <seg>Kod uwierzytelniania: YoRHa Numer 9 typu S</seg>
       </tuv>
     </tu>
     <tu>
@@ -4610,8 +4618,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Auto-Weapon Switch</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190542Z" creationid="Syn Spawacza" creationdate="20200601T190542Z">
-        <seg>Auto zmiana broni</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183513Z" creationid="Syn Spawacza" creationdate="20200601T190542Z">
+        <seg>Autozmiana broni</seg>
       </tuv>
     </tu>
     <tu>
@@ -7655,6 +7663,19 @@ chroniącą przed pociskami.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Description:
+????
+* This description 
+may contain spoilers</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183620Z" creationid="Syn Spawacza" creationdate="20200605T183620Z">
+        <seg>Opis:
+????
+* Ten opis może zawierać spoilery</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
 Resuscitated Body</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190946Z" creationid="Syn Spawacza" creationdate="20200601T190946Z">
@@ -10625,8 +10646,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>HUD: Text Log</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190058Z" creationid="Syn Spawacza" creationdate="20200601T190058Z">
-        <seg>HUD: dziennik tekstowy</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183455Z" creationid="Syn Spawacza" creationdate="20200601T190058Z">
+        <seg>HUD: log tekstowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -17760,6 +17781,78 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162254Z" creationid="Syn Spawacza" creationdate="20200530T162254Z">
         <seg>Uratuj 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183357Z" creationid="Syn Spawacza" creationdate="20200605T183357Z">
+        <seg>Reset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183358Z" creationid="Syn Spawacza" creationdate="20200605T183358Z">
+        <seg>Reset +1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183359Z" creationid="Syn Spawacza" creationdate="20200605T183359Z">
+        <seg>Reset +2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183400Z" creationid="Syn Spawacza" creationdate="20200605T183400Z">
+        <seg>Reset +3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +4</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183401Z" creationid="Syn Spawacza" creationdate="20200605T183401Z">
+        <seg>Reset +4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +5</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183401Z" creationid="Syn Spawacza" creationdate="20200605T183401Z">
+        <seg>Reset +5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +6</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183402Z" creationid="Syn Spawacza" creationdate="20200605T183402Z">
+        <seg>Reset +6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +7</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183403Z" creationid="Syn Spawacza" creationdate="20200605T183403Z">
+        <seg>Reset +7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reset +8</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183404Z" creationid="Syn Spawacza" creationdate="20200605T183404Z">
+        <seg>Reset +8</seg>
       </tuv>
     </tu>
     <tu>
