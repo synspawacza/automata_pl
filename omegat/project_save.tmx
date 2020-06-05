@@ -2881,8 +2881,8 @@ dawnych samurajów.</seg>
       <tuv lang="en-US">
         <seg>Adjust how fast the camera tracks enemies when not locked on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132520Z" creationid="Syn Spawacza" creationdate="20200530T132520Z">
-        <seg>Dostosuj prędkość śledzenia kamery nienamierzonych przeciwników.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142102Z" creationid="Syn Spawacza" creationdate="20200530T132520Z">
+        <seg>Dostosuj prędkość śledzenia nienamierzonych przeciwników przez kamerę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5460,8 +5460,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Change the camera controls.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132324Z" creationid="Syn Spawacza" creationdate="20200530T132324Z">
-        <seg>Zmień sterowanie kamery</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141918Z" creationid="Syn Spawacza" creationdate="20200530T132324Z">
+        <seg>Zmień sterowanie kamery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10380,8 +10380,8 @@ lifeforms.</seg>
       <tuv lang="en-US">
         <seg>Horizontal Map Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072303Z" creationid="Syn Spawacza" creationdate="20200530T132205Z">
-        <seg>Obracanie mapy w osi poziomej</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141901Z" creationid="Syn Spawacza" creationdate="20200530T132205Z">
+        <seg>Obracanie mapy (poziomo)</seg>
       </tuv>
     </tu>
     <tu>
@@ -20731,8 +20731,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Vertical Map Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072310Z" creationid="Syn Spawacza" creationdate="20200530T132208Z">
-        <seg>Obracanie mapy w osi pionowej</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141909Z" creationid="Syn Spawacza" creationdate="20200530T132208Z">
+        <seg>Obracanie mapy (pionowo)</seg>
       </tuv>
     </tu>
     <tu>
