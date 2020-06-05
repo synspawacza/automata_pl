@@ -2873,16 +2873,16 @@ dawnych samurajów.</seg>
       <tuv lang="en-US">
         <seg>Adjust how fast the camera tracks enemies when locked on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132525Z" creationid="Syn Spawacza" creationdate="20200530T132525Z">
-        <seg>Dostosuj prędkość śledzenia kamery namierzonych przeciwników.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142128Z" creationid="Syn Spawacza" creationdate="20200530T132525Z">
+        <seg>Prędkość śledzenia nienamierzonych przeciwników przez kamerę.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Adjust how fast the camera tracks enemies when not locked on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142102Z" creationid="Syn Spawacza" creationdate="20200530T132520Z">
-        <seg>Dostosuj prędkość śledzenia nienamierzonych przeciwników przez kamerę.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142125Z" creationid="Syn Spawacza" creationdate="20200530T132520Z">
+        <seg>Prędkość śledzenia nienamierzonych przeciwników przez kamerę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4784,8 +4784,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Blur</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133042Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
-        <seg>Rozmycia</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142252Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
+        <seg>Rozmycie</seg>
       </tuv>
     </tu>
     <tu>
@@ -19863,24 +19863,24 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Toggle left stick controls when viewing the map.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132918Z" creationid="Syn Spawacza" creationdate="20200530T132918Z">
-        <seg>Włącz/wyłącz sterowanie lewego analoga przy oglądaniu mapy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142234Z" creationid="Syn Spawacza" creationdate="20200530T132918Z">
+        <seg>Zmień sterowanie lewego analoga przy oglądaniu mapy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toggle right stick horizontal (left/right) controls when viewing the map.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132855Z" creationid="Syn Spawacza" creationdate="20200530T132855Z">
-        <seg>Włącz/wyłącz sterowanie prawego analoga w poziomie przy oglądaniu mapy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142219Z" creationid="Syn Spawacza" creationdate="20200530T132855Z">
+        <seg>Zmień sterowanie prawego analoga w poziomie przy oglądaniu mapy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Toggle right stick vertical (up/down) controls when viewing the map.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132904Z" creationid="Syn Spawacza" creationdate="20200530T132904Z">
-        <seg>Włącz/wyłącz sterowanie prawego analoga w pionie przy oglądaniu mapy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142230Z" creationid="Syn Spawacza" creationdate="20200530T132904Z">
+        <seg>Zmień sterowanie prawego analoga w pionie przy oglądaniu mapy.</seg>
       </tuv>
     </tu>
     <tu>
