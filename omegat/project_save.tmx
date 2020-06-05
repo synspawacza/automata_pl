@@ -7004,6 +7004,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Saved on Server</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173414Z" creationid="Syn Spawacza" creationdate="20200605T173414Z">
+        <seg>Dane z serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dati geografici: caricamento avviato</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203921Z" creationid="Syn Spawacza" creationdate="20200601T203921Z">
@@ -8263,10 +8271,42 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Engel's Memories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173222Z" creationid="Syn Spawacza" creationdate="20200605T173222Z">
+        <seg>Wspomnienia Engelsa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Engels</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203816Z" creationid="Syn Spawacza" creationdate="20200601T203816Z">
         <seg>Engels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Engels 110-B Record 0005</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173231Z" creationid="Syn Spawacza" creationdate="20200605T173231Z">
+        <seg>Engels 110-B rekord 0005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Engels 110-B Record 0010</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173237Z" creationid="Syn Spawacza" creationdate="20200605T173237Z">
+        <seg>Engels 110-B rekord 0010</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Engels 110-B Record 0020</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173243Z" creationid="Syn Spawacza" creationdate="20200605T173243Z">
+        <seg>Engels 110-B rekord 0020</seg>
       </tuv>
     </tu>
     <tu>
@@ -11235,6 +11275,14 @@ o 50% przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200316Z" creationid="Syn Spawacza" creationdate="20200601T200316Z">
         <seg>Maszyna w środku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Infant Machine's Memories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173336Z" creationid="Syn Spawacza" creationdate="20200605T173336Z">
+        <seg>Wspomnienia narodzonej maszyny</seg>
       </tuv>
     </tu>
     <tu>
@@ -18092,6 +18140,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shipping Records</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173631Z" creationid="Syn Spawacza" creationdate="20200605T173631Z">
+        <seg>Rekordy dostaw</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shock Wave</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183713Z" creationid="Syn Spawacza" creationdate="20200601T183713Z">
@@ -21969,6 +22025,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Weapon Shop Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173210Z" creationid="Syn Spawacza" creationdate="20200605T173210Z">
+        <seg>Ulotka sklepu z bronią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weapon Shops</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180605Z" creationid="Syn Spawacza" creationdate="20200601T180605Z">
@@ -22943,6 +23007,14 @@ Biało-niebieskie paski z nutą różowego.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173108Z" creationid="Syn Spawacza" creationdate="20200605T173108Z">
         <seg>[Ściśle tajne] Projekt YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Top Secret] YoRHa Disposal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T173158Z" creationid="Syn Spawacza" creationdate="20200605T173158Z">
+        <seg>[Ściśle tajne] Utylizacja YoRHa</seg>
       </tuv>
     </tu>
     <tu>
