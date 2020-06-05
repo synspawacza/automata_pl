@@ -3799,6 +3799,16 @@ YoRHa. Jego moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An aquatic machine.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183742Z" creationid="Syn Spawacza" creationdate="20200605T183742Z">
+        <seg>Maszyna wodna.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An axe used by machine lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161412Z" creationid="Syn Spawacza" creationdate="20200601T161412Z">
@@ -5826,10 +5836,30 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Caught in a river.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183720Z" creationid="Syn Spawacza" creationdate="20200605T183720Z">
+        <seg>Złapana w rzece.
+Może zostać sprzedana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Caught in the sea.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194140Z" creationid="Syn Spawacza" creationdate="20200601T194140Z">
         <seg>Złapana w morzu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caught in the sea.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183731Z" creationid="Syn Spawacza" creationdate="20200605T183731Z">
+        <seg>Złapana w morzu.
+Może zostać sprzedana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12413,6 +12443,16 @@ Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194236Z" creationid="Syn Spawacza" creationdate="20200601T194236Z">
         <seg>Jakiś złom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just some old junk.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183754Z" creationid="Syn Spawacza" creationdate="20200605T183754Z">
+        <seg>Jakiś złom.
+Może zostać sprzedany.</seg>
       </tuv>
     </tu>
     <tu>
