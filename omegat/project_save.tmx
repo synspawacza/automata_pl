@@ -5492,8 +5492,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Change equipped weapons.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142407Z" creationid="Syn Spawacza" creationdate="20200530T142407Z">
-        <seg>Zmień używaną broń.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150226Z" creationid="Syn Spawacza" creationdate="20200530T142407Z">
+        <seg>Zmień wyekwipowaną broń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10960,8 +10960,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>ITEMS</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073716Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
-        <seg>EKWIPUN.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150106Z" creationid="Syn Spawacza" creationdate="20200530T142118Z">
+        <seg>PRZEDM.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17080,8 +17080,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>SKILLS</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110703Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
-        <seg>FUNKCJE</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150119Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
+        <seg>UMIEJĘT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17106,6 +17106,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131007Z" creationid="Syn Spawacza" creationdate="20200530T131007Z">
         <seg>MENU START</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>SYSTEM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150134Z" creationid="Syn Spawacza" creationdate="20200605T150134Z">
+        <seg>SYSTEM</seg>
       </tuv>
     </tu>
     <tu>
