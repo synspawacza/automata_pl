@@ -5490,8 +5490,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Bunker Maintenance Shop</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175844Z" creationid="Syn Spawacza" creationdate="20200601T175844Z">
-        <seg>Warsztat — bunkier</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183002Z" creationid="Syn Spawacza" creationdate="20200601T175844Z">
+        <seg>Warsztat: bunkier</seg>
       </tuv>
     </tu>
     <tu>
@@ -5634,8 +5634,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Camp Maintenance Shop</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175838Z" creationid="Syn Spawacza" creationdate="20200601T175838Z">
-        <seg>Warsztat — obóz</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182955Z" creationid="Syn Spawacza" creationdate="20200601T175838Z">
+        <seg>Warsztat: obóz</seg>
       </tuv>
     </tu>
     <tu>
@@ -5650,8 +5650,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Camp Weapons Trader</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175806Z" creationid="Syn Spawacza" creationdate="20200601T175806Z">
-        <seg>Handlarz bronią — obóz</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182938Z" creationid="Syn Spawacza" creationdate="20200601T175806Z">
+        <seg>Handlarz broni: obóz</seg>
       </tuv>
     </tu>
     <tu>
@@ -5788,8 +5788,8 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       <tuv lang="en-US">
         <seg>Castle Blacksmith</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175824Z" creationid="Syn Spawacza" creationdate="20200601T175824Z">
-        <seg>Kowal zamkowy</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182951Z" creationid="Syn Spawacza" creationdate="20200601T175824Z">
+        <seg>Zamkowy kowal</seg>
       </tuv>
     </tu>
     <tu>
@@ -6246,8 +6246,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>City Ruins: Near the Tower</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175924Z" creationid="Syn Spawacza" creationdate="20200601T175924Z">
-        <seg>Ruiny miasta: przy Wieży</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183010Z" creationid="Syn Spawacza" creationdate="20200601T175924Z">
+        <seg>Ruiny miasta: przy wieży</seg>
       </tuv>
     </tu>
     <tu>
@@ -16058,32 +16058,32 @@ Dział Technologii YoRHa</seg>
       <tuv lang="en-US">
         <seg>Park Ruins: Above Theater</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180049Z" creationid="Syn Spawacza" creationdate="20200601T180049Z">
-        <seg>W. miasteczko: Nad teatrem</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183044Z" creationid="Syn Spawacza" creationdate="20200601T180049Z">
+        <seg>Park rozrywki: Nad teatrem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Attraction Sq.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180038Z" creationid="Syn Spawacza" creationdate="20200601T180038Z">
-        <seg>W. miasteczko: Plac atrakcji</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183040Z" creationid="Syn Spawacza" creationdate="20200601T180038Z">
+        <seg>Park rozrywki: Plac atrakcji</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Coaster</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180043Z" creationid="Syn Spawacza" creationdate="20200601T180043Z">
-        <seg>W. miasteczko: Kolejka</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183042Z" creationid="Syn Spawacza" creationdate="20200601T180043Z">
+        <seg>Park rozrywki: Kolejka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Theater</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180055Z" creationid="Syn Spawacza" creationdate="20200601T180055Z">
-        <seg>W. miasteczko: Teatr</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183053Z" creationid="Syn Spawacza" creationdate="20200601T180055Z">
+        <seg>Park rozrywki: Teatr</seg>
       </tuv>
     </tu>
     <tu>
@@ -22638,8 +22638,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>View event markers.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180728Z" creationid="Syn Spawacza" creationdate="20200601T180522Z">
-        <seg>,Zobacz znaczniki wydarzeń.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183124Z" creationid="Syn Spawacza" creationdate="20200601T180522Z">
+        <seg>Zobacz znaczniki wydarzeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22822,8 +22822,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Village Weapons Trader</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175812Z" creationid="Syn Spawacza" creationdate="20200601T175812Z">
-        <seg>Handlarz bronią — wioska</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182941Z" creationid="Syn Spawacza" creationdate="20200601T175812Z">
+        <seg>Handlarz broni: wioska</seg>
       </tuv>
     </tu>
     <tu>
