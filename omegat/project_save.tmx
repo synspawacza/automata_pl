@@ -4846,6 +4846,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Body Report</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144049Z" creationid="Syn Spawacza" creationdate="20200605T144049Z">
+        <seg>Raport ciała</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Book: "Pensées"</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093226Z" creationid="Syn Spawacza" creationdate="20200601T093226Z">
@@ -10488,8 +10496,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>Hv</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072725Z" creationid="Syn Spawacza" creationdate="20200601T072725Z">
-        <seg>Cżk</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144033Z" creationid="Syn Spawacza" creationdate="20200601T072725Z">
+        <seg>Cięż</seg>
       </tuv>
     </tu>
     <tu>
@@ -12364,8 +12372,8 @@ jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Lt</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072727Z" creationid="Syn Spawacza" creationdate="20200601T072705Z">
-        <seg>Lkk</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144028Z" creationid="Syn Spawacza" creationdate="20200601T072705Z">
+        <seg>Lekk</seg>
       </tuv>
     </tu>
     <tu>
@@ -16638,6 +16646,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Retrieval Results</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144144Z" creationid="Syn Spawacza" creationdate="20200605T144144Z">
+        <seg>Wynik odzyskiwania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Retrieve</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141922Z" creationid="Syn Spawacza" creationdate="20200530T141922Z">
@@ -19945,6 +19961,22 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140142Z" creationid="Syn Spawacza" creationdate="20200530T140142Z">
         <seg>Razem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Quests Cleared</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T143920Z" creationid="Syn Spawacza" creationdate="20200605T143920Z">
+        <seg>Ilość ukończonych zadań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total Stages Cleared</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144208Z" creationid="Syn Spawacza" creationdate="20200605T144208Z">
+        <seg>Ukończonych poziomów razem</seg>
       </tuv>
     </tu>
     <tu>
