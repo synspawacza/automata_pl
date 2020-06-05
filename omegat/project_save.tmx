@@ -4650,6 +4650,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-hide HUD elements in certain situations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184441Z" creationid="Syn Spawacza" creationdate="20200605T184441Z">
+        <seg>Ukrywa elementy HUD w określonych sytuacjach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-item chips cannot be used on Very Hard mode, so they will be removed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163725Z" creationid="Syn Spawacza" creationdate="20200530T163725Z">
@@ -8011,6 +8019,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display an icon in areas where you can save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184315Z" creationid="Syn Spawacza" creationdate="20200605T184315Z">
+        <seg>Wyświetla ikonę w obszarach gdzie istnieje możliwość zapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display enemies' levels and HP.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184048Z" creationid="Syn Spawacza" creationdate="20200605T184048Z">
@@ -8019,10 +8035,50 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Display text showing your current objectives.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184418Z" creationid="Syn Spawacza" creationdate="20200605T184418Z">
+        <seg>Wyświetla tekst z celem aktualnego zadania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the mini-map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184229Z" creationid="Syn Spawacza" creationdate="20200605T184229Z">
+        <seg>Wyświetla minimapę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Display the player's HP gauge.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184029Z" creationid="Syn Spawacza" creationdate="20200605T184029Z">
         <seg>Wyświetla wskaźnik PŻ gracza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the skill gauge. (Shows a Pod program's cooldown time.)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184148Z" creationid="Syn Spawacza" creationdate="20200605T184148Z">
+        <seg>Wyświetla wskaźnik umiejętności (czas odnowienia programu poda).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the text log.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184214Z" creationid="Syn Spawacza" creationdate="20200605T184214Z">
+        <seg>Wyświetla log tekstowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the values of damage dealt and received.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184340Z" creationid="Syn Spawacza" creationdate="20200605T184340Z">
+        <seg>Wyświetla wartości zadawanych i otrzymywanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
