@@ -1199,10 +1199,30 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cable with five colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180642Z" creationid="Syn Spawacza" creationdate="20200605T180642Z">
+        <seg>Kabel z złączami w pięciu kolorach.
+Używany przy tworzeniu gier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cable with four colored connectors.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120619Z" creationid="Syn Spawacza" creationdate="20200601T120619Z">
         <seg>Kabel z złączami w czterech kolorach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cable with four colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180640Z" creationid="Syn Spawacza" creationdate="20200605T180640Z">
+        <seg>Kabel z złączami w czterech kolorach.
+Używany przy tworzeniu gier.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1215,12 +1235,22 @@ Może zostać sprzedana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cable with three colored connectors.
+Used for creating games.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180639Z" creationid="Syn Spawacza" creationdate="20200605T180639Z">
+        <seg>Kabel z złączami w trzech kolorach.
+Używany przy tworzeniu gier.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A card used for collecting stamps at
 the amusement park.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122332Z" creationid="Syn Spawacza" creationdate="20200601T122332Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180748Z" creationid="Syn Spawacza" creationdate="20200601T122332Z">
         <seg>Karta używana do zbierania pieczątek
-w wesołym miasteczku.</seg>
+w parku rozrywki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1239,9 +1269,9 @@ feniksa. Niesprawdzone w boju.</seg>
 Heavily damaged, there is little that
 can be analyzed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115824Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180553Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
         <seg>Czip z zapisem danych na temat A2.
-Zbyt uszkodzony by nadawać się do analizy.</seg>
+Zbyt uszkodzony by nadawał się do analizy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1325,8 +1355,9 @@ leather.</seg>
         <seg>A cosmetic item humans would rub on
 their lips to make themselves beautiful.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121011Z" creationid="Syn Spawacza" creationdate="20200601T121011Z">
-        <seg>Przyrząd kosmetyczny aplikowany na usta przez ludzi by się upiększyć.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180656Z" creationid="Syn Spawacza" creationdate="20200601T121011Z">
+        <seg>Przyrząd kosmetyczny aplikowany na
+usta przez ludzi by się upiększyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1467,6 +1498,18 @@ king of beasts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A journal left behind by a man.
+Thoughts about his fallen comrades are
+spelled out within.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180542Z" creationid="Syn Spawacza" creationdate="20200605T180542Z">
+        <seg>Pamiętnik pozostawiony przez mężczyznę.
+Zawiera przemyślenia na temat jego
+poległych towarzyszy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A key that unlocks an elevator in
 the shopping mall.</seg>
       </tuv>
@@ -1507,6 +1550,17 @@ seems to contain a question.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114502Z" creationid="Syn Spawacza" creationdate="20200601T114502Z">
         <seg>List z pytaniem adresowany do Jean-Paula.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A letter addressed to Jean-Paul that
+seems to contain a question.
+You shouldn't read it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180518Z" creationid="Syn Spawacza" creationdate="20200605T180518Z">
+        <seg>List z pytaniem adresowany do Jean-Paula.
+Nie powinieneś go nie czytać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1628,6 +1682,18 @@ Resistance's materials storeroom.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120323Z" creationid="Syn Spawacza" creationdate="20200601T120323Z">
         <seg>Paczka przechowywana w magazynie
 ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A package that was kept in the
+Resistance's materials storeroom.
+The contents are unknown.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180634Z" creationid="Syn Spawacza" creationdate="20200605T180634Z">
+        <seg>Paczka przechowywana w
+magazynie ruchu oporu.
+Zawartość nieznana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1801,6 +1867,18 @@ starożytnego kraju.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A slab with the laws of an ancient
+country written upon it. Many of
+them don't make any sense.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180803Z" creationid="Syn Spawacza" creationdate="20200605T180803Z">
+        <seg>Kamienna tablica z zasadami
+starożytnego kraju. Wiele z nich
+wydaje się nie mieć sensu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A small gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
@@ -1895,8 +1973,8 @@ as its motif.</seg>
       <tuv lang="en-US">
         <seg>A stamp from the amusement park.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122210Z" creationid="Syn Spawacza" creationdate="20200601T122210Z">
-        <seg>Pieczątka z wesołego miasteczka.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180742Z" creationid="Syn Spawacza" creationdate="20200601T122210Z">
+        <seg>Pieczątka z parku rozrywki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,11 +2120,35 @@ a dictionary.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A tool for recording information.
+Records indicate these were believed
+to be mightier than swords.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180703Z" creationid="Syn Spawacza" creationdate="20200605T180703Z">
+        <seg>Przyrząd do zapisywania informacji.
+Zapiski wskazują że były one uważane
+za silniejsze od miecza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A tool humans used to brush their teeth.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120710Z" creationid="Syn Spawacza" creationdate="20200601T120710Z">
         <seg>Przyrząd używany przez ludzi do
 czyszczenia zębów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A tool humans used to brush their teeth.
+Reduces the probability of cavities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180648Z" creationid="Syn Spawacza" creationdate="20200605T180648Z">
+        <seg>Przyrząd używany przez ludzi do
+czyszczenia zębów.
+Zmniejsza występowanie
+próchnicy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12002,6 +12104,19 @@ zatytułowana „Pensées”.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean-Paul's letter. It reads: 
+"I've left to seek the truth of the world.
+Throw that trash away!"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180527Z" creationid="Syn Spawacza" creationdate="20200605T180527Z">
+        <seg>List od Jean-Paula. Jest w nim napisane:
+„Wyruszyłem w podróż by odnaleźć
+prawdę tego świata.
+Wyrzućcie te śmieci.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Journal tactique : initialisé</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203904Z" creationid="Syn Spawacza" creationdate="20200601T203904Z">
@@ -15823,6 +15938,18 @@ soundtracks.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Part of a machine lifeform. May have
+something to do with the treasure
+of the forest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180720Z" creationid="Syn Spawacza" creationdate="20200605T180720Z">
+        <seg>Część mechanicznej formy życia.
+Wydaje się mieć coś wspólnego
+z leśnym skarbem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Partner NPC Combat Style</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131503Z" creationid="Syn Spawacza" creationdate="20200530T131503Z">
@@ -18164,6 +18291,19 @@ swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sartre's letter. It reads: 
+"I've left to seek the truth of the world.
+Throw that trash away!"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180524Z" creationid="Syn Spawacza" creationdate="20200605T180524Z">
+        <seg>List od Sartre'a. Jest w nim napisane:
+„Wyruszyłem w podróż by odnaleźć
+prawdę tego świata.
+Wyrzućcie te śmieci.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Save</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144426Z" creationid="Syn Spawacza" creationdate="20200530T144426Z">
@@ -20452,6 +20592,18 @@ formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The bloodied memory chip of a
+machine lifeform. Says its allies
+were destroyed by the resistance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180535Z" creationid="Syn Spawacza" creationdate="20200605T180535Z">
+        <seg>Zakrwawiony czip pamięci mechanicznej
+formy życia. Mówi, że jego towarzysze
+zostali zniszczeni przez ruch oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The command was not executed correctly.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172641Z" creationid="Syn Spawacza" creationdate="20200530T172641Z">
@@ -21654,9 +21806,9 @@ any enemies in the vicinity.</seg>
         <seg>Unlocks a Tower sub-unit in the
 Amusement Park.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122134Z" creationid="Syn Spawacza" creationdate="20200601T122134Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180732Z" creationid="Syn Spawacza" creationdate="20200601T122134Z">
         <seg>Odblokowuje podsystem Wieży
-w wesołym miasteczku.</seg>
+w parku rozrywki.</seg>
       </tuv>
     </tu>
     <tu>
