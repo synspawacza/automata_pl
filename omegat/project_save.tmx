@@ -3430,8 +3430,8 @@ stopniu kontrolę kierunku.</seg>
       <tuv lang="en-US">
         <seg>Amusement Park Photo</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085721Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
-        <seg>Zdjęcie z wesołego miasteczka</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T175913Z" creationid="Syn Spawacza" creationdate="20200601T085721Z">
+        <seg>Zdjęcie z parku rozrywki</seg>
       </tuv>
     </tu>
     <tu>
@@ -6108,8 +6108,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Commandment Slab</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091805Z" creationid="Syn Spawacza" creationdate="20200601T091805Z">
-        <seg>Tablica przykazań</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T175948Z" creationid="Syn Spawacza" creationdate="20200601T091805Z">
+        <seg>Tablica praw</seg>
       </tuv>
     </tu>
     <tu>
@@ -9713,6 +9713,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Grimoire Weiss</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180014Z" creationid="Syn Spawacza" creationdate="20200605T180014Z">
+        <seg>Grimoire Weiss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grün</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145351Z" creationid="Syn Spawacza" creationdate="20200605T145351Z">
@@ -11315,6 +11323,19 @@ by 50% for 30 seconds.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101451Z" creationid="Syn Spawacza" creationdate="20200601T101451Z">
         <seg>Zwiększa moc ataków bronią
 o 50% przez 30 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increases the power of 
+weapon-based attacks 
+by 50% for 30 seconds. 
+Also restores 100% HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180050Z" creationid="Syn Spawacza" creationdate="20200605T180050Z">
+        <seg>Zwiększa moc ataków bronią
+o 50% przez 30 sekund. 
+Przywraca też 100% PŻ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13438,10 +13459,30 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meat from a white-furred moose.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180125Z" creationid="Syn Spawacza" creationdate="20200605T180125Z">
+        <seg>Mięso pozyskane z białego łosia.
+Może zostać sprzedane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meat from a white-furred wild boar.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102328Z" creationid="Syn Spawacza" creationdate="20200601T102328Z">
         <seg>Mięso pozyskane z białego dzika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat from a white-furred wild boar.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180115Z" creationid="Syn Spawacza" creationdate="20200605T180115Z">
+        <seg>Mięso pozyskane z białego dzika.
+Może zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13454,10 +13495,30 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meat procured from a boar.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180104Z" creationid="Syn Spawacza" creationdate="20200605T180056Z">
+        <seg>Mięso pozyskane z dzika.
+Może zostać sprzedane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meat procured from a moose.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102309Z" creationid="Syn Spawacza" creationdate="20200601T102309Z">
         <seg>Mięso pozyskane z łosia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meat procured from a moose.
+Can be exchanged for money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180108Z" creationid="Syn Spawacza" creationdate="20200605T180057Z">
+        <seg>Mięso pozyskane z łosia.
+Może zostać sprzedane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15538,8 +15599,8 @@ Dział Technologii YoRHa</seg>
       <tuv lang="en-US">
         <seg>Park Access Key</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090836Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
-        <seg>Klucz dostępu z w. miasteczka</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T175937Z" creationid="Syn Spawacza" creationdate="20200601T090836Z">
+        <seg>Klucz dostępu z parku</seg>
       </tuv>
     </tu>
     <tu>
@@ -17752,8 +17813,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Rusted, beat-up ore.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103123Z" creationid="Syn Spawacza" creationdate="20200601T103123Z">
-        <seg>Zardzewiały, zbity materiał.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180144Z" creationid="Syn Spawacza" creationdate="20200601T103123Z">
+        <seg>Zbity, zardzewiały materiał.</seg>
       </tuv>
     </tu>
     <tu>
