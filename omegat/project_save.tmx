@@ -338,6 +338,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>11B's Escape Plan</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172426Z" creationid="Syn Spawacza" creationdate="20200605T172426Z">
+        <seg>Plan ucieczki 11B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>11S</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203729Z" creationid="Syn Spawacza" creationdate="20200601T203729Z">
@@ -688,6 +696,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
         <seg>Wykryto sygnał czarnej skrzynki 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9S's Memories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172327Z" creationid="Syn Spawacza" creationdate="20200605T172322Z">
+        <seg>Wspomnienia 9S</seg>
       </tuv>
     </tu>
     <tu>
@@ -3595,6 +3611,30 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203722Z" creationid="Syn Spawacza" creationdate="20200601T203722Z">
         <seg>Anemone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anemone: Encounter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172334Z" creationid="Syn Spawacza" creationdate="20200605T172334Z">
+        <seg>Anemone: Spotkanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anemone: Separation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172357Z" creationid="Syn Spawacza" creationdate="20200605T172357Z">
+        <seg>Anemone: Rozstanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anemone: Understanding</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172340Z" creationid="Syn Spawacza" creationdate="20200605T172340Z">
+        <seg>Anemone: Zrozumienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -7346,6 +7386,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203720Z" creationid="Syn Spawacza" creationdate="20200601T203720Z">
         <seg>Devola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Devola &amp; Popola's Memories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172317Z" creationid="Syn Spawacza" creationdate="20200605T172317Z">
+        <seg>Wspomnienia Devoli i Popoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -11668,6 +11716,14 @@ zatytułowana „Pensées”.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jackass's Bomb Recipe</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172450Z" creationid="Syn Spawacza" creationdate="20200605T172450Z">
+        <seg>Przepis na bombę Jackass</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Japanese</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131040Z" creationid="Syn Spawacza" creationdate="20200530T131040Z">
@@ -12194,6 +12250,14 @@ w każdej  chwili.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085003Z" creationid="Syn Spawacza" creationdate="20200601T085003Z">
         <seg>List do Sartre'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Letter to the Forest King</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172418Z" creationid="Syn Spawacza" creationdate="20200605T172418Z">
+        <seg>List do Króla Lasu</seg>
       </tuv>
     </tu>
     <tu>
@@ -13418,10 +13482,26 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Memories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172254Z" creationid="Syn Spawacza" creationdate="20200605T172254Z">
+        <seg>Wspomnienia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memories of War</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T171801Z" creationid="Syn Spawacza" creationdate="20200605T171801Z">
         <seg>Wspomnienia z wojny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memories of a Songstress</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172304Z" creationid="Syn Spawacza" creationdate="20200605T172304Z">
+        <seg>Wspomnienia śpiewaczki</seg>
       </tuv>
     </tu>
     <tu>
@@ -15195,6 +15275,14 @@ soundtracks.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pearl Harbor Descent Summary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172246Z" creationid="Syn Spawacza" creationdate="20200605T172246Z">
+        <seg>Podsumowanie desantu na Pearl Harbor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Penglai</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214304Z" creationid="Syn Spawacza" creationdate="20200601T214304Z">
@@ -16704,6 +16792,22 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resistance: Anemone</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172235Z" creationid="Syn Spawacza" creationdate="20200605T172235Z">
+        <seg>Ruch oporu: Anemone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Resistance: Rose</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172228Z" creationid="Syn Spawacza" creationdate="20200605T172228Z">
+        <seg>Ruch oporu: Rose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resolution</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132941Z" creationid="Syn Spawacza" creationdate="20200530T132941Z">
@@ -17308,6 +17412,14 @@ swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165502Z" creationid="Syn Spawacza" creationdate="20200530T165502Z">
         <seg>Zapisz dotychczasowy postęp?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saved Machine Records</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172655Z" creationid="Syn Spawacza" creationdate="20200605T172655Z">
+        <seg>Zachowane zapiski maszyn</seg>
       </tuv>
     </tu>
     <tu>
