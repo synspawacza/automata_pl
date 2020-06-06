@@ -1941,9 +1941,9 @@ Może zostać sprzedany.</seg>
         <seg>A piece of a meteorite that fell to
 the earth.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113930Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100923Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
         <seg>Fragment meteorytu który spadł
-na Ziemię.</seg>
+na ziemię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21768,6 +21768,16 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174933Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
         <seg>Wieża</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The YoRHa force was annihilated...
+And Earth went on to become a paradise for the machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101152Z" creationid="Syn Spawacza" creationdate="20200606T101152Z">
+        <seg>Siły YoRHa zostały zniszczone...
+Ziemia zaś miała stać się rajem dla maszyn</seg>
       </tuv>
     </tu>
     <tu>
