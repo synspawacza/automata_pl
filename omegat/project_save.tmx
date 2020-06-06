@@ -13075,6 +13075,14 @@ w temperaturze 2000 stopni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is there something you forgot?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114951Z" creationid="Syn Spawacza" creationdate="20200606T114951Z">
+        <seg>Zapomniałeś o czymś?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is this a curse?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173630Z" creationid="Syn Spawacza" creationdate="20200530T173630Z">
@@ -16227,6 +16235,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174405Z" creationid="Syn Spawacza" creationdate="20200530T174405Z">
         <seg>Niezupełnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not that there's much to do here...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115037Z" creationid="Syn Spawacza" creationdate="20200606T115037Z">
+        <seg>Nie że jest tu coś do roboty...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23079,6 +23095,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This here's my room. Feel free to swing by whenever you want!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114928Z" creationid="Syn Spawacza" creationdate="20200606T114928Z">
+        <seg>To mój pokój. Możesz wpaść kiedy tylko chcesz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This includes prohibited symbols (%, \, ", ').</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204536Z" creationid="Syn Spawacza" creationdate="20200601T204536Z">
@@ -25835,6 +25859,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can see access points on the close-range map. Be sure to save often!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115139Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
+        <seg>Punkty dostępu znajdziesz na mapce. Zapisuj często.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can't save now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142712Z" creationid="Syn Spawacza" creationdate="20200530T142712Z">
@@ -25975,6 +26007,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161745Z" creationid="Syn Spawacza" creationdate="20200530T161745Z">
         <seg>Imię musi mieć co najmniej dwa znaki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to be near an access point to save your data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115103Z" creationid="Syn Spawacza" creationdate="20200606T115103Z">
+        <seg>Musisz być blisko punktu dostępu by zapisać dane.</seg>
       </tuv>
     </tu>
     <tu>
