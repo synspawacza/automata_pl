@@ -276,8 +276,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...Emotions are prohibited.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180723Z" creationid="Syn Spawacza" creationdate="20200530T180723Z">
-        <seg>...Emocje są zakazane.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102916Z" creationid="Syn Spawacza" creationdate="20200530T180723Z">
+        <seg>Emocje są zakazane...</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,8 +308,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...What?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181231Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
-        <seg>...Co to?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103158Z" creationid="Syn Spawacza" creationdate="20200530T181231Z">
+        <seg>Co to...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3834,6 +3834,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180826Z" creationid="Syn Spawacza" creationdate="20200530T180826Z">
         <seg>Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All right, then. 2B it is!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103017Z" creationid="Syn Spawacza" creationdate="20200606T103017Z">
+        <seg>Dobrze. Niech zostanie „2B”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11931,8 +11939,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>I guess humans used to use it as a weapons factory.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180942Z" creationid="Syn Spawacza" creationdate="20200530T180942Z">
-        <seg>Kiedyś ludzie mieli to bodajże fabrykę broni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103125Z" creationid="Syn Spawacza" creationdate="20200530T180942Z">
+        <seg>Ludzie mieli to chyba fabrykę broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22023,8 +22031,8 @@ Mogą zostać sprzedane.</seg>
       <tuv lang="en-US">
         <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181134Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
-        <seg>Wróg najwyraźniej wykorzystał to miejsce do zwiększenia produkcji maszyn.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103143Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
+        <seg>Wróg najwyraźniej wykorzystał to miejsce do zwiększenia produkcji.</seg>
       </tuv>
     </tu>
     <tu>
