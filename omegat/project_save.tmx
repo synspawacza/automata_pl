@@ -260,8 +260,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...All right.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183954Z" creationid="Syn Spawacza" creationdate="20200530T183954Z">
-        <seg>...Dobrze.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103616Z" creationid="Syn Spawacza" creationdate="20200530T183954Z">
+        <seg>Dobrze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,6 +552,30 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195551Z" creationid="Syn Spawacza" creationdate="20200530T195551Z">
         <seg>2B, słyszysz mnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B... I found a weakness in the target...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103639Z" creationid="Syn Spawacza" creationdate="20200606T103639Z">
+        <seg>2B.... Znalazłem słaby punkt celu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B... Just go...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103600Z" creationid="Syn Spawacza" creationdate="20200606T103600Z">
+        <seg>2B... Odpuść...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B... The control...on the enemy's upper arm...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103748Z" creationid="Syn Spawacza" creationdate="20200606T103748Z">
+        <seg>2B... Przejmij kontrolę... nad ramieniem wroga...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11390,8 +11414,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Hacking in...to provide support.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184123Z" creationid="Syn Spawacza" creationdate="20200530T184123Z">
-        <seg>Hakuję...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103740Z" creationid="Syn Spawacza" creationdate="20200530T184123Z">
+        <seg>Hakuję... by udzielić wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11745,6 +11769,14 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
         <seg>Jednostka latająca Ho229.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ho229 flight unit. Command 677 received.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103605Z" creationid="Syn Spawacza" creationdate="20200606T103605Z">
+        <seg>Jednostka latająca Ho229. Odebrano polecenie 677.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12353,6 +12385,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Inadvisable. The subject's vital signs are too poor to attempt field repair in the current—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103551Z" creationid="Syn Spawacza" creationdate="20200606T103551Z">
+        <seg>Niezalecane. Sygnały życiowe zbyt słabe, by podjąć próbę naprawy polowej w obecnej...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Inbox</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074736Z" creationid="Syn Spawacza" creationdate="20200530T145129Z">
@@ -12869,6 +12909,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It...talks? I didn't know the machines had that kind of intelligence.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103632Z" creationid="Syn Spawacza" creationdate="20200606T103632Z">
+        <seg>To mówi? Nie przypuszczałam, że maszyny mogą być tak inteligentne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Italiano</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204037Z" creationid="Syn Spawacza" creationdate="20200601T204037Z">
@@ -13207,6 +13255,14 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184010Z" creationid="Syn Spawacza" creationdate="20200530T184010Z">
         <seg>Zabij...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill... Kill... Kill... Kill...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103619Z" creationid="Syn Spawacza" creationdate="20200606T103619Z">
+        <seg>Zabij... Zabij... Zabij... Zabij...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15599,8 +15655,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Negative. Communications have been jammed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103514Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
-        <seg>Negative. Communications have been jammed.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103518Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
+        <seg>Odmowa. Komunikacja jest zagłuszana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17480,6 +17536,14 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183405Z" creationid="Syn Spawacza" creationdate="20200530T183405Z">
         <seg>Podzie, daj mi żel tamujący i szczepionki antywirusowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod, get me staunching gel and logic-virus vaccines. Then access the—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103547Z" creationid="Syn Spawacza" creationdate="20200606T103547Z">
+        <seg>Podzie, daj mi żel tamujący i szczepionki antywirusowe. Potem dostań się do...</seg>
       </tuv>
     </tu>
     <tu>
@@ -20506,6 +20570,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183641Z" creationid="Syn Spawacza" creationdate="20200530T183641Z">
         <seg>Zamknij się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shut up! Just do what I say!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103553Z" creationid="Syn Spawacza" creationdate="20200606T103553Z">
+        <seg>Zamknij się! Rób co ci każę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23568,6 +23640,14 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Usage rights transferred from 9S to 2B. Requesting acknowledgement.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103607Z" creationid="Syn Spawacza" creationdate="20200606T103607Z">
+        <seg>Przekazano prawo do korzystania z 9S na 2B. Oczekiwanie na potwierdzenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140503Z" creationid="Syn Spawacza" creationdate="20200530T140503Z">
@@ -23671,6 +23751,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184140Z" creationid="Syn Spawacza" creationdate="20200530T184140Z">
         <seg>Użyj poda...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use your Pod... Sh-should be able to...take it over...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103754Z" creationid="Syn Spawacza" creationdate="20200606T103754Z">
+        <seg>Użyj poda... P-powinien być w stanie... je przejąć..</seg>
       </tuv>
     </tu>
     <tu>
@@ -24539,6 +24627,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183807Z" creationid="Syn Spawacza" creationdate="20200530T183807Z">
         <seg>Jesteśmy... żołnie...rzami...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We...we're sold...iers... We take pride in...our service...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103603Z" creationid="Syn Spawacza" creationdate="20200606T103603Z">
+        <seg>Jesteśmy... żołnie...rzami... Jesteśmy dumni... z naszej służby...</seg>
       </tuv>
     </tu>
     <tu>
