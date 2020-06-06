@@ -8781,6 +8781,14 @@ Autozmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doesn't YoRHa have a dedicated Resistance contact already?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112918Z" creationid="Syn Spawacza" creationdate="20200606T112918Z">
+        <seg>Czy YoRHa nie ma już kontaktów w ruchu oporu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Doesn't matter.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182351Z" creationid="Syn Spawacza" creationdate="20200530T182351Z">
@@ -12317,8 +12325,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>I know you're fresh out of maintenance, but I have another mission for you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112637Z" creationid="Syn Spawacza" creationdate="20200606T112637Z">
-        <seg>Wiem że jesteś tuż po konserwacji, ale mam dla was kolejną misję.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112812Z" creationid="Syn Spawacza" creationdate="20200606T112637Z">
+        <seg>Wiem że jesteście tuż po konserwacji, ale mam dla was kolejną misję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12335,6 +12343,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205152Z" creationid="Syn Spawacza" creationdate="20200530T205152Z">
         <seg>Znaczy, twój wybór i takie tam, ale...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I need you to head to the surface, rendezvous with the Resistance, and do some recon.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112837Z" creationid="Syn Spawacza" creationdate="20200606T112806Z">
+        <seg>Musicie dostać się na powierzchnię, spotkać się z ruchem oporu i przeprowadzić rozpoznanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21188,6 +21204,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So we'll need you to look into that as well.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T113007Z" creationid="Syn Spawacza" creationdate="20200606T113007Z">
+        <seg>To też musicie zbadać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So-Shi</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145343Z" creationid="Syn Spawacza" creationdate="20200605T145343Z">
@@ -25093,6 +25117,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103326Z" creationid="Syn Spawacza" creationdate="20200606T103326Z">
         <seg>Muszę jej pomóc! Szybko!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We haven't been able to get in touch with them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112945Z" creationid="Syn Spawacza" creationdate="20200606T112945Z">
+        <seg>Nie byliśmy w stanie z nimi skontaktować.</seg>
       </tuv>
     </tu>
     <tu>
