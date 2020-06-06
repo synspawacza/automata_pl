@@ -6976,8 +6976,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Confirming terrain...long-range.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174153Z" creationid="Syn Spawacza" creationdate="20200530T174153Z">
-        <seg>Wykryto teren...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101721Z" creationid="Syn Spawacza" creationdate="20200530T174153Z">
+        <seg>Wykrywanie terenu... daleki dystans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22060,6 +22060,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174057Z" creationid="Syn Spawacza" creationdate="20200530T174057Z">
         <seg>Operacja jest zagrożona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The operation is compromised. Awaiting further orders.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101420Z" creationid="Syn Spawacza" creationdate="20200606T101420Z">
+        <seg>Operacja jest zagrożona. Oczekuję na dalsze rozkazy.</seg>
       </tuv>
     </tu>
     <tu>
