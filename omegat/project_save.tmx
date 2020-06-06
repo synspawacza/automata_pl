@@ -7414,6 +7414,22 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DESTROY ALLY ANDROID</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093122Z" creationid="Syn Spawacza" creationdate="20200606T093122Z">
+        <seg>ZNISZCZ SPRZYMIERZONEGO ANDROIDA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DESTROY ALLY ANDROID/MACHINE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093127Z" creationid="Syn Spawacza" creationdate="20200606T093127Z">
+        <seg>ZNISZCZ SPRZYMIERZONEGO ANDROIDA/MASZYNĘ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DETONATE SUBJUGATED ENEMIES</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172051Z" creationid="Syn Spawacza" creationdate="20200530T172051Z">
@@ -18865,8 +18881,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>SELF-DESTRUCT SYSTEM ACTIVATED</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212700Z" creationid="Syn Spawacza" creationdate="20200601T212700Z">
-        <seg>AKTYWOWANY SYSTEM AUTODESTRUKCJI</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093045Z" creationid="Syn Spawacza" creationdate="20200601T212700Z">
+        <seg>AKTYWOWANO SYSTEM AUTODESTRUKCJI</seg>
       </tuv>
     </tu>
     <tu>
@@ -21785,6 +21801,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Pod can't be upgraded further.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092937Z" creationid="Syn Spawacza" creationdate="20200606T092937Z">
+        <seg>Nie można bardziej ulepszyć tego poda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This can be changed in-game.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130749Z" creationid="Syn Spawacza" creationdate="20200530T130749Z">
@@ -24515,6 +24539,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You cannot fuse this chip, because you have no chips of the same ability and rank.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092928Z" creationid="Syn Spawacza" creationdate="20200606T092928Z">
+        <seg>Nie można połączyć czipów — czipy muszą mieć taką samą umiejętność i rangę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You cannot start this game because the required data has not been installed yet.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210733Z" creationid="Syn Spawacza" creationdate="20200530T162600Z">
@@ -24539,10 +24571,26 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not have enough money.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093008Z" creationid="Syn Spawacza" creationdate="20200606T093008Z">
+        <seg>Nie masz wystarczającej ilości pieniędzy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You do not have the authority to perform that command.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172622Z" creationid="Syn Spawacza" creationdate="20200530T172622Z">
         <seg>Nie masz uprawnień do wykonania tego polecenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You do not have the required materials.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093019Z" creationid="Syn Spawacza" creationdate="20200606T093019Z">
+        <seg>Nie masz wymaganych materiałów.</seg>
       </tuv>
     </tu>
     <tu>
