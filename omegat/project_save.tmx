@@ -3780,6 +3780,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ah, 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111632Z" creationid="Syn Spawacza" creationdate="20200606T111632Z">
+        <seg>Aha, 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aircraft Carrier Captain</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201736Z" creationid="Syn Spawacza" creationdate="20200601T201736Z">
@@ -5826,6 +5834,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145344Z" creationid="Syn Spawacza" creationdate="20200605T145344Z">
         <seg>Boku-Shi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bold, but risky. Try not to be so reckless next time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112152Z" creationid="Syn Spawacza" creationdate="20200606T112152Z">
+        <seg>Zuchwały ruch, ale ryzykowny. W przyszłości starajcie się być mniej lekkomyślni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14733,6 +14749,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maintenance finished?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111643Z" creationid="Syn Spawacza" creationdate="20200606T111643Z">
+        <seg>Konserwacja zakończona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Man</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202508Z" creationid="Syn Spawacza" creationdate="20200601T202429Z">
@@ -22340,6 +22364,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Commander was calling for you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111509Z" creationid="Syn Spawacza" creationdate="20200606T111509Z">
+        <seg>Dowódca cię wzywała.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Commander's put me in charge of your maintenance, ma'am.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110552Z" creationid="Syn Spawacza" creationdate="20200606T110547Z">
@@ -25073,6 +25105,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'd better go see what's up, ma—er, 2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111623Z" creationid="Syn Spawacza" creationdate="20200606T111623Z">
+        <seg>Chodźmy dowiedzieć się o co chodzi, proszę pa... ehm, 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'll go through each adjustment in order.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200514Z" creationid="Syn Spawacza" creationdate="20200530T200514Z">
@@ -25576,6 +25616,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yes, Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111652Z" creationid="Syn Spawacza" creationdate="20200606T111652Z">
+        <seg>Tak, Dowódco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes, I'm aware of that.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174331Z" creationid="Syn Spawacza" creationdate="20200530T174331Z">
@@ -25767,6 +25815,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145502Z" creationid="Syn Spawacza" creationdate="20200530T145502Z">
         <seg>Nie można podróżować poza teren misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You detonated your black box in order to defeat the enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111738Z" creationid="Syn Spawacza" creationdate="20200606T111738Z">
+        <seg>Zdetonowaliście czarne skrzynki by pokonać wroga.</seg>
       </tuv>
     </tu>
     <tu>
