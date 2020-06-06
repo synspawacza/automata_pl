@@ -252,8 +252,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174043Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
-        <seg>...4B zniszczona.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101416Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
+        <seg>4B zniszczona...</seg>
       </tuv>
     </tu>
     <tu>
@@ -426,6 +426,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1D down. Assuming captain's duties.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101337Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
+        <seg>1D zniszczona. Przejmuję obowiązki kapitana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1st</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093133Z" creationid="Syn Spawacza" creationdate="20200606T093133Z">
@@ -496,6 +504,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173705Z" creationid="Syn Spawacza" creationdate="20200530T173705Z">
         <seg>Tu 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B here. All units have penetrated the stratosphere.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101311Z" creationid="Syn Spawacza" creationdate="20200606T101311Z">
+        <seg>Tu 2B. Wszystkie jednostki przebiły się przez stratosferę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3871,6 +3887,14 @@ stopniu kontrolę kierunku.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173852Z" creationid="Syn Spawacza" creationdate="20200530T173852Z">
         <seg>Aktywowano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Already engaged. Free movement unlocked.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101329Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
+        <seg>Aktywowano. Swobodny ruch dostępny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15273,6 +15297,16 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Multiple surrounding enemy air units confirmed.
+Requesting permission to assume mobile configuration.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101340Z" creationid="Syn Spawacza" creationdate="20200606T101340Z">
+        <seg>Jesteśmy otoczeni przez wrogie jednostki latające.
+Proszę o zgodę na przejście do konfiguracji mobilnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mushroom</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082923Z" creationid="Syn Spawacza" creationdate="20200601T082923Z">
@@ -22331,10 +22365,26 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is Command. YoRHa squadron, come in.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101308Z" creationid="Syn Spawacza" creationdate="20200606T101308Z">
+        <seg>Tu dowództwo do eskadry YoRHa, odbiór.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is Operator 6O.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173716Z" creationid="Syn Spawacza" creationdate="20200530T173716Z">
         <seg>Tu Operator 6O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is Operator 6O. All units confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101315Z" creationid="Syn Spawacza" creationdate="20200606T101315Z">
+        <seg>Tu Operator 6O. Dostałam potwierdzenie od wszystkich jednostek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23157,6 +23207,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173746Z" creationid="Syn Spawacza" creationdate="20200530T173746Z">
         <seg>Zrozumiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101320Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
+        <seg>Zrozumiano. Gdy dotrzecie do obrony przeciwpowietrznej przejdźcie do formacji ofensywnej...</seg>
       </tuv>
     </tu>
     <tu>
