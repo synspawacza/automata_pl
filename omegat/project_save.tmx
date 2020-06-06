@@ -1020,6 +1020,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;NAME&gt;'s data has been lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100058Z" creationid="Syn Spawacza" creationdate="20200606T100044Z">
+        <seg>&lt;NAME&gt;: stracono dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;NAME&gt;'s infection worsens,
 turning them against you.</seg>
       </tuv>
@@ -9306,6 +9314,14 @@ poczuć się mądrym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Error detected while loading credits. Returning to title screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100305Z" creationid="Syn Spawacza" creationdate="20200606T100305Z">
+        <seg>Błąd ładowania napisów końcowych. Powrót do ekranu tytułowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Esc</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204136Z" creationid="Syn Spawacza" creationdate="20200601T204136Z">
@@ -9494,6 +9510,14 @@ poczuć się mądrym.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144749Z" creationid="Syn Spawacza" creationdate="20200530T144749Z">
         <seg>Wyjdź z gry i wróć do pulpitu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Experience: &lt;EXP&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100016Z" creationid="Syn Spawacza" creationdate="20200606T100016Z">
+        <seg>Doświadczenie: &lt;EXP&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13755,6 +13779,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>MESSAGE RECEIVED</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100110Z" creationid="Syn Spawacza" creationdate="20200606T100110Z">
+        <seg>ODEBRANO WIADOMOŚĆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>MP残量チェック：100%</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203844Z" creationid="Syn Spawacza" creationdate="20200601T203844Z">
@@ -14863,6 +14895,14 @@ z skamieniałej żywicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134341Z" creationid="Syn Spawacza" creationdate="20200530T134341Z">
         <seg>Mono</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Money: &lt;MONEY&gt; G</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100023Z" creationid="Syn Spawacza" creationdate="20200606T100023Z">
+        <seg>Pieniądze: &lt;MONEY&gt; G</seg>
       </tuv>
     </tu>
     <tu>
@@ -20406,6 +20446,14 @@ your fallen body.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171858Z" creationid="Syn Spawacza" creationdate="20200530T171838Z">
         <seg>Ktoś pomodlił się nad
 twoim poległym ciałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Someone's data has been lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100056Z" creationid="Syn Spawacza" creationdate="20200606T100056Z">
+        <seg>Stracono czyjeś dane.</seg>
       </tuv>
     </tu>
     <tu>
