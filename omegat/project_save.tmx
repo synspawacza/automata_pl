@@ -418,6 +418,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1st</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093133Z" creationid="Syn Spawacza" creationdate="20200606T093133Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204147Z" creationid="Syn Spawacza" creationdate="20200601T204147Z">
@@ -524,6 +532,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2nd</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093152Z" creationid="Syn Spawacza" creationdate="20200606T093152Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204148Z" creationid="Syn Spawacza" creationdate="20200601T204148Z">
@@ -536,6 +552,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203731Z" creationid="Syn Spawacza" creationdate="20200601T203731Z">
         <seg>3B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3rd</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093154Z" creationid="Syn Spawacza" creationdate="20200606T093154Z">
+        <seg>3.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5468,6 +5492,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bonus</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093130Z" creationid="Syn Spawacza" creationdate="20200606T093130Z">
+        <seg>Bonus</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Book: "Pensées"</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093226Z" creationid="Syn Spawacza" creationdate="20200601T093226Z">
@@ -5712,6 +5744,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140328Z" creationid="Syn Spawacza" creationdate="20200530T140328Z">
         <seg>INFORMACJA ZASTRZEŻONA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CNTL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093414Z" creationid="Syn Spawacza" creationdate="20200606T093414Z">
+        <seg>KNTRL</seg>
       </tuv>
     </tu>
     <tu>
@@ -14017,6 +14057,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manual Mode</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093441Z" creationid="Syn Spawacza" creationdate="20200606T093441Z">
+        <seg>Tryb manualny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Many of
 them don't make any sense.</seg>
       </tuv>
@@ -17694,6 +17742,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rail Cannon Unit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093304Z" creationid="Syn Spawacza" creationdate="20200606T093304Z">
+        <seg>Działo elektromagnetyczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184933Z" creationid="Syn Spawacza" creationdate="20200605T184933Z">
@@ -18887,6 +18943,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SET</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093421Z" creationid="Syn Spawacza" creationdate="20200606T093421Z">
+        <seg>USTAW</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SETTINGS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131028Z" creationid="Syn Spawacza" creationdate="20200530T131028Z">
@@ -19164,6 +19228,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201320Z" creationid="Syn Spawacza" creationdate="20200601T201320Z">
         <seg>Maszyna naukowiec</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Score</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093129Z" creationid="Syn Spawacza" creationdate="20200606T093129Z">
+        <seg>Wynik</seg>
       </tuv>
     </tu>
     <tu>
