@@ -476,6 +476,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B has perished.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095712Z" creationid="Syn Spawacza" creationdate="20200606T095712Z">
+        <seg>2B zginęła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B here.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173705Z" creationid="Syn Spawacza" creationdate="20200530T173705Z">
@@ -764,6 +772,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;COMMENT&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
+        <seg>&lt;COMMENT&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;EXP_VALUE&gt; EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
@@ -992,6 +1008,24 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172950Z" creationid="Syn Spawacza" creationdate="20200530T172950Z">
         <seg>Zdobyto &lt;MONEY_NUM&gt; G.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;NAME&gt; has become your ally.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095829Z" creationid="Syn Spawacza" creationdate="20200606T095829Z">
+        <seg>&lt;NAME&gt; jest teraz sojusznikiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;NAME&gt;'s infection worsens,
+turning them against you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100009Z" creationid="Syn Spawacza" creationdate="20200606T100009Z">
+        <seg>Infekcja sprawia, że &lt;NAME&gt;
+staje się wrogiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8797,6 +8831,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effect: &lt;EFFECT&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095719Z" creationid="Syn Spawacza" creationdate="20200606T095719Z">
+        <seg>Efekt: &lt;EFFECT&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effects</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133047Z" creationid="Syn Spawacza" creationdate="20200530T133047Z">
@@ -11062,6 +11104,46 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170140Z" creationid="Syn Spawacza" creationdate="20200530T170140Z">
         <seg>Zhakuj słaby punkt przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacked enemy detonated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095700Z" creationid="Syn Spawacza" creationdate="20200606T095641Z">
+        <seg>Zhakowany wróg zdetonowany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacked enemy hijacked</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095702Z" creationid="Syn Spawacza" creationdate="20200606T095620Z">
+        <seg>Zhakowany wróg przejęty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacked enemy ignited.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095656Z" creationid="Syn Spawacza" creationdate="20200606T095656Z">
+        <seg>Zhakowany wróg podpalony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacked enemy stunned.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095658Z" creationid="Syn Spawacza" creationdate="20200606T095648Z">
+        <seg>Zhakowany wróg ogłuszony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacked enemy subjugated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095701Z" creationid="Syn Spawacza" creationdate="20200606T095633Z">
+        <seg>Zhakowany wróg ujarzmiony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22297,6 +22379,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172151Z" creationid="Syn Spawacza" creationdate="20200530T172151Z">
         <seg>Czas od uderzenia rakiety:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time since abandoning of body: &lt;HOUR&gt;:&lt;MIN&gt;:&lt;SEC&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095739Z" creationid="Syn Spawacza" creationdate="20200606T095739Z">
+        <seg>Czas od porzucenia ciała: &lt;HOUR&gt;:&lt;MIN&gt;:&lt;SEC&gt;</seg>
       </tuv>
     </tu>
     <tu>
