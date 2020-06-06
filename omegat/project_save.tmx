@@ -15501,6 +15501,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Negative. This enemy is unrelated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101745Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
+        <seg>Odmowa. Wróg niepowiązany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Network</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144431Z" creationid="Syn Spawacza" creationdate="20200530T144431Z">
