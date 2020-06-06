@@ -564,6 +564,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B? Uh, ma'am?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102249Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
+        <seg>2B? Ehm, proszę pani?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2nd</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T093152Z" creationid="Syn Spawacza" creationdate="20200606T093152Z">
@@ -3838,6 +3846,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All right. I'll work my way inside from the ground.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102232Z" creationid="Syn Spawacza" creationdate="20200606T102232Z">
+        <seg>Dobrze. Ja zajmę się tym z ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173719Z" creationid="Syn Spawacza" creationdate="20200530T173719Z">
@@ -5408,8 +5424,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Better make sure he's actually dead next time.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175032Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
-        <seg>Następnym razem niech się pani upewni że naprawdę nie żyje.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102113Z" creationid="Syn Spawacza" creationdate="20200530T174950Z">
+        <seg>Niech się następnym razem Pani upewni że naprawdę nie żyje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7112,8 +7128,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Copy that.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175131Z" creationid="Syn Spawacza" creationdate="20200530T175131Z">
-        <seg>Zrozumiano.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102136Z" creationid="Syn Spawacza" creationdate="20200530T175131Z">
+        <seg>Rozumiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15331,6 +15347,14 @@ Proszę o zgodę na przejście do konfiguracji mobilnej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My name's 9S. I'm here to provide support.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102125Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
+        <seg>Nazywam się 9S. Jestem tu by zapewnić wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>My pulse rate is rising!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202754Z" creationid="Syn Spawacza" creationdate="20200530T202754Z">
@@ -15633,6 +15657,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175137Z" creationid="Syn Spawacza" creationdate="20200530T175137Z">
         <seg>Nie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No. Just another defensive system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102203Z" creationid="Syn Spawacza" creationdate="20200606T102203Z">
+        <seg>Nie. To tylko kolejny system obronny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16107,6 +16139,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175154Z" creationid="Syn Spawacza" creationdate="20200530T175154Z">
         <seg>Aha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh. Well, uh...I guess we have to find the target then, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102226Z" creationid="Syn Spawacza" creationdate="20200606T102226Z">
+        <seg>Aha. Dobra, uhm... W takim razie musimy znaleźć nasz cel.</seg>
       </tuv>
     </tu>
     <tu>
