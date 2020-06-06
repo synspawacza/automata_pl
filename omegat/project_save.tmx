@@ -250,6 +250,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>......</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104209Z" creationid="Syn Spawacza" creationdate="20200606T104209Z">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101416Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
@@ -692,10 +700,26 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5012 A.D.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104317Z" creationid="Syn Spawacza" creationdate="20200606T104257Z">
+        <seg>Rok 5012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5204</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194053Z" creationid="Syn Spawacza" creationdate="20200530T194053Z">
         <seg>AD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5204 A.D.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104309Z" creationid="Syn Spawacza" creationdate="20200606T104309Z">
+        <seg>Rok 5204</seg>
       </tuv>
     </tu>
     <tu>
@@ -832,6 +856,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172327Z" creationid="Syn Spawacza" creationdate="20200605T172322Z">
         <seg>Wspomnienia 9S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9S?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104220Z" creationid="Syn Spawacza" creationdate="20200606T104220Z">
+        <seg>9S?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21994,6 +22026,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Goliaths were wiped out, and we secured a route into enemy territory. Now we can—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104216Z" creationid="Syn Spawacza" creationdate="20200606T104216Z">
+        <seg>Goliaty zniszczone, zabezpieczyliśmy drogę na terytorium wroga. Teraz możemy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Kind King</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T171620Z" creationid="Syn Spawacza" creationdate="20200605T171620Z">
@@ -23391,6 +23431,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T192059Z" creationid="Syn Spawacza" creationdate="20200530T192059Z">
         <seg>Uhm, wysłałem twoje dane?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Um, I did that? Sorry, I don't remember.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104231Z" creationid="Syn Spawacza" creationdate="20200606T104231Z">
+        <seg>Uhm, wysłałem twoje dane? Przykro mi, nie pamiętam.</seg>
       </tuv>
     </tu>
     <tu>
