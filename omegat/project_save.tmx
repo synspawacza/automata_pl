@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"&lt;QUEST_NAME&gt;" updated!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100608Z" creationid="Syn Spawacza" creationdate="20200606T100608Z">
+        <seg>Uaktualniono zadanie: &lt;QUEST_NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"I don't want to go there right now."</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210535Z" creationid="Syn Spawacza" creationdate="20200530T145642Z">
@@ -1060,6 +1068,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;NAME&gt; (&lt;ID&gt;)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100453Z" creationid="Syn Spawacza" creationdate="20200606T100453Z">
+        <seg>&lt;NAME&gt; (&lt;ID&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;NAME&gt; has become your ally.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095829Z" creationid="Syn Spawacza" creationdate="20200606T095829Z">
@@ -1090,6 +1106,22 @@ staje się wrogiem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100343Z" creationid="Syn Spawacza" creationdate="20200606T100343Z">
         <seg>&lt;QUEST_NAME&gt;: &lt;NUM1&gt;/&lt;NUM2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;SEC&gt; second</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100450Z" creationid="Syn Spawacza" creationdate="20200606T100450Z">
+        <seg>&lt;SEC&gt; sek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;SEC&gt; seconds</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100452Z" creationid="Syn Spawacza" creationdate="20200606T100452Z">
+        <seg>&lt;SEC&gt; sek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8895,6 +8927,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Effect: &lt;CHIP&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100622Z" creationid="Syn Spawacza" creationdate="20200606T100622Z">
+        <seg>Efekt: &lt;CHIP&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effect: &lt;EFFECT&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095719Z" creationid="Syn Spawacza" creationdate="20200606T095719Z">
@@ -15479,6 +15519,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134755Z" creationid="Syn Spawacza" creationdate="20200530T134755Z">
         <seg>Następny pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>NieR:Automata</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100727Z" creationid="Syn Spawacza" creationdate="20200606T100727Z">
+        <seg>NieR:Automata</seg>
       </tuv>
     </tu>
     <tu>
@@ -25005,6 +25053,24 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You prayed for &lt;NAME&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100512Z" creationid="Syn Spawacza" creationdate="20200606T100512Z">
+        <seg>Pomodlono się za &lt;NAME&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You recovered your plug-in chips.
+Do you wish to restore your previous equipment?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100549Z" creationid="Syn Spawacza" creationdate="20200606T100549Z">
+        <seg>Odzyskano czipy rozszerzeń.
+Przywrócić poprzednie wyposażenie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You shouldn't read it.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T114447Z" creationid="Syn Spawacza" creationdate="20200601T114447Z">
@@ -25033,6 +25099,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175054Z" creationid="Syn Spawacza" creationdate="20200530T175054Z">
         <seg>Pani to 2B, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You've got mail!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100615Z" creationid="Syn Spawacza" creationdate="20200606T100615Z">
+        <seg>Masz wiadomość!</seg>
       </tuv>
     </tu>
     <tu>
