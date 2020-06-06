@@ -10092,6 +10092,22 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fuse items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091957Z" creationid="Syn Spawacza" creationdate="20200606T091957Z">
+        <seg>Połącz przedmioty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fuse plug-in chips.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092227Z" creationid="Syn Spawacza" creationdate="20200606T092227Z">
+        <seg>Połącz czipy rozszerzeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fusion Cost</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073035Z" creationid="Syn Spawacza" creationdate="20200601T073035Z">
@@ -17318,6 +17334,30 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purchase Pod programs or storage-capacity items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092211Z" creationid="Syn Spawacza" creationdate="20200606T092211Z">
+        <seg>Kup programy poda i rozszerzenia pojemności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchase items.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091946Z" creationid="Syn Spawacza" creationdate="20200606T091946Z">
+        <seg>Kup przedmioty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Purchase weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092036Z" creationid="Syn Spawacza" creationdate="20200606T092036Z">
+        <seg>Kup broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pure Water</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082847Z" creationid="Syn Spawacza" creationdate="20200601T082847Z">
@@ -17394,6 +17434,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094143Z" creationid="Syn Spawacza" creationdate="20200601T094143Z">
         <seg>Wytworny woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Quantity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091938Z" creationid="Syn Spawacza" creationdate="20200606T091938Z">
+        <seg>Ilość</seg>
       </tuv>
     </tu>
     <tu>
@@ -19282,6 +19330,22 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select a weapon to purchase.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092056Z" creationid="Syn Spawacza" creationdate="20200606T092056Z">
+        <seg>Wybierz broń do kupienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a weapon to upgrade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092107Z" creationid="Syn Spawacza" creationdate="20200606T092107Z">
+        <seg>Wybierz broń do ulepszenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select and destroy a chip.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211818Z" creationid="Syn Spawacza" creationdate="20200601T211818Z">
@@ -19318,6 +19382,22 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211411Z" creationid="Syn Spawacza" creationdate="20200530T170850Z">
         <seg>Wybierz przedmiot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select items to purchase.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092028Z" creationid="Syn Spawacza" creationdate="20200606T092028Z">
+        <seg>Wybierz przedmioty do kupienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select items to sell.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092030Z" creationid="Syn Spawacza" creationdate="20200606T092030Z">
+        <seg>Wybierz przedmioty do sprzedania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19454,6 +19534,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091906Z" creationid="Syn Spawacza" creationdate="20200606T091906Z">
         <seg>Sprzedaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell items in your inventory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092012Z" creationid="Syn Spawacza" creationdate="20200606T092012Z">
+        <seg>Sprzedaj przedmioty z twojego ekwipunku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22652,6 +22740,22 @@ w Leśnym Królestwie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091928Z" creationid="Syn Spawacza" creationdate="20200606T091928Z">
         <seg>Ulepsz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade Pod</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091936Z" creationid="Syn Spawacza" creationdate="20200606T091936Z">
+        <seg>Ulepsz poda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092049Z" creationid="Syn Spawacza" creationdate="20200606T092049Z">
+        <seg>Ulepsz broń.</seg>
       </tuv>
     </tu>
     <tu>
