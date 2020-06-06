@@ -4592,8 +4592,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Are you carrying enough supplies on you? If not, you can always use the terminal in your room to replenish them.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110930Z" creationid="Syn Spawacza" creationdate="20200606T110930Z">
-        <seg>Masz dość zaopatrzenia? W razie czego możesz je uzupełnić w terminalu w swoim pokoju.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111121Z" creationid="Syn Spawacza" creationdate="20200606T110930Z">
+        <seg>Masz przy sobie wystarczającą ilość zaopatrzenia? W razie czego możesz je uzupełnić w terminalu w swoim pokoju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7002,6 +7002,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185315Z" creationid="Syn Spawacza" creationdate="20200601T185315Z">
         <seg>Zapłon +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Come to think of it, do we have enough supplies?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111054Z" creationid="Syn Spawacza" creationdate="20200606T111054Z">
+        <seg>A właśnie, mamy dość zaopatrzenia?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16533,6 +16541,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200807Z" creationid="Syn Spawacza" creationdate="20200530T200807Z">
         <seg>A, przy okazji, powinnaś wiedzieć że cały proces jest nagrywany dla potomności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, don't worry. We 9S models are the best around, you know.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111218Z" creationid="Syn Spawacza" creationdate="20200606T111131Z">
+        <seg>Ah, nie martw się. My, modele 9S, </seg>
       </tuv>
     </tu>
     <tu>
