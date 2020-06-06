@@ -11905,6 +11905,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I don't usually get a partner. It's kind of fun!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102912Z" creationid="Syn Spawacza" creationdate="20200606T102753Z">
+        <seg>Zazwyczaj nie mam partnera. Jest fajnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I found a weakness in the target...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184110Z" creationid="Syn Spawacza" creationdate="20200530T184110Z">
@@ -19580,6 +19588,14 @@ zostali zniszczeni prze ruch oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scanners like me mostly work alone. Scouting out enemy lines and all that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102623Z" creationid="Syn Spawacza" creationdate="20200606T102623Z">
+        <seg>Skanerzy tacy jak ja pracują samotnie. Rozpoznanie za linami wroga i takie tam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scared Believer</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201752Z" creationid="Syn Spawacza" creationdate="20200601T201752Z">
@@ -25123,8 +25139,8 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>You know, ma'am, I'm glad you're here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180711Z" creationid="Syn Spawacza" creationdate="20200530T180410Z">
-        <seg>Cieszę się że tu pani jest.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102756Z" creationid="Syn Spawacza" creationdate="20200530T180410Z">
+        <seg>Cieszę się że tu Pani jest.</seg>
       </tuv>
     </tu>
     <tu>
