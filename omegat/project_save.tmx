@@ -780,10 +780,42 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;DAY&gt; day</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100419Z" creationid="Syn Spawacza" creationdate="20200606T100419Z">
+        <seg>&lt;DAY&gt; dzień</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;DAY&gt; days</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100426Z" creationid="Syn Spawacza" creationdate="20200606T100426Z">
+        <seg>&lt;DAY&gt; dni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;EXP_VALUE&gt; EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165121Z" creationid="Syn Spawacza" creationdate="20200530T165121Z">
         <seg>&lt;EXP_VALUE&gt; PD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;HOUR&gt; hour</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100430Z" creationid="Syn Spawacza" creationdate="20200606T100430Z">
+        <seg>&lt;HOUR&gt; godz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;HOUR&gt; hours</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100434Z" creationid="Syn Spawacza" creationdate="20200606T100434Z">
+        <seg>&lt;HOUR&gt; godz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1004,6 +1036,22 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;MIN&gt; minute</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100441Z" creationid="Syn Spawacza" creationdate="20200606T100441Z">
+        <seg>&lt;MIN&gt; min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;MIN&gt; minutes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100443Z" creationid="Syn Spawacza" creationdate="20200606T100443Z">
+        <seg>&lt;MIN&gt; min.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;MONEY_NUM&gt; G obtained.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172950Z" creationid="Syn Spawacza" creationdate="20200530T172950Z">
@@ -1034,6 +1082,14 @@ turning them against you.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100009Z" creationid="Syn Spawacza" creationdate="20200606T100009Z">
         <seg>Infekcja sprawia, że &lt;NAME&gt;
 staje się wrogiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;QUEST_NAME&gt;: &lt;NUM1&gt;/&lt;NUM2&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100343Z" creationid="Syn Spawacza" creationdate="20200606T100343Z">
+        <seg>&lt;QUEST_NAME&gt;: &lt;NUM1&gt;/&lt;NUM2&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -9956,6 +10012,14 @@ Ich moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fish Encyclopedia updated</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100342Z" creationid="Syn Spawacza" creationdate="20200606T100317Z">
+        <seg>Uaktualniono encyklopedię wędkarstwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fishing Encyclopedia</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144030Z" creationid="Syn Spawacza" creationdate="20200530T144030Z">
@@ -17754,8 +17818,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Quest information has been updated.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165645Z" creationid="Syn Spawacza" creationdate="20200530T165636Z">
-        <seg>Zaktualizowano informacje o zadaniu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100334Z" creationid="Syn Spawacza" creationdate="20200530T165636Z">
+        <seg>Uaktualniono informacje o zadaniu.</seg>
       </tuv>
     </tu>
     <tu>
