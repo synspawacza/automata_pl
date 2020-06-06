@@ -5840,8 +5840,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Bold, but risky. Try not to be so reckless next time.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112152Z" creationid="Syn Spawacza" creationdate="20200606T112152Z">
-        <seg>Zuchwały ruch, ale ryzykowny. W przyszłości starajcie się być mniej lekkomyślni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112449Z" creationid="Syn Spawacza" creationdate="20200606T112152Z">
+        <seg>Śmiałe posunięcie, ale lekkomyślne. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25821,8 +25821,8 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>You detonated your black box in order to defeat the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111738Z" creationid="Syn Spawacza" creationdate="20200606T111738Z">
-        <seg>Zdetonowaliście czarne skrzynki by pokonać wroga.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112230Z" creationid="Syn Spawacza" creationdate="20200606T111738Z">
+        <seg>Zdetonowałaś czarną skrzynkę by pokonać wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26870,6 +26870,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204033Z" creationid="Syn Spawacza" creationdate="20200530T131053Z">
         <seg>Polski</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p100_973474b4_scp.properties</prop>
+      <prop type="id">M1010_S0030_G0140_001_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Understood.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112202Z" creationid="Syn Spawacza" creationdate="20200606T112202Z">
+        <seg>Tak jest.</seg>
       </tuv>
     </tu>
     <tu>
