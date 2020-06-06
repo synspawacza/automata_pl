@@ -290,6 +290,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104549Z" creationid="Syn Spawacza" creationdate="20200606T104549Z">
+        <seg>Hmm. Nie wiesz jak ustawić jasność? Powinno to reagować na jakieś sygnał wejściowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...I see.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T193106Z" creationid="Syn Spawacza" creationdate="20200530T193106Z">
@@ -560,6 +568,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195551Z" creationid="Syn Spawacza" creationdate="20200530T195551Z">
         <seg>2B, słyszysz mnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B, can you hear me? I'm starting your boot sequence.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104545Z" creationid="Syn Spawacza" creationdate="20200606T104545Z">
+        <seg>2B, słyszysz mnie? Rozpoczynam sekwencję startową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3938,6 +3954,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175350Z" creationid="Syn Spawacza" creationdate="20200530T175350Z">
         <seg>Dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All right. Are we good now?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104642Z" creationid="Syn Spawacza" creationdate="20200606T104642Z">
+        <seg>Dobrze. Wszystko w porządku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9530,10 +9554,26 @@ poczuć się mądrym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, all right. Just give me a second here...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104557Z" creationid="Syn Spawacza" creationdate="20200606T104557Z">
+        <seg>Eh, dobra. daj mi chwilę...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Er, could you try and pick up the pace a little bit?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202347Z" creationid="Syn Spawacza" creationdate="20200530T202347Z">
         <seg>Eee, mogłabyś trochę podkręcić tępo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Er, could you try and pick up the pace a little bit? This is getting embarrassing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104637Z" creationid="Syn Spawacza" creationdate="20200606T104637Z">
+        <seg>Eee, mogłabyś trochę podkręcić tępo? Robi się to krępujące...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12233,6 +12273,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm fine, 9S. There's something calming about your voice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104647Z" creationid="Syn Spawacza" creationdate="20200606T104647Z">
+        <seg>W porządku, 9S. Jest coś uspokajającego w twoim głosie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm going after him!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183110Z" creationid="Syn Spawacza" creationdate="20200530T183110Z">
@@ -14139,6 +14187,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ma'am? Are you there? Can you hear me?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104627Z" creationid="Syn Spawacza" creationdate="20200606T104627Z">
+        <seg>Proszę pani? Jesteś tam? Słychać mnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Arm</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082141Z" creationid="Syn Spawacza" creationdate="20200601T082141Z">
@@ -15789,6 +15845,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ngh!? What the heck? My pulse rate is rising!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104732Z" creationid="Syn Spawacza" creationdate="20200606T104732Z">
+        <seg>Hę? Co jest? Wzrasta mi tętno!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>NieR:Automata</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100727Z" creationid="Syn Spawacza" creationdate="20200606T100727Z">
@@ -16343,6 +16407,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, uh, th-thank you! ...Anyway, that takes care of the settings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104651Z" creationid="Syn Spawacza" creationdate="20200606T104651Z">
+        <seg>O, uhm, dz-dziękuję! ...Tak czy siak, załatwiliśmy sprawę ustawień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175154Z" creationid="Syn Spawacza" creationdate="20200530T175154Z">
@@ -16391,10 +16463,26 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay! Settings should all be good to go.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104645Z" creationid="Syn Spawacza" creationdate="20200606T104645Z">
+        <seg>Okej! Ustawienia mamy z głowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okay, I found the guide!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200349Z" creationid="Syn Spawacza" creationdate="20200530T200349Z">
         <seg>Okej, znalazłem poradnik!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, I found the guide! If you can just follow that, it'll make things easier.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104613Z" creationid="Syn Spawacza" creationdate="20200606T104600Z">
+        <seg>Okej, znalazłem poradnik! Tak będzie nam łatwiej wszystko ustawić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16427,6 +16515,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200557Z" creationid="Syn Spawacza" creationdate="20200530T200557Z">
         <seg>Okej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay. How does this look?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104616Z" creationid="Syn Spawacza" creationdate="20200606T104616Z">
+        <seg>Okej. I jak to wygląda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19363,6 +19459,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Right then. Let's get started.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104608Z" creationid="Syn Spawacza" creationdate="20200606T104608Z">
+        <seg>W porządku. Zaczynajmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rigid Tree Bark</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093009Z" creationid="Syn Spawacza" creationdate="20200601T093009Z">
@@ -19906,6 +20010,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200926Z" creationid="Syn Spawacza" creationdate="20200530T200926Z">
         <seg>Wygląda na to że rozpoznawanie głosu jest wyciszone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Seems your voice recognition is set to mute, which isn't gonna work. I'm gonna call out to you now—make sure you can hear my voice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104623Z" creationid="Syn Spawacza" creationdate="20200606T104623Z">
+        <seg>Wygląda na to że rozpoznawanie głosu jest wyciszone. Teraz zacznę do ciebie mówić — upewnij się że słyszysz mój głos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23403,6 +23515,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uh, hellooo? Go ahead and adjust your settings so you can hear me, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104633Z" creationid="Syn Spawacza" creationdate="20200606T104633Z">
+        <seg>Eee, halooo? No dalej, dostosuj ustawienia tak, byś mnie słyszała.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Uh, ma'am?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175938Z" creationid="Syn Spawacza" creationdate="20200530T175756Z">
@@ -23517,8 +23637,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Understood, sir.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195510Z" creationid="Syn Spawacza" creationdate="20200530T195510Z">
-        <seg>Tak jest.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104538Z" creationid="Syn Spawacza" creationdate="20200530T195510Z">
+        <seg>Zrozumiano, sir.</seg>
       </tuv>
     </tu>
     <tu>
