@@ -5644,6 +5644,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Buy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091842Z" creationid="Syn Spawacza" creationdate="20200606T091842Z">
+        <seg>Kup</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>C</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204218Z" creationid="Syn Spawacza" creationdate="20200601T204218Z">
@@ -10072,6 +10080,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191559Z" creationid="Syn Spawacza" creationdate="20200601T191559Z">
         <seg>Karp włochaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fuse</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091903Z" creationid="Syn Spawacza" creationdate="20200606T091903Z">
+        <seg>Połącz</seg>
       </tuv>
     </tu>
     <tu>
@@ -18783,6 +18799,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SOLD OUT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091839Z" creationid="Syn Spawacza" creationdate="20200606T091839Z">
+        <seg>SPRZEDANE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>STAFF</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173118Z" creationid="Syn Spawacza" creationdate="20200530T173118Z">
@@ -19422,6 +19446,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135950Z" creationid="Syn Spawacza" creationdate="20200530T135950Z">
         <seg>Autodestrukcja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091906Z" creationid="Syn Spawacza" creationdate="20200606T091906Z">
+        <seg>Sprzedaj</seg>
       </tuv>
     </tu>
     <tu>
@@ -22612,6 +22644,14 @@ Forest Kingdom.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122012Z" creationid="Syn Spawacza" creationdate="20200601T122012Z">
         <seg>Odblokowuje podsystem Wieży
 w Leśnym Królestwie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091928Z" creationid="Syn Spawacza" creationdate="20200606T091928Z">
+        <seg>Ulepsz</seg>
       </tuv>
     </tu>
     <tu>
