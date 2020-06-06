@@ -21652,6 +21652,16 @@ Pozostawić ustawienia?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The selected chip is currently equipped to a chip set. If you fuse it, it will be removed from its chip set. 
+Do you wish to fuse this chip?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092715Z" creationid="Syn Spawacza" creationdate="20200606T092715Z">
+        <seg>Wybrany czip jest wyekwipowany jako część zestawu. Jeśli go połączysz, to zostanie on usunięty z zestawu.
+Czy chcesz połączyć ten czip?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The standard, most enjoyable difficulty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073522Z" creationid="Syn Spawacza" creationdate="20200601T073522Z">
@@ -21793,6 +21803,14 @@ przedmiot w sklepie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This can't be enhanced further at this shop.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092552Z" creationid="Syn Spawacza" creationdate="20200606T092552Z">
+        <seg>Nie można bardziej ulepszyć w tym sklepie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chip can only be equipped on Easy mode.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163201Z" creationid="Syn Spawacza" creationdate="20200530T163201Z">
@@ -21805,6 +21823,14 @@ przedmiot w sklepie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163636Z" creationid="Syn Spawacza" creationdate="20200530T163636Z">
         <seg>Ten czip może być użyty tylko na poziomie Trudny i niższych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chip is currently equipped to a chip set. Sell for &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092804Z" creationid="Syn Spawacza" creationdate="20200606T092804Z">
+        <seg>Ten czip jest wyekwipowany jako część zestawu. Sprzedać za &lt;TOTAL_PRICE&gt; G?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21983,6 +22009,14 @@ with the blood of years of conflict.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T152254Z" creationid="Syn Spawacza" creationdate="20200601T152254Z">
         <seg>Miecz wojownika, który przez lata walk krew
 zabarwiła na czarno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This weapon can't be upgraded further.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092602Z" creationid="Syn Spawacza" creationdate="20200606T092602Z">
+        <seg>Nie można bardziej ulepszyć tej broni.</seg>
       </tuv>
     </tu>
     <tu>
