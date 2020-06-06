@@ -4900,6 +4900,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BASE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092346Z" creationid="Syn Spawacza" creationdate="20200606T092346Z">
+        <seg>BAZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BERSERK</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212450Z" creationid="Syn Spawacza" creationdate="20200601T212450Z">
@@ -5034,6 +5042,14 @@ difficult to land effective blows with them.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181506Z" creationid="Syn Spawacza" creationdate="20200601T140827Z">
         <seg>Gołe pięści androida to zadowalająca broń, ale może być
 trudno zadać nimi efektywne obrażenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Base Chip</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092352Z" creationid="Syn Spawacza" creationdate="20200606T092352Z">
+        <seg>Czip bazowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7020,10 +7036,26 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Creatable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092408Z" creationid="Syn Spawacza" creationdate="20200606T092408Z">
+        <seg>Można utworzyć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Create a custom control scheme.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135113Z" creationid="Syn Spawacza" creationdate="20200530T135059Z">
         <seg>Stwórz własny schemat sterowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create chip for &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092450Z" creationid="Syn Spawacza" creationdate="20200606T092450Z">
+        <seg>Utworzyć czip za &lt;TOTAL_PRICE&gt; G?</seg>
       </tuv>
     </tu>
     <tu>
@@ -9038,6 +9070,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072944Z" creationid="Syn Spawacza" creationdate="20200601T072944Z">
         <seg>Wyposaż</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equip purchased weapons?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092520Z" creationid="Syn Spawacza" creationdate="20200606T092520Z">
+        <seg>Wyekwipować zakupioną broń?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17342,6 +17382,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Purchase for &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092432Z" creationid="Syn Spawacza" creationdate="20200606T092432Z">
+        <seg>Kupić za &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Purchase items.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091946Z" creationid="Syn Spawacza" creationdate="20200606T091946Z">
@@ -18117,6 +18165,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190719Z" creationid="Syn Spawacza" creationdate="20200530T190719Z">
         <seg>Proszę o... zniszczenie wrogów przez reakcję czarnych skrzynek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Required:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092416Z" creationid="Syn Spawacza" creationdate="20200606T092416Z">
+        <seg>Wymagane:</seg>
       </tuv>
     </tu>
     <tu>
@@ -19218,6 +19274,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select Pod to upgrade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092342Z" creationid="Syn Spawacza" creationdate="20200606T092342Z">
+        <seg>Wybierz pod do ulepszenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select Pod.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211658Z" creationid="Syn Spawacza" creationdate="20200601T211658Z">
@@ -19418,6 +19482,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select the base chip.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092252Z" creationid="Syn Spawacza" creationdate="20200606T092252Z">
+        <seg>Wybierz czip bazowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select the button you wish to change.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205956Z" creationid="Syn Spawacza" creationdate="20200530T135149Z">
@@ -19470,6 +19542,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T181322Z" creationid="Syn Spawacza" creationdate="20200601T181322Z">
         <seg>Wybierz warsztat który chcesz sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select the plug-in chip to be fused with the base chip.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092335Z" creationid="Syn Spawacza" creationdate="20200606T092335Z">
+        <seg>Wybierz czip rozszerzeń który połączyć z czipem bazowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19534,6 +19614,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091906Z" creationid="Syn Spawacza" creationdate="20200606T091906Z">
         <seg>Sprzedaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sell for &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092440Z" creationid="Syn Spawacza" creationdate="20200606T092440Z">
+        <seg>Sprzedać za &lt;TOTAL_PRICE&gt; G?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22587,6 +22675,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uncreatable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092411Z" creationid="Syn Spawacza" creationdate="20200606T092411Z">
+        <seg>Nie można utworzyć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Under the Theater</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175249Z" creationid="Syn Spawacza" creationdate="20200601T175249Z">
@@ -22752,10 +22848,26 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Upgrade for &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092506Z" creationid="Syn Spawacza" creationdate="20200606T092506Z">
+        <seg>Ulepszyć za &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Upgrade weapons.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092049Z" creationid="Syn Spawacza" creationdate="20200606T092049Z">
         <seg>Ulepsz broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade your Pod.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092238Z" creationid="Syn Spawacza" creationdate="20200606T092238Z">
+        <seg>Ulepsz poda.</seg>
       </tuv>
     </tu>
     <tu>
