@@ -316,8 +316,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...Well?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204709Z" creationid="Syn Spawacza" creationdate="20200530T204709Z">
-        <seg>...I co?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104935Z" creationid="Syn Spawacza" creationdate="20200530T204709Z">
+        <seg>I jak...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,6 +544,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204153Z" creationid="Syn Spawacza" creationdate="20200530T204153Z">
         <seg>2B musiała to czuć...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B must have felt that... Maybe she's just messing with me.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104901Z" creationid="Syn Spawacza" creationdate="20200606T104901Z">
+        <seg>2B musiała to czuć... Może tylko ze mną droczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5990,6 +5998,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But that's what regulations call for. Still, I'll keep it a secret from the Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104959Z" creationid="Syn Spawacza" creationdate="20200606T104959Z">
+        <seg>Takie są przepisy. Ale nie powiem Dowódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Buy</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T091842Z" creationid="Syn Spawacza" creationdate="20200606T091842Z">
@@ -9586,6 +9602,16 @@ poczuć się mądrym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, hold on. Your self-destruct permissions are missing.
+Wait a sec, we need to restore those.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104745Z" creationid="Syn Spawacza" creationdate="20200606T104745Z">
+        <seg>Eee, czekaj. Brakuje pozwolenia na autodestrukcję.
+Chwila, musimy to przywrócić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Er, how was that?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204435Z" creationid="Syn Spawacza" creationdate="20200530T204435Z">
@@ -9598,6 +9624,14 @@ poczuć się mądrym.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205244Z" creationid="Syn Spawacza" creationdate="20200530T205244Z">
         <seg>Eee, nie chodzi o mnie, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Er, this isn't about me, is it? Because I'm really hoping we'll be a good team going forward.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T105022Z" creationid="Syn Spawacza" creationdate="20200606T105022Z">
+        <seg>Eee, nie chodzi o mnie, prawda? Bo mam nadzieję, że będziemy jeszcze zgranym zespołem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11660,6 +11694,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heh. Ma'am, you fiddled with so many things, I ended up hitting my max storage limit. I'll have to stop recording for now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T105100Z" creationid="Syn Spawacza" creationdate="20200606T105100Z">
+        <seg>Heh. Kombinowała Pani z tyloma rzeczami, że skończyło mi się miejsce w pamięci. Będę musiał skończyć nagrywanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heheh...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185315Z" creationid="Syn Spawacza" creationdate="20200530T185315Z">
@@ -11700,6 +11742,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here, let me try somewhere else. I'm gonna tap you on the arm this time, okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104847Z" creationid="Syn Spawacza" creationdate="20200606T104847Z">
+        <seg>Dobra, spróbuję inaczej. Dotknę cię w rękę, okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hero Sigil</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T163526Z" creationid="Syn Spawacza" creationdate="20200601T163526Z">
@@ -11712,6 +11762,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203459Z" creationid="Syn Spawacza" creationdate="20200530T203459Z">
         <seg>Hej, no dalej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, come on now! I'm just trying to follow regulations here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104811Z" creationid="Syn Spawacza" creationdate="20200606T104811Z">
+        <seg>Hej, no dalej. Ja chcę tylko przestrzegać przepisów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11861,6 +11919,22 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm... I don't know what's causing this, so we'll need to run some precision diagnostics later.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104942Z" creationid="Syn Spawacza" creationdate="20200606T104942Z">
+        <seg>Hmm. Nie wiem co jest tego przyczyną, trzeba będzie wykonać dokładniejszą diagnostykę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hmm... It seems to be back to normal now. How odd.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104739Z" creationid="Syn Spawacza" creationdate="20200606T104739Z">
+        <seg>Hmm. Chyba wróciło do normy. Dziwne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ho229 flight unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
@@ -11989,10 +12063,42 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How was that? Did you feel it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104824Z" creationid="Syn Spawacza" creationdate="20200606T104824Z">
+        <seg>I jak? Czułaś to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180806Z" creationid="Syn Spawacza" creationdate="20200530T180806Z">
         <seg>Hę?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Huh? Really?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104854Z" creationid="Syn Spawacza" creationdate="20200606T104854Z">
+        <seg>Hę? Serio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Huh? That's odd. Everything should be set up correctly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104828Z" creationid="Syn Spawacza" creationdate="20200606T104828Z">
+        <seg>Hę? Dziwne. Wszystko powinno być ustawione poprawnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Huh? Wait, no. You need to leave that turned on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104758Z" creationid="Syn Spawacza" creationdate="20200606T104758Z">
+        <seg>Hę? Czekaj, nie. Musisz to zostawić włączone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12045,6 +12151,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203048Z" creationid="Syn Spawacza" creationdate="20200530T203048Z">
         <seg>Mógłbym to ustawić za ciebie, ale raczej powinnaś to zrobić sama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I could set it for you, but you should probably do it yourself. Regulations and all, you know?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104755Z" creationid="Syn Spawacza" creationdate="20200606T104755Z">
+        <seg>Mógłbym to ustawić za ciebie, ale raczej powinnaś to zrobić sama. Regulacje i takie tam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12261,6 +12375,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211702Z" creationid="Syn Spawacza" creationdate="20200530T203250Z">
         <seg>Obawiam się, że nie mogę tego tak zostawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm afraid I can't leave this as-is, ma'am. Please give your permission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104806Z" creationid="Syn Spawacza" creationdate="20200606T104806Z">
+        <seg>Obawiam się, że nie mogę tego tak zostawić. Proszę dać pozwolenie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16383,6 +16505,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, I see you've turned vibration detection on. Let's run a check to make sure it's working.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104820Z" creationid="Syn Spawacza" creationdate="20200606T104820Z">
+        <seg>Aha, widzę, że włączyłaś detekcję wibracji. Upewnijmy się, czy działa jak należy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, and I should probably let you know that this entire process is being recorded for posterity.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200807Z" creationid="Syn Spawacza" creationdate="20200530T200807Z">
@@ -16503,10 +16633,26 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay, good. If things go wrong during an op, you may have to sacrifice yourself in order to finish it, sooo...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104816Z" creationid="Syn Spawacza" creationdate="20200606T104816Z">
+        <seg>Okej, dobra. Jak coś pójdzie nie tak w czasie operacji, może być konieczność poświęcenia się by ją zakończyć, więc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okay, great.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204720Z" creationid="Syn Spawacza" creationdate="20200530T204720Z">
         <seg>Okej, świetnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, great. Thanks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104938Z" creationid="Syn Spawacza" creationdate="20200606T104938Z">
+        <seg>Okej, świetnie. Dzięki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20722,6 +20868,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204357Z" creationid="Syn Spawacza" creationdate="20200530T204357Z">
         <seg>Tylko czy powinienem ją tam dotykać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Should I tap her here, though? She might get angry at me.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104914Z" creationid="Syn Spawacza" creationdate="20200606T104914Z">
+        <seg>Tylko czy powinienem ją tam dotykać? Może być na mnie zła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25118,6 +25272,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, if you say so. How about this?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104905Z" creationid="Syn Spawacza" creationdate="20200606T104905Z">
+        <seg>Skoro tak mówisz. Co powiesz na to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, uh...I guess we have to find the target then, huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175316Z" creationid="Syn Spawacza" creationdate="20200530T175316Z">
@@ -25274,6 +25436,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203128Z" creationid="Syn Spawacza" creationdate="20200530T203128Z">
         <seg>Nie możesz tak robić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah, you can't really do that. It needs to be turned on except in very specific cases.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104804Z" creationid="Syn Spawacza" creationdate="20200606T104804Z">
+        <seg>Nie możesz tak robić. Musi to zostać włączone, poza bardzo konkretnymi przypadkami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25663,6 +25833,14 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205130Z" creationid="Syn Spawacza" creationdate="20200530T205130Z">
         <seg>Ty... nie chcesz słyszeć mojego głosu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You...don't want to hear my voice? I mean, it's your choice and all, but...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T105012Z" creationid="Syn Spawacza" creationdate="20200606T105012Z">
+        <seg>Ty... nie chcesz słyszeć mojego głosu. Znaczy, twój wybór, ale...</seg>
       </tuv>
     </tu>
     <tu>
