@@ -22268,6 +22268,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Commander's put me in charge of your maintenance, ma'am.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110547Z" creationid="Syn Spawacza" creationdate="20200606T110547Z">
+        <seg>Dowódca przydzieliła mnie do konserwacji Pani.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The First Dimension</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214343Z" creationid="Syn Spawacza" creationdate="20200601T214343Z">
@@ -22550,6 +22558,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194705Z" creationid="Syn Spawacza" creationdate="20200530T194705Z">
         <seg>Garstka ocalałych uciekła z Ziemi, szukając schronienia na księżycu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The hangar's up ahead. Let's go.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110442Z" creationid="Syn Spawacza" creationdate="20200606T110442Z">
+        <seg>Hangar jest niedaleko. Chodźmy.</seg>
       </tuv>
     </tu>
     <tu>
