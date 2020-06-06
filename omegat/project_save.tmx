@@ -4590,6 +4590,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you carrying enough supplies on you? If not, you can always use the terminal in your room to replenish them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110930Z" creationid="Syn Spawacza" creationdate="20200606T110930Z">
+        <seg>Masz dość zaopatrzenia? W razie czego możesz je uzupełnić w terminalu w swoim pokoju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you serious?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204503Z" creationid="Syn Spawacza" creationdate="20200530T204503Z">
@@ -22228,6 +22236,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That means I'll be performing regular checks on you from now on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110722Z" creationid="Syn Spawacza" creationdate="20200606T110722Z">
+        <seg>Będę wykonywał pani regularne przeglądy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That was dangerous, ma'am.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175035Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
@@ -22270,8 +22286,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>The Commander's put me in charge of your maintenance, ma'am.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110547Z" creationid="Syn Spawacza" creationdate="20200606T110547Z">
-        <seg>Dowódca przydzieliła mnie do konserwacji Pani.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110552Z" creationid="Syn Spawacza" creationdate="20200606T110547Z">
+        <seg>Dowódca przydzieliła mnie do konserwacji pani.</seg>
       </tuv>
     </tu>
     <tu>
