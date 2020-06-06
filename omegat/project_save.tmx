@@ -540,6 +540,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103446Z" creationid="Syn Spawacza" creationdate="20200606T103446Z">
+        <seg>2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B, can you hear me?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195551Z" creationid="Syn Spawacza" creationdate="20200530T195551Z">
@@ -568,6 +576,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102249Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
         <seg>2B? Ehm, proszę pani?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B? Wh-what's going on!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103315Z" creationid="Syn Spawacza" creationdate="20200606T103315Z">
+        <seg>2B? C-co się dzieje?</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,6 +784,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
         <seg>Wykryto sygnał czarnej skrzynki 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9S!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103509Z" creationid="Syn Spawacza" creationdate="20200606T103509Z">
+        <seg>9S!</seg>
       </tuv>
     </tu>
     <tu>
@@ -8597,6 +8621,14 @@ Autozmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Doesn't matter. I'll just take 'em out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103410Z" creationid="Syn Spawacza" creationdate="20200606T103410Z">
+        <seg>To bez znaczenia. Po prostu go załatwię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dog tag of a member of the Resistance.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115842Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
@@ -11701,6 +11733,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103254Z" creationid="Syn Spawacza" creationdate="20200606T103254Z">
+        <seg>Hmm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ho229 flight unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
@@ -12659,8 +12699,8 @@ w temperaturze 2000 stopni.</seg>
       <tuv lang="en-US">
         <seg>Is that—</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182524Z" creationid="Syn Spawacza" creationdate="20200530T182524Z">
-        <seg>Czy to—?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103423Z" creationid="Syn Spawacza" creationdate="20200530T182524Z">
+        <seg>Czy to...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12781,6 +12821,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181822Z" creationid="Syn Spawacza" creationdate="20200530T181822Z">
         <seg>To nie tak że dowództwo pomyliło miejsca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's not like Command to get a location wrong. I guess even they get bad intel from time to time, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103252Z" creationid="Syn Spawacza" creationdate="20200606T103252Z">
+        <seg>To nie tak że dowództwo pomyliło miejsca. Nawet nim zdarza się chyba dostać złe dane z wywiadu, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -14583,6 +14631,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maybe they...I dunno. Moved it somewhere?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103240Z" creationid="Syn Spawacza" creationdate="20200606T103240Z">
+        <seg>Może go... No nie wiem... Przenieśli gdzieś indziej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meat Box</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175400Z" creationid="Syn Spawacza" creationdate="20200601T175400Z">
@@ -15537,6 +15593,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210904Z" creationid="Syn Spawacza" creationdate="20200530T174542Z">
         <seg>Odmowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negative. Communications have been jammed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103514Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
+        <seg>Negative. Communications have been jammed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22493,6 +22557,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the target. I'm going to destroy it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103437Z" creationid="Syn Spawacza" creationdate="20200606T103437Z">
+        <seg>To nasz cel. Zniszczę go.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This item can only be changed from the title menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131323Z" creationid="Syn Spawacza" creationdate="20200530T131323Z">
@@ -23199,6 +23271,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211224Z" creationid="Syn Spawacza" creationdate="20200530T182728Z">
         <seg>Uhm... dobra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uh...right. I'll provide support!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103443Z" creationid="Syn Spawacza" creationdate="20200606T103443Z">
+        <seg>Uhm... dobra. Zapewnię wsparcie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -24415,6 +24495,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We have to help her! Let's go!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103326Z" creationid="Syn Spawacza" creationdate="20200606T103326Z">
+        <seg>Muszę jej pomóc! Szybko!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need you to rendezvous with unit 9S and begin gathering data on the local terrain.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174107Z" creationid="Syn Spawacza" creationdate="20200530T174107Z">
@@ -24768,8 +24856,8 @@ singular element.</seg>
       <tuv lang="en-US">
         <seg>What's your status!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182659Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
-        <seg>Jaka sytuacja?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103435Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
+        <seg>Jak sytuacja?</seg>
       </tuv>
     </tu>
     <tu>
@@ -24874,6 +24962,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181514Z" creationid="Syn Spawacza" creationdate="20200530T181514Z">
         <seg>Tak, teraz jest tu więcej roślin i zwierząt niż kiedyś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah, there's more plants and animals here than there used to be. Probably because the environment's changed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103233Z" creationid="Syn Spawacza" creationdate="20200606T103233Z">
+        <seg>Tak, teraz jest tu więcej roślin i zwierząt niż kiedyś. Pewnie dlatego, że środowisko się zmieniło.</seg>
       </tuv>
     </tu>
     <tu>
