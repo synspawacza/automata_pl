@@ -15525,6 +15525,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Negative. Nearby enemies are jamming our signal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102311Z" creationid="Syn Spawacza" creationdate="20200606T102311Z">
+        <seg>Odmowa. Pobliscy wrogowie zakłócają sygnał.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Negative. This enemy is unrelated.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101745Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
@@ -15735,8 +15743,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Nothing's ever easy...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180354Z" creationid="Syn Spawacza" creationdate="20200530T180354Z">
-        <seg>Nic nie jest proste...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T102613Z" creationid="Syn Spawacza" creationdate="20200530T180354Z">
+        <seg>Ciągle problemy...</seg>
       </tuv>
     </tu>
     <tu>
