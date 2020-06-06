@@ -292,8 +292,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...Right.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190643Z" creationid="Syn Spawacza" creationdate="20200530T190643Z">
-        <seg>...Dobrze.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104103Z" creationid="Syn Spawacza" creationdate="20200530T190643Z">
+        <seg>Dobrze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -584,6 +584,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190847Z" creationid="Syn Spawacza" creationdate="20200530T190847Z">
         <seg>2B... to był zaszczyt walczyć u twojego boku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B...it was an honor to fight with you. Truly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104122Z" creationid="Syn Spawacza" creationdate="20200606T104122Z">
+        <seg>2B... to był zaszczyt walczyć u twojego boku. Naprawdę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7086,6 +7094,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contact Command. Request assistance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103901Z" creationid="Syn Spawacza" creationdate="20200606T103901Z">
+        <seg>Skontaktuj się z dowództwem. Potrzebujemy pomocy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contaminated YoRHa</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194625Z" creationid="Syn Spawacza" creationdate="20200601T194625Z">
@@ -11580,6 +11596,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heheh... Talk about...bringing the battle to them...huh, 2B?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103857Z" creationid="Syn Spawacza" creationdate="20200606T103857Z">
+        <seg>Hehe... Ale go załatwiłaś... co nie, 2B?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Helheim</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214310Z" creationid="Syn Spawacza" creationdate="20200601T214310Z">
@@ -15817,6 +15841,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185253Z" creationid="Syn Spawacza" creationdate="20200530T185253Z">
         <seg>Nie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No... It doesn't look like that's...going to be necessary...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103935Z" creationid="Syn Spawacza" creationdate="20200606T103935Z">
+        <seg>Chyba... nie będzie takiej potrzeby...</seg>
       </tuv>
     </tu>
     <tu>
