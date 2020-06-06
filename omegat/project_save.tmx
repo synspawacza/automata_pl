@@ -3602,6 +3602,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Control Systems Abnormal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095517Z" creationid="Syn Spawacza" creationdate="20200606T095517Z">
+        <seg>Uszkodzenia wszystkich systemów kontroli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -5906,6 +5914,14 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142039Z" creationid="Syn Spawacza" creationdate="20200530T142039Z">
         <seg>Anuluj i powróć do gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cannot Initialize Hacking Systems</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095429Z" creationid="Syn Spawacza" creationdate="20200606T095429Z">
+        <seg>Nie można zainicjować systemów hakowania</seg>
       </tuv>
     </tu>
     <tu>
@@ -9352,6 +9368,14 @@ poczuć się mądrym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Evasive Maneuvering Systems Down</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095339Z" creationid="Syn Spawacza" creationdate="20200606T095339Z">
+        <seg>Uszkodzenia systemu manewrów unikowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Evasive System</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185858Z" creationid="Syn Spawacza" creationdate="20200601T185858Z">
@@ -12751,6 +12775,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jumping System Disabled</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095459Z" creationid="Syn Spawacza" creationdate="20200606T095459Z">
+        <seg>Uszkodzenia systemu skoku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Junior Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203635Z" creationid="Syn Spawacza" creationdate="20200601T203635Z">
@@ -14879,6 +14911,14 @@ włócznię na pielgrzymki.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181638Z" creationid="Syn Spawacza" creationdate="20200530T181638Z">
         <seg>Przenieśli gdzieś indziej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Movement System Abnormal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095402Z" creationid="Syn Spawacza" creationdate="20200606T095402Z">
+        <seg>Uszkodzenia systemów poruszania</seg>
       </tuv>
     </tu>
     <tu>
@@ -21178,6 +21218,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
         <seg>Wykryto cel misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Targeting System Abnormal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095446Z" creationid="Syn Spawacza" creationdate="20200606T095446Z">
+        <seg>Uszkodzenia systemu celowania</seg>
       </tuv>
     </tu>
     <tu>
