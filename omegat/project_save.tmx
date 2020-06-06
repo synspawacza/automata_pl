@@ -22838,6 +22838,14 @@ Czy chcesz połączyć ten czip?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The surface? That means we'll be getting flight units, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T113815Z" creationid="Syn Spawacza" creationdate="20200606T113815Z">
+        <seg>Na powierzchnię? A więc dostaniemy jednostki latające.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The torso unit of a machine lifeform.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103717Z" creationid="Syn Spawacza" creationdate="20200601T103717Z">
@@ -26919,6 +26927,16 @@ Popularne na Dalekim Wschodzie.</seg>
         <seg>Understood.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T112202Z" creationid="Syn Spawacza" creationdate="20200606T112202Z">
+        <seg>Tak jest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p100_973474b4_scp.properties</prop>
+      <prop type="id">M1010_S0030_G0200_001_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Understood.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T113019Z" creationid="Syn Spawacza" creationdate="20200606T113019Z">
         <seg>Tak jest.</seg>
       </tuv>
     </tu>
