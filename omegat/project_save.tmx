@@ -23517,6 +23517,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Too bad they can't mass-produce these things yet...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114622Z" creationid="Syn Spawacza" creationdate="20200606T114622Z">
+        <seg>Szkoda że nie da się ich masowo produkować...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tool Shop Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201313Z" creationid="Syn Spawacza" creationdate="20200601T201313Z">
