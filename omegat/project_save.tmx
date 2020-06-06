@@ -266,6 +266,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111327Z" creationid="Syn Spawacza" creationdate="20200606T111327Z">
+        <seg>9S...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...All right.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103616Z" creationid="Syn Spawacza" creationdate="20200530T183954Z">
@@ -2648,6 +2656,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102541Z" creationid="Syn Spawacza" creationdate="20200601T102541Z">
         <seg>Zużyty, nieprzydatny wkręt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A-All right. If you say so.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111423Z" creationid="Syn Spawacza" creationdate="20200606T111423Z">
+        <seg>Dobrze. Skoro tak mówisz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11935,6 +11951,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hm? What is it, ma'am?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111343Z" creationid="Syn Spawacza" creationdate="20200606T111343Z">
+        <seg>Hm? Tak, proszę pani?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103254Z" creationid="Syn Spawacza" creationdate="20200606T103254Z">
@@ -16521,6 +16545,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, I almost forgot—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111444Z" creationid="Syn Spawacza" creationdate="20200606T111444Z">
+        <seg>Ach, byłbym zapomniał...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, I see you've turned vibration detection on.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211726Z" creationid="Syn Spawacza" creationdate="20200530T203822Z">
@@ -16547,8 +16579,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Oh, don't worry. We 9S models are the best around, you know.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111218Z" creationid="Syn Spawacza" creationdate="20200606T111131Z">
-        <seg>Ah, nie martw się. My, modele 9S, </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111251Z" creationid="Syn Spawacza" creationdate="20200606T111131Z">
+        <seg>Ah, nie martw się. My, modele 9S, jesteśmy najlepsze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21556,6 +21588,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Stop calling me "ma'am."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111349Z" creationid="Syn Spawacza" creationdate="20200606T111349Z">
+        <seg>Przestań mówić mi per „pani”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Storage Element</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092834Z" creationid="Syn Spawacza" creationdate="20200601T092834Z">
@@ -22799,6 +22839,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's no need to be so formal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111408Z" creationid="Syn Spawacza" creationdate="20200606T111408Z">
+        <seg>Nie ma potrzeby być tak formalnym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's something calming about your voice.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202628Z" creationid="Syn Spawacza" creationdate="20200530T202628Z">
@@ -23153,6 +23201,14 @@ Are you sure?</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183901Z" creationid="Syn Spawacza" creationdate="20200605T183901Z">
         <seg>Przywróci to ustawienia do wartości domyślnych, z wyjątkiem ustawień języka i obrazu. 
 Jesteś pewien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Though I suppose we're not exactly known for our modesty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111320Z" creationid="Syn Spawacza" creationdate="20200606T111320Z">
+        <seg>Choć, jak sądzę. nie słyniemy z skromności.</seg>
       </tuv>
     </tu>
     <tu>
