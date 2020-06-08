@@ -5134,6 +5134,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ask Pascal about the behavior of the machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161610Z" creationid="Syn Spawacza" creationdate="20200608T161610Z">
+        <seg>Zapytaj Pascala o zachowanie maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Assault</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173256Z" creationid="Syn Spawacza" creationdate="20200601T173256Z">
@@ -9089,8 +9097,8 @@ Wskrzeszone ciało</seg>
       <tuv lang="en-US">
         <seg>Destroy Adam and Eve.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161506Z" creationid="Syn Spawacza" creationdate="20200608T161506Z">
-        <seg>Zniszcz Adama i Ewę</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161525Z" creationid="Syn Spawacza" creationdate="20200608T161506Z">
+        <seg>Zniszcz Adama i Ewę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9111,10 +9119,26 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy YoRHa prototype A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161814Z" creationid="Syn Spawacza" creationdate="20200608T161814Z">
+        <seg>Zniszcz prototyp YoRHa A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the Goliath-class unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
         <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161745Z" creationid="Syn Spawacza" creationdate="20200608T161745Z">
+        <seg>Zniszcz mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11408,6 +11432,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fulfill the villager's request.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161631Z" creationid="Syn Spawacza" creationdate="20200608T161631Z">
+        <seg>Spełnij prośbę mieszkańca wioski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Full HP Restored</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171919Z" creationid="Syn Spawacza" creationdate="20200530T171919Z">
@@ -12490,6 +12522,22 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170253Z" creationid="Syn Spawacza" creationdate="20200530T170253Z">
         <seg>Idź do prywatnej kwatery 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Head to Pascal's village via an access point.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161555Z" creationid="Syn Spawacza" creationdate="20200608T161555Z">
+        <seg>Idź do wioski Pascala przez punkt dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Head to the forest via the commercial facility.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161735Z" creationid="Syn Spawacza" creationdate="20200608T161735Z">
+        <seg>Idź do lasu przez obiekt handlowy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21689,6 +21737,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141730Z" creationid="Syn Spawacza" creationdate="20200530T141730Z">
         <seg>Powrót do ekranu tytułowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return to the Bunker via an access point.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161523Z" creationid="Syn Spawacza" creationdate="20200608T161523Z">
+        <seg>Powróć do Bunkra przez punkt dostępu.</seg>
       </tuv>
     </tu>
     <tu>
