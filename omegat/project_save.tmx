@@ -9103,6 +9103,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy Adam and save 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162035Z" creationid="Syn Spawacza" creationdate="20200608T162035Z">
+        <seg>Zniszcz Adama i uratuj 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211748Z" creationid="Syn Spawacza" creationdate="20200601T211748Z">
@@ -11036,6 +11044,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162012Z" creationid="Syn Spawacza" creationdate="20200608T162012Z">
+        <seg>Znajdź 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find the missing YoRHa units.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160702Z" creationid="Syn Spawacza" creationdate="20200608T160702Z">
@@ -11228,6 +11244,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075715Z" creationid="Syn Spawacza" creationdate="20200601T075715Z">
         <seg>Latający (S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow 9S's tracks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162025Z" creationid="Syn Spawacza" creationdate="20200608T162025Z">
+        <seg>Podążaj za śladem 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11760,6 +11784,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211611Z" creationid="Syn Spawacza" creationdate="20200530T202225Z">
         <seg>No dalej, dostosuj ustawienia tak, byś mnie słyszała.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161835Z" creationid="Syn Spawacza" creationdate="20200608T161835Z">
+        <seg>Idź do obozu ruchu oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24231,6 +24263,14 @@ potężne celowi uderzenie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support the missile supply mission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161902Z" creationid="Syn Spawacza" creationdate="20200608T161902Z">
+        <seg>Pomóż misji zaopatrzenia rakiet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suspicious Android</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203642Z" creationid="Syn Spawacza" creationdate="20200601T203642Z">
@@ -24460,10 +24500,26 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Talk to Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161823Z" creationid="Syn Spawacza" creationdate="20200608T161823Z">
+        <seg>Porozmawiaj z Pascalem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Talk to the Resistance Camp leader.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160438Z" creationid="Syn Spawacza" creationdate="20200608T160438Z">
         <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Talk to the red-headed Resistance members.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161933Z" creationid="Syn Spawacza" creationdate="20200608T161933Z">
+        <seg>Porozmawiaj z rudowłosymi członkiniami ruchu oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26754,6 +26810,14 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Use the giant terminal to support 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162207Z" creationid="Syn Spawacza" creationdate="20200608T162207Z">
+        <seg>Użyj wielkiego terminala by pomóc 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Use this to change your costume.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T125445Z" creationid="Syn Spawacza" creationdate="20200601T125445Z">
@@ -26793,6 +26857,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103754Z" creationid="Syn Spawacza" creationdate="20200606T103754Z">
         <seg>Użyj poda... P-powinien być w stanie... je przejąć..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use your scanner to find surviving YoRHa units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162008Z" creationid="Syn Spawacza" creationdate="20200608T162008Z">
+        <seg>Użyj skanera by znaleźć ocalałe jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
