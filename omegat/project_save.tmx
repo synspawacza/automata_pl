@@ -11612,6 +11612,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Family Squabble</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211232Z" creationid="Syn Spawacza" creationdate="20200608T211232Z">
+        <seg>Rodzinna sprzeczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fang of the Twins</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135001Z" creationid="Syn Spawacza" creationdate="20200601T135001Z">
@@ -17125,6 +17133,22 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine Examination 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211215Z" creationid="Syn Spawacza" creationdate="20200608T211215Z">
+        <seg>Analiza maszyny 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machine Examination 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211216Z" creationid="Syn Spawacza" creationdate="20200608T211216Z">
+        <seg>Analiza maszyny 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine Fossil</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085254Z" creationid="Syn Spawacza" creationdate="20200601T085254Z">
@@ -19221,6 +19245,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090814Z" creationid="Syn Spawacza" creationdate="20200601T090814Z">
         <seg>Klucz dostępu z morza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Of Machines and Beasts</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211402Z" creationid="Syn Spawacza" creationdate="20200608T211402Z">
+        <seg>O maszynach i zwierzętach</seg>
       </tuv>
     </tu>
     <tu>
@@ -23195,6 +23227,14 @@ swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085301Z" creationid="Syn Spawacza" creationdate="20200601T085301Z">
         <seg>List Sartre'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sartre's Melancholy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211105Z" creationid="Syn Spawacza" creationdate="20200608T211105Z">
+        <seg>Melancholia Sartre'a</seg>
       </tuv>
     </tu>
     <tu>
