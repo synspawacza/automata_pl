@@ -2331,10 +2331,26 @@ Nie powinieneś go nie czytać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lone lancer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172551Z" creationid="Syn Spawacza" creationdate="20200608T172551Z">
+        <seg>Samotny włócznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A lone soldier</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171654Z" creationid="Syn Spawacza" creationdate="20200608T171654Z">
         <seg>Samotny żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lone swordsman</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172419Z" creationid="Syn Spawacza" creationdate="20200608T172419Z">
+        <seg>Samotny szermierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2569,6 +2585,14 @@ liege, and met his own fate on the same edge.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182106Z" creationid="Syn Spawacza" creationdate="20200601T153444Z">
         <seg>Sobowtór księcia zabił swojego pana za pomocą tej
 włóczni, po czym spotkał go taki sam los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A reckless soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172238Z" creationid="Syn Spawacza" creationdate="20200608T172238Z">
+        <seg>Brawurowy żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -4900,6 +4924,14 @@ przeznaczona dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160837Z" creationid="Syn Spawacza" creationdate="20200601T160837Z">
         <seg>Przestarzały model YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An unremarkable soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172344Z" creationid="Syn Spawacza" creationdate="20200608T172344Z">
+        <seg>Niewyróżniający się żołnierz</seg>
       </tuv>
     </tu>
     <tu>
