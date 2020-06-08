@@ -30377,8 +30377,8 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>applied all combat intel</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202245Z" creationid="Syn Spawacza" creationdate="20200608T202245Z">
-        <seg>stosuję dane z wywiadu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202642Z" creationid="Syn Spawacza" creationdate="20200608T202245Z">
+        <seg>stosuję wszelkie dane z wywiadu</seg>
       </tuv>
     </tu>
     <tu>
@@ -31683,6 +31683,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200400Z" creationid="Syn Spawacza" creationdate="20200608T200400Z">
         <seg>przestaję myśleć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>suddenly found myself on the ground</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202624Z" creationid="Syn Spawacza" creationdate="20200608T202624Z">
+        <seg>nagle znajduję się na ziemi</seg>
       </tuv>
     </tu>
     <tu>
