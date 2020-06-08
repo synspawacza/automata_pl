@@ -2033,6 +2033,14 @@ leather.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A cooperative soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172221Z" creationid="Syn Spawacza" creationdate="20200608T172221Z">
+        <seg>Skory do współpracy żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A cosmetic item humans would rub on
 their lips to make themselves beautiful.</seg>
       </tuv>
@@ -2370,6 +2378,14 @@ w rodzinie królewskiej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111047Z" creationid="Syn Spawacza" creationdate="20200601T111047Z">
         <seg>Metal używany przy spawaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A naive soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172147Z" creationid="Syn Spawacza" creationdate="20200608T172147Z">
+        <seg>Naiwny żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -4807,6 +4823,14 @@ may be made from scraps, but it gets the job done.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181811Z" creationid="Syn Spawacza" creationdate="20200605T181811Z">
         <seg>Improwizowany miecz używany przez mechaniczne
 formy życia. Może i jest z złomu, ale robi swoją robotę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An inexperienced soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172142Z" creationid="Syn Spawacza" creationdate="20200608T172142Z">
+        <seg>Niedoświadczony żołnierz</seg>
       </tuv>
     </tu>
     <tu>
