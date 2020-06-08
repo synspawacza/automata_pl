@@ -8880,6 +8880,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Decide what to do with Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170424Z" creationid="Syn Spawacza" creationdate="20200608T170424Z">
+        <seg>Zdecyduj co zrobić z Pascalem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Decreases chance of staggering from attacks.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164952Z" creationid="Syn Spawacza" creationdate="20200601T164952Z">
@@ -12028,6 +12036,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the recovery unit in the forest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170623Z" creationid="Syn Spawacza" creationdate="20200608T170623Z">
+        <seg>Idź do jednostki odzyskiwania zasobów w lesie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the rendezvous point and meet 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163118Z" creationid="Syn Spawacza" creationdate="20200608T163118Z">
@@ -12690,6 +12706,22 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163129Z" creationid="Syn Spawacza" creationdate="20200608T163129Z">
         <seg>Zhakuj 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack and analyze the giant structure.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170507Z" creationid="Syn Spawacza" creationdate="20200608T170507Z">
+        <seg>Zhakuj i zanalizuj gigantyczną strukturę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack and analyze the sub-units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170523Z" creationid="Syn Spawacza" creationdate="20200608T170523Z">
+        <seg>Zhakuj i zanalizuj podsystemy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22125,6 +22157,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to the children.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170409Z" creationid="Syn Spawacza" creationdate="20200608T170409Z">
+        <seg>Wróć do dzieci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Return to the title screen without saving?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184943Z" creationid="Syn Spawacza" creationdate="20200605T184943Z">
@@ -22722,6 +22762,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175851Z" creationid="Syn Spawacza" creationdate="20200601T175851Z">
         <seg>Ukryty sklep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See what's going on outside.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170445Z" creationid="Syn Spawacza" creationdate="20200608T170445Z">
+        <seg>Zobacz co się dzieje na zewnątrz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23548,6 +23596,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180753Z" creationid="Syn Spawacza" creationdate="20200601T180753Z">
         <seg>Pokaż na mapie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shut down the recovery unit in the forest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170637Z" creationid="Syn Spawacza" creationdate="20200608T170637Z">
+        <seg>Wyłącz jednostkę w lesie.</seg>
       </tuv>
     </tu>
     <tu>
