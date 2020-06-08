@@ -9087,6 +9087,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy Adam and Eve.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161506Z" creationid="Syn Spawacza" creationdate="20200608T161506Z">
+        <seg>Zniszcz Adama i Ewę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211748Z" creationid="Syn Spawacza" creationdate="20200601T211748Z">
@@ -14585,10 +14593,18 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigate the alien facility.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161454Z" creationid="Syn Spawacza" creationdate="20200608T161454Z">
+        <seg>Zbadaj obiekt obcych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investigate the flooded area for alien readings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161228Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
-        <seg>Zbadaj zatopiny </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161418Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
+        <seg>Zbadaj zatopiony obszar pod kątem sygnałów obcych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14597,6 +14613,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160603Z" creationid="Syn Spawacza" creationdate="20200608T160603Z">
         <seg>Zbadaj ruiny na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the underground cave.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161429Z" creationid="Syn Spawacza" creationdate="20200608T161429Z">
+        <seg>Zbadaj podziemną jaskinię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26513,9 +26537,9 @@ w parku rozrywki.</seg>
         <seg>Unlocks a Tower sub-unit in the
 Flooded City.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122027Z" creationid="Syn Spawacza" creationdate="20200601T122027Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161241Z" creationid="Syn Spawacza" creationdate="20200601T122027Z">
         <seg>Odblokowuje podsystem Wieży
-w zalanym mieście.</seg>
+w zatopionym mieście.</seg>
       </tuv>
     </tu>
     <tu>
