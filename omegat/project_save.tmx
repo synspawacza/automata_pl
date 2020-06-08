@@ -14723,6 +14723,20 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have the Network Features option turned on, you'll be able to see other players' dead bodies. By examining these bodies, you can do the following:
+ 
+- Retrieve: You'll temporarily gain 3 random effects based on the chips the player had equipped.
+- Repair: The body will follow you around and aid you in combat (one max).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222024Z" creationid="Syn Spawacza" creationdate="20200608T222024Z">
+        <seg>Jeśli funkcje sieciowe są włączone, będziesz w stanie zobaczyć martwe ciała innych graczy. Podchodząc do nich, możesz wykonać jedno z poniższych:
+
+- Odzyskaj: Zyskasz tymczasowo 3 losowe efekty, zależne od czipów używanych przez gracza.
+- Naprawa: Ciało (maksymalnie jedno) będzie podążać za tobą i pomagać w walce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have the Network Features option turned on, your body will be uploaded online upon death.
 You can create a death message for your body within the Network tab, under Edit Death Message within the System Menu.</seg>
       </tuv>
@@ -17016,6 +17030,16 @@ Część 1 z 5 kolekcji.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164930Z" creationid="Syn Spawacza" creationdate="20200530T164930Z">
         <seg>Wczytać dane zapisu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load this save file?
+Unsaved game data will be lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222135Z" creationid="Syn Spawacza" creationdate="20200608T222135Z">
+        <seg>Wczytać dane zapisu?
+Niezapisane dane zostaną utracone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26803,6 +26827,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The data for the "3C3C1D119440927" content has been deleted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222051Z" creationid="Syn Spawacza" creationdate="20200608T222051Z">
+        <seg>Dane zawartości "3C3C1D119440927" zostały usunięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103143Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
@@ -27408,6 +27440,16 @@ Is that okay?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184704Z" creationid="Syn Spawacza" creationdate="20200605T184704Z">
         <seg>Gra zostanie zamknięta, a ustawienia zapisane.
+Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This will close the game.
+Is that okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222111Z" creationid="Syn Spawacza" creationdate="20200608T222111Z">
+        <seg>Gra zostanie zamknięta.
 Kontynuować?</seg>
       </tuv>
     </tu>
