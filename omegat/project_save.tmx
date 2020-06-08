@@ -5558,10 +5558,58 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 10% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154413Z" creationid="Syn Spawacza" creationdate="20200608T154413Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 10% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143805Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
-        <seg>Używa przedm. leczących gdy PŻ poniżej 30%. Leczy 15% więcej.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154404Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 15% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 20% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154423Z" creationid="Syn Spawacza" creationdate="20200608T154423Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 20% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 30% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154425Z" creationid="Syn Spawacza" creationdate="20200608T154425Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 30% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 40% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154427Z" creationid="Syn Spawacza" creationdate="20200608T154427Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 40% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 50% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154430Z" creationid="Syn Spawacza" creationdate="20200608T154430Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 50% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 60% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154432Z" creationid="Syn Spawacza" creationdate="20200608T154432Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 60% więcej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13743,6 +13791,78 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
         <seg>Zwiększa prędkość poruszania się o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 120%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 120%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 140%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 140%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 160%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 160%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 180%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 180%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 200%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 200%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 250%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 250%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 300%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 300%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 350%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 350%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of charge attacks (hold &lt;KC_HEAVY_ATK_2&gt;) to 400%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154322Z" creationid="Syn Spawacza" creationdate="20200608T154322Z">
+        <seg>Zwiększa siłę szarży (przytrzymaj &lt;KC_HEAVY_ATK_2&gt;) o 400%.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23968,6 +24088,78 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T184728Z" creationid="Syn Spawacza" creationdate="20200601T184728Z">
         <seg>Prowokacja +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 180%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 180%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 200%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 200%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 240%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 240%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 280%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 280%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 300%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 300%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 350%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 350%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 400%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 400%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 450%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 450%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Taunts raise player and enemy attack power to 500%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154140Z" creationid="Syn Spawacza" creationdate="20200608T154140Z">
+        <seg>Prowokacja zwiększa siłę ataków gracza i wrogów o 500%.</seg>
       </tuv>
     </tu>
     <tu>
