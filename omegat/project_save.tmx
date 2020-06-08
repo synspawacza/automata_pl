@@ -19382,6 +19382,150 @@ za silniejsze od miecza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 30%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 60%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 60%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce melee damage taken by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145552Z" creationid="Syn Spawacza" creationdate="20200608T145552Z">
+        <seg>Zmniejsza obrażenia od ataków wręcz o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 30%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 60%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 60%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce projectile damage taken by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145630Z" creationid="Syn Spawacza" creationdate="20200608T145630Z">
+        <seg>Zmniejsza obrażenia od pocisków o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reduces the probability of cavities.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120710Z" creationid="Syn Spawacza" creationdate="20200601T120710Z">
