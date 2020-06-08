@@ -14707,6 +14707,16 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have the Network Features option turned on, your body will be uploaded online upon death.
+You can create a death message for your body within the Network tab, under Edit Death Message within the System Menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T221425Z" creationid="Syn Spawacza" creationdate="20200608T221425Z">
+        <seg>Jeśli funkcje sieciowe są włączone, twoje ciało po śmierci zostanie wysłane do sieci.
+Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji „Edytuj wiadomość po śmierci” w menu systemowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impact Bracer (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081044Z" creationid="Syn Spawacza" creationdate="20200601T081044Z">
