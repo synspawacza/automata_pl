@@ -30663,10 +30663,34 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>didn't give up until the very end</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195816Z" creationid="Syn Spawacza" creationdate="20200608T195816Z">
+        <seg>nie poddaję się aż do końca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>died</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195714Z" creationid="Syn Spawacza" creationdate="20200608T195714Z">
+        <seg>umieram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>died an honorable death</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T193247Z" creationid="Syn Spawacza" creationdate="20200608T193247Z">
         <seg>umieram honorową śmiercią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>died peacefully</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195732Z" creationid="Syn Spawacza" creationdate="20200608T195732Z">
+        <seg>umieram w spokoju</seg>
       </tuv>
     </tu>
     <tu>
@@ -30719,6 +30743,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>felt my life slip away</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195804Z" creationid="Syn Spawacza" creationdate="20200608T195804Z">
+        <seg>czuję jak życie ucieka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>felt my own lack of strength</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T181754Z" creationid="Syn Spawacza" creationdate="20200608T181754Z">
@@ -30739,6 +30771,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T181631Z" creationid="Syn Spawacza" creationdate="20200608T181631Z">
         <seg>czuję ciepło piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fought a brave battle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195833Z" creationid="Syn Spawacza" creationdate="20200608T195833Z">
+        <seg>walczę dzielnie</seg>
       </tuv>
     </tu>
     <tu>
