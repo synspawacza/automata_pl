@@ -8928,6 +8928,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Culinary Researcher</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214332Z" creationid="Syn Spawacza" creationdate="20200608T214332Z">
+        <seg>Badacz kulinarny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cure All + Heal All</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150257Z" creationid="Syn Spawacza" creationdate="20200530T150139Z">
@@ -26380,10 +26388,26 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Permanent Recluse</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214239Z" creationid="Syn Spawacza" creationdate="20200608T214239Z">
+        <seg>Wieczny odludek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Recluse</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214047Z" creationid="Syn Spawacza" creationdate="20200608T214047Z">
         <seg>Odludek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Recluse Stays Home</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214122Z" creationid="Syn Spawacza" creationdate="20200608T214122Z">
+        <seg>Odludek zostaje w domu</seg>
       </tuv>
     </tu>
     <tu>
