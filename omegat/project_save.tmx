@@ -9562,6 +9562,22 @@ i utworzyć nowy plik?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deliver the fuel filter to Anemone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223218Z" creationid="Syn Spawacza" creationdate="20200608T223218Z">
+        <seg>Dostarcz filtr paliwa do Anemone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Deliver the viscous oil to Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223232Z" creationid="Syn Spawacza" creationdate="20200608T223232Z">
+        <seg>Dostarcz gęsty smar do Pascala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Demon's Cry</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T140332Z" creationid="Syn Spawacza" creationdate="20200601T140332Z">
@@ -11206,6 +11222,14 @@ poczuć się mądrym.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184739Z" creationid="Syn Spawacza" creationdate="20200605T184739Z">
         <seg>Używane czipy autosterowania.
 &lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipping multiple &lt;CHIP_NAME&gt; chips will not increase their effect.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223529Z" creationid="Syn Spawacza" creationdate="20200608T223529Z">
+        <seg>Używanie wielu czipów &lt;CHIP_NAME&gt; nie zwiększa ich efektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21430,6 +21454,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Protect 2B at the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223422Z" creationid="Syn Spawacza" creationdate="20200608T223422Z">
+        <seg>Chroń 2B w ruinach miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162258Z" creationid="Syn Spawacza" creationdate="20200530T162258Z">
@@ -21994,6 +22026,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155903Z" creationid="Syn Spawacza" creationdate="20200530T155903Z">
         <seg>Restart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receive the philosophy book from Anemone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223312Z" creationid="Syn Spawacza" creationdate="20200608T223312Z">
+        <seg>Otrzymano książkę o filozofii od Anemone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26851,6 +26891,16 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The effect limit for "&lt;CHIP_NAME&gt;" has been exceeded.
+Effect limit: &lt;CHIP_HELP&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223412Z" creationid="Syn Spawacza" creationdate="20200608T223412Z">
+        <seg>Przekroczono limit efektu dla czipu: &lt;CHIP_NAME&gt;.
+Limit efektu: &lt;CHIP_HELP&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103143Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
@@ -30289,6 +30339,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092928Z" creationid="Syn Spawacza" creationdate="20200606T092928Z">
         <seg>Nie można połączyć czipów — czipy muszą mieć taką samą umiejętność i rangę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You cannot save because you used the debug menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223252Z" creationid="Syn Spawacza" creationdate="20200608T223252Z">
+        <seg>Nie można zapisać ponieważ użyto menu debugowego.</seg>
       </tuv>
     </tu>
     <tu>
