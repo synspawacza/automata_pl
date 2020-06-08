@@ -22728,6 +22728,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 3 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155054Z" creationid="Syn Spawacza" creationdate="20200608T155054Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 3 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shortcut Menu</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212548Z" creationid="Syn Spawacza" creationdate="20200601T212548Z">
@@ -28169,6 +28177,70 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204216Z" creationid="Syn Spawacza" creationdate="20200601T204216Z">
         <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 10m blast &amp; stun them for 3 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154937Z" creationid="Syn Spawacza" creationdate="20200608T154937Z">
+        <seg>Razi zhakowanego wroga, emitując 10 m wybuch ogłuszający na 3 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 10m blast &amp; stun them for 3.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154946Z" creationid="Syn Spawacza" creationdate="20200608T154946Z">
+        <seg>Razi zhakowanego wroga, emitując 10 m wybuch ogłuszający na 3,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 15m blast &amp; stun them for 3.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154950Z" creationid="Syn Spawacza" creationdate="20200608T154950Z">
+        <seg>Razi zhakowanego wroga, emitując 15 m wybuch ogłuszający na 3,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 15m blast &amp; stun them for 4 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154954Z" creationid="Syn Spawacza" creationdate="20200608T154954Z">
+        <seg>Razi zhakowanego wroga, emitując 15 m wybuch ogłuszający na 4 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 20m blast &amp; stun them for 4 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155001Z" creationid="Syn Spawacza" creationdate="20200608T155001Z">
+        <seg>Razi zhakowanego wroga, emitując 20 m wybuch ogłuszający na 4 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 20m blast &amp; stun them for 4.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155009Z" creationid="Syn Spawacza" creationdate="20200608T155009Z">
+        <seg>Razi zhakowanego wroga, emitując 20 m wybuch ogłuszający na 4,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 25m blast &amp; stun them for 4.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155016Z" creationid="Syn Spawacza" creationdate="20200608T155016Z">
+        <seg>Razi zhakowanego wroga, emitując 25 m wybuch ogłuszający na 4,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 25m blast &amp; stun them for 5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155022Z" creationid="Syn Spawacza" creationdate="20200608T155022Z">
+        <seg>Razi zhakowanego wroga, emitując 25 m wybuch ogłuszający na 5 s.</seg>
       </tuv>
     </tu>
     <tu>
