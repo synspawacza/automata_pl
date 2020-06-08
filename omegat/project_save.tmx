@@ -22609,6 +22609,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repairs completed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223204Z" creationid="Syn Spawacza" creationdate="20200608T223204Z">
+        <seg>Naprawy zakończone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replace your fuel filter.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163319Z" creationid="Syn Spawacza" creationdate="20200608T163319Z">
@@ -22645,6 +22653,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160645Z" creationid="Syn Spawacza" creationdate="20200608T160645Z">
         <seg>Zdaj raport Dowódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reported "&lt;QUEST_NAME&gt;".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223150Z" creationid="Syn Spawacza" creationdate="20200608T223150Z">
+        <seg>Zgłoszono: &lt;QUEST_NAME&gt;.</seg>
       </tuv>
     </tu>
     <tu>
