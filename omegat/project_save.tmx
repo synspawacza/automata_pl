@@ -12739,6 +12739,150 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase critical hit rate by 1%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 1%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 3%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 3%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 30%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 6%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 6%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase critical hit rate by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
+        <seg>Zwiększa ilość ataków krytycznych o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 100%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 50%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase power of projectile attacks by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
+        <seg>Zwiększa siłę ataku pocisków o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase power of weapon-based attacks by 10%.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T144953Z" creationid="Syn Spawacza" creationdate="20200608T144953Z">
@@ -19162,6 +19306,78 @@ za silniejsze od miecza.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173734Z" creationid="Syn Spawacza" creationdate="20200601T173734Z">
         <seg>Rudowłose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 25%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 25%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 35%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 35%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 50%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reduce Pod program cooldown time by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145514Z" creationid="Syn Spawacza" creationdate="20200608T145514Z">
+        <seg>Zmniejsza czas odnowienia progamu poda o 8%.</seg>
       </tuv>
     </tu>
     <tu>
