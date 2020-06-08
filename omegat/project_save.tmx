@@ -30159,6 +30159,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a battlefield on the sea</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174543Z" creationid="Syn Spawacza" creationdate="20200608T174543Z">
+        <seg>na polu bitwy na morzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at a city consumed by nature</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173142Z" creationid="Syn Spawacza" creationdate="20200608T173142Z">
@@ -30367,10 +30375,34 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>below dark skies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174532Z" creationid="Syn Spawacza" creationdate="20200608T174532Z">
+        <seg>pod ciemnym niebem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>broken [W]ings</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173246Z" creationid="Syn Spawacza" creationdate="20200530T173246Z">
         <seg>z[W]ichnięte skrzydła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>during a pointless battle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174616Z" creationid="Syn Spawacza" creationdate="20200608T174616Z">
+        <seg>podczas bezcelowej bitwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>during the decisive battle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174608Z" creationid="Syn Spawacza" creationdate="20200608T174608Z">
+        <seg>podczas decydującej bitwy</seg>
       </tuv>
     </tu>
     <tu>
@@ -30479,6 +30511,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in the free skies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174524Z" creationid="Syn Spawacza" creationdate="20200608T174524Z">
+        <seg>na wolnym niebie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>inside a tall tower</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174117Z" creationid="Syn Spawacza" creationdate="20200608T174117Z">
@@ -30499,6 +30539,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174104Z" creationid="Syn Spawacza" creationdate="20200608T174104Z">
         <seg>w wieży do której uśmiechają się anioły</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on green pastures</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174628Z" creationid="Syn Spawacza" creationdate="20200608T174628Z">
+        <seg>na zielonych pastwiskach</seg>
       </tuv>
     </tu>
     <tu>
