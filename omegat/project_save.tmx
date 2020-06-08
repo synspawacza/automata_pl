@@ -30217,6 +30217,18 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can open the debug menu by pressing &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
+ 
+Activating the debug menu will disable all save functionality until you load any save data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222932Z" creationid="Syn Spawacza" creationdate="20200608T222932Z">
+        <seg>Możesz otworzyć menu debugowe naciskając &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
+
+Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześniejszego zapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see access points on the close-range map. Be sure to save often!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115803Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
@@ -30497,6 +30509,16 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211639Z" creationid="Syn Spawacza" creationdate="20200530T202940Z">
         <seg>Brakuje pozwolenia na autodestrukcję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your sub-quest has been updated.
+You can check your progress on the Quests tab in the System Menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222837Z" creationid="Syn Spawacza" creationdate="20200608T222837Z">
+        <seg>Zaktualizowano postęp zadania pobocznego.
+Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</seg>
       </tuv>
     </tu>
     <tu>
