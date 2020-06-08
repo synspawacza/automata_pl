@@ -9951,6 +9951,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eliminate the machines in the desert.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160553Z" creationid="Syn Spawacza" creationdate="20200608T160553Z">
+        <seg>Wyeliminuj maszyny na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Emil</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203718Z" creationid="Syn Spawacza" creationdate="20200601T203718Z">
@@ -11520,6 +11528,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gain intel from the Resistance members.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160541Z" creationid="Syn Spawacza" creationdate="20200608T160541Z">
+        <seg>Przeprowadź wywiad wśród członków ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
@@ -12418,6 +12434,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170253Z" creationid="Syn Spawacza" creationdate="20200530T170253Z">
         <seg>Idź do prywatnej kwatery 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Head to the surface from the hangar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160413Z" creationid="Syn Spawacza" creationdate="20200608T160413Z">
+        <seg>Dostań się z hangaru na powierzchnię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14509,6 +14533,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142703Z" creationid="Syn Spawacza" creationdate="20200530T131945Z">
         <seg>Odwrócone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the ruins in the desert.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160603Z" creationid="Syn Spawacza" creationdate="20200608T160603Z">
+        <seg>Zbadaj ruiny na pustyni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24276,6 +24308,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Talk to the Resistance Camp leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160438Z" creationid="Syn Spawacza" creationdate="20200608T160438Z">
+        <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tall Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200645Z" creationid="Syn Spawacza" creationdate="20200601T200645Z">
@@ -27261,6 +27301,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133750Z" creationid="Syn Spawacza" creationdate="20200530T133750Z">
         <seg>Głośność głosów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Voice change option added to the "Other" options category.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160335Z" creationid="Syn Spawacza" creationdate="20200608T160335Z">
+        <seg>Opcja zmiany głosu dodana do ustawień w kategorii „Inne”.</seg>
       </tuv>
     </tu>
     <tu>
