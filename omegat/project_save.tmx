@@ -3772,6 +3772,54 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 0.6% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 0.6% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 1.2% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 1.2% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 2.4% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 2.4% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 3.6% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 3.6% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 4.8% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 4.8% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 6 seconds of not taking damage, restore 7.2% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 7.2% HP/sec.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aged Stick</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T091525Z" creationid="Syn Spawacza" creationdate="20200601T091525Z">
@@ -19334,10 +19382,146 @@ za silniejsze od miecza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recover 10% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150634Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 10% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 10% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150506Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
+        <seg>Odzyskuje 10% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 100% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150643Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 100% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 100% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150520Z" creationid="Syn Spawacza" creationdate="20200608T150458Z">
+        <seg>Odzyskuje 100% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 15% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150509Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
+        <seg>Odzyskuje 15% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recover 2% of damage dealt as HP.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150456Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
-        <seg>Odzyskuje 0% zadawanych obrażeń jako PŻ.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150503Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
+        <seg>Odzyskuje 2% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 20% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150635Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 20% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 20% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150510Z" creationid="Syn Spawacza" creationdate="20200608T150457Z">
+        <seg>Odzyskuje 20% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 30% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150636Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 30% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 30% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150511Z" creationid="Syn Spawacza" creationdate="20200608T150457Z">
+        <seg>Odzyskuje 30% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 40% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150637Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 40% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 5% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150633Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 5% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 5% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150505Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
+        <seg>Odzyskuje 5% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 50% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150639Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 50% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 50% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150513Z" creationid="Syn Spawacza" creationdate="20200608T150457Z">
+        <seg>Odzyskuje 50% zadawanych obrażeń jako PŻ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 60% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150640Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 60% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 80% HP for every enemy defeated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150641Z" creationid="Syn Spawacza" creationdate="20200608T150626Z">
+        <seg>Odzyskuje 80% PŻ po zniszczeniu wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 80% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150515Z" creationid="Syn Spawacza" creationdate="20200608T150457Z">
+        <seg>Odzyskuje 80% zadawanych obrażeń jako PŻ.</seg>
       </tuv>
     </tu>
     <tu>
