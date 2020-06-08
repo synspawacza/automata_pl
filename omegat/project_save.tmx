@@ -7326,6 +7326,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the mail from Command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162345Z" creationid="Syn Spawacza" creationdate="20200608T162345Z">
+        <seg>Sprawdź wiadomość od Dowódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cheerful Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200816Z" creationid="Syn Spawacza" creationdate="20200601T200749Z">
@@ -7890,6 +7898,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185908Z" creationid="Syn Spawacza" creationdate="20200601T185908Z">
         <seg>Ciągłe kombo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Control the machine lifeform to reach 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162224Z" creationid="Syn Spawacza" creationdate="20200608T162224Z">
+        <seg>Kontroluj mechaniczne formy życia by dostać się do 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12446,10 +12462,34 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hack into the elevator to unlock it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162237Z" creationid="Syn Spawacza" creationdate="20200608T162237Z">
+        <seg>Zhakuj windę by ją odblokować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hack into the enemy's weak point.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170140Z" creationid="Syn Spawacza" creationdate="20200530T170140Z">
         <seg>Zhakuj słaby punkt przeciwnika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack into the factory core to shut down the power.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162327Z" creationid="Syn Spawacza" creationdate="20200608T162327Z">
+        <seg>Zhakuj rdzeń fabryki by wyłączyć zasilanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack into the factory system to support 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162256Z" creationid="Syn Spawacza" creationdate="20200608T162256Z">
+        <seg>Zhakuj system fabryki by pomóc 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16865,6 +16905,14 @@ Może zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Meet Pascal at the abandoned factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162404Z" creationid="Syn Spawacza" creationdate="20200608T162404Z">
+        <seg>Spotkaj Pascala w opuszczonej fabryce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Melancholic Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203444Z" creationid="Syn Spawacza" creationdate="20200601T203444Z">
@@ -17747,6 +17795,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101745Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
         <seg>Odmowa. Wróg niepowiązany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negotiate peace inside the factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162439Z" creationid="Syn Spawacza" creationdate="20200608T162439Z">
+        <seg>Negocjuj pokój w wnętrzu fabryki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24504,6 +24560,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161823Z" creationid="Syn Spawacza" creationdate="20200608T161823Z">
         <seg>Porozmawiaj z Pascalem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Talk to the Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162331Z" creationid="Syn Spawacza" creationdate="20200608T162331Z">
+        <seg>Porozmawiaj z Dowódcą.</seg>
       </tuv>
     </tu>
     <tu>
