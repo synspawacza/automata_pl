@@ -7550,6 +7550,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Combos continue while evading.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155808Z" creationid="Syn Spawacza" creationdate="20200608T155808Z">
+        <seg>Unik nie przerywa kombo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combust</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185303Z" creationid="Syn Spawacza" creationdate="20200601T185303Z">
@@ -9267,6 +9275,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184418Z" creationid="Syn Spawacza" creationdate="20200605T184418Z">
         <seg>Wyświetla tekst z celem aktualnego zadania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display the EXP gauge and amount of EXP earned.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155955Z" creationid="Syn Spawacza" creationdate="20200608T155955Z">
+        <seg>Wyświetla wskaźnik PD i ilość dostawanych PD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14747,6 +14763,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144323Z" creationid="Syn Spawacza" creationdate="20200601T073254Z">
         <seg>Zdobyte przedmioty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Items are automatically drawn in and collected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155850Z" creationid="Syn Spawacza" creationdate="20200608T155850Z">
+        <seg>Przedmioty są automatycznie przyciągane i zbierane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23784,6 +23808,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083952Z" creationid="Syn Spawacza" creationdate="20200601T083952Z">
         <seg>Rozciągnięty zwój</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strike enemy bullets to detonate them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155829Z" creationid="Syn Spawacza" creationdate="20200608T155829Z">
+        <seg>Uderz pocisk wroga by go zdetonować.</seg>
       </tuv>
     </tu>
     <tu>
