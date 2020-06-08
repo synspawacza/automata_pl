@@ -30639,6 +30639,22 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>collapsed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190950Z" creationid="Syn Spawacza" creationdate="20200608T190950Z">
+        <seg>upadam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>could not get up again</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191038Z" creationid="Syn Spawacza" creationdate="20200608T191038Z">
+        <seg>nie mogę znów wstać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>during a pointless battle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174616Z" creationid="Syn Spawacza" creationdate="20200608T174616Z">
@@ -30651,6 +30667,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174608Z" creationid="Syn Spawacza" creationdate="20200608T174608Z">
         <seg>podczas decydującej bitwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fell</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190954Z" creationid="Syn Spawacza" creationdate="20200608T190954Z">
+        <seg>padam</seg>
       </tuv>
     </tu>
     <tu>
@@ -31431,6 +31455,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>vowed to grow as a person</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191057Z" creationid="Syn Spawacza" creationdate="20200608T191057Z">
+        <seg>ślubuję rozwijać się jako osoba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>vowed vengeance</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190635Z" creationid="Syn Spawacza" creationdate="20200608T190614Z">
@@ -31443,6 +31475,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190419Z" creationid="Syn Spawacza" creationdate="20200608T190419Z">
         <seg>wpadam w zasadzkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was careless</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190928Z" creationid="Syn Spawacza" creationdate="20200608T190928Z">
+        <seg>padam ofiarą swojej lekkomyślności</seg>
       </tuv>
     </tu>
     <tu>
