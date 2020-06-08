@@ -30655,6 +30655,22 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fell with grace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190514Z" creationid="Syn Spawacza" creationdate="20200608T190514Z">
+        <seg>upadam z gracją</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>felt despair at this cold world</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190658Z" creationid="Syn Spawacza" creationdate="20200608T190658Z">
+        <seg>czuję rozpacz w tym zimnym świecie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>felt my own lack of strength</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T181754Z" creationid="Syn Spawacza" creationdate="20200608T181754Z">
@@ -30675,6 +30691,22 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T181631Z" creationid="Syn Spawacza" creationdate="20200608T181631Z">
         <seg>czuję ciepło piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fought with all my strength</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190542Z" creationid="Syn Spawacza" creationdate="20200608T190542Z">
+        <seg>walczę z wszystkich sił</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fought with my last strength</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190710Z" creationid="Syn Spawacza" creationdate="20200608T190710Z">
+        <seg>walczę do ostatka sił</seg>
       </tuv>
     </tu>
     <tu>
@@ -31383,10 +31415,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>used up all my strength</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190840Z" creationid="Syn Spawacza" creationdate="20200608T190726Z">
+        <seg>wykorzystuję resztę siłę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>vowed revenge</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190509Z" creationid="Syn Spawacza" creationdate="20200608T190509Z">
         <seg>ślubuję zemstę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>vowed vengeance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190635Z" creationid="Syn Spawacza" creationdate="20200608T190614Z">
+        <seg>ślubuję odpłatę</seg>
       </tuv>
     </tu>
     <tu>
