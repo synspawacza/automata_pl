@@ -3772,50 +3772,74 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After 4 seconds of not taking damage, restore 18% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150908Z" creationid="Syn Spawacza" creationdate="20200608T150849Z">
+        <seg>Po 4 s bez odnoszenia obrażeń, przywróć 18% PŻ/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 5 seconds of not taking damage, restore 12% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150903Z" creationid="Syn Spawacza" creationdate="20200608T150849Z">
+        <seg>Po 5 s bez odnoszenia obrażeń, przywróć 12% PŻ/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After 5 seconds of not taking damage, restore 9.6% HP/sec.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150912Z" creationid="Syn Spawacza" creationdate="20200608T150849Z">
+        <seg>Po 5 s bez odnoszenia obrażeń, przywróć 9,6% PŻ/s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 0.6% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 0.6% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150817Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 0,6% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 1.2% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 1.2% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150820Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 1,2% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 2.4% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 2.4% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150823Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 2,4% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 3.6% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 3.6% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150825Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 3,6% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 4.8% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 4.8% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150827Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 4,8% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 7.2% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150742Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 7.2% HP/sec.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150831Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 7,2% PŻ/s</seg>
       </tuv>
     </tu>
     <tu>
@@ -12859,6 +12883,78 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase evade distance by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 100%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 120%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 120%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 160%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 160%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 200%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 200%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 40%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 40%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 60%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 60%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase evade distance by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150955Z" creationid="Syn Spawacza" creationdate="20200608T150955Z">
+        <seg>Zwiększa zasięg uników o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase maximum HP by 10%.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
@@ -12927,6 +13023,78 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
         <seg>Zwiększa maksymalną ilość PŻ o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 12%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 12%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 14%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 14%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 16%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 16%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 18%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 18%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 2%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 2%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 4%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 4%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase movement speed by 8%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151024Z" creationid="Syn Spawacza" creationdate="20200608T151024Z">
+        <seg>Zwiększa prędkość poruszania się o 8%.</seg>
       </tuv>
     </tu>
     <tu>
