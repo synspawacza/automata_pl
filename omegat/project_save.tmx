@@ -30687,6 +30687,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>couldn't even get a hit in</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T201058Z" creationid="Syn Spawacza" creationdate="20200608T201058Z">
+        <seg>nawet nie mogę trafić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>couldn't find a weakpoint</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191301Z" creationid="Syn Spawacza" creationdate="20200608T191301Z">
@@ -30857,8 +30865,8 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>fought a brave battle</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200515Z" creationid="Syn Spawacza" creationdate="20200608T195833Z">
-        <seg>walczę odważnie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200940Z" creationid="Syn Spawacza" creationdate="20200608T195833Z">
+        <seg>walczę w walecznym boju</seg>
       </tuv>
     </tu>
     <tu>
@@ -31683,6 +31691,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T180115Z" creationid="Syn Spawacza" creationdate="20200608T180010Z">
         <seg>myślę o moich przyjaciołach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>turned my back on the enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T201018Z" creationid="Syn Spawacza" creationdate="20200608T201018Z">
+        <seg>odwracam się od wroga</seg>
       </tuv>
     </tu>
     <tu>
