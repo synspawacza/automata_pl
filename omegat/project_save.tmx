@@ -5344,8 +5344,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Android sub-quests</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154926Z" creationid="Syn Spawacza" creationdate="20200601T075541Z">
-        <seg>Podzadań androidów</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222408Z" creationid="Syn Spawacza" creationdate="20200601T075541Z">
+        <seg>Zadań pobocznych androidów</seg>
       </tuv>
     </tu>
     <tu>
@@ -17649,8 +17649,8 @@ jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Machine sub-quests</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154930Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
-        <seg>Podzadań maszyn</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222410Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
+        <seg>Zadań pobocznych maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -25786,16 +25786,16 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>Sub-quest Progress</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175802Z" creationid="Syn Spawacza" creationdate="20200608T175802Z">
-        <seg>Postęp podzadań</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222434Z" creationid="Syn Spawacza" creationdate="20200608T175802Z">
+        <seg>Postęp zadań pobocznych</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Sub-quests</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175746Z" creationid="Syn Spawacza" creationdate="20200608T175746Z">
-        <seg>Podzadania</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222425Z" creationid="Syn Spawacza" creationdate="20200608T175746Z">
+        <seg>Zadania poboczne</seg>
       </tuv>
     </tu>
     <tu>
@@ -30195,6 +30195,16 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211546Z" creationid="Syn Spawacza" creationdate="20200530T195458Z">
         <seg>Jesteście ostateczną bronią... i musicie zakończyć tę wojnę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can accept sub-quests from clients (marked as &lt;MAP_EVENT&gt;) all over the world.
+Sub-quest destinations are indicated as &lt;MAP_GOAL_SUB&gt; on the mini-map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222716Z" creationid="Syn Spawacza" creationdate="20200608T222716Z">
+        <seg>Możesz przyjmować zadania poboczne od klientów (oznaczeni &lt;MAP_EVENT&gt;).
+Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</seg>
       </tuv>
     </tu>
     <tu>
