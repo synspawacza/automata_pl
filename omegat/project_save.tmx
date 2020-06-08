@@ -4987,6 +4987,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amnesia</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212121Z" creationid="Syn Spawacza" creationdate="20200608T212121Z">
+        <seg>Amnezja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amusement Park</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182732Z" creationid="Syn Spawacza" creationdate="20200601T174833Z">
@@ -5322,6 +5330,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203722Z" creationid="Syn Spawacza" creationdate="20200601T203722Z">
         <seg>Anemone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anemone's Past</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212110Z" creationid="Syn Spawacza" creationdate="20200608T212110Z">
+        <seg>Przeszłość Anemone</seg>
       </tuv>
     </tu>
     <tu>
@@ -7274,6 +7290,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095939Z" creationid="Syn Spawacza" creationdate="20200601T095939Z">
         <seg>Wizjer kamuflujący</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Camp Development</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212058Z" creationid="Syn Spawacza" creationdate="20200608T212058Z">
+        <seg>Rozwój obozu</seg>
       </tuv>
     </tu>
     <tu>
@@ -14547,6 +14571,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Improving Communications</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212227Z" creationid="Syn Spawacza" creationdate="20200608T212227Z">
+        <seg>Poprawa komunikacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In the Deep Sea</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T171632Z" creationid="Syn Spawacza" creationdate="20200605T171632Z">
@@ -16042,6 +16074,14 @@ zatytułowana „Pensées”.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172450Z" creationid="Syn Spawacza" creationdate="20200605T172450Z">
         <seg>Przepis na bombę Jackass</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jackass's Research</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212151Z" creationid="Syn Spawacza" creationdate="20200608T212151Z">
+        <seg>Badania Jackass</seg>
       </tuv>
     </tu>
     <tu>
@@ -22583,6 +22623,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Resistance Disappearance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212144Z" creationid="Syn Spawacza" creationdate="20200608T212144Z">
+        <seg>Zniknięcie w ruchu oporu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Resistance Member</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071903Z" creationid="Syn Spawacza" creationdate="20200601T071903Z">
@@ -26140,10 +26188,26 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Manager's Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211941Z" creationid="Syn Spawacza" creationdate="20200608T211941Z">
+        <seg>Prośba zarządcy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Second Dimension</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214348Z" creationid="Syn Spawacza" creationdate="20200601T214348Z">
         <seg>Drugi wymiar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Supply Trader's Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211920Z" creationid="Syn Spawacza" creationdate="20200608T211920Z">
+        <seg>Prośba handlarza zaopatrzeniem</seg>
       </tuv>
     </tu>
     <tu>
