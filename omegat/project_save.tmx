@@ -3628,6 +3628,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access points marked with this icon &lt;MAP_TELEPORT_N&gt;, are experiencing technical difficulties and cannot be utilized.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220526Z" creationid="Syn Spawacza" creationdate="20200608T220526Z">
+        <seg>Punkty dostępu oznaczone ikoną &lt;MAP_TELEPORT_N&gt; są teraz niedostępne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accounting Book</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090037Z" creationid="Syn Spawacza" creationdate="20200601T090037Z">
@@ -23860,6 +23868,16 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140452Z" creationid="Syn Spawacza" creationdate="20200530T140452Z">
         <seg>Wybierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select "Transport" at an access point to travel to other terminals.
+There are lots of access points all over the world, but you'll need to unlock them before you can use them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220338Z" creationid="Syn Spawacza" creationdate="20200608T220338Z">
+        <seg>Wybierz „Transport” w punkcie dostępu by przenieść się do innego terminala.
+W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by móc z nich skorzystać.</seg>
       </tuv>
     </tu>
     <tu>
