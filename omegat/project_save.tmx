@@ -9143,6 +9143,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy Eve.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162901Z" creationid="Syn Spawacza" creationdate="20200608T162901Z">
+        <seg>Zniszcz Ewę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy Machines</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174258Z" creationid="Syn Spawacza" creationdate="20200601T174258Z">
@@ -9203,6 +9211,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160635Z" creationid="Syn Spawacza" creationdate="20200608T160635Z">
         <seg>Zniszcz nowy model mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the spherical machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162808Z" creationid="Syn Spawacza" creationdate="20200608T162808Z">
+        <seg>Zniszcz kulistą maszynę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11140,6 +11156,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finish off 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162947Z" creationid="Syn Spawacza" creationdate="20200608T162947Z">
+        <seg>Dobij 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fire</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134540Z" creationid="Syn Spawacza" creationdate="20200530T134540Z">
@@ -11852,6 +11876,22 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to 9S's room</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162954Z" creationid="Syn Spawacza" creationdate="20200608T162954Z">
+        <seg>Idź do pokoju 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162906Z" creationid="Syn Spawacza" creationdate="20200608T162906Z">
+        <seg>Idź do 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the Resistance camp.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161835Z" creationid="Syn Spawacza" creationdate="20200608T161835Z">
@@ -11860,10 +11900,34 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the center of the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162854Z" creationid="Syn Spawacza" creationdate="20200608T162854Z">
+        <seg>Idź do centrum ruin miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the city ruins.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161114Z" creationid="Syn Spawacza" creationdate="20200608T161114Z">
         <seg>Idź do ruin miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the hangar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163013Z" creationid="Syn Spawacza" creationdate="20200608T163013Z">
+        <seg>Idź do hangaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to your private quarters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163005Z" creationid="Syn Spawacza" creationdate="20200608T163005Z">
+        <seg>Idź do swojej prywatnej kwatery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12650,6 +12714,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161555Z" creationid="Syn Spawacza" creationdate="20200608T161555Z">
         <seg>Idź do wioski Pascala przez punkt dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Head to Pascal's village.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162818Z" creationid="Syn Spawacza" creationdate="20200608T162818Z">
+        <seg>Idź do wioski Pascala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14765,6 +14837,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161454Z" creationid="Syn Spawacza" creationdate="20200608T161454Z">
         <seg>Zbadaj obiekt obcych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the area around the camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162735Z" creationid="Syn Spawacza" creationdate="20200608T162735Z">
+        <seg>Zbadaj obszar wokół obozu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18345,6 +18425,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Obstruct the enemy air defenses.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163057Z" creationid="Syn Spawacza" creationdate="20200608T163057Z">
+        <seg>Zablokuj systemy obrony przeciwlotniczej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Obtain Keys</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174538Z" creationid="Syn Spawacza" creationdate="20200601T174538Z">
@@ -21291,6 +21379,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211638Z" creationid="Syn Spawacza" creationdate="20200601T211638Z">
         <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove the enemies around the barricade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162839Z" creationid="Syn Spawacza" creationdate="20200608T162839Z">
+        <seg>Usuń wrogów z okolic barykady.</seg>
       </tuv>
     </tu>
     <tu>
