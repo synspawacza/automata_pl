@@ -6374,6 +6374,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Board the flight units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161131Z" creationid="Syn Spawacza" creationdate="20200608T161131Z">
+        <seg>Wejdź do jednostki latającej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Bodies collected</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075849Z" creationid="Syn Spawacza" creationdate="20200601T075849Z">
@@ -11716,6 +11724,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161114Z" creationid="Syn Spawacza" creationdate="20200608T161114Z">
+        <seg>Idź do ruin miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>God Box</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175408Z" creationid="Syn Spawacza" creationdate="20200601T175408Z">
@@ -14565,6 +14581,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142703Z" creationid="Syn Spawacza" creationdate="20200530T131945Z">
         <seg>Odwrócone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the flooded area for alien readings.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161228Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
+        <seg>Zbadaj zatopiny </seg>
       </tuv>
     </tu>
     <tu>
