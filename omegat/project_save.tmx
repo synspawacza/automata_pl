@@ -1678,6 +1678,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A black android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171637Z" creationid="Syn Spawacza" creationdate="20200608T171637Z">
+        <seg>Czarny android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black blade used by warriors
 of the East.</seg>
       </tuv>
@@ -1739,6 +1747,14 @@ his lord. Like his loyalty, its blade is unbent.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181559Z" creationid="Syn Spawacza" creationdate="20200605T181559Z">
         <seg>Miecz należący kiedyś do sługi, który troszczył się o swego
 pana. Podobnie jak jego lojalność, ostrze jest nieskrzywione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A bohemian soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172134Z" creationid="Syn Spawacza" creationdate="20200608T172134Z">
+        <seg>Nieszablonowy żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,6 +2043,22 @@ usta przez ludzi by się upiększyć.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A courageous soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171729Z" creationid="Syn Spawacza" creationdate="20200608T171729Z">
+        <seg>Odważny żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A craven soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171747Z" creationid="Syn Spawacza" creationdate="20200608T171747Z">
+        <seg>Tchórzliwy żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A crushed, flattened nut.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111516Z" creationid="Syn Spawacza" creationdate="20200601T111516Z">
@@ -2075,6 +2107,14 @@ and proven for turning machine lifeforms into scrap.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181936Z" creationid="Syn Spawacza" creationdate="20200601T151715Z">
         <seg>Sprawdzony, starszy model broni YoRHa. Niejednokrotnie
 udowodnił zdolność przerabiana maszyn na złom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A ferocious soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171724Z" creationid="Syn Spawacza" creationdate="20200608T171724Z">
+        <seg>Zaciekły żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2156,10 +2196,26 @@ king of beasts.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A greedy soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171753Z" creationid="Syn Spawacza" creationdate="20200608T171753Z">
+        <seg>Chciwy żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A heavily dented metal plate.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T105840Z" creationid="Syn Spawacza" creationdate="20200601T105840Z">
         <seg>Mocno pognieciona, metalowa płytka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A humanoid machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171644Z" creationid="Syn Spawacza" creationdate="20200608T171644Z">
+        <seg>Humanoidalna maszyna</seg>
       </tuv>
     </tu>
     <tu>
@@ -2267,6 +2323,14 @@ Nie powinieneś go nie czytać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A lone soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171654Z" creationid="Syn Spawacza" creationdate="20200608T171654Z">
+        <seg>Samotny żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A long-lasting battery.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103543Z" creationid="Syn Spawacza" creationdate="20200601T103543Z">
@@ -2280,6 +2344,14 @@ the Resistance.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123138Z" creationid="Syn Spawacza" creationdate="20200601T123138Z">
         <seg>Zgubiona torba należąca do ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A loyal soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171811Z" creationid="Syn Spawacza" creationdate="20200608T171811Z">
+        <seg>Lojalny żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2298,6 +2370,14 @@ w rodzinie królewskiej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111047Z" creationid="Syn Spawacza" creationdate="20200601T111047Z">
         <seg>Metal używany przy spawaniu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A nameless android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171617Z" creationid="Syn Spawacza" creationdate="20200608T171617Z">
+        <seg>Bezimienny android</seg>
       </tuv>
     </tu>
     <tu>
@@ -2561,6 +2641,14 @@ be tricky to grow.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180257Z" creationid="Syn Spawacza" creationdate="20200605T180257Z">
         <seg>Nasiono jakiejś rośliny. Wydaje się
 trudna w hodowli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A shrewd soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171806Z" creationid="Syn Spawacza" creationdate="20200608T171806Z">
+        <seg>Przebiegły żołnierz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,6 +3048,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102541Z" creationid="Syn Spawacza" creationdate="20200601T102541Z">
         <seg>Zużyty, nieprzydatny wkręt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A wounded android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171631Z" creationid="Syn Spawacza" creationdate="20200608T171631Z">
+        <seg>Ranny android</seg>
       </tuv>
     </tu>
     <tu>
@@ -19061,6 +19157,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211718Z" creationid="Syn Spawacza" creationdate="20200530T203755Z">
         <seg>Jak skończysz, to po prostu zamknij ekran ustawień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171625Z" creationid="Syn Spawacza" creationdate="20200608T171625Z">
+        <seg>Pewien android</seg>
       </tuv>
     </tu>
     <tu>
