@@ -30207,6 +30207,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a city of building blocks</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173748Z" creationid="Syn Spawacza" creationdate="20200608T173748Z">
+        <seg>w mieście cegiełek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at a city with a gaping hole</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173205Z" creationid="Syn Spawacza" creationdate="20200608T173205Z">
@@ -30219,6 +30227,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173601Z" creationid="Syn Spawacza" creationdate="20200608T173601Z">
         <seg>w zamkniętym teatrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a copied city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173803Z" creationid="Syn Spawacza" creationdate="20200608T173803Z">
+        <seg>w skopiowanym mieście</seg>
       </tuv>
     </tu>
     <tu>
@@ -30263,10 +30279,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a tower built by the gods</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174030Z" creationid="Syn Spawacza" creationdate="20200608T174030Z">
+        <seg>w wieży zbudowanej przez bogów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at an empty theater</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173607Z" creationid="Syn Spawacza" creationdate="20200608T173607Z">
         <seg>w pustym teatrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at an inorganic city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173754Z" creationid="Syn Spawacza" creationdate="20200608T173754Z">
+        <seg>w nieorganicznym mieście</seg>
       </tuv>
     </tu>
     <tu>
@@ -30283,6 +30315,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173231Z" creationid="Syn Spawacza" creationdate="20200608T173231Z">
         <seg>w stolicy złomu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at the enemy's lair</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173951Z" creationid="Syn Spawacza" creationdate="20200608T173951Z">
+        <seg>w kryjówce wroga</seg>
       </tuv>
     </tu>
     <tu>
@@ -30335,10 +30375,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in a dark hole beneath a city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173937Z" creationid="Syn Spawacza" creationdate="20200608T173937Z">
+        <seg>w dziurze pod miastem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>in a deep, dark forest</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173431Z" creationid="Syn Spawacza" creationdate="20200608T173431Z">
         <seg>w głębi ciemnego lasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a desert of shadows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173812Z" creationid="Syn Spawacza" creationdate="20200608T173812Z">
+        <seg>w cieniach pustyni</seg>
       </tuv>
     </tu>
     <tu>
@@ -30391,10 +30447,50 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in a world of sand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173818Z" creationid="Syn Spawacza" creationdate="20200608T173818Z">
+        <seg>w świecie piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in days of sand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173856Z" creationid="Syn Spawacza" creationdate="20200608T173856Z">
+        <seg>spędzając czas na piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>inside an empty ship</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174003Z" creationid="Syn Spawacza" creationdate="20200608T174003Z">
+        <seg>wewnątrz pustego statku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>surrounded by the winds of death</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173929Z" creationid="Syn Spawacza" creationdate="20200608T173929Z">
+        <seg>wśród wiatrów śmierci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>then destroy the Goliath-class unit by any means necessary and gather what data you can.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173810Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
         <seg>za wszelką cenę zniszczcie jednostkę klasy Goliat oraz zbierzcie tyle danych ile się da.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>underground</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173941Z" creationid="Syn Spawacza" creationdate="20200608T173941Z">
+        <seg>pod ziemią</seg>
       </tuv>
     </tu>
     <tu>
