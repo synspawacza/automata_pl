@@ -30655,6 +30655,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>couldn't find a weakpoint</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191301Z" creationid="Syn Spawacza" creationdate="20200608T191301Z">
+        <seg>nie mogę znaleźć słabości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>during a pointless battle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174616Z" creationid="Syn Spawacza" creationdate="20200608T174616Z">
@@ -30731,6 +30739,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190710Z" creationid="Syn Spawacza" creationdate="20200608T190710Z">
         <seg>walczę do ostatka sił</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grimaced in anger</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191214Z" creationid="Syn Spawacza" creationdate="20200608T191214Z">
+        <seg>krzywię się w wściekłości</seg>
       </tuv>
     </tu>
     <tu>
@@ -30987,6 +31003,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174724Z" creationid="Syn Spawacza" creationdate="20200608T174724Z">
         <seg>spoglądając na Ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>missed my biggest chance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191250Z" creationid="Syn Spawacza" creationdate="20200608T191250Z">
+        <seg>tracę szansę</seg>
       </tuv>
     </tu>
     <tu>
@@ -31483,6 +31507,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190928Z" creationid="Syn Spawacza" creationdate="20200608T190928Z">
         <seg>padam ofiarą swojej lekkomyślności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was overwhelmed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T192513Z" creationid="Syn Spawacza" creationdate="20200608T192513Z">
+        <seg>nie jestem w stanie się obronić</seg>
       </tuv>
     </tu>
     <tu>
