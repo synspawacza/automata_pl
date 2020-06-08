@@ -9232,6 +9232,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data Analysis Freak</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212516Z" creationid="Syn Spawacza" creationdate="20200608T212516Z">
+        <seg>Fanatyk analizy danych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data Chip A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085502Z" creationid="Syn Spawacza" creationdate="20200601T085502Z">
@@ -11784,6 +11792,14 @@ Chwila, musimy to przywrócić.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162012Z" creationid="Syn Spawacza" creationdate="20200608T162012Z">
         <seg>Znajdź 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find a Present</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212422Z" creationid="Syn Spawacza" creationdate="20200608T212422Z">
+        <seg>Szukając prezentu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15693,6 +15709,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160730Z" creationid="Syn Spawacza" creationdate="20200608T160730Z">
         <seg>Zbadaj wioskę maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigating Communications</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212328Z" creationid="Syn Spawacza" creationdate="20200608T212328Z">
+        <seg>Badanie komunikacji</seg>
       </tuv>
     </tu>
     <tu>
@@ -26008,6 +26032,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203906Z" creationid="Syn Spawacza" creationdate="20200601T203906Z">
         <seg>Température de la boîte noire : normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Terminal Repairs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212345Z" creationid="Syn Spawacza" creationdate="20200608T212345Z">
+        <seg>Naprawa terminala</seg>
       </tuv>
     </tu>
     <tu>
