@@ -30375,6 +30375,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>applied all combat intel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202245Z" creationid="Syn Spawacza" creationdate="20200608T202245Z">
+        <seg>stosuję dane z wywiadu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at YoRHa HQ</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173106Z" creationid="Syn Spawacza" creationdate="20200608T173106Z">
@@ -31851,6 +31859,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190432Z" creationid="Syn Spawacza" creationdate="20200608T190432Z">
         <seg>jestem otoczony przez wrogów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wasn't fast enough</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202553Z" creationid="Syn Spawacza" creationdate="20200608T202553Z">
+        <seg>nie mam dość szybkości</seg>
       </tuv>
     </tu>
     <tu>
