@@ -2141,6 +2141,14 @@ Nie najnowszy, ale sprawdzony w boju.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A dreamy child</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174844Z" creationid="Syn Spawacza" creationdate="20200608T174844Z">
+        <seg>Marzycielskie dziecko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A dual-wielder</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172726Z" creationid="Syn Spawacza" creationdate="20200608T172726Z">
@@ -2173,6 +2181,14 @@ fuel.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124137Z" creationid="Syn Spawacza" creationdate="20200601T124137Z">
         <seg>Filtr używany przez androidy do
 rafinacji paliwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A foolish doll</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174821Z" creationid="Syn Spawacza" creationdate="20200608T174821Z">
+        <seg>Głupia lalka</seg>
       </tuv>
     </tu>
     <tu>
@@ -2284,6 +2300,14 @@ spelled out within.</seg>
         <seg>Pamiętnik pozostawiony przez mężczyznę.
 Zawiera przemyślenia na temat jego
 poległych towarzyszy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A just, young boy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174922Z" creationid="Syn Spawacza" creationdate="20200608T174922Z">
+        <seg>Sprawiedliwy, młody chłopak</seg>
       </tuv>
     </tu>
     <tu>
@@ -2641,6 +2665,14 @@ liege, and met his own fate on the same edge.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182106Z" creationid="Syn Spawacza" creationdate="20200601T153444Z">
         <seg>Sobowtór księcia zabił swojego pana za pomocą tej
 włóczni, po czym spotkał go taki sam los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A proud man</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174858Z" creationid="Syn Spawacza" creationdate="20200608T174858Z">
+        <seg>Dumny mężczyzna</seg>
       </tuv>
     </tu>
     <tu>
@@ -15437,6 +15469,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160603Z" creationid="Syn Spawacza" creationdate="20200608T160603Z">
         <seg>Zbadaj ruiny na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the suspicious machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174749Z" creationid="Syn Spawacza" creationdate="20200608T174749Z">
+        <seg>Zbadaj podejrzaną maszynę</seg>
       </tuv>
     </tu>
     <tu>
@@ -30535,6 +30575,30 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>looking down on Earth</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174724Z" creationid="Syn Spawacza" creationdate="20200608T174724Z">
+        <seg>spoglądając na Ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on a collapsed building</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174659Z" creationid="Syn Spawacza" creationdate="20200608T174659Z">
+        <seg>na zawalonym budynku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on a shining blue surface</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174643Z" creationid="Syn Spawacza" creationdate="20200608T174643Z">
+        <seg>na powierzchni błyszczącej błękitem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>on a tower smiled upon by angels</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174104Z" creationid="Syn Spawacza" creationdate="20200608T174104Z">
@@ -30543,10 +30607,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>on dry sand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174705Z" creationid="Syn Spawacza" creationdate="20200608T174705Z">
+        <seg>na suchym piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>on green pastures</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174628Z" creationid="Syn Spawacza" creationdate="20200608T174628Z">
         <seg>na zielonych pastwiskach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on ground of steel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174649Z" creationid="Syn Spawacza" creationdate="20200608T174649Z">
+        <seg>na stalowej ziemi</seg>
       </tuv>
     </tu>
     <tu>
