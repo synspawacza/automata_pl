@@ -23872,6 +23872,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select "Inbox" at an access point to check your mail.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220630Z" creationid="Syn Spawacza" creationdate="20200608T220630Z">
+        <seg>Wybierz „Poczta” w punkcie dostępu by zobaczyć przychodzące wiadomości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Select "Transport" at an access point to travel to other terminals.
 There are lots of access points all over the world, but you'll need to unlock them before you can use them.</seg>
       </tuv>
@@ -29852,6 +29860,18 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When your character dies, its body remains on the map as a corpse &lt;MAP_CORPSE&gt;. These bodies contain various data, so you'll have to go back to your body to retrieve your belongings. 
+ 
+If you die again before reaching your previous body, it will disappear. If you keep playing for an extended period of time without retrieving your body, it will disappear.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T221143Z" creationid="Syn Spawacza" creationdate="20200608T221143Z">
+        <seg>Kiedy twoja postać umiera, jej ciało zostaje na mapie jako &lt;MAP_CORPSE&gt;. Powróć do ciała by odzyskać swoje rzeczy.
+
+Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała, to zniknie ono po pewnym czasie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180417Z" creationid="Syn Spawacza" creationdate="20200530T180417Z">
@@ -30349,6 +30369,16 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205231Z" creationid="Syn Spawacza" creationdate="20200530T205231Z">
         <seg>Wycofałaś ustawienia przez które cię poprowadziłem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You unlocked the "Arcade" feature for access points.
+This lets you replay any hacking games you completed during the game.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220734Z" creationid="Syn Spawacza" creationdate="20200608T220734Z">
+        <seg>Odblokowano opcję „Salon gier” w punkcie dostępu.
+Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
     </tu>
     <tu>
