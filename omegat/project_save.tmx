@@ -26993,6 +26993,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
     </tu>
     <tu>
+      <prop type="file">messpause.properties</prop>
+      <prop type="id">PAUSE_PSV_SKILL_04</prop>
+      <tuv lang="en-US">
+        <seg>Move</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143613Z" creationid="Syn Spawacza" creationdate="20200608T143613Z">
+        <seg>Przesuń</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">p100_973474b4_scp.properties</prop>
       <prop type="id">M1010_S0030_G0140_001_a2b</prop>
       <tuv lang="en-US">
