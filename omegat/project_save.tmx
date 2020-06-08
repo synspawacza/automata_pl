@@ -370,6 +370,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>10% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>10% chance of reviving with 20% HP upon death.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152822Z" creationid="Syn Spawacza" creationdate="20200608T152822Z">
@@ -390,6 +398,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152417Z" creationid="Syn Spawacza" creationdate="20200608T152417Z">
         <seg>10% szansa na odzyskanie 20% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>100% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +542,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204147Z" creationid="Syn Spawacza" creationdate="20200601T204147Z">
         <seg>2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>20% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>20% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,6 +804,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>30% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>30% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>30% chance of reviving with 60% HP upon death.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152839Z" creationid="Syn Spawacza" creationdate="20200608T152839Z">
@@ -840,6 +872,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204148Z" creationid="Syn Spawacza" creationdate="20200601T204148Z">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>40% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>40% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
       </tuv>
     </tu>
     <tu>
@@ -924,6 +964,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>50% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>50% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>50% chance of reviving with 80% HP upon death.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152851Z" creationid="Syn Spawacza" creationdate="20200608T152851Z">
@@ -996,6 +1044,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>60% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>60% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>64B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203750Z" creationid="Syn Spawacza" creationdate="20200601T203750Z">
@@ -1016,6 +1072,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204150Z" creationid="Syn Spawacza" creationdate="20200601T204150Z">
         <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>70% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>70% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1064,6 +1128,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204151Z" creationid="Syn Spawacza" creationdate="20200601T204151Z">
         <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>90% chance foes drop healing items if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155227Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>90% szansy że pokonany hakowaniem wróg upuści przedm. leczący.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10008,6 +10080,14 @@ pieniędzy przez 30 sekund.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183528Z" creationid="Syn Spawacza" creationdate="20200601T101756Z">
         <seg>Wrogowie upuszczają więcej
 pieniędzy przez 60 sekund.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemies emit death cries if defeated by hacking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155510Z" creationid="Syn Spawacza" creationdate="20200608T155510Z">
+        <seg>Wrogowie pokonani hakowaniem wydają okrzyk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22732,6 +22812,70 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155054Z" creationid="Syn Spawacza" creationdate="20200608T155054Z">
         <seg>Wywołuje zwarcie w wrogu, zapalając go na 3 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 3.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155057Z" creationid="Syn Spawacza" creationdate="20200608T155057Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 3,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 4 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155059Z" creationid="Syn Spawacza" creationdate="20200608T155059Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 4 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 4.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155102Z" creationid="Syn Spawacza" creationdate="20200608T155102Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 4,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155105Z" creationid="Syn Spawacza" creationdate="20200608T155105Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 5.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155111Z" creationid="Syn Spawacza" creationdate="20200608T155111Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 5,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 6 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155113Z" creationid="Syn Spawacza" creationdate="20200608T155113Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 6 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 6.5 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155116Z" creationid="Syn Spawacza" creationdate="20200608T155116Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 6,5 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Short-circuit a foe, causing a fire for 7 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155119Z" creationid="Syn Spawacza" creationdate="20200608T155119Z">
+        <seg>Wywołuje zwarcie w wrogu, zapalając go na 7 s.</seg>
       </tuv>
     </tu>
     <tu>
