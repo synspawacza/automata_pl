@@ -30167,6 +30167,22 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a city consumed by water</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173623Z" creationid="Syn Spawacza" creationdate="20200608T173623Z">
+        <seg>w mieście pożartym przez wodę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a city drenched in blue</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173631Z" creationid="Syn Spawacza" creationdate="20200608T173631Z">
+        <seg>w mieście skąpanym w błękicie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at a city drowned in green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173123Z" creationid="Syn Spawacza" creationdate="20200608T173123Z">
@@ -30175,10 +30191,50 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a city filled with light</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173554Z" creationid="Syn Spawacza" creationdate="20200608T173554Z">
+        <seg>w mieście pełnym światła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a city of boxes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173737Z" creationid="Syn Spawacza" creationdate="20200608T173737Z">
+        <seg>w mieście kostek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at a city with a gaping hole</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173205Z" creationid="Syn Spawacza" creationdate="20200608T173205Z">
         <seg>w mieście z zionącą dziurą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a closed theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173601Z" creationid="Syn Spawacza" creationdate="20200608T173601Z">
+        <seg>w zamkniętym teatrze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a fake city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173639Z" creationid="Syn Spawacza" creationdate="20200608T173639Z">
+        <seg>w fałszywym mieście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a manufactured city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173646Z" creationid="Syn Spawacza" creationdate="20200608T173646Z">
+        <seg>w sztucznym mieście</seg>
       </tuv>
     </tu>
     <tu>
@@ -30195,6 +30251,22 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173244Z" creationid="Syn Spawacza" creationdate="20200608T173244Z">
         <seg>w religijnej górze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a sunken city</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173619Z" creationid="Syn Spawacza" creationdate="20200608T173619Z">
+        <seg>w zatopionym mieście</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at an empty theater</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173607Z" creationid="Syn Spawacza" creationdate="20200608T173607Z">
+        <seg>w pustym teatrze</seg>
       </tuv>
     </tu>
     <tu>
@@ -30219,6 +30291,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173324Z" creationid="Syn Spawacza" creationdate="20200608T173324Z">
         <seg>w domu złomu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at the kingdom of machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173446Z" creationid="Syn Spawacza" creationdate="20200608T173446Z">
+        <seg>w królestwie maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -30255,10 +30335,34 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>in a deep, dark forest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173431Z" creationid="Syn Spawacza" creationdate="20200608T173431Z">
+        <seg>w głębi ciemnego lasu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>in a deserted land</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173151Z" creationid="Syn Spawacza" creationdate="20200608T173151Z">
         <seg>w pustynnej krainie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a land of distorted fairy tales</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173540Z" creationid="Syn Spawacza" creationdate="20200608T173540Z">
+        <seg>w krainie wykrzywionych baśni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a lush forest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173437Z" creationid="Syn Spawacza" creationdate="20200608T173437Z">
+        <seg>w bujnym lesie</seg>
       </tuv>
     </tu>
     <tu>
@@ -30275,6 +30379,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173421Z" creationid="Syn Spawacza" creationdate="20200608T173421Z">
         <seg>w próżnym lesie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a world of ended dreams</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173515Z" creationid="Syn Spawacza" creationdate="20200608T173515Z">
+        <seg>w świecie skończonych marzeń</seg>
       </tuv>
     </tu>
     <tu>
