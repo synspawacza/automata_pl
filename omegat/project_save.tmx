@@ -168,6 +168,14 @@ zawierać spoilery</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* This game does not support auto-save. Play the game to find out how to save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T144624Z" creationid="Syn Spawacza" creationdate="20200608T144624Z">
+        <seg>* Ta gra nie wspiera autozapisu. Zagraj by dowiedzieć się jak zapisywać grę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* Tutorial messages like this one can be accessed at any time from the Intel tab.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162044Z" creationid="Syn Spawacza" creationdate="20200530T162044Z">
@@ -12065,8 +12073,8 @@ lifeforms.</seg>
       <tuv lang="en-US">
         <seg>Horizontal Auto Adjust</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132044Z" creationid="Syn Spawacza" creationdate="20200530T132044Z">
-        <seg>Auto-dostosowanie w poziomie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T144526Z" creationid="Syn Spawacza" creationdate="20200530T132044Z">
+        <seg>Dostosowanie w poziomie</seg>
       </tuv>
     </tu>
     <tu>
