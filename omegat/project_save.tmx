@@ -30711,6 +30711,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cursed my own idleness</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200712Z" creationid="Syn Spawacza" creationdate="20200608T200712Z">
+        <seg>przeklinam własną bezczynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>didn't give up until the very end</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T195816Z" creationid="Syn Spawacza" creationdate="20200608T195816Z">
@@ -30783,6 +30791,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fell along with my enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200602Z" creationid="Syn Spawacza" creationdate="20200608T200602Z">
+        <seg>upadam wraz z wrogiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fell with grace</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190514Z" creationid="Syn Spawacza" creationdate="20200608T190514Z">
@@ -30842,6 +30858,14 @@ Popularne na Dalekim Wschodzie.</seg>
         <seg>fought a brave battle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200515Z" creationid="Syn Spawacza" creationdate="20200608T195833Z">
+        <seg>walczę odważnie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>fought bravely</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200858Z" creationid="Syn Spawacza" creationdate="20200608T200858Z">
         <seg>walczę odważnie</seg>
       </tuv>
     </tu>
@@ -31159,6 +31183,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>learned to fear the enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200804Z" creationid="Syn Spawacza" creationdate="20200608T200804Z">
+        <seg>uczę się bać wroga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>looking down on Earth</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174724Z" creationid="Syn Spawacza" creationdate="20200608T174724Z">
@@ -31259,6 +31291,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190344Z" creationid="Syn Spawacza" creationdate="20200608T190344Z">
         <seg>żałuję błędów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>regretted nothing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200610Z" creationid="Syn Spawacza" creationdate="20200608T200610Z">
+        <seg>nie żałuję niczego</seg>
       </tuv>
     </tu>
     <tu>
@@ -31647,6 +31687,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>underestimated the enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200719Z" creationid="Syn Spawacza" creationdate="20200608T200719Z">
+        <seg>nie doceniam wroga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>underground</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173941Z" creationid="Syn Spawacza" creationdate="20200608T173941Z">
@@ -31695,10 +31743,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>was attacked from behind</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200647Z" creationid="Syn Spawacza" creationdate="20200608T200647Z">
+        <seg>padam ofiarą ataku od tyłu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>was careless</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190928Z" creationid="Syn Spawacza" creationdate="20200608T190928Z">
         <seg>padam ofiarą swojej lekkomyślności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was overcome by fear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T200823Z" creationid="Syn Spawacza" creationdate="20200608T200823Z">
+        <seg>padam ofiarą strachu</seg>
       </tuv>
     </tu>
     <tu>
