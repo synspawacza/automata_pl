@@ -9296,6 +9296,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data on the Old World</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213018Z" creationid="Syn Spawacza" creationdate="20200608T213018Z">
+        <seg>Dane ze starego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dati geografici: caricamento avviato</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203921Z" creationid="Syn Spawacza" creationdate="20200601T203921Z">
@@ -9931,6 +9939,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175558Z" creationid="Syn Spawacza" creationdate="20200601T175536Z">
         <seg>Sklep z przedmiotami Devoli</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Devola's Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213354Z" creationid="Syn Spawacza" creationdate="20200608T213354Z">
+        <seg>Prośba Devoli</seg>
       </tuv>
     </tu>
     <tu>
@@ -12452,6 +12468,22 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212819Z" creationid="Syn Spawacza" creationdate="20200608T212819Z">
         <seg>Maszyna twórca gier: poziom 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Dev Machine Lv.2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212825Z" creationid="Syn Spawacza" creationdate="20200608T212825Z">
+        <seg>Maszyna twórca gier: poziom 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Game Dev Machine Lv.3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212832Z" creationid="Syn Spawacza" creationdate="20200608T212832Z">
+        <seg>Maszyna twórca gier: poziom 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -20546,6 +20578,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Photographs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212927Z" creationid="Syn Spawacza" creationdate="20200608T212927Z">
+        <seg>Fotografie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Picture Books</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144302Z" creationid="Syn Spawacza" creationdate="20200530T144017Z">
@@ -25006,6 +25046,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Speed Star</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212922Z" creationid="Syn Spawacza" creationdate="20200608T212922Z">
+        <seg>Gwiazda prędkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Spend money to get certain things done.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190734Z" creationid="Syn Spawacza" creationdate="20200601T190734Z">
@@ -26308,6 +26356,38 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174933Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
         <seg>Wieża</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Vengeful Warrior</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212940Z" creationid="Syn Spawacza" creationdate="20200608T212940Z">
+        <seg>Mściwy wojownik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Vengeful Warrior Returns</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212945Z" creationid="Syn Spawacza" creationdate="20200608T212945Z">
+        <seg>Mściwy wojownik powraca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Vengeful Warrior's Finale</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213002Z" creationid="Syn Spawacza" creationdate="20200608T213002Z">
+        <seg>Koniec mściwego wojownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Wandering Couple</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213009Z" creationid="Syn Spawacza" creationdate="20200608T213009Z">
+        <seg>Wędrująca para</seg>
       </tuv>
     </tu>
     <tu>
