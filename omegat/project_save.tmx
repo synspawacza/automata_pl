@@ -1678,6 +1678,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A beautiful android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172750Z" creationid="Syn Spawacza" creationdate="20200608T172750Z">
+        <seg>Piękny android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A black android</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171637Z" creationid="Syn Spawacza" creationdate="20200608T171637Z">
@@ -2109,6 +2117,22 @@ Nie najnowszy, ale sprawdzony w boju.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A double-crossing android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172857Z" creationid="Syn Spawacza" creationdate="20200608T172857Z">
+        <seg>Zdradziecki android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A dual-wielder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172726Z" creationid="Syn Spawacza" creationdate="20200608T172726Z">
+        <seg>Dzierżący dwie bronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A durable, older model YoRHa weapon, time-tested
 and proven for turning machine lifeforms into scrap.</seg>
       </tuv>
@@ -2335,6 +2359,14 @@ Nie powinieneś go nie czytać.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172551Z" creationid="Syn Spawacza" creationdate="20200608T172551Z">
         <seg>Samotny włócznik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A lone pugilist</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172601Z" creationid="Syn Spawacza" creationdate="20200608T172601Z">
+        <seg>Samotny pięściarz</seg>
       </tuv>
     </tu>
     <tu>
@@ -2715,6 +2747,14 @@ wydaje się nie mieć sensu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A small android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172756Z" creationid="Syn Spawacza" creationdate="20200608T172756Z">
+        <seg>Mały android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A small gear for something.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T102707Z" creationid="Syn Spawacza" creationdate="20200601T102707Z">
@@ -3015,6 +3055,14 @@ Reduces the probability of cavities.</seg>
 czyszczenia zębów.
 Zmniejsza występowanie
 próchnicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weaponless soldier</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172742Z" creationid="Syn Spawacza" creationdate="20200608T172742Z">
+        <seg>Pozbawiony broni</seg>
       </tuv>
     </tu>
     <tu>
