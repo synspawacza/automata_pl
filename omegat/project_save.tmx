@@ -7478,6 +7478,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear all hacking points, and reach the core.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170849Z" creationid="Syn Spawacza" creationdate="20200608T170849Z">
+        <seg>Zhakuj wszystkie punkty i dotrzyj do rdzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear as many hacking games as you can.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074927Z" creationid="Syn Spawacza" creationdate="20200601T074927Z">
@@ -12032,6 +12040,22 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163013Z" creationid="Syn Spawacza" creationdate="20200608T163013Z">
         <seg>Idź do hangaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the marked resource recovery unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170942Z" creationid="Syn Spawacza" creationdate="20200608T170942Z">
+        <seg>Idź do oznaczonej jednostki odzyskiwania zasobów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the recovery unit in the flooded city.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170647Z" creationid="Syn Spawacza" creationdate="20200608T170647Z">
+        <seg>Idź do jednostki odzyskiwania zasobów w zatopionym mieście.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17181,6 +17205,14 @@ Może zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
         <seg>Średnie uzdrowienie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meet Devola at the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170918Z" creationid="Syn Spawacza" creationdate="20200608T170918Z">
+        <seg>Spotkaj Devolę w obozie ruchu oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23596,6 +23628,14 @@ trudna w hodowli.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180753Z" creationid="Syn Spawacza" creationdate="20200601T180753Z">
         <seg>Pokaż na mapie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shut down the recovery unit in the flooded city.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170903Z" creationid="Syn Spawacza" creationdate="20200608T170903Z">
+        <seg>Wyłącz jednostkę w zatopionym mieście.</seg>
       </tuv>
     </tu>
     <tu>
