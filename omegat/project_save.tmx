@@ -7910,6 +7910,70 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 10% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154005Z" creationid="Syn Spawacza" creationdate="20200608T154005Z">
+        <seg>Kontra oddaje wrogowi 10% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 150% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154039Z" creationid="Syn Spawacza" creationdate="20200608T154039Z">
+        <seg>Kontra oddaje wrogowi 150% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 200% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154041Z" creationid="Syn Spawacza" creationdate="20200608T154041Z">
+        <seg>Kontra oddaje wrogowi 200% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 250% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154046Z" creationid="Syn Spawacza" creationdate="20200608T154046Z">
+        <seg>Kontra oddaje wrogowi 250% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 30% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154009Z" creationid="Syn Spawacza" creationdate="20200608T154009Z">
+        <seg>Kontra oddaje wrogowi 30% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 60% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154011Z" creationid="Syn Spawacza" creationdate="20200608T154011Z">
+        <seg>Kontra oddaje wrogowi 60% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back 80% of incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154014Z" creationid="Syn Spawacza" creationdate="20200608T154014Z">
+        <seg>Kontra oddaje wrogowi 80% zadawanych obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Counter an enemy attack to send back all incoming damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154036Z" creationid="Syn Spawacza" creationdate="20200608T154036Z">
+        <seg>Kontra oddaje wrogowi wszystkie zadawane obrażenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Courageous Brother</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202018Z" creationid="Syn Spawacza" creationdate="20200601T202018Z">
