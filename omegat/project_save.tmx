@@ -5382,6 +5382,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal Care</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211604Z" creationid="Syn Spawacza" creationdate="20200608T211604Z">
+        <seg>Opieka nad zwierzętami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animal-loving Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201455Z" creationid="Syn Spawacza" creationdate="20200601T201455Z">
