@@ -5192,8 +5192,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184014Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
-        <seg>Automatycznie używa przedmiotów leczących gdy PŻ poniżej 30%. Leczy 15% więcej.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143805Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
+        <seg>Używa przedm. leczących gdy PŻ poniżej 30%. Leczy 15% więcej.</seg>
       </tuv>
     </tu>
     <tu>
