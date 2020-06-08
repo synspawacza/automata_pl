@@ -30823,6 +30823,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fell to the ground</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205354Z" creationid="Syn Spawacza" creationdate="20200608T205354Z">
+        <seg>upada na ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fell with grace</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190514Z" creationid="Syn Spawacza" creationdate="20200608T190514Z">
@@ -30927,10 +30935,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>fought with every ounce of strength</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205136Z" creationid="Syn Spawacza" creationdate="20200608T205136Z">
+        <seg>walczy z wszystkich sił</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>fought with my last strength</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190710Z" creationid="Syn Spawacza" creationdate="20200608T190710Z">
         <seg>walczę do ostatka sił</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>gave it all</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205210Z" creationid="Syn Spawacza" creationdate="20200608T205210Z">
+        <seg>daje z siebie wszystko</seg>
       </tuv>
     </tu>
     <tu>
@@ -31031,10 +31055,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>held nothing back</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205201Z" creationid="Syn Spawacza" creationdate="20200608T205201Z">
+        <seg>walczy do ostatka sił</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>hesitated to kill my foe</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T192616Z" creationid="Syn Spawacza" creationdate="20200608T192616Z">
         <seg>waham się z zabiciem wroga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>hesitated to land the killing blow</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205332Z" creationid="Syn Spawacza" creationdate="20200608T205332Z">
+        <seg>waha się z zabiciem wroga</seg>
       </tuv>
     </tu>
     <tu>
@@ -31283,6 +31323,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T191250Z" creationid="Syn Spawacza" creationdate="20200608T191250Z">
         <seg>tracę szansę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>missed the chance of a lifetime</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205254Z" creationid="Syn Spawacza" creationdate="20200608T205254Z">
+        <seg>traci szansę</seg>
       </tuv>
     </tu>
     <tu>
@@ -31745,8 +31793,8 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>suddenly found myself on the ground</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T202624Z" creationid="Syn Spawacza" creationdate="20200608T202624Z">
-        <seg>nagle znajduję się na ziemi</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205403Z" creationid="Syn Spawacza" creationdate="20200608T202624Z">
+        <seg>upadam na ziemię</seg>
       </tuv>
     </tu>
     <tu>
@@ -31963,6 +32011,22 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190432Z" creationid="Syn Spawacza" creationdate="20200608T190432Z">
         <seg>jestem otoczony przez wrogów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was too damn lazy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205435Z" creationid="Syn Spawacza" creationdate="20200608T205435Z">
+        <seg>przeklina swoją bezczynność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was totally outmatched</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205313Z" creationid="Syn Spawacza" creationdate="20200608T205313Z">
+        <seg>nie ma szans z wrogiem</seg>
       </tuv>
     </tu>
     <tu>
@@ -33004,6 +33068,146 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205123Z" creationid="Syn Spawacza" creationdate="20200608T205123Z">
         <seg>ślubuje zemstę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_061_02</prop>
+      <tuv lang="en-US">
+        <seg>fell with grace</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205127Z" creationid="Syn Spawacza" creationdate="20200608T205127Z">
+        <seg>upada z gracją</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_063_02</prop>
+      <tuv lang="en-US">
+        <seg>vowed vengeance</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205139Z" creationid="Syn Spawacza" creationdate="20200608T205139Z">
+        <seg>ślubuje odpłatę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_064_02</prop>
+      <tuv lang="en-US">
+        <seg>felt despair at this cold world</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205145Z" creationid="Syn Spawacza" creationdate="20200608T205145Z">
+        <seg>czuje rozpacz w tym zimnym świecie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_067_02</prop>
+      <tuv lang="en-US">
+        <seg>was careless</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205221Z" creationid="Syn Spawacza" creationdate="20200608T205221Z">
+        <seg>pada ofiarą swojej lekkomyślności</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_068_02</prop>
+      <tuv lang="en-US">
+        <seg>collapsed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205224Z" creationid="Syn Spawacza" creationdate="20200608T205224Z">
+        <seg>upada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_069_02</prop>
+      <tuv lang="en-US">
+        <seg>fell</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205228Z" creationid="Syn Spawacza" creationdate="20200608T205228Z">
+        <seg>pada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_070_02</prop>
+      <tuv lang="en-US">
+        <seg>could not get up again</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205234Z" creationid="Syn Spawacza" creationdate="20200608T205234Z">
+        <seg>nie może znów wstać</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_071_02</prop>
+      <tuv lang="en-US">
+        <seg>vowed to grow as a person</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205238Z" creationid="Syn Spawacza" creationdate="20200608T205238Z">
+        <seg>ślubuje rozwijać się jako osoba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_072_02</prop>
+      <tuv lang="en-US">
+        <seg>grimaced in anger</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205242Z" creationid="Syn Spawacza" creationdate="20200608T205242Z">
+        <seg>krzywi się w wściekłości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_074_02</prop>
+      <tuv lang="en-US">
+        <seg>couldn't find a weakpoint</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205301Z" creationid="Syn Spawacza" creationdate="20200608T205301Z">
+        <seg>nie może znaleźć słabości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_075_02</prop>
+      <tuv lang="en-US">
+        <seg>was overwhelmed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205305Z" creationid="Syn Spawacza" creationdate="20200608T205305Z">
+        <seg>nie jest w stanie się obronić</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_077_02</prop>
+      <tuv lang="en-US">
+        <seg>was distracted by a flower</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205318Z" creationid="Syn Spawacza" creationdate="20200608T205318Z">
+        <seg>woli zbierać kwiaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_079_02</prop>
+      <tuv lang="en-US">
+        <seg>was attacked from behind</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205337Z" creationid="Syn Spawacza" creationdate="20200608T205337Z">
+        <seg>pada ofiarą ataku od tyłu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_081_02</prop>
+      <tuv lang="en-US">
+        <seg>couldn't even get a hit in</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T205417Z" creationid="Syn Spawacza" creationdate="20200608T205417Z">
+        <seg>nawet nie może trafić</seg>
       </tuv>
     </tu>
     <tu>
