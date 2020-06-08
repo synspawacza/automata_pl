@@ -370,6 +370,22 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>10% chance that 20% of damage taken is dealt back to the enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152607Z" creationid="Syn Spawacza" creationdate="20200608T152546Z">
+        <seg>10% szansa że 20% obrażeń zostanie oddane wrogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>10% chance to restore 20% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152417Z" creationid="Syn Spawacza" creationdate="20200608T152417Z">
+        <seg>10% szansa na odzyskanie 20% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>11B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203729Z" creationid="Syn Spawacza" creationdate="20200601T203729Z">
@@ -422,6 +438,22 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173843Z" creationid="Syn Spawacza" creationdate="20200530T173843Z">
         <seg>Jednostka 12H zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>15% chance that 30% of damage taken is dealt back to the enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152618Z" creationid="Syn Spawacza" creationdate="20200608T152618Z">
+        <seg>15% szansa że 30% obrażeń zostanie oddane wrogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>15% chance to restore 30% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152422Z" creationid="Syn Spawacza" creationdate="20200608T152422Z">
+        <seg>15% szansa na odzyskanie 30% obrażeń jako zdrowie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -482,6 +514,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>20% chance to restore 40% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152425Z" creationid="Syn Spawacza" creationdate="20200608T152425Z">
+        <seg>20% szansa na odzyskanie 40% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>21O</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145403Z" creationid="Syn Spawacza" creationdate="20200605T145403Z">
@@ -494,6 +534,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203749Z" creationid="Syn Spawacza" creationdate="20200601T203749Z">
         <seg>22B</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>25% chance to restore 50% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152430Z" creationid="Syn Spawacza" creationdate="20200608T152430Z">
+        <seg>25% szansa na odzyskanie 50% obrażeń jako zdrowie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -684,6 +732,22 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>30% chance to restore 80% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152434Z" creationid="Syn Spawacza" creationdate="20200608T152434Z">
+        <seg>30% szansa na odzyskanie 80% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>35% chance to restore all damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152450Z" creationid="Syn Spawacza" creationdate="20200608T152450Z">
+        <seg>35% szansa na odzyskanie wszystkich obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203731Z" creationid="Syn Spawacza" creationdate="20200601T203731Z">
@@ -704,6 +768,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204148Z" creationid="Syn Spawacza" creationdate="20200601T204148Z">
         <seg>4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>40% chance to restore 150% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152456Z" creationid="Syn Spawacza" creationdate="20200608T152456Z">
+        <seg>40% szansa na odzyskanie 150% obrażeń jako zdrowie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -732,10 +804,26 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5% chance that 10% of damage taken is dealt back to the enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152555Z" creationid="Syn Spawacza" creationdate="20200608T152539Z">
+        <seg>5% szansa że 10% obrażeń zostanie oddane wrogu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5% chance to restore 10% of damage taken.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152408Z" creationid="Syn Spawacza" creationdate="20200608T152408Z">
         <seg>5% szansa na odzyskanie 10% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50% chance to restore 200% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152501Z" creationid="Syn Spawacza" creationdate="20200608T152501Z">
+        <seg>50% szansa na odzyskanie 200% obrażeń jako zdrowie.</seg>
       </tuv>
     </tu>
     <tu>
