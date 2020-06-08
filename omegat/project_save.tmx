@@ -12520,6 +12520,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gathering Keepsakes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213812Z" creationid="Syn Spawacza" creationdate="20200608T213812Z">
+        <seg>Zbierając pamiątki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gatling</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T080426Z" creationid="Syn Spawacza" creationdate="20200601T080426Z">
@@ -13770,6 +13778,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104847Z" creationid="Syn Spawacza" creationdate="20200606T104847Z">
         <seg>Dobra, spróbuję inaczej. Dotknę cię w rękę, okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heritage of the Past</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213432Z" creationid="Syn Spawacza" creationdate="20200608T213432Z">
+        <seg>Dziedzictwo przeszłości</seg>
       </tuv>
     </tu>
     <tu>
@@ -24914,6 +24930,30 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211934Z" creationid="Syn Spawacza" creationdate="20200601T211918Z">
         <seg>Sort.: Używane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorting Trouble</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213654Z" creationid="Syn Spawacza" creationdate="20200608T213654Z">
+        <seg>Magazynowe problemy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorting Trouble 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213656Z" creationid="Syn Spawacza" creationdate="20200608T213656Z">
+        <seg>Magazynowe problemy 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorting Trouble 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213658Z" creationid="Syn Spawacza" creationdate="20200608T213658Z">
+        <seg>Magazynowe problemy 3</seg>
       </tuv>
     </tu>
     <tu>
