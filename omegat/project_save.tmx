@@ -14059,6 +14059,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I can't access this right now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T210903Z" creationid="Syn Spawacza" creationdate="20200608T210903Z">
+        <seg>Nie mam teraz do tego dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I could set it for you, but you should probably do it yourself.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203048Z" creationid="Syn Spawacza" creationdate="20200530T203048Z">
