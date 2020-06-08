@@ -9167,6 +9167,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy all contaminated YoRHa units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163242Z" creationid="Syn Spawacza" creationdate="20200608T163242Z">
+        <seg>Zniszcz skażone jednostki YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy all enemies at the Resistance camp.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162712Z" creationid="Syn Spawacza" creationdate="20200608T162712Z">
@@ -9175,10 +9183,26 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy all enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163124Z" creationid="Syn Spawacza" creationdate="20200608T163124Z">
+        <seg>Zniszcz wszystkich wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the Goliath-class unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
         <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the jamming enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163157Z" creationid="Syn Spawacza" creationdate="20200608T163157Z">
+        <seg>Zniszcz zagłuszającego wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9203,6 +9227,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160716Z" creationid="Syn Spawacza" creationdate="20200608T160716Z">
         <seg>Zniszcz nową maszynę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the new Goliath-class unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163305Z" creationid="Syn Spawacza" creationdate="20200608T163305Z">
+        <seg>Zniszcz nową jednostkę klasy Goliat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10572,6 +10604,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Escape from the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163212Z" creationid="Syn Spawacza" creationdate="20200608T163212Z">
+        <seg>Ucieknij z Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Escape from the abandoned factory.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162631Z" creationid="Syn Spawacza" creationdate="20200608T162631Z">
@@ -11916,10 +11956,34 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the command center.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163207Z" creationid="Syn Spawacza" creationdate="20200608T163207Z">
+        <seg>Idź do centrum dowodzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the commercial facility.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163222Z" creationid="Syn Spawacza" creationdate="20200608T163222Z">
+        <seg>Idź do obiektu handlowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to the hangar.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163013Z" creationid="Syn Spawacza" creationdate="20200608T163013Z">
         <seg>Idź do hangaru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the rendezvous point and meet 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163118Z" creationid="Syn Spawacza" creationdate="20200608T163118Z">
+        <seg>Idź spotkać się z 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12570,6 +12634,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183455Z" creationid="Syn Spawacza" creationdate="20200601T190058Z">
         <seg>HUD: log tekstowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163129Z" creationid="Syn Spawacza" creationdate="20200608T163129Z">
+        <seg>Zhakuj 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21399,6 +21471,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rendezvous with 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163254Z" creationid="Syn Spawacza" creationdate="20200608T163254Z">
+        <seg>Spotkaj się z 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Repair</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141925Z" creationid="Syn Spawacza" creationdate="20200530T141925Z">
@@ -21411,6 +21491,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142028Z" creationid="Syn Spawacza" creationdate="20200530T142028Z">
         <seg>Napraw ciało.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace your fuel filter.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163319Z" creationid="Syn Spawacza" creationdate="20200608T163319Z">
+        <seg>Wymień filtr paliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24992,6 +25080,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133022Z" creationid="Syn Spawacza" creationdate="20200530T133022Z">
         <seg>Filtrowanie tekstur</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank Pascal for the filter.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163337Z" creationid="Syn Spawacza" creationdate="20200608T163337Z">
+        <seg>Podziękuj Pascalowi za filtr.</seg>
       </tuv>
     </tu>
     <tu>
