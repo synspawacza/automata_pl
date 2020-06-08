@@ -9247,6 +9247,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy the rampaging machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163507Z" creationid="Syn Spawacza" creationdate="20200608T163507Z">
+        <seg>Zniszcz szalejące maszyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the spherical machine.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162808Z" creationid="Syn Spawacza" creationdate="20200608T162808Z">
@@ -11164,6 +11172,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Find out why Pascal's connection cut off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163438Z" creationid="Syn Spawacza" creationdate="20200608T163438Z">
+        <seg>Dowiedź się co przerwało połączenie z Pascalem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Find the missing YoRHa units.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160702Z" creationid="Syn Spawacza" creationdate="20200608T160702Z">
@@ -11584,6 +11600,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fulfill the requests at Pascal's village.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163407Z" creationid="Syn Spawacza" creationdate="20200608T163407Z">
+        <seg>Spełnij prośby w wiosce Pascala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fulfill the villager's request.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161631Z" creationid="Syn Spawacza" creationdate="20200608T161631Z">
@@ -11848,6 +11872,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203943Z" creationid="Syn Spawacza" creationdate="20200601T203943Z">
         <seg>Gesundheitsüberprüfung: grün</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get a status report from Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170141Z" creationid="Syn Spawacza" creationdate="20200608T170141Z">
+        <seg>Uzyskaj raport od Pascala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21475,6 +21507,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163254Z" creationid="Syn Spawacza" creationdate="20200608T163254Z">
         <seg>Spotkaj się z 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rendezvous with Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163513Z" creationid="Syn Spawacza" creationdate="20200608T163513Z">
+        <seg>Spotkaj się z Pascalem.</seg>
       </tuv>
     </tu>
     <tu>
