@@ -8904,6 +8904,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defeat the deranged machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162602Z" creationid="Syn Spawacza" creationdate="20200608T162602Z">
+        <seg>Pokonaj szalone mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defense</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140827Z" creationid="Syn Spawacza" creationdate="20200530T140827Z">
@@ -9151,6 +9159,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy all enemies at the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162712Z" creationid="Syn Spawacza" creationdate="20200608T162712Z">
+        <seg>Zniszcz wszystkich wrogów w obozie ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy the Goliath-class unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
@@ -9163,6 +9179,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161745Z" creationid="Syn Spawacza" creationdate="20200608T161745Z">
         <seg>Zniszcz mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the multi-legged Goliath.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162650Z" creationid="Syn Spawacza" creationdate="20200608T162650Z">
+        <seg>Zniszcz wielonożnego Goliata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10532,6 +10556,22 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Escape from the abandoned factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162631Z" creationid="Syn Spawacza" creationdate="20200608T162631Z">
+        <seg>Ucieknij z opuszczonej fabryki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Escape using the elevator.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162616Z" creationid="Syn Spawacza" creationdate="20200608T162616Z">
+        <seg>Ucieknij za pomocą windy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Español</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204039Z" creationid="Syn Spawacza" creationdate="20200601T204039Z">
@@ -11268,6 +11308,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162025Z" creationid="Syn Spawacza" creationdate="20200608T162025Z">
         <seg>Podążaj za śladem 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Follow the guides to their leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162502Z" creationid="Syn Spawacza" creationdate="20200608T162502Z">
+        <seg>Idź za przewodnikami do ich przywódcy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24575,6 +24623,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
         <seg>Talk to the Resistance Camp leader.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160438Z" creationid="Syn Spawacza" creationdate="20200608T160438Z">
+        <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Talk to the Resistance leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162721Z" creationid="Syn Spawacza" creationdate="20200608T162721Z">
         <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
       </tuv>
     </tu>
