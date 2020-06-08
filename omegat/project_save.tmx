@@ -30663,6 +30663,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>died an honorable death</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T193247Z" creationid="Syn Spawacza" creationdate="20200608T193247Z">
+        <seg>umieram honorową śmiercią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>during a pointless battle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174616Z" creationid="Syn Spawacza" creationdate="20200608T174616Z">
@@ -30675,6 +30683,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174608Z" creationid="Syn Spawacza" creationdate="20200608T174608Z">
         <seg>podczas decydującej bitwy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>failed to go all-out</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T193334Z" creationid="Syn Spawacza" creationdate="20200608T193334Z">
+        <seg>nie daję z siebie wszystkiego</seg>
       </tuv>
     </tu>
     <tu>
@@ -31019,6 +31035,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174724Z" creationid="Syn Spawacza" creationdate="20200608T174724Z">
         <seg>spoglądając na Ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>lost the battle</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T193238Z" creationid="Syn Spawacza" creationdate="20200608T193238Z">
+        <seg>przegrywam bitwę</seg>
       </tuv>
     </tu>
     <tu>
