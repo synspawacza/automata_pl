@@ -30263,6 +30263,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at a peace-loving village</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174133Z" creationid="Syn Spawacza" creationdate="20200608T174133Z">
+        <seg>w wiosce miłującej pokój</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>at a religious mountain</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173244Z" creationid="Syn Spawacza" creationdate="20200608T173244Z">
@@ -30283,6 +30291,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174030Z" creationid="Syn Spawacza" creationdate="20200608T174030Z">
         <seg>w wieży zbudowanej przez bogów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at a village of refugees</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174431Z" creationid="Syn Spawacza" creationdate="20200608T174431Z">
+        <seg>w wiosce uchodźców</seg>
       </tuv>
     </tu>
     <tu>
@@ -30463,10 +30479,26 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>inside a tall tower</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174117Z" creationid="Syn Spawacza" creationdate="20200608T174117Z">
+        <seg>w wnętrzu wysokiej wieży</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>inside an empty ship</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174003Z" creationid="Syn Spawacza" creationdate="20200608T174003Z">
         <seg>wewnątrz pustego statku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>on a tower smiled upon by angels</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174104Z" creationid="Syn Spawacza" creationdate="20200608T174104Z">
+        <seg>w wieży do której uśmiechają się anioły</seg>
       </tuv>
     </tu>
     <tu>
