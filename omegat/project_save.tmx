@@ -5566,6 +5566,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 100% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154436Z" creationid="Syn Spawacza" creationdate="20200608T154436Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 100% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154404Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
@@ -5610,6 +5618,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154432Z" creationid="Syn Spawacza" creationdate="20200608T154432Z">
         <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 60% więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto-use healing item if HP drops below 30%. Heals 80% more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154434Z" creationid="Syn Spawacza" creationdate="20200608T154434Z">
+        <seg>Używa przedm. leczących gdy PŻ spadnie poniżej 30%. Leczy 80% więcej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23532,6 +23548,78 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +1.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +3.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +4.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +5.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +6.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +7.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +8.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Strengthen remotely controlled enemies. Enemy level +9.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154614Z" creationid="Syn Spawacza" creationdate="20200608T154614Z">
+        <seg>Wzmacnia zdalnie sterowanego wroga. Poziom wroga +9.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stretched Coil</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083952Z" creationid="Syn Spawacza" creationdate="20200601T083952Z">
@@ -28081,6 +28169,14 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204216Z" creationid="Syn Spawacza" creationdate="20200601T204216Z">
         <seg>Z</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zap a hacked foe to emit a 5m blast &amp; stun them for 3 seconds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154930Z" creationid="Syn Spawacza" creationdate="20200608T154930Z">
+        <seg>Razi zhakowanego wroga, emitując 5 m wybuch ogłuszający na 3 s.</seg>
       </tuv>
     </tu>
     <tu>
