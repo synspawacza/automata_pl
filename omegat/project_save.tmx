@@ -3420,6 +3420,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add a weak shock wave to weapon attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151438Z" creationid="Syn Spawacza" creationdate="20200608T151438Z">
+        <seg>Dodaje słabą falę uderzeniową do ataków bronią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Add effects to voice playback.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134130Z" creationid="Syn Spawacza" creationdate="20200530T134130Z">
@@ -10816,6 +10824,78 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gain 10% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151248Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 10% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 100% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151250Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 100% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 2% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151247Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 2% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 20% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151248Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 20% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 30% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151248Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 30% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 4% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151247Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 4% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 50% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151248Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 50% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 8% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151247Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 8% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gain 80% more EXP from defeated enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151249Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Dostajesz 80% PD więcej od pokonywania wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Game</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131103Z" creationid="Syn Spawacza" creationdate="20200530T131103Z">
@@ -12879,6 +12959,78 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145245Z" creationid="Syn Spawacza" creationdate="20200608T145245Z">
         <seg>Zwiększa ilość ataków krytycznych o 8%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 30%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 40%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 40%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 50%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 60%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 60%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 70%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 70%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase enemy item drop rate by 90%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151112Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilośc przedm. upuszanych przez wrogów o 90%.</seg>
       </tuv>
     </tu>
     <tu>
