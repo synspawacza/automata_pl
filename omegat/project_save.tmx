@@ -1316,6 +1316,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;ITEM_NAME&gt; x &lt;ITEM_NUM&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T210926Z" creationid="Syn Spawacza" creationdate="20200608T210926Z">
+        <seg>&lt;ITEM_NAME&gt; x &lt;ITEM_NUM&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_CAMERA_2&gt;: Aim</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171438Z" creationid="Syn Spawacza" creationdate="20200530T171438Z">
@@ -1520,6 +1528,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172950Z" creationid="Syn Spawacza" creationdate="20200530T172950Z">
         <seg>Zdobyto &lt;MONEY_NUM&gt; G.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;MONEY_VALUE&gt; G</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T210928Z" creationid="Syn Spawacza" creationdate="20200608T210928Z">
+        <seg>&lt;MONEY_VALUE&gt; G</seg>
       </tuv>
     </tu>
     <tu>
