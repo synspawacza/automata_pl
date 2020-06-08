@@ -8778,8 +8778,8 @@ gdy znajdą się w zasięgu poda.</seg>
       <tuv lang="en-US">
         <seg>Death Rattle</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T185617Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
-        <seg>Okrzyk śmierci</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155517Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
+        <seg>Skowyt śmierci</seg>
       </tuv>
     </tu>
     <tu>
@@ -9227,6 +9227,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180815Z" creationid="Syn Spawacza" creationdate="20200601T180815Z">
         <seg>Pokaż ikonę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display a sound analysis graph.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155626Z" creationid="Syn Spawacza" creationdate="20200608T155626Z">
+        <seg>Wyświetla wykres analizy dźwięku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10086,8 +10094,8 @@ pieniędzy przez 60 sekund.</seg>
       <tuv lang="en-US">
         <seg>Enemies emit death cries if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155510Z" creationid="Syn Spawacza" creationdate="20200608T155510Z">
-        <seg>Wrogowie pokonani hakowaniem wydają okrzyk.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155543Z" creationid="Syn Spawacza" creationdate="20200608T155510Z">
+        <seg>Wrogowie pokonani hakowaniem wydają okrzyk śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25505,6 +25513,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095739Z" creationid="Syn Spawacza" creationdate="20200606T095739Z">
         <seg>Czas od porzucenia ciała: &lt;HOUR&gt;:&lt;MIN&gt;:&lt;SEC&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Time slows when near enemy projectiles.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155703Z" creationid="Syn Spawacza" creationdate="20200608T155703Z">
+        <seg>Spowalnia czas w pobliżu wrogich pocisków.</seg>
       </tuv>
     </tu>
     <tu>
