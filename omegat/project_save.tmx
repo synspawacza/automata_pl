@@ -5030,6 +5030,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Archive obtained:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160013Z" creationid="Syn Spawacza" creationdate="20200608T160013Z">
+        <seg>Zdobyto archiwum:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Archives</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143936Z" creationid="Syn Spawacza" creationdate="20200530T143936Z">
@@ -5218,6 +5226,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171753Z" creationid="Syn Spawacza" creationdate="20200530T171753Z">
         <seg>Nie można atakować sojusznika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attempt the hacking game?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160227Z" creationid="Syn Spawacza" creationdate="20200608T160200Z">
+        <seg>Rozpocząć grę hakerską?</seg>
       </tuv>
     </tu>
     <tu>
@@ -7662,6 +7678,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commence training?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160211Z" creationid="Syn Spawacza" creationdate="20200608T160211Z">
+        <seg>Rozpocząć trening?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commencing System Check</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123527Z" creationid="Syn Spawacza" creationdate="20200530T123527Z">
@@ -9243,6 +9267,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155626Z" creationid="Syn Spawacza" creationdate="20200608T155626Z">
         <seg>Wyświetla wykres analizy dźwięku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display an icon in areas where you can fish.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160253Z" creationid="Syn Spawacza" creationdate="20200608T160253Z">
+        <seg>Wyświetla ikonę w obszarach w których można łowić ryby.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27828,6 +27860,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135513Z" creationid="Syn Spawacza" creationdate="20200530T135457Z">
         <seg>Kółko myszy ↓</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When using the debug menu, the save function is disabled until you load a previous save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160117Z" creationid="Syn Spawacza" creationdate="20200608T160117Z">
+        <seg>Użycie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześniejszego zapisu.</seg>
       </tuv>
     </tu>
     <tu>
