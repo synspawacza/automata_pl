@@ -7302,6 +7302,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check on the villagers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161037Z" creationid="Syn Spawacza" creationdate="20200608T161037Z">
+        <seg>Porozmawiaj z mieszkańcami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cheerful Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200816Z" creationid="Syn Spawacza" creationdate="20200601T200749Z">
@@ -9091,6 +9099,22 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
         <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the new Goliath class machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160716Z" creationid="Syn Spawacza" creationdate="20200608T160716Z">
+        <seg>Zniszcz nową maszynę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the new machine lifeform model.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160635Z" creationid="Syn Spawacza" creationdate="20200608T160635Z">
+        <seg>Zniszcz nowy model mechanicznej formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10968,6 +10992,14 @@ Chwila, musimy to przywrócić.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174638Z" creationid="Syn Spawacza" creationdate="20200601T174638Z">
         <seg>Ostateczna bitwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find the missing YoRHa units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160702Z" creationid="Syn Spawacza" creationdate="20200608T160702Z">
+        <seg>Znajdź zaginione jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14541,6 +14573,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160603Z" creationid="Syn Spawacza" creationdate="20200608T160603Z">
         <seg>Zbadaj ruiny na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the village of the machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160730Z" creationid="Syn Spawacza" creationdate="20200608T160730Z">
+        <seg>Zbadaj wioskę maszyn.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21067,6 +21107,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173505Z" creationid="Syn Spawacza" creationdate="20200601T173505Z">
         <seg>Raport o A2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report to Command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160645Z" creationid="Syn Spawacza" creationdate="20200608T160645Z">
+        <seg>Zdaj raport Dowódcy.</seg>
       </tuv>
     </tu>
     <tu>
