@@ -732,6 +732,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>5% chance to restore 10% of damage taken.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152408Z" creationid="Syn Spawacza" creationdate="20200608T152408Z">
+        <seg>5% szansa na odzyskanie 10% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5012</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194037Z" creationid="Syn Spawacza" creationdate="20200530T194037Z">
@@ -12951,6 +12959,78 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074736Z" creationid="Syn Spawacza" creationdate="20200530T145129Z">
         <seg>Poczta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 10% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151810Z" creationid="Syn Spawacza" creationdate="20200608T151810Z">
+        <seg>Zwiększa moc ataku o 10% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 100% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151912Z" creationid="Syn Spawacza" creationdate="20200608T151912Z">
+        <seg>Zwiększa moc ataku o 100% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 15% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151850Z" creationid="Syn Spawacza" creationdate="20200608T151850Z">
+        <seg>Zwiększa moc ataku o 15% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 20% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151857Z" creationid="Syn Spawacza" creationdate="20200608T151857Z">
+        <seg>Zwiększa moc ataku o 20% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 30% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151900Z" creationid="Syn Spawacza" creationdate="20200608T151900Z">
+        <seg>Zwiększa moc ataku o 30% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 5% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151803Z" creationid="Syn Spawacza" creationdate="20200608T151803Z">
+        <seg>Zwiększa moc ataku o 5% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 50% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151903Z" creationid="Syn Spawacza" creationdate="20200608T151903Z">
+        <seg>Zwiększa moc ataku o 50% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 60% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151906Z" creationid="Syn Spawacza" creationdate="20200608T151906Z">
+        <seg>Zwiększa moc ataku o 60% przy 25% PŻ i mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase attack power by 80% if HP is 25% or less.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151909Z" creationid="Syn Spawacza" creationdate="20200608T151909Z">
+        <seg>Zwiększa moc ataku o 80% przy 25% PŻ i mniej.</seg>
       </tuv>
     </tu>
     <tu>
