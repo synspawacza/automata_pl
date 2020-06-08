@@ -16823,6 +16823,14 @@ włócznię na pielgrzymki.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Move toward an enemy attack with perfect timing to counter it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153924Z" creationid="Syn Spawacza" creationdate="20200608T153924Z">
+        <seg>Porusz się do wroga w odpowiednim momencie by skontrować atak.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moved it somewhere?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181638Z" creationid="Syn Spawacza" creationdate="20200530T181638Z">
