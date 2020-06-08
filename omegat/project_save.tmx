@@ -1516,6 +1516,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;NAME&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171254Z" creationid="Syn Spawacza" creationdate="20200608T171254Z">
+        <seg>&lt;NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;NAME&gt; (&lt;ID&gt;)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100453Z" creationid="Syn Spawacza" creationdate="20200606T100453Z">
@@ -13589,7 +13597,7 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>I</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204201Z" creationid="Syn Spawacza" creationdate="20200601T204201Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171410Z" creationid="Syn Spawacza" creationdate="20200601T204201Z">
         <seg>I</seg>
       </tuv>
     </tu>
@@ -21659,6 +21667,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211638Z" creationid="Syn Spawacza" creationdate="20200601T211638Z">
         <seg>Usuń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove 9S's virus.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171253Z" creationid="Syn Spawacza" creationdate="20200608T171253Z">
+        <seg>Usuń wirus 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30214,6 +30230,136 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194049Z" creationid="Syn Spawacza" creationdate="20200530T194049Z">
         <seg>5012</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_002</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171425Z" creationid="Syn Spawacza" creationdate="20200608T171425Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_003</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171434Z" creationid="Syn Spawacza" creationdate="20200608T171434Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_004</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171439Z" creationid="Syn Spawacza" creationdate="20200608T171439Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_005</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171443Z" creationid="Syn Spawacza" creationdate="20200608T171443Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_006</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171447Z" creationid="Syn Spawacza" creationdate="20200608T171447Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_007</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171451Z" creationid="Syn Spawacza" creationdate="20200608T171451Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_008</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171455Z" creationid="Syn Spawacza" creationdate="20200608T171455Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_009</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171459Z" creationid="Syn Spawacza" creationdate="20200608T171459Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_010</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171503Z" creationid="Syn Spawacza" creationdate="20200608T171503Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_011</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171511Z" creationid="Syn Spawacza" creationdate="20200608T171511Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_065</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171520Z" creationid="Syn Spawacza" creationdate="20200608T171520Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_066</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171524Z" creationid="Syn Spawacza" creationdate="20200608T171524Z">
+        <seg>Ja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_FIRST_067</prop>
+      <tuv lang="en-US">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171533Z" creationid="Syn Spawacza" creationdate="20200608T171533Z">
+        <seg>Ja</seg>
       </tuv>
     </tu>
     <tu>
