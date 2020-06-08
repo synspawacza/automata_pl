@@ -5598,6 +5598,78 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 10% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153201Z" creationid="Syn Spawacza" creationdate="20200608T153201Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 10% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 20% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153159Z" creationid="Syn Spawacza" creationdate="20200608T153159Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 20% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 30% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153157Z" creationid="Syn Spawacza" creationdate="20200608T153157Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 30% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 40% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153155Z" creationid="Syn Spawacza" creationdate="20200608T153155Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 40% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 5% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153204Z" creationid="Syn Spawacza" creationdate="20200608T153204Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 5% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 50% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153152Z" creationid="Syn Spawacza" creationdate="20200608T153152Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 50% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 60% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153150Z" creationid="Syn Spawacza" creationdate="20200608T153150Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 60% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 70% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153141Z" creationid="Syn Spawacza" creationdate="20200608T153141Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 70% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Avoid stagger after hits if HP is 80% or more.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153139Z" creationid="Syn Spawacza" creationdate="20200608T153139Z">
+        <seg>Zapobiega oszołomieniu po uderzeniu przy 80% PŻ lub więcej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Avvio del controllo del sistema</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203919Z" creationid="Syn Spawacza" creationdate="20200601T203919Z">
@@ -8971,6 +9043,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184048Z" creationid="Syn Spawacza" creationdate="20200605T184048Z">
         <seg>Wyświetla poziomi i PŻ wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Display item locations on the mini-map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153233Z" creationid="Syn Spawacza" creationdate="20200608T153233Z">
+        <seg>Wyświetla położenie przedmiotów na minimapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22608,6 +22688,70 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152950Z" creationid="Syn Spawacza" creationdate="20200608T152950Z">
         <seg>Spowalnia czas na 0,8 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 1.5 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152955Z" creationid="Syn Spawacza" creationdate="20200608T152955Z">
+        <seg>Spowalnia czas na 1,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 2 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152958Z" creationid="Syn Spawacza" creationdate="20200608T152958Z">
+        <seg>Spowalnia czas na 2 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 2.5 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153004Z" creationid="Syn Spawacza" creationdate="20200608T153004Z">
+        <seg>Spowalnia czas na 2,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 3 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153008Z" creationid="Syn Spawacza" creationdate="20200608T153008Z">
+        <seg>Spowalnia czas na 3 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 3.5 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153014Z" creationid="Syn Spawacza" creationdate="20200608T153014Z">
+        <seg>Spowalnia czas na 3,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 4 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153017Z" creationid="Syn Spawacza" creationdate="20200608T153017Z">
+        <seg>Spowalnia czas na 4 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 4.5 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153022Z" creationid="Syn Spawacza" creationdate="20200608T153022Z">
+        <seg>Spowalnia czas na 4,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow time for 5.5 seconds after a Perfect Evade.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153029Z" creationid="Syn Spawacza" creationdate="20200608T153029Z">
+        <seg>Spowalnia czas na 5,5 s po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
