@@ -168,6 +168,14 @@ zawierać spoilery</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save. * This game does not support auto-save.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175546Z" creationid="Syn Spawacza" creationdate="20200608T175546Z">
+        <seg>* Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu. * Ta gra nie wspiera autozapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* This game does not support auto-save. Play the game to find out how to save.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T144624Z" creationid="Syn Spawacza" creationdate="20200608T144624Z">
@@ -3548,10 +3556,42 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access Point: Arcade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175644Z" creationid="Syn Spawacza" creationdate="20200608T175644Z">
+        <seg>Punkty dostępu: Salon gier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Point: Unavailable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175612Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
+        <seg>Punkty dostępu: Niedostępne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access Points</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180615Z" creationid="Syn Spawacza" creationdate="20200601T180615Z">
         <seg>Punkty dostępu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Mailbox</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175631Z" creationid="Syn Spawacza" creationdate="20200608T175631Z">
+        <seg>Punkty dostępu: Poczta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Teleport</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175604Z" creationid="Syn Spawacza" creationdate="20200608T175604Z">
+        <seg>Punkty dostępu: Teleport</seg>
       </tuv>
     </tu>
     <tu>
@@ -19599,6 +19639,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other Players' Bodies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175739Z" creationid="Syn Spawacza" creationdate="20200608T175739Z">
+        <seg>Ciała innych graczy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Our Ho229 cancellers are ineffective.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173928Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
@@ -22067,6 +22115,22 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
         <seg>Zwalnianie zabezpieczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reliquary System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175723Z" creationid="Syn Spawacza" creationdate="20200608T175723Z">
+        <seg>System relikwiarza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reliquary System: Upload</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175732Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
+        <seg>System relikwiarza: Wyślij</seg>
       </tuv>
     </tu>
     <tu>
@@ -25192,6 +25256,22 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134326Z" creationid="Syn Spawacza" creationdate="20200530T134326Z">
         <seg>Monitor dodatkowy 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-quest Progress</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175802Z" creationid="Syn Spawacza" creationdate="20200608T175802Z">
+        <seg>Postęp podzadań</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub-quests</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175746Z" creationid="Syn Spawacza" creationdate="20200608T175746Z">
+        <seg>Podzadania</seg>
       </tuv>
     </tu>
     <tu>
@@ -30811,6 +30891,22 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175302Z" creationid="Syn Spawacza" creationdate="20200608T175302Z">
         <seg>gdzieś tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>saw a pathetic lump of metal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175832Z" creationid="Syn Spawacza" creationdate="20200608T175832Z">
+        <seg>patrzy na żałosną kupę metalu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>saw my most hated enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175818Z" creationid="Syn Spawacza" creationdate="20200608T175818Z">
+        <seg>patrzy na znienawidzonego wroga</seg>
       </tuv>
     </tu>
     <tu>
