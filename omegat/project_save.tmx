@@ -14707,6 +14707,22 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have the Network Features option turned on, you'll be able to see other players' dead bodies. By examining these bodies, you can do the following:
+ 
+- Pray: The other player's health will be fully restored, and they'll receive an item.
+- Retrieve: You'll temporarily gain 3 random effects based on the chips the player had equipped.
+- Repair: The body will follow you around and aid you in combat (one max).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222016Z" creationid="Syn Spawacza" creationdate="20200608T221503Z">
+        <seg>Jeśli funkcje sieciowe są włączone, będziesz w stanie zobaczyć martwe ciała innych graczy. Podchodząc do nich, możesz wykonać jedno z poniższych:
+
+- Modlitwa: Zdrowie innego gracza zostanie w pełni odnowione i otrzyma on przedmiot.
+- Odzyskaj: Zyskasz tymczasowo 3 losowe efekty, zależne od czipów używanych przez gracza.
+- Naprawa: Ciało (maksymalnie jedno) będzie podążać za tobą i pomagać w walce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have the Network Features option turned on, your body will be uploaded online upon death.
 You can create a death message for your body within the Network tab, under Edit Death Message within the System Menu.</seg>
       </tuv>
