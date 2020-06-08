@@ -9152,6 +9152,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DLC data not found for:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T215737Z" creationid="Syn Spawacza" creationdate="20200608T215737Z">
+        <seg>Nie znaleziono danych DLC:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damage Absorb</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183920Z" creationid="Syn Spawacza" creationdate="20200601T183920Z">
@@ -16262,6 +16270,14 @@ zatytułowana „Pensées”.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jean-Paul's Melancholy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T215611Z" creationid="Syn Spawacza" creationdate="20200608T215611Z">
+        <seg>Melancholia Jean-Paula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jean-Paul's letter.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115052Z" creationid="Syn Spawacza" creationdate="20200601T115052Z">
@@ -23133,6 +23149,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to the game without saving?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T215711Z" creationid="Syn Spawacza" creationdate="20200608T215711Z">
+        <seg>Powrócić do gry bez zapisywania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Return to the title screen without saving?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184943Z" creationid="Syn Spawacza" creationdate="20200605T184943Z">
@@ -24962,6 +24986,14 @@ your fallen body.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171858Z" creationid="Syn Spawacza" creationdate="20200530T171838Z">
         <seg>Ktoś pomodlił się nad
 twoim poległym ciałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Someone somewhere</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T215653Z" creationid="Syn Spawacza" creationdate="20200608T215653Z">
+        <seg>Ktoś, gdzieś</seg>
       </tuv>
     </tu>
     <tu>
@@ -26914,6 +26946,24 @@ Czy chcesz połączyć ten czip?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103717Z" creationid="Syn Spawacza" creationdate="20200601T103717Z">
         <seg>Tułów mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The world is filled with cleverly disguised access points &lt;MAP_EVENT&gt; which can be used for the following:
+ 
+- Unlocking map info
+- Unlocking a save area (a white area on the map), which allows you to save your game in the System Menu as long as you're close enough to the access point.
+ 
+If you find an access point under attack by enemies, destroy them all to reactivate the terminal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220229Z" creationid="Syn Spawacza" creationdate="20200608T220229Z">
+        <seg>W świecie znajdziesz wiele sprytnie zamaskowanych punktów dostępu &lt;MAP_EVENT&gt;, których można użyć by:
+
+- Odblokować informacje na mapie
+- Odblokować obszar zapisu (biały obszar na mapie), który pozwala na zapis gry w menu systemowym, o ile jesteś wystarczająco blisko punktu dostępu.
+
+Jeśli punkt dostępu jest atakowany przez wrogów, zniszcz ich by reaktywować terminal.</seg>
       </tuv>
     </tu>
     <tu>
