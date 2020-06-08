@@ -1944,6 +1944,14 @@ w parku rozrywki.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A carefree android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172948Z" creationid="Syn Spawacza" creationdate="20200608T172948Z">
+        <seg>Beztroski android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A ceremonial implement allegedly made from phoenix
 feathers. Mostly decorative. Untested in combat.</seg>
       </tuv>
@@ -2012,6 +2020,14 @@ gods.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161139Z" creationid="Syn Spawacza" creationdate="20200601T161112Z">
         <seg>Ogromna żelazna klinga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A combat-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173005Z" creationid="Syn Spawacza" creationdate="20200608T173005Z">
+        <seg>Android kochający walkę</seg>
       </tuv>
     </tu>
     <tu>
@@ -2446,6 +2462,14 @@ w rodzinie królewskiej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A nature-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173009Z" creationid="Syn Spawacza" creationdate="20200608T173009Z">
+        <seg>Android kochający przyrodę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A network error has occurred.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073406Z" creationid="Syn Spawacza" creationdate="20200601T073406Z">
@@ -2691,6 +2715,22 @@ mechanicznych form życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A ruthless android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172935Z" creationid="Syn Spawacza" creationdate="20200608T172935Z">
+        <seg>Bezwzględny android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sea-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173018Z" creationid="Syn Spawacza" creationdate="20200608T173018Z">
+        <seg>Android kochający morze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A seed fallen from a tree.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T110822Z" creationid="Syn Spawacza" creationdate="20200601T110729Z">
@@ -2717,10 +2757,26 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A serious android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172953Z" creationid="Syn Spawacza" creationdate="20200608T172953Z">
+        <seg>Poważny android</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A shrewd soldier</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171806Z" creationid="Syn Spawacza" creationdate="20200608T171806Z">
         <seg>Przebiegły żołnierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A sky-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173022Z" creationid="Syn Spawacza" creationdate="20200608T173022Z">
+        <seg>Android kochający niebo</seg>
       </tuv>
     </tu>
     <tu>
@@ -2777,6 +2833,14 @@ przez ludzką dziewczynkę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112325Z" creationid="Syn Spawacza" creationdate="20200601T112325Z">
         <seg>Gniazdko na wtyczkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A solitary android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172943Z" creationid="Syn Spawacza" creationdate="20200608T172943Z">
+        <seg>Samotny android</seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,6 +3119,14 @@ Reduces the probability of cavities.</seg>
 czyszczenia zębów.
 Zmniejsza występowanie
 próchnicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A weapon-carrying android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172910Z" creationid="Syn Spawacza" creationdate="20200608T172910Z">
+        <seg>Uzbrojony android</seg>
       </tuv>
     </tu>
     <tu>
@@ -4827,6 +4899,14 @@ YoRHa. Jego moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An animal-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173014Z" creationid="Syn Spawacza" creationdate="20200608T173014Z">
+        <seg>Android kochający zwierzęta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An aquatic machine.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194158Z" creationid="Syn Spawacza" creationdate="20200601T194158Z">
@@ -4871,11 +4951,27 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>An earth-loving android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173030Z" creationid="Syn Spawacza" creationdate="20200608T173030Z">
+        <seg>Android kochający ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>An elastic substance extracted from
 plants.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111433Z" creationid="Syn Spawacza" creationdate="20200601T111433Z">
         <seg>Elastyczna substancja z roślin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An emotional android</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172919Z" creationid="Syn Spawacza" creationdate="20200608T172919Z">
+        <seg>Emocjonalny android</seg>
       </tuv>
     </tu>
     <tu>
@@ -30055,10 +30151,34 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>at YoRHa HQ</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173106Z" creationid="Syn Spawacza" creationdate="20200608T173106Z">
+        <seg>w kwaterze YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>at the Bunker, looking at Earth</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173057Z" creationid="Syn Spawacza" creationdate="20200608T173057Z">
+        <seg>w Bunkrze, spoglądając na Ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>broken [W]ings</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173246Z" creationid="Syn Spawacza" creationdate="20200530T173246Z">
         <seg>z[W]ichnięte skrzydła</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in a cradle in the sky</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173040Z" creationid="Syn Spawacza" creationdate="20200608T173040Z">
+        <seg>w kołysce nieba</seg>
       </tuv>
     </tu>
     <tu>
