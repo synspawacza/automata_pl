@@ -12811,6 +12811,78 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Increase maximum HP by 10%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 10%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 100%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 100%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 15%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 15%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 20%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 20%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 25%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 25%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 30%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 30%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 5%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 5%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 50%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 50%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Increase maximum HP by 80%.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150220Z" creationid="Syn Spawacza" creationdate="20200608T150220Z">
+        <seg>Zwiększa maksymalną ilość PŻ o 80%.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase power of projectile attacks by 10%.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T145429Z" creationid="Syn Spawacza" creationdate="20200608T145357Z">
@@ -19258,6 +19330,14 @@ to be mightier than swords.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T121709Z" creationid="Syn Spawacza" creationdate="20200601T121623Z">
         <seg>Zapiski wskazują że były one uważane
 za silniejsze od miecza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recover 2% of damage dealt as HP.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150456Z" creationid="Syn Spawacza" creationdate="20200608T150456Z">
+        <seg>Odzyskuje 0% zadawanych obrażeń jako PŻ.</seg>
       </tuv>
     </tu>
     <tu>
