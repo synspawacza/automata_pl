@@ -8912,6 +8912,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defeat the enemy backup.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170402Z" creationid="Syn Spawacza" creationdate="20200608T170402Z">
+        <seg>Zniszcz wrogie posiłki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defense</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140827Z" creationid="Syn Spawacza" creationdate="20200530T140827Z">
@@ -9195,6 +9203,14 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
         <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the infiltrating machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170327Z" creationid="Syn Spawacza" creationdate="20200608T170327Z">
+        <seg>Zniszcz przedzierające się mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
