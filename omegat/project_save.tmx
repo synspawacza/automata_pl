@@ -8920,6 +8920,22 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Defeat 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171239Z" creationid="Syn Spawacza" creationdate="20200608T171239Z">
+        <seg>Pokonaj 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Defeat A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171235Z" creationid="Syn Spawacza" creationdate="20200608T171235Z">
+        <seg>Pokonaj A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Defeat the deranged machine lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162602Z" creationid="Syn Spawacza" creationdate="20200608T162602Z">
@@ -9143,6 +9159,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Destroy 21O.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171003Z" creationid="Syn Spawacza" creationdate="20200608T171003Z">
+        <seg>Zniszcz 21O.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Destroy Adam and Eve.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161525Z" creationid="Syn Spawacza" creationdate="20200608T161506Z">
@@ -9193,8 +9217,8 @@ Wskrzeszone ciało</seg>
       <tuv lang="en-US">
         <seg>Destroy all contaminated YoRHa units.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163242Z" creationid="Syn Spawacza" creationdate="20200608T163242Z">
-        <seg>Zniszcz skażone jednostki YoRHa.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171143Z" creationid="Syn Spawacza" creationdate="20200608T163242Z">
+        <seg>Zniszcz wszystkie skażone jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9219,6 +9243,38 @@ Wskrzeszone ciało</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162249Z" creationid="Syn Spawacza" creationdate="20200530T162249Z">
         <seg>Zniszcz jednostkę klasy Goliat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the Red Girls' assassins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171128Z" creationid="Syn Spawacza" creationdate="20200608T171128Z">
+        <seg>Zniszcz zabójcze czerwone dziewczyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the compound Goliath.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171231Z" creationid="Syn Spawacza" creationdate="20200608T171231Z">
+        <seg>Zniszcz złożonego Goliata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the contaminated YoRHA units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171136Z" creationid="Syn Spawacza" creationdate="20200608T171136Z">
+        <seg>Zniszcz skażone jednostki YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy the hostile androids.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171023Z" creationid="Syn Spawacza" creationdate="20200608T171023Z">
+        <seg>Zniszcz wrogie androidy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10660,6 +10716,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Escape the cyberspace.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171158Z" creationid="Syn Spawacza" creationdate="20200608T171158Z">
+        <seg>Ucieknij z cyberprzestrzeni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Escape using the elevator.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162616Z" creationid="Syn Spawacza" creationdate="20200608T162616Z">
@@ -12076,6 +12140,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go to the top floor of the Tower.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171222Z" creationid="Syn Spawacza" creationdate="20200608T171222Z">
+        <seg>Idź na najwyższe piętro Wieży.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Go to your private quarters.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163005Z" creationid="Syn Spawacza" creationdate="20200608T163005Z">
@@ -12778,6 +12850,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162256Z" creationid="Syn Spawacza" creationdate="20200608T162256Z">
         <seg>Zhakuj system fabryki by pomóc 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hack yourself to remove the virus.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171108Z" creationid="Syn Spawacza" creationdate="20200608T171108Z">
+        <seg>Zhakuj siebie by usunąć wirusa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15009,6 +15089,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Investigate the Tower.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171011Z" creationid="Syn Spawacza" creationdate="20200608T171011Z">
+        <seg>Zbadaj Wieżę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Investigate the alien facility.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161454Z" creationid="Syn Spawacza" creationdate="20200608T161454Z">
@@ -15029,6 +15117,14 @@ Przywraca też 100% PŻ.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161418Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
         <seg>Zbadaj zatopiony obszar pod kątem sygnałów obcych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Investigate the interior of the Tower.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171047Z" creationid="Syn Spawacza" creationdate="20200608T171047Z">
+        <seg>Zbadaj wnętrze Wieży.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23632,6 +23728,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shut down the "god box."</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170956Z" creationid="Syn Spawacza" creationdate="20200608T170956Z">
+        <seg>Wyłącz „pudełko boga”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shut down the recovery unit in the flooded city.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170903Z" creationid="Syn Spawacza" creationdate="20200608T170903Z">
@@ -27096,6 +27200,14 @@ soundtrack series ever.</seg>
         <seg>Więcej utworów dla szafy grającej.
 Ostatnia, piąta część najwspanialszej
 ścieżki dźwiękowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unlock the Tower with the keys.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171035Z" creationid="Syn Spawacza" creationdate="20200608T171035Z">
+        <seg>Odblokuj Wieżę za pomocą kluczy.</seg>
       </tuv>
     </tu>
     <tu>
