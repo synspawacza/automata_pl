@@ -24253,6 +24253,78 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Turn invincible for 0.5 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150035Z" creationid="Syn Spawacza" creationdate="20200608T150010Z">
+        <seg>Daje niewrażliwość przez 0,5 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 1 second after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150100Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 1 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 1.5 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150104Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 1,5 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 2 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150106Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 2 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 2.5 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150110Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 2,5 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 3 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150112Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 3 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 4 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150114Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 4 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 5 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150117Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 5 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Turn invincible for 6 seconds after taking damage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T150120Z" creationid="Syn Spawacza" creationdate="20200608T150100Z">
+        <seg>Daje niewrażliwość przez 6 s po otrzymaniu obrażeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Turn network functions On/Off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144839Z" creationid="Syn Spawacza" creationdate="20200530T144839Z">
