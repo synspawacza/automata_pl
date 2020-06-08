@@ -30911,6 +30911,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>laughed at my own demise</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190452Z" creationid="Syn Spawacza" creationdate="20200608T190452Z">
+        <seg>śmieję się z własnego upadku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>laughed at the enemy's strength</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T181806Z" creationid="Syn Spawacza" creationdate="20200608T181806Z">
@@ -30979,6 +30987,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175302Z" creationid="Syn Spawacza" creationdate="20200608T175302Z">
         <seg>gdzieś tam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>regretted my own mistakes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190344Z" creationid="Syn Spawacza" creationdate="20200608T190344Z">
+        <seg>żałuję błędów</seg>
       </tuv>
     </tu>
     <tu>
@@ -31367,10 +31383,34 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>vowed revenge</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190509Z" creationid="Syn Spawacza" creationdate="20200608T190509Z">
+        <seg>ślubuję zemstę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was ambushed by the enemy</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190419Z" creationid="Syn Spawacza" creationdate="20200608T190419Z">
+        <seg>wpadam w zasadzkę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>was shocked at what happened</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T182722Z" creationid="Syn Spawacza" creationdate="20200608T182722Z">
         <seg>jestem w szoku ostatnich wydarzeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>was surrounded by enemies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190432Z" creationid="Syn Spawacza" creationdate="20200608T190432Z">
+        <seg>jestem otoczony przez wrogów</seg>
       </tuv>
     </tu>
     <tu>
