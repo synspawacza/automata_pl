@@ -16597,10 +16597,18 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ko-Shi &amp; Ro-shi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223733Z" creationid="Syn Spawacza" creationdate="20200608T223704Z">
+        <seg>Ko-Shi i Ro-Shi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ko-shi &amp; Ro-shi</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145328Z" creationid="Syn Spawacza" creationdate="20200605T145328Z">
-        <seg>Ko-shi i Ro-shi</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223710Z" creationid="Syn Spawacza" creationdate="20200605T145328Z">
+        <seg>Ko-Shi i Ro-Shi</seg>
       </tuv>
     </tu>
     <tu>
