@@ -31759,6 +31759,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>thought of a loved one</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204608Z" creationid="Syn Spawacza" creationdate="20200608T204608Z">
+        <seg>myśli o ukochanej osobie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>thought of many friends</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204452Z" creationid="Syn Spawacza" creationdate="20200608T204452Z">
@@ -31963,6 +31971,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194335Z" creationid="Syn Spawacza" creationdate="20200530T194335Z">
         <seg>świat został zaatakowany przez obcych z głębi kosmosu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wished for a friend's victory</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204544Z" creationid="Syn Spawacza" creationdate="20200608T204544Z">
+        <seg>życzy przyjaciołom zwycięstwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -32506,6 +32522,286 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204521Z" creationid="Syn Spawacza" creationdate="20200608T204521Z">
         <seg>widzi androida o czerwonych oczach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_010_02</prop>
+      <tuv lang="en-US">
+        <seg>saw squadmates lose their minds</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204532Z" creationid="Syn Spawacza" creationdate="20200608T204532Z">
+        <seg>widzi towarzyszy tracących rozum</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_012_02</prop>
+      <tuv lang="en-US">
+        <seg>saw something strange yet nostalgic</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204551Z" creationid="Syn Spawacza" creationdate="20200608T204551Z">
+        <seg>widzi coś dziwnego, ale nostalgicznego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_013_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a vision of those lost</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204556Z" creationid="Syn Spawacza" creationdate="20200608T204556Z">
+        <seg>ma wizję tych którzy przegrali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_015_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine imitating a human</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204628Z" creationid="Syn Spawacza" creationdate="20200608T204628Z">
+        <seg>widzi maszynę udającą człowieka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_016_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine ponder life and death</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204633Z" creationid="Syn Spawacza" creationdate="20200608T204633Z">
+        <seg>widzi maszynę rozmyślającą nad życiem i śmiercią</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_017_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine wandering around</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204640Z" creationid="Syn Spawacza" creationdate="20200608T204640Z">
+        <seg>widzi włóczącą się maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_018_02</prop>
+      <tuv lang="en-US">
+        <seg>saw soldiers protecting their land</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204645Z" creationid="Syn Spawacza" creationdate="20200608T204645Z">
+        <seg>widzi żołnierzy chroniących swój kraj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_019_02</prop>
+      <tuv lang="en-US">
+        <seg>saw machines enjoying a parade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204651Z" creationid="Syn Spawacza" creationdate="20200608T204651Z">
+        <seg>widzi maszyny bawiące się na paradzie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_020_02</prop>
+      <tuv lang="en-US">
+        <seg>saw machines that believed in the uncertain</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204657Z" creationid="Syn Spawacza" creationdate="20200608T204657Z">
+        <seg>widzi maszyny które uwierzyły w niepewne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_021_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine in deep thought</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204702Z" creationid="Syn Spawacza" creationdate="20200608T204702Z">
+        <seg>widzi zamyśloną maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_022_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine dancing like mad</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204708Z" creationid="Syn Spawacza" creationdate="20200608T204708Z">
+        <seg>widzi maszynę tańczącą jak szalona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_023_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a caring machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204712Z" creationid="Syn Spawacza" creationdate="20200608T204712Z">
+        <seg>widzi troskliwą maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_024_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine full of love</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204715Z" creationid="Syn Spawacza" creationdate="20200608T204715Z">
+        <seg>widzi maszynę pełną miłości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_025_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine flying around</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204719Z" creationid="Syn Spawacza" creationdate="20200608T204719Z">
+        <seg>widzi latającą maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_026_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine end it all</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204723Z" creationid="Syn Spawacza" creationdate="20200608T204723Z">
+        <seg>widzi maszynę kończącą to wszystko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_027_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine living for combat</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204727Z" creationid="Syn Spawacza" creationdate="20200608T204727Z">
+        <seg>widzi maszynę żyjącą by walczyć</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_028_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine eating its own kind</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204731Z" creationid="Syn Spawacza" creationdate="20200608T204731Z">
+        <seg>widzi maszynę zjadającą swoich pobratymców</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_029_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine in love with humans</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204737Z" creationid="Syn Spawacza" creationdate="20200608T204737Z">
+        <seg>widzi maszynę zakochaną w ludziach</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_030_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a lost machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204740Z" creationid="Syn Spawacza" creationdate="20200608T204740Z">
+        <seg>widzi zagubioną maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_031_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine buried in sand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204744Z" creationid="Syn Spawacza" creationdate="20200608T204744Z">
+        <seg>widzi maszynę zakopaną w piasku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_032_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine behind a tree</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204747Z" creationid="Syn Spawacza" creationdate="20200608T204747Z">
+        <seg>widzi maszynę za drzewem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_033_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine with dreams</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204751Z" creationid="Syn Spawacza" creationdate="20200608T204751Z">
+        <seg>widzi maszynę z marzeniami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_034_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine living in junk</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204758Z" creationid="Syn Spawacza" creationdate="20200608T204758Z">
+        <seg>widzi maszynę żyjącą w złomie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_035_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine taking a walk</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204803Z" creationid="Syn Spawacza" creationdate="20200608T204803Z">
+        <seg>widzi przechadzającą się maszynę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_036_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a machine cover the skies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204810Z" creationid="Syn Spawacza" creationdate="20200608T204810Z">
+        <seg>widzi maszynę pokrywającą niebo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_037_02</prop>
+      <tuv lang="en-US">
+        <seg>saw a white flower</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204813Z" creationid="Syn Spawacza" creationdate="20200608T204813Z">
+        <seg>widzi biały kwiat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_038_02</prop>
+      <tuv lang="en-US">
+        <seg>saw swaying flora</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204817Z" creationid="Syn Spawacza" creationdate="20200608T204817Z">
+        <seg>widzi kołyszącą się roślinność</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">txt_core_add.properties</prop>
+      <prop type="id">CORE_DYING_LAST_039_02</prop>
+      <tuv lang="en-US">
+        <seg>heard the sound of flowing water</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T204833Z" creationid="Syn Spawacza" creationdate="20200608T204833Z">
+        <seg>słyszy dźwięk płynącej wody</seg>
       </tuv>
     </tu>
     <tu>
