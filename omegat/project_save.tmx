@@ -56,8 +56,8 @@
       <tuv lang="en-US">
         <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184920Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
-        <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115236Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
+        <seg>"[&lt;SENTENCE_01&gt;],[&lt;CONJUNCTION&gt;],[&lt;SENTENCE_02&gt;]."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@ staje się wrogiem.</seg>
       <tuv lang="en-US">
         <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184923Z" creationid="Syn Spawacza" creationdate="20200605T184923Z">
-        <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115247Z" creationid="Syn Spawacza" creationdate="20200605T184923Z">
+        <seg>&lt;SENTENCE_01&gt;, &lt;CONJUNCTION&gt;, &lt;SENTENCE_02&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3528,6 +3528,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074753Z" creationid="Syn Spawacza" creationdate="20200601T074753Z">
         <seg>SALON GIER</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>ATK</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115331Z" creationid="Syn Spawacza" creationdate="20200610T115331Z">
+        <seg>ATK</seg>
       </tuv>
     </tu>
     <tu>
@@ -25540,6 +25548,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092136Z" creationid="Syn Spawacza" creationdate="20200601T092136Z">
         <seg>Pomnik dziewczyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115325Z" creationid="Syn Spawacza" creationdate="20200610T115325Z">
+        <seg>Status</seg>
       </tuv>
     </tu>
     <tu>
