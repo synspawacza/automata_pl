@@ -1914,8 +1914,9 @@ Może zostać sprzedana.</seg>
       <tuv lang="en-US">
         <seg>A broken, unusable circuit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T112456Z" creationid="Syn Spawacza" creationdate="20200601T112456Z">
-        <seg>Zniszczony, bezużyteczny obwód elektryczny.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155252Z" creationid="Syn Spawacza" creationdate="20200601T112456Z">
+        <seg>Zniszczony, bezużyteczny
+obwód elektryczny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2716,8 +2717,8 @@ love.</seg>
 love. Causes them to approach and
 wait for you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180932Z" creationid="Syn Spawacza" creationdate="20200605T180932Z">
-        <seg>Woreczek wydzielający przyjemny zapach.
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155023Z" creationid="Syn Spawacza" creationdate="20200605T180932Z">
+        <seg>Woreczek wydzielający przyjemną woń.
 Sprawia że zwierzęta podchodzą
 i czekają na ciebie.</seg>
       </tuv>
@@ -2728,10 +2729,10 @@ i czekają na ciebie.</seg>
 love. Lets you ride them anytime
 you want.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180923Z" creationid="Syn Spawacza" creationdate="20200605T180923Z">
-        <seg>Woreczek wydzielający przyjemny zapach.
-Sprawia że zwierzęta pozwalają się ujeżdżać
-w każdej  chwili.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155018Z" creationid="Syn Spawacza" creationdate="20200605T180923Z">
+        <seg>Woreczek wydzielający przyjemną woń.
+Sprawia że zwierzęta pozwalają się
+ujeżdżać w każdej  chwili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17028,8 +17029,9 @@ ostrze jest nieskrzywione.</seg>
         <seg>Listen to nice BGM on the jukebox.
 Part 1 of a set of 5.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180939Z" creationid="Syn Spawacza" creationdate="20200605T180939Z">
-        <seg>Posłuchaj ścieżki dźwiękowej na szafie grającej.
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155118Z" creationid="Syn Spawacza" creationdate="20200605T180939Z">
+        <seg>Posłuchaj ścieżki dźwiękowej na
+szafie grającej.
 Część 1 z 5 kolekcji.</seg>
       </tuv>
     </tu>
@@ -28494,9 +28496,10 @@ any enemies in the vicinity.</seg>
 Part 2 of a set of 5 amazing
 soundtracks.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180942Z" creationid="Syn Spawacza" creationdate="20200605T180942Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155121Z" creationid="Syn Spawacza" creationdate="20200605T180942Z">
         <seg>Więcej utworów dla szafy grającej.
-Część 2 z 5 kolekcji niesamowitej ścieżki dźwiękowej</seg>
+Część 2 z 5 kolekcji niesamowitej
+ścieżki dźwiękowej</seg>
       </tuv>
     </tu>
     <tu>
@@ -28505,9 +28508,10 @@ Część 2 z 5 kolekcji niesamowitej ścieżki dźwiękowej</seg>
 Part 3 of a set of 5 soundtracks 
 in extremely high demand.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180946Z" creationid="Syn Spawacza" creationdate="20200605T180946Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155127Z" creationid="Syn Spawacza" creationdate="20200605T180946Z">
         <seg>Więcej utworów dla szafy grającej.
-Część 3 z 5 niezwykle popularnej kolekcji.</seg>
+Część 3 z 5 niezwykle popularnej
+kolekcji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28516,9 +28520,10 @@ Część 3 z 5 niezwykle popularnej kolekcji.</seg>
 Part 4 of a set of 5 highly anticipated
 soundtracks.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180956Z" creationid="Syn Spawacza" creationdate="20200605T180956Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155133Z" creationid="Syn Spawacza" creationdate="20200605T180956Z">
         <seg>Więcej utworów dla szafy grającej.
-Część 4 z 5 gorąco oczekiwanej kolekcji.</seg>
+Część 4 z 5 gorąco oczekiwanej
+kolekcji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31013,11 +31018,11 @@ Protective armor formally issued
 to YoRHa troops. 2B can equip this
 costume.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181049Z" creationid="Syn Spawacza" creationdate="20200605T181049Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T155204Z" creationid="Syn Spawacza" creationdate="20200605T181049Z">
         <seg>[Wyposażenie]
-Przydziałowa zbroja ochronna używana
-przez żołnierzy YoRHa. Może być używana
-przez 2B.</seg>
+Przydziałowa zbroja ochronna
+używana przez żołnierzy YoRHa.
+Może być używana przez 2B.</seg>
       </tuv>
     </tu>
     <tu>
