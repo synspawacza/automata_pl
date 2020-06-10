@@ -13952,6 +13952,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey! 2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175721Z" creationid="Syn Spawacza" creationdate="20200610T175721Z">
+        <seg>Hej, 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey, come on now!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203459Z" creationid="Syn Spawacza" creationdate="20200530T203459Z">
@@ -28178,6 +28186,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try not to act so recklessly, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180200Z" creationid="Syn Spawacza" creationdate="20200610T180200Z">
+        <seg>Nie rób takich głupot, dobra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Trägheitssteuersystem wird aktiviert</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203949Z" creationid="Syn Spawacza" creationdate="20200601T203949Z">
@@ -30715,6 +30731,14 @@ Do you wish to restore your previous equipment?</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100549Z" creationid="Syn Spawacza" creationdate="20200606T100549Z">
         <seg>Odzyskano czipy rozszerzeń.
 Przywrócić poprzednie wyposażenie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You should know better than to try that. Not even a cutting-edge YoRHa like you would survive that kind of fall.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175906Z" creationid="Syn Spawacza" creationdate="20200610T175906Z">
+        <seg>Powinnaś wiedzieć by nie próbować. Nawet najnowocześniejsze YoRHa jak ty nie przetrwają takiego upadku.</seg>
       </tuv>
     </tu>
     <tu>
