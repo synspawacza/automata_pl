@@ -14145,6 +14145,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hopefully they deploy some new satellites soon.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174410Z" creationid="Syn Spawacza" creationdate="20200610T174410Z">
+        <seg>Miejmy nadzieję że wkrótce dostaniemy nowe satelity.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Horizontal Auto Adjust</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T144526Z" creationid="Syn Spawacza" creationdate="20200530T132044Z">
@@ -16141,6 +16149,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's hard to get an accurate picture from this—our satellite resolution isn't so hot.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174508Z" creationid="Syn Spawacza" creationdate="20200610T174508Z">
+        <seg>Zdjęcia satelitarne nie są zbyt dokładne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's just accessing random nonsensical data from the old world.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211144Z" creationid="Syn Spawacza" creationdate="20200530T181345Z">
@@ -17912,6 +17928,14 @@ wydaje się nie mieć sensu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174106Z" creationid="Syn Spawacza" creationdate="20200610T174106Z">
         <seg>Zdobyto dane mapy z Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map data, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174142Z" creationid="Syn Spawacza" creationdate="20200610T174142Z">
+        <seg>Dane mapy, co?</seg>
       </tuv>
     </tu>
     <tu>
