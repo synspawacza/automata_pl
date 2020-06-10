@@ -21603,8 +21603,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Eliminate enemies in vicinity and restore access point immediately.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173916Z" creationid="Syn Spawacza" creationdate="20200610T173916Z">
-        <seg>Propozycja: Wyeliminować wrogów i przywrócić łączność punktu dostępu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180542Z" creationid="Syn Spawacza" creationdate="20200610T173916Z">
+        <seg>Propozycja: wyeliminować wrogów i przywrócić łączność punktu dostępu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21613,6 +21613,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182604Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
         <seg>Propozycja: Wykonać unik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Proceed to target location.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180538Z" creationid="Syn Spawacza" creationdate="20200610T180538Z">
+        <seg>Propozycja: przejść do oznaczonego celu.</seg>
       </tuv>
     </tu>
     <tu>
