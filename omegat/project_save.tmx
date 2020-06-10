@@ -4728,8 +4728,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: Access point communications jammed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173738Z" creationid="Syn Spawacza" creationdate="20200610T173738Z">
-        <seg>Uwaga: System łączności punktu dostępu zagłuszany.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180555Z" creationid="Syn Spawacza" creationdate="20200610T173738Z">
+        <seg>Uwaga: system łączności punktu dostępu zagłuszany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4760,16 +4760,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: High-powered jamming detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182303Z" creationid="Syn Spawacza" creationdate="20200530T182241Z">
-        <seg>Uwaga: Wykryto silny sygnał zagłuszający.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180612Z" creationid="Syn Spawacza" creationdate="20200530T182241Z">
+        <seg>Uwaga: wykryto silny sygnał zagłuszający.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Incoming enemy attack from below.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182623Z" creationid="Syn Spawacza" creationdate="20200530T182550Z">
-        <seg>Uwaga: Zbliża się atak od dołu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180602Z" creationid="Syn Spawacza" creationdate="20200530T182550Z">
+        <seg>Uwaga: zbliża się atak od dołu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5332,8 +5332,8 @@ przeznaczona dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Analysis: This elevator's controls are locked and cannot be used.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180143Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
-        <seg>Analiza: Sterowanie windą jest zablokowane i nie można go użyć.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180633Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
+        <seg>Analiza: sterowanie windą jest zablokowane i nie można go użyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5410,16 +5410,16 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Anemone: Separation</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172357Z" creationid="Syn Spawacza" creationdate="20200605T172357Z">
-        <seg>Anemone: Rozstanie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180747Z" creationid="Syn Spawacza" creationdate="20200605T172357Z">
+        <seg>Anemone: rozstanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Anemone: Understanding</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172340Z" creationid="Syn Spawacza" creationdate="20200605T172340Z">
-        <seg>Anemone: Zrozumienie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180742Z" creationid="Syn Spawacza" creationdate="20200605T172340Z">
+        <seg>Anemone: zrozumienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -6834,16 +6834,16 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Black Box Internal Pressure: Normal</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123926Z" creationid="Syn Spawacza" creationdate="20200530T123926Z">
-        <seg>Ciśnienie wewnętrzne czarnej skrzynki: W normie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180654Z" creationid="Syn Spawacza" creationdate="20200530T123926Z">
+        <seg>Ciśnienie wewnętrzne czarnej skrzynki: w normie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Black Box Temperature: Normal</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123907Z" creationid="Syn Spawacza" creationdate="20200530T123907Z">
-        <seg>Temperatura czarnej skrzynki: W normie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180651Z" creationid="Syn Spawacza" creationdate="20200530T123907Z">
+        <seg>Temperatura czarnej skrzynki: w normie</seg>
       </tuv>
     </tu>
     <tu>
@@ -11234,16 +11234,16 @@ poczuć się mądrym.</seg>
       <tuv lang="en-US">
         <seg>Equipment Authentication: Complete</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123951Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
-        <seg>Uwierzytelnianie wyposażenia: Gotowe</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180659Z" creationid="Syn Spawacza" creationdate="20200530T123951Z">
+        <seg>Uwierzytelnianie wyposażenia: gotowe</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Equipment Status: Green</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123955Z" creationid="Syn Spawacza" creationdate="20200530T123955Z">
-        <seg>Stan wyposażenia: W normie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180701Z" creationid="Syn Spawacza" creationdate="20200530T123955Z">
+        <seg>Stan wyposażenia: w normie</seg>
       </tuv>
     </tu>
     <tu>
@@ -14359,8 +14359,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>Hypothesis: Jamming caused by enemies in local vicinity.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173827Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
-        <seg>Hipoteza: Zagłuszanie wywołane jest przez pobliskich wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180551Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
+        <seg>Hipoteza: zagłuszanie wywołane jest przez pobliskich wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18468,8 +18468,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123846Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
-        <seg>Jednostki pamięci: W normie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180646Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
+        <seg>Jednostki pamięci: w normie</seg>
       </tuv>
     </tu>
     <tu>
@@ -19278,8 +19278,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>No response from long-range communications.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182339Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
-        <seg>Brak komunikacja dalekiego zasięgu niemożliwa.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180621Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
+        <seg>Komunikacja dalekiego zasięgu niemożliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20658,32 +20658,32 @@ Dział Technologii YoRHa</seg>
       <tuv lang="en-US">
         <seg>Park Ruins: Above Theater</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183044Z" creationid="Syn Spawacza" creationdate="20200601T180049Z">
-        <seg>Park rozrywki: Nad teatrem</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180812Z" creationid="Syn Spawacza" creationdate="20200601T180049Z">
+        <seg>Park rozrywki: nad teatrem</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Attraction Sq.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183040Z" creationid="Syn Spawacza" creationdate="20200601T180038Z">
-        <seg>Park rozrywki: Plac atrakcji</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180808Z" creationid="Syn Spawacza" creationdate="20200601T180038Z">
+        <seg>Park rozrywki: plac atrakcji</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Coaster</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183042Z" creationid="Syn Spawacza" creationdate="20200601T180043Z">
-        <seg>Park rozrywki: Kolejka</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180811Z" creationid="Syn Spawacza" creationdate="20200601T180043Z">
+        <seg>Park rozrywki: kolejka</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Park Ruins: Theater</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T183053Z" creationid="Syn Spawacza" creationdate="20200601T180055Z">
-        <seg>Park rozrywki: Teatr</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180817Z" creationid="Syn Spawacza" creationdate="20200601T180055Z">
+        <seg>Park rozrywki: teatr</seg>
       </tuv>
     </tu>
     <tu>
@@ -21611,8 +21611,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182604Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
-        <seg>Propozycja: Wykonać unik.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180604Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
+        <seg>Propozycja: wykonać unik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22726,8 +22726,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Reliquary System: Upload</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175732Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
-        <seg>System relikwiarza: Wyślij</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180901Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
+        <seg>System relikwiarza: Wysyłanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -29587,8 +29587,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Vitals: Green</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123859Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
-        <seg>Parametry życiowe: W normie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180649Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
+        <seg>Parametry życiowe: w normie</seg>
       </tuv>
     </tu>
     <tu>
