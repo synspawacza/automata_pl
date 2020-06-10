@@ -4776,8 +4776,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: Large enemy group detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174326Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
-        <seg>Uwaga: Wykryto dużą grupę wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180930Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
+        <seg>Uwaga: wykryto dużą grupę wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21595,8 +21595,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Dispatch it as swiftly as possible.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174710Z" creationid="Syn Spawacza" creationdate="20200530T174710Z">
-        <seg>Propozycja: Zlikwidować jak najszybciej.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180938Z" creationid="Syn Spawacza" creationdate="20200530T174710Z">
+        <seg>Propozycja: zlikwidować jak najszybciej.</seg>
       </tuv>
     </tu>
     <tu>
