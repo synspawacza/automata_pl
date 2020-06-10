@@ -2289,6 +2289,14 @@ nie wiadomo do czego służy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A general idea is good enough.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175023Z" creationid="Syn Spawacza" creationdate="20200610T175023Z">
+        <seg>Ogólny obraz sytuacji wystarcza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A giant, cursed axe, anointed with the blood of
 innocent twins to assuage the wrath of the gods.</seg>
       </tuv>
@@ -16151,8 +16159,8 @@ it is heavy.</seg>
       <tuv lang="en-US">
         <seg>It's hard to get an accurate picture from this—our satellite resolution isn't so hot.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174508Z" creationid="Syn Spawacza" creationdate="20200610T174508Z">
-        <seg>Zdjęcia satelitarne nie są zbyt dokładne.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174636Z" creationid="Syn Spawacza" creationdate="20200610T174508Z">
+        <seg>Czasem ciężko je pojąć — zdjęcia satelitarne nie są zbyt dokładne.</seg>
       </tuv>
     </tu>
     <tu>
