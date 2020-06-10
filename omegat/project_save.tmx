@@ -3654,6 +3654,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to our intel, none of the machines in this area are hostile.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175514Z" creationid="Syn Spawacza" creationdate="20200610T175514Z">
+        <seg>Według naszego wywiadu, maszyny na tym obszarze są wrogo nastawione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accounting Book</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090037Z" creationid="Syn Spawacza" creationdate="20200601T090037Z">
@@ -7132,6 +7140,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085820Z" creationid="Syn Spawacza" creationdate="20200601T085820Z">
         <seg>Zepsuta zabawka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browse received messages.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175322Z" creationid="Syn Spawacza" creationdate="20200610T175322Z">
+        <seg>Przeglądaj odebrane wiadomości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13860,6 +13876,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114546Z" creationid="Syn Spawacza" creationdate="20200606T114546Z">
         <seg>Heh. Zazwyczaj nie możemy się nawet zbliżyć do jednostek latających. Za drogi sprzęt dla szeregowych żołnierzy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Heh. You don't let anything get in your way, do you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175152Z" creationid="Syn Spawacza" creationdate="20200610T175152Z">
+        <seg>Heh. Tobie nic nie przeszkadza, prawda?</seg>
       </tuv>
     </tu>
     <tu>
