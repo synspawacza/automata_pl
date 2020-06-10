@@ -19939,6 +19939,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Online Body Information</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115409Z" creationid="Syn Spawacza" creationdate="20200610T115409Z">
+        <seg>Informacje ciele w sieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Onward to War</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174137Z" creationid="Syn Spawacza" creationdate="20200601T174137Z">
@@ -27971,6 +27979,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142008Z" creationid="Syn Spawacza" creationdate="20200530T142008Z">
         <seg>Przejdź do następnego ekranu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transport</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115336Z" creationid="Syn Spawacza" creationdate="20200610T115336Z">
+        <seg>Transport</seg>
       </tuv>
     </tu>
     <tu>
