@@ -9362,6 +9362,14 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Data may be displayed from the system menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174130Z" creationid="Syn Spawacza" creationdate="20200610T174130Z">
+        <seg>Dane mapy są teraz dostępne w menu systemowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Data on the Old World</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213018Z" creationid="Syn Spawacza" creationdate="20200608T213018Z">
@@ -17900,6 +17908,14 @@ wydaje się nie mieć sensu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Map data obtained from Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174106Z" creationid="Syn Spawacza" creationdate="20200610T174106Z">
+        <seg>Zdobyto dane mapy z Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Map information unlocked.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165847Z" creationid="Syn Spawacza" creationdate="20200530T165847Z">
@@ -19758,6 +19774,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, hey. This is data from the old world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174022Z" creationid="Syn Spawacza" creationdate="20200610T174022Z">
+        <seg>Ej, to dane z starego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, uh, th-thank you!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211632Z" creationid="Syn Spawacza" creationdate="20200530T202646Z">
@@ -19914,6 +19938,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T153732Z" creationid="Syn Spawacza" creationdate="20200601T153641Z">
         <seg>Staromodna, ale niezawodna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Old-world data, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174040Z" creationid="Syn Spawacza" creationdate="20200610T174040Z">
+        <seg>Dane z starego świata, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21501,6 +21533,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174710Z" creationid="Syn Spawacza" creationdate="20200530T174710Z">
         <seg>Propozycja: Zlikwidować jak najszybciej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Eliminate enemies in vicinity and restore access point immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173916Z" creationid="Syn Spawacza" creationdate="20200610T173916Z">
+        <seg>Propozycja: Wyeliminować wrogów i przywrócić łączność punktu dostępu.</seg>
       </tuv>
     </tu>
     <tu>
