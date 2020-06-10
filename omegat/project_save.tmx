@@ -19752,8 +19752,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Oh, uh, th-thank you! ...Anyway, that takes care of the settings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104651Z" creationid="Syn Spawacza" creationdate="20200606T104651Z">
-        <seg>O, uhm, dz-dziękuję! ...Tak czy siak, załatwiliśmy sprawę ustawień.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173416Z" creationid="Syn Spawacza" creationdate="20200606T104651Z">
+        <seg>O, uhm, dz-dziękuję! Tak czy siak, załatwiliśmy sprawę ustawień.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28574,6 +28574,14 @@ Forest Kingdom.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122012Z" creationid="Syn Spawacza" creationdate="20200601T122012Z">
         <seg>Odblokowuje podsystem Wieży
 w Leśnym Królestwie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Unsaved game data will be lost. Proceed?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173511Z" creationid="Syn Spawacza" creationdate="20200610T173511Z">
+        <seg>Niezapisane dane zostaną utracone. Kontynuować?</seg>
       </tuv>
     </tu>
     <tu>
