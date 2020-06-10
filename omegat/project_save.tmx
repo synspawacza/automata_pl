@@ -9745,6 +9745,14 @@ Wskrzeszone ciało</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Desert Region</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T185525Z" creationid="Syn Spawacza" creationdate="20200610T185525Z">
+        <seg>Obszar pustynny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Desert Rose</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082920Z" creationid="Syn Spawacza" creationdate="20200601T082920Z">
