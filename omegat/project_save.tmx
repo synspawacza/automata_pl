@@ -26403,6 +26403,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Target location acquired. Marking on map.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180356Z" creationid="Syn Spawacza" creationdate="20200610T180356Z">
+        <seg>Uzyskano położenie celu. Oznaczanie celu na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Targeting System Abnormal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095446Z" creationid="Syn Spawacza" creationdate="20200606T095446Z">
