@@ -56,8 +56,8 @@
       <tuv lang="en-US">
         <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115236Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
-        <seg>"[&lt;SENTENCE_01&gt;],[&lt;CONJUNCTION&gt;],[&lt;SENTENCE_02&gt;]."</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T144732Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
+        <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1616,8 +1616,8 @@ staje się wrogiem.</seg>
       <tuv lang="en-US">
         <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115247Z" creationid="Syn Spawacza" creationdate="20200605T184923Z">
-        <seg>&lt;SENTENCE_01&gt;, &lt;CONJUNCTION&gt;, &lt;SENTENCE_02&gt;.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T144735Z" creationid="Syn Spawacza" creationdate="20200605T184923Z">
+        <seg>&lt;SENTENCE_01&gt; &lt;SENTENCE_02&gt; &lt;CONJUNCTION&gt;.</seg>
       </tuv>
     </tu>
     <tu>
