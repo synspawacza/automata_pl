@@ -4710,6 +4710,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Access point communications jammed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173738Z" creationid="Syn Spawacza" creationdate="20200610T173738Z">
+        <seg>Uwaga: System łączności punktu dostępu zagłuszany.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Bulletproof apparatus detected on enemies.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180116Z" creationid="Syn Spawacza" creationdate="20200530T180011Z">
@@ -14289,6 +14297,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144033Z" creationid="Syn Spawacza" creationdate="20200601T072725Z">
         <seg>Cięż</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypothesis: Jamming caused by enemies in local vicinity.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T173827Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
+        <seg>Hipoteza: Zagłuszanie wywołane jest przez pobliskich wrogów.</seg>
       </tuv>
     </tu>
     <tu>
