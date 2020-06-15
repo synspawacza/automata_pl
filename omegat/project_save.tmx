@@ -5496,6 +5496,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165507Z" creationid="Syn Spawacza" creationdate="20200615T165507Z">
+        <seg>Maszyna zwierzę</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animal-loving Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201455Z" creationid="Syn Spawacza" creationdate="20200601T201455Z">
@@ -6654,6 +6662,14 @@ trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194030Z" creationid="Syn Spawacza" creationdate="20200601T194030Z">
         <seg>Bateria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Battle in the Alien Ship</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165441Z" creationid="Syn Spawacza" creationdate="20200615T165441Z">
+        <seg>Bitwa w statku obcych</seg>
       </tuv>
     </tu>
     <tu>
@@ -11083,6 +11099,14 @@ Autozmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Drill-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165323Z" creationid="Syn Spawacza" creationdate="20200615T165323Z">
+        <seg>z wiertłem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Drop Rate Up</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183558Z" creationid="Syn Spawacza" creationdate="20200601T183558Z">
@@ -11922,6 +11946,14 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ernst</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165454Z" creationid="Syn Spawacza" creationdate="20200615T165454Z">
+        <seg>Ernst</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Error detected while loading credits. Returning to title screen.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100305Z" creationid="Syn Spawacza" creationdate="20200606T100305Z">
@@ -12658,6 +12690,14 @@ jego stronę, pozwalając na atak wręcz.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T121254Z" creationid="Syn Spawacza" creationdate="20200531T121254Z">
         <seg>Kierunek strzału</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>First Encounter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165432Z" creationid="Syn Spawacza" creationdate="20200615T165432Z">
+        <seg>Pierwsze spotkanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -13510,6 +13550,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gold Tank</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165526Z" creationid="Syn Spawacza" creationdate="20200615T165526Z">
+        <seg>Złoty czołg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goliath Auto Lock-on</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132128Z" creationid="Syn Spawacza" creationdate="20200530T132128Z">
@@ -13546,6 +13594,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145314Z" creationid="Syn Spawacza" creationdate="20200605T145314Z">
         <seg>Czołg Goliat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goliath Tank (Amusement Park)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165422Z" creationid="Syn Spawacza" creationdate="20200615T165422Z">
+        <seg>Czołg Goliat (park rozrywki)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13588,6 +13644,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133011Z" creationid="Syn Spawacza" creationdate="20200530T133011Z">
         <seg>Jakość grafiki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gravekeeper</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165532Z" creationid="Syn Spawacza" creationdate="20200615T165532Z">
+        <seg>Strażnik grobu</seg>
       </tuv>
     </tu>
     <tu>
@@ -15509,6 +15573,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Immanuel</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165453Z" creationid="Syn Spawacza" creationdate="20200615T165453Z">
+        <seg>Immanuel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Impact Bracer (L)</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081044Z" creationid="Syn Spawacza" creationdate="20200601T081044Z">
@@ -17295,6 +17367,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kierkegaard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165455Z" creationid="Syn Spawacza" creationdate="20200615T165455Z">
+        <seg>Kierkegaard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kill...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184010Z" creationid="Syn Spawacza" creationdate="20200530T184010Z">
@@ -17742,6 +17822,14 @@ w każdej  chwili.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T141457Z" creationid="Syn Spawacza" creationdate="20200601T141457Z">
         <seg>W odróżnieniu od jego lojalności, jego
 ostrze jest nieskrzywione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Linked-sphere Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165302Z" creationid="Syn Spawacza" creationdate="20200615T165302Z">
+        <seg>Łańcuch kul</seg>
       </tuv>
     </tu>
     <tu>
@@ -26011,6 +26099,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Small Sphere</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165329Z" creationid="Syn Spawacza" creationdate="20200615T165329Z">
+        <seg>Mała kula</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Small Stubby</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163820Z" creationid="Syn Spawacza" creationdate="20200615T163815Z">
@@ -28594,6 +28690,14 @@ Jesteś pewien?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thorn-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165319Z" creationid="Syn Spawacza" creationdate="20200615T165319Z">
+        <seg>z kolcami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Though I suppose we're not exactly known for our modesty.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111320Z" creationid="Syn Spawacza" creationdate="20200606T111320Z">
@@ -30345,6 +30449,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Vengeful Child</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165519Z" creationid="Syn Spawacza" creationdate="20200615T165519Z">
+        <seg>Mściwe dziecko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Vengeful Son</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202036Z" creationid="Syn Spawacza" creationdate="20200601T202036Z">
@@ -31604,6 +31716,38 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174331Z" creationid="Syn Spawacza" creationdate="20200530T174331Z">
         <seg>Zauważyłam to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa (Flight Unit)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165403Z" creationid="Syn Spawacza" creationdate="20200615T165403Z">
+        <seg>YoRHa (jednostka latająca)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa (Heavy Armament)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165349Z" creationid="Syn Spawacza" creationdate="20200615T165349Z">
+        <seg>YoRHa (uzbrojenie ciężkie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa (Operator)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165407Z" creationid="Syn Spawacza" creationdate="20200615T165407Z">
+        <seg>YoRHa (operator)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa (Standard Armament)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165344Z" creationid="Syn Spawacza" creationdate="20200615T165344Z">
+        <seg>YoRHa (uzbrojenie standardowe)</seg>
       </tuv>
     </tu>
     <tu>
