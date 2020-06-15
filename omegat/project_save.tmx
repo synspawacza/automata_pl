@@ -28563,6 +28563,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The most common of the small machine lifeforms, these units bear a similarity to spring-powered toys created by humans in the past. This was likely done for the sake of increased productivity, though machine lifeforms are built from modular parts and have many variations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T173203Z" creationid="Syn Spawacza" creationdate="20200615T173203Z">
+        <seg>Najpowszechniejszy rodzaj niewielkich mechanicznych form życia, przypominający nakręcane zabawki tworzone w przeszłości przez ludzi. Najprawdopodobniej uzasadnione jest to zwiększeniem produkcji, choć mechaniczny formy życia mają modularną budowę i występują w wielu wariantach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The network function has been turned off.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140441Z" creationid="Syn Spawacza" creationdate="20200530T140441Z">
