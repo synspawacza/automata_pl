@@ -7904,6 +7904,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change chip layout?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181152Z" creationid="Syn Spawacza" creationdate="20200615T181152Z">
+        <seg>Zmienić ułożenie czipów?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change equipped weapons.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150226Z" creationid="Syn Spawacza" creationdate="20200530T142407Z">
@@ -27514,6 +27522,14 @@ potężne celowi uderzenie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134750Z" creationid="Syn Spawacza" creationdate="20200530T134750Z">
         <seg>Zmiana broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Switch the equipped weapons for light and heavy attacks?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181124Z" creationid="Syn Spawacza" creationdate="20200615T181124Z">
+        <seg>Zamienić wyposażoną broń do ataków lekkich i ciężkich?</seg>
       </tuv>
     </tu>
     <tu>
