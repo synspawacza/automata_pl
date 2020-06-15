@@ -12254,6 +12254,18 @@ MOIM UKOCHANYM</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FAR AWAY
+WENT
+MY LOVER</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T140833Z" creationid="Syn Spawacza" creationdate="20200615T140833Z">
+        <seg>DALEKO
+ODSZEDŁ
+MÓJ UKOCHANY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FCS起動</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203847Z" creationid="Syn Spawacza" creationdate="20200601T203847Z">
@@ -12266,6 +12278,18 @@ MOIM UKOCHANYM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203946Z" creationid="Syn Spawacza" creationdate="20200601T203946Z">
         <seg>FFE wird aktiviert</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>FIRST ENCOUNTER
+WITH
+MY LOVER</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T140853Z" creationid="Syn Spawacza" creationdate="20200615T140853Z">
+        <seg>PIERWSZE SPOTKANIE
+Z
+MOIM UKOCHANYM</seg>
       </tuv>
     </tu>
     <tu>
@@ -23364,6 +23388,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove OS chip?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T140910Z" creationid="Syn Spawacza" creationdate="20200615T140910Z">
+        <seg>Usunąć czip OS?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove the enemies around the barricade.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162839Z" creationid="Syn Spawacza" creationdate="20200608T162839Z">
@@ -30669,6 +30701,18 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142121Z" creationid="Syn Spawacza" creationdate="20200530T142121Z">
         <seg>BRONIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WITH DEATH
+WENT MY LOVER
+TO ETERNITY</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T140837Z" creationid="Syn Spawacza" creationdate="20200615T140837Z">
+        <seg>Z ŚMIERCIĄ
+MÓJ UKOCHANY
+ODSZEDŁ W WIECZNOŚĆ</seg>
       </tuv>
     </tu>
     <tu>
