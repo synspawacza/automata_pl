@@ -3632,16 +3632,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Access Point: Arcade</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175644Z" creationid="Syn Spawacza" creationdate="20200608T175644Z">
-        <seg>Punkty dostępu: Salon gier</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170149Z" creationid="Syn Spawacza" creationdate="20200608T175644Z">
+        <seg>Punkty dostępu: salon gier</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Access Point: Unavailable</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170044Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
-        <seg>Punkt dostępu: Niedostępne</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170141Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
+        <seg>Punkt dostępu: niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3672,8 +3672,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Access Points: Mailbox</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175631Z" creationid="Syn Spawacza" creationdate="20200608T175631Z">
-        <seg>Punkty dostępu: Poczta</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170146Z" creationid="Syn Spawacza" creationdate="20200608T175631Z">
+        <seg>Punkty dostępu: poczta</seg>
       </tuv>
     </tu>
     <tu>
@@ -9646,6 +9646,14 @@ gdy znajdą się w zasięgu poda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155517Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
         <seg>Skowyt śmierci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Death and Recovery</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170219Z" creationid="Syn Spawacza" creationdate="20200615T170219Z">
+        <seg>Śmierć i odzyskiwanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -23726,8 +23734,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Reliquary System: Upload</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180901Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
-        <seg>System relikwiarza: Wysyłanie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170158Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
+        <seg>System relikwiarza: wysyłanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -25515,6 +25523,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074708Z" creationid="Syn Spawacza" creationdate="20200530T145313Z">
         <seg>Wybierz miejsce docelowe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select unit to view.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170254Z" creationid="Syn Spawacza" creationdate="20200615T170254Z">
+        <seg>Wybierz jednostkę do obejrzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30266,6 +30282,14 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uploading upon Death</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170229Z" creationid="Syn Spawacza" creationdate="20200615T170229Z">
+        <seg>Wysyłanie po śmierci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Upper Castle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175256Z" creationid="Syn Spawacza" creationdate="20200601T175256Z">
@@ -32361,6 +32385,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100615Z" creationid="Syn Spawacza" creationdate="20200606T100615Z">
         <seg>Masz wiadomość!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You-Know-What</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170506Z" creationid="Syn Spawacza" creationdate="20200615T170506Z">
+        <seg>Wiesz co</seg>
       </tuv>
     </tu>
     <tu>
