@@ -10645,6 +10645,14 @@ What Are You Doing?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discard "&lt;ITEM_NAME&gt;" x &lt;ITEM_NUM&gt;?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T131708Z" creationid="Syn Spawacza" creationdate="20200615T131659Z">
+        <seg>Odrzucić: „&lt;ITEM_NAME&gt;” x &lt;ITEM_NUM&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Discard Count</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211623Z" creationid="Syn Spawacza" creationdate="20200601T211623Z">
