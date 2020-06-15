@@ -3534,6 +3534,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101430Z" creationid="Syn Spawacza" creationdate="20200615T101430Z">
+        <seg>AM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ARCADE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T074753Z" creationid="Syn Spawacza" creationdate="20200601T074753Z">
@@ -8176,6 +8184,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Collection Rate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101343Z" creationid="Syn Spawacza" creationdate="20200615T101343Z">
+        <seg>Iloraz zebranych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Combat Bracers</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181436Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
@@ -11466,6 +11482,14 @@ poszukiwaniu ukrytych obiektów</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082624Z" creationid="Syn Spawacza" creationdate="20200601T082624Z">
         <seg>Pusty czip</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Encounter Rate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101354Z" creationid="Syn Spawacza" creationdate="20200615T101333Z">
+        <seg>Iloraz napotkanych</seg>
       </tuv>
     </tu>
     <tu>
@@ -18536,6 +18560,14 @@ wydaje się nie mieć sensu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Max</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101410Z" creationid="Syn Spawacza" creationdate="20200615T101410Z">
+        <seg>Max</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Max HP Up</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183026Z" creationid="Syn Spawacza" creationdate="20200601T183026Z">
@@ -20804,6 +20836,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140307Z" creationid="Syn Spawacza" creationdate="20200530T140307Z">
         <seg>PAUZA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>PM</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101431Z" creationid="Syn Spawacza" creationdate="20200615T101431Z">
+        <seg>PM</seg>
       </tuv>
     </tu>
     <tu>
@@ -34241,6 +34281,22 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>《</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101433Z" creationid="Syn Spawacza" creationdate="20200615T101433Z">
+        <seg>《</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>》</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101434Z" creationid="Syn Spawacza" creationdate="20200615T101434Z">
+        <seg>》</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>システムチェック開始</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204402Z" creationid="Syn Spawacza" creationdate="20200601T204402Z">
@@ -34365,6 +34421,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203851Z" creationid="Syn Spawacza" creationdate="20200601T203851Z">
         <seg>装備認証：完了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>～</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101432Z" creationid="Syn Spawacza" creationdate="20200615T101432Z">
+        <seg>～</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
