@@ -18258,6 +18258,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lost Equipment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171554Z" creationid="Syn Spawacza" creationdate="20200615T171554Z">
+        <seg>Zaginiony sprzęt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Lost Girl</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211859Z" creationid="Syn Spawacza" creationdate="20200608T211859Z">
@@ -20216,6 +20224,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130622Z" creationid="Syn Spawacza" creationdate="20200530T130622Z">
         <seg>Nowa gra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Product In Stock</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171512Z" creationid="Syn Spawacza" creationdate="20200615T171512Z">
+        <seg>Nowy asortyment</seg>
       </tuv>
     </tu>
     <tu>
@@ -25695,6 +25711,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Server Capacity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171537Z" creationid="Syn Spawacza" creationdate="20200615T171537Z">
+        <seg>Pojemność serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Server Manager</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202949Z" creationid="Syn Spawacza" creationdate="20200601T202949Z">
@@ -27883,6 +27907,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks for your help the other day!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171624Z" creationid="Syn Spawacza" creationdate="20200615T171624Z">
+        <seg>Dzięki za pomoc!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170557Z" creationid="Syn Spawacza" creationdate="20200615T170557Z">
@@ -29414,6 +29446,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082915Z" creationid="Syn Spawacza" creationdate="20200601T082915Z">
         <seg>Nasiono drzewa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Trends Among the Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171820Z" creationid="Syn Spawacza" creationdate="20200615T171820Z">
+        <seg>Tendencje wśród maszyn</seg>
       </tuv>
     </tu>
     <tu>
