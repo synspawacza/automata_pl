@@ -18958,6 +18958,14 @@ Może zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Medium Quadruped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165147Z" creationid="Syn Spawacza" creationdate="20200615T165147Z">
+        <seg>Średni czworonóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medium Recovery</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
@@ -22697,6 +22705,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rampaging Small Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165116Z" creationid="Syn Spawacza" creationdate="20200615T165116Z">
+        <seg>Szalejący mały dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rampaging Small Stubby</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163852Z" creationid="Syn Spawacza" creationdate="20200615T163852Z">
@@ -24214,6 +24230,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T161017Z" creationid="Syn Spawacza" creationdate="20200605T161017Z">
         <seg>Odwrócony (L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reverse-jointed Goliath</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165156Z" creationid="Syn Spawacza" creationdate="20200615T165156Z">
+        <seg>Odwrócony Goliat</seg>
       </tuv>
     </tu>
     <tu>
@@ -25911,6 +25935,22 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153029Z" creationid="Syn Spawacza" creationdate="20200608T153029Z">
         <seg>Spowalnia czas na 5,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165109Z" creationid="Syn Spawacza" creationdate="20200615T165109Z">
+        <seg>Mały dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small Exploder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165133Z" creationid="Syn Spawacza" creationdate="20200615T165133Z">
+        <seg>Mała bomba</seg>
       </tuv>
     </tu>
     <tu>
@@ -30221,6 +30261,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212726Z" creationid="Syn Spawacza" creationdate="20200608T212726Z">
         <seg>Zły robot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Variable Model</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165103Z" creationid="Syn Spawacza" creationdate="20200615T165103Z">
+        <seg>model zmienny</seg>
       </tuv>
     </tu>
     <tu>
