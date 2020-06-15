@@ -23740,6 +23740,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Regular Verification</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170906Z" creationid="Syn Spawacza" creationdate="20200615T170906Z">
+        <seg>Okresowa weryfikacja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Regulations and all, you know?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203021Z" creationid="Syn Spawacza" creationdate="20200530T203021Z">
@@ -25099,6 +25107,14 @@ zostali zniszczeni prze ruch oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Scheduled Correspondence</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171053Z" creationid="Syn Spawacza" creationdate="20200615T171053Z">
+        <seg>Okresowa korespondencja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Scientist Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201320Z" creationid="Syn Spawacza" creationdate="20200601T201320Z">
@@ -25167,6 +25183,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214126Z" creationid="Syn Spawacza" creationdate="20200601T214126Z">
         <seg>Wybrzeże</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search Order Annulment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171033Z" creationid="Syn Spawacza" creationdate="20200615T171033Z">
+        <seg>Unieważnienie rozkazu poszukiwań</seg>
       </tuv>
     </tu>
     <tu>
