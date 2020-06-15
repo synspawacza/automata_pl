@@ -3640,8 +3640,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Access Point: Unavailable</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175612Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
-        <seg>Punkty dostępu: Niedostępne</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170044Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
+        <seg>Punkt dostępu: Niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -3650,6 +3650,22 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180615Z" creationid="Syn Spawacza" creationdate="20200601T180615Z">
         <seg>Punkty dostępu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Arcade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170134Z" creationid="Syn Spawacza" creationdate="20200615T170134Z">
+        <seg>Punkty dostępu: salon gier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Inbox</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170126Z" creationid="Syn Spawacza" creationdate="20200615T170111Z">
+        <seg>Punkty dostępu: poczta</seg>
       </tuv>
     </tu>
     <tu>
@@ -3664,8 +3680,24 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Access Points: Teleport</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T175604Z" creationid="Syn Spawacza" creationdate="20200608T175604Z">
-        <seg>Punkty dostępu: Teleport</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170139Z" creationid="Syn Spawacza" creationdate="20200608T175604Z">
+        <seg>Punkty dostępu: teleport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Transport</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170118Z" creationid="Syn Spawacza" creationdate="20200615T170026Z">
+        <seg>Punkty dostępu: transport</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access Points: Unavailable</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170120Z" creationid="Syn Spawacza" creationdate="20200615T170039Z">
+        <seg>Punkty dostępu: niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -5512,6 +5544,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Animal Riding Controls</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170015Z" creationid="Syn Spawacza" creationdate="20200615T170015Z">
+        <seg>Sterowanie podczas ujeżdżania zwierząt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Animal-loving Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201455Z" creationid="Syn Spawacza" creationdate="20200601T201455Z">
@@ -6646,6 +6686,14 @@ trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092352Z" creationid="Syn Spawacza" creationdate="20200606T092352Z">
         <seg>Czip bazowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Basic Controls</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165925Z" creationid="Syn Spawacza" creationdate="20200615T165925Z">
+        <seg>Podstawowe sterowanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -8268,6 +8316,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T181436Z" creationid="Syn Spawacza" creationdate="20200530T151217Z">
         <seg>Karwasze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combat Controls</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165934Z" creationid="Syn Spawacza" creationdate="20200615T165934Z">
+        <seg>Sterowanie w walce</seg>
       </tuv>
     </tu>
     <tu>
@@ -12798,6 +12854,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090434Z" creationid="Syn Spawacza" creationdate="20200601T090434Z">
         <seg>Pięciokolorowy kabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flight Unit Controls</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165953Z" creationid="Syn Spawacza" creationdate="20200615T165953Z">
+        <seg>Sterowanie w jednostce latającej</seg>
       </tuv>
     </tu>
     <tu>
@@ -19438,6 +19502,14 @@ created from petrified tree sap.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111242Z" creationid="Syn Spawacza" creationdate="20200601T111242Z">
         <seg>Półprzeźroczysty minerał powstały
 z skamieniałej żywicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mini-Map</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170019Z" creationid="Syn Spawacza" creationdate="20200615T170019Z">
+        <seg>Minimapa</seg>
       </tuv>
     </tu>
     <tu>
