@@ -5109,6 +5109,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amusement Park Rabbit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165652Z" creationid="Syn Spawacza" creationdate="20200615T165652Z">
+        <seg>Królik z parku rozrywki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amusement Park Shop</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182931Z" creationid="Syn Spawacza" creationdate="20200601T175746Z">
@@ -6888,6 +6896,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Black Belt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165550Z" creationid="Syn Spawacza" creationdate="20200615T165550Z">
+        <seg>Czarny pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Black Box Internal Pressure: Normal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180654Z" creationid="Syn Spawacza" creationdate="20200530T123926Z">
@@ -6940,6 +6956,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193845Z" creationid="Syn Spawacza" creationdate="20200601T193845Z">
         <seg>Nadymka maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blood-drenched Machine</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165641Z" creationid="Syn Spawacza" creationdate="20200615T165641Z">
+        <seg>Maszyna przesiąknięta krwią</seg>
       </tuv>
     </tu>
     <tu>
@@ -7196,6 +7220,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085820Z" creationid="Syn Spawacza" creationdate="20200601T085820Z">
         <seg>Zepsuta zabawka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Brown Belt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165544Z" creationid="Syn Spawacza" creationdate="20200615T165544Z">
+        <seg>Brązowy pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -11187,6 +11219,14 @@ Autozmiana broni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dying Goliath Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165817Z" creationid="Syn Spawacza" creationdate="20200615T165817Z">
+        <seg>Umierający Goliat dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204157Z" creationid="Syn Spawacza" creationdate="20200601T204157Z">
@@ -13606,6 +13646,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goliath Tank (Desert)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165700Z" creationid="Syn Spawacza" creationdate="20200615T165700Z">
+        <seg>Czołg Goliat (pustynia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Got it.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184458Z" creationid="Syn Spawacza" creationdate="20200530T184458Z">
@@ -13692,6 +13740,30 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163924Z" creationid="Syn Spawacza" creationdate="20200615T163924Z">
         <seg>z działkiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gunman Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165728Z" creationid="Syn Spawacza" creationdate="20200615T165728Z">
+        <seg>Strzelec dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gunman Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165736Z" creationid="Syn Spawacza" creationdate="20200615T165736Z">
+        <seg>Strzelec lotnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gunman Stubby</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165752Z" creationid="Syn Spawacza" creationdate="20200615T165752Z">
+        <seg>Strzelec resorak</seg>
       </tuv>
     </tu>
     <tu>
@@ -19468,6 +19540,14 @@ włócznię na pielgrzymki.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monster Type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165855Z" creationid="Syn Spawacza" creationdate="20200615T165855Z">
+        <seg>Bestia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Moose Meat</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081505Z" creationid="Syn Spawacza" creationdate="20200601T081505Z">
@@ -23227,6 +23307,14 @@ za silniejsze od miecza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Red Belt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165605Z" creationid="Syn Spawacza" creationdate="20200615T165605Z">
+        <seg>Czerwony pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red Girl</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145357Z" creationid="Syn Spawacza" creationdate="20200605T145357Z">
@@ -23255,6 +23343,14 @@ za silniejsze od miecza.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194545Z" creationid="Syn Spawacza" creationdate="20200601T194545Z">
         <seg>Czerwone dziewczyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Red and White Belt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165557Z" creationid="Syn Spawacza" creationdate="20200615T165557Z">
+        <seg>Biało-czerwony pas</seg>
       </tuv>
     </tu>
     <tu>
@@ -31592,6 +31688,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>White Belt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165539Z" creationid="Syn Spawacza" creationdate="20200615T165539Z">
+        <seg>Biały pas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180417Z" creationid="Syn Spawacza" creationdate="20200530T180417Z">
@@ -32299,6 +32403,14 @@ Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T154930Z" creationid="Syn Spawacza" creationdate="20200608T154930Z">
         <seg>Razi zhakowanego wroga, emitując 5 m wybuch ogłuszający na 3 s.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Zombie Clown</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165807Z" creationid="Syn Spawacza" creationdate="20200615T165807Z">
+        <seg>Klaun zombie</seg>
       </tuv>
     </tu>
     <tu>
