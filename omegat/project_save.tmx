@@ -8536,6 +8536,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confidential Mission Details</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170609Z" creationid="Syn Spawacza" creationdate="20200615T170609Z">
+        <seg>Powiadomienie o misji — poufne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Configuración UD</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204006Z" creationid="Syn Spawacza" creationdate="20200601T204006Z">
@@ -17405,6 +17413,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Jupiter's Fortunes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170705Z" creationid="Syn Spawacza" creationdate="20200615T170705Z">
+        <seg>Wróżba Jowisza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just another defensive system.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175150Z" creationid="Syn Spawacza" creationdate="20200530T175150Z">
@@ -19578,6 +19594,14 @@ z skamieniałej żywicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mission Notification</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170514Z" creationid="Syn Spawacza" creationdate="20200615T170514Z">
+        <seg>Powiadomienie o misji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Model Viewer</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140740Z" creationid="Syn Spawacza" creationdate="20200530T140740Z">
@@ -20152,6 +20176,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144804Z" creationid="Syn Spawacza" creationdate="20200530T144804Z">
         <seg>Funkcje sieciowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Never mind</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170738Z" creationid="Syn Spawacza" creationdate="20200615T170738Z">
+        <seg>Nieważne</seg>
       </tuv>
     </tu>
     <tu>
@@ -23892,6 +23924,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Request</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170742Z" creationid="Syn Spawacza" creationdate="20200615T170742Z">
+        <seg>Prośba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Request accepted.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T190741Z" creationid="Syn Spawacza" creationdate="20200530T190741Z">
@@ -24518,6 +24558,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073218Z" creationid="Syn Spawacza" creationdate="20200601T073218Z">
         <seg>Nagroda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rewards!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170519Z" creationid="Syn Spawacza" creationdate="20200615T170519Z">
+        <seg>Nagroda!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27771,10 +27819,26 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank You</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170747Z" creationid="Syn Spawacza" creationdate="20200615T170747Z">
+        <seg>Dziękuję</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thank you.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191052Z" creationid="Syn Spawacza" creationdate="20200530T191052Z">
         <seg>Dziękuję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170557Z" creationid="Syn Spawacza" creationdate="20200615T170557Z">
+        <seg>Dzięki!</seg>
       </tuv>
     </tu>
     <tu>
