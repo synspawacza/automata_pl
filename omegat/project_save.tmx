@@ -6448,6 +6448,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Axe-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164030Z" creationid="Syn Spawacza" creationdate="20200615T164030Z">
+        <seg>z toporem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204219Z" creationid="Syn Spawacza" creationdate="20200601T204219Z">
@@ -11361,6 +11369,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082356Z" creationid="Syn Spawacza" creationdate="20200601T082356Z">
         <seg>Wyrafinowany mechanizm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Electromagnetic Shield-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164035Z" creationid="Syn Spawacza" creationdate="20200615T164035Z">
+        <seg>z tarczą elektromagnetyczną</seg>
       </tuv>
     </tu>
     <tu>
@@ -18894,6 +18910,14 @@ Może zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Medium Exploder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164625Z" creationid="Syn Spawacza" creationdate="20200615T164625Z">
+        <seg>Średni eksploder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medium Recovery</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
@@ -26169,6 +26193,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T135809Z" creationid="Syn Spawacza" creationdate="20200601T135809Z">
         <seg>Włócznia Uzurpatora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Spear-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164023Z" creationid="Syn Spawacza" creationdate="20200615T164023Z">
+        <seg>z włócznią</seg>
       </tuv>
     </tu>
     <tu>
