@@ -11722,6 +11722,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enhanced Legpower Model</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165030Z" creationid="Syn Spawacza" creationdate="20200615T165030Z">
+        <seg>z wzmocnionymi nogami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enhancement Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150929Z" creationid="Syn Spawacza" creationdate="20200530T150929Z">
@@ -13510,6 +13518,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Goliath Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164912Z" creationid="Syn Spawacza" creationdate="20200615T164912Z">
+        <seg>Goliat dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goliath Flyer</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145321Z" creationid="Syn Spawacza" creationdate="20200605T145321Z">
@@ -13612,6 +13628,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163924Z" creationid="Syn Spawacza" creationdate="20200615T163924Z">
         <seg>z działkiem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gunner x2, Kamikaze x2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164858Z" creationid="Syn Spawacza" creationdate="20200615T164858Z">
+        <seg>strzelec x2, kamikaze x2</seg>
       </tuv>
     </tu>
     <tu>
@@ -17231,6 +17255,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kamikaze Unit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164904Z" creationid="Syn Spawacza" creationdate="20200615T164831Z">
+        <seg>jednostka kamikaze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kampfvorbereitungen abgeschlossen</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203954Z" creationid="Syn Spawacza" creationdate="20200601T203954Z">
@@ -18912,8 +18944,16 @@ Może zostać sprzedane.</seg>
       <tuv lang="en-US">
         <seg>Medium Exploder</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164625Z" creationid="Syn Spawacza" creationdate="20200615T164625Z">
-        <seg>Średni eksploder</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164655Z" creationid="Syn Spawacza" creationdate="20200615T164625Z">
+        <seg>Średnia bomba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Medium Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164801Z" creationid="Syn Spawacza" creationdate="20200615T164801Z">
+        <seg>Średni lotnik</seg>
       </tuv>
     </tu>
     <tu>
@@ -19564,6 +19604,14 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214314Z" creationid="Syn Spawacza" creationdate="20200601T214314Z">
         <seg>Mu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Multi-leg Medium Model</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164718Z" creationid="Syn Spawacza" creationdate="20200615T164718Z">
+        <seg>Średni wielonóg</seg>
       </tuv>
     </tu>
     <tu>
@@ -25863,6 +25911,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T153029Z" creationid="Syn Spawacza" creationdate="20200608T153029Z">
         <seg>Spowalnia czas na 5,5 s po perfekcyjnym uniku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small Flyer</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164755Z" creationid="Syn Spawacza" creationdate="20200615T164755Z">
+        <seg>Mały lotnik</seg>
       </tuv>
     </tu>
     <tu>
