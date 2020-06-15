@@ -11365,6 +11365,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Electromagnetic-shield-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163947Z" creationid="Syn Spawacza" creationdate="20200615T163947Z">
+        <seg>z tarczą elektromagnetyczną</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Elevator</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175427Z" creationid="Syn Spawacza" creationdate="20200601T175427Z">
@@ -13580,6 +13588,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200915Z" creationid="Syn Spawacza" creationdate="20200601T200915Z">
         <seg>Maszyna strażnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gun-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163924Z" creationid="Syn Spawacza" creationdate="20200615T163924Z">
+        <seg>z działkiem</seg>
       </tuv>
     </tu>
     <tu>
@@ -18870,6 +18886,14 @@ Może zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Medium Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163956Z" creationid="Syn Spawacza" creationdate="20200615T163956Z">
+        <seg>Średni dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Medium Recovery</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150037Z" creationid="Syn Spawacza" creationdate="20200530T145835Z">
@@ -22593,6 +22617,22 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rampaging Medium Biped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164006Z" creationid="Syn Spawacza" creationdate="20200615T164006Z">
+        <seg>Szalejący średni dwunóg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rampaging Small Stubby</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163852Z" creationid="Syn Spawacza" creationdate="20200615T163852Z">
+        <seg>Szalejący mały resorak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Random</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184933Z" creationid="Syn Spawacza" creationdate="20200605T184933Z">
@@ -24601,6 +24641,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Saw-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163914Z" creationid="Syn Spawacza" creationdate="20200615T163914Z">
+        <seg>z piłą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Says its allies
 were destroyed by the resistance.</seg>
       </tuv>
@@ -25319,6 +25367,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shield-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163932Z" creationid="Syn Spawacza" creationdate="20200615T163932Z">
+        <seg>z tarczą</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shift</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204215Z" creationid="Syn Spawacza" creationdate="20200601T204215Z">
@@ -25831,6 +25887,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090230Z" creationid="Syn Spawacza" creationdate="20200601T090230Z">
         <seg>Mały bucik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Small Stubby</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163820Z" creationid="Syn Spawacza" creationdate="20200615T163815Z">
+        <seg>Mały resorak</seg>
       </tuv>
     </tu>
     <tu>
@@ -26786,6 +26850,14 @@ potężne celowi uderzenie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072650Z" creationid="Syn Spawacza" creationdate="20200530T140052Z">
         <seg>Przełącz na autosterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sword-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164013Z" creationid="Syn Spawacza" creationdate="20200615T164013Z">
+        <seg>z mieczem</seg>
       </tuv>
     </tu>
     <tu>
@@ -28646,6 +28718,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090441Z" creationid="Syn Spawacza" creationdate="20200601T090441Z">
         <seg>Szczoteczka do zębów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Torch-equipped</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164019Z" creationid="Syn Spawacza" creationdate="20200615T164019Z">
+        <seg>z pochodnią</seg>
       </tuv>
     </tu>
     <tu>
