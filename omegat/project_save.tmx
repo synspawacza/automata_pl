@@ -12242,6 +12242,18 @@ Chwila, musimy to przywrócić.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>FAILED TO CONNECT
+WITH
+MY LOVER</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T140829Z" creationid="Syn Spawacza" creationdate="20200615T140829Z">
+        <seg>NIE MA ŁĄCZNOŚCI
+Z
+MOIM UKOCHANYM</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>FCS起動</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203847Z" creationid="Syn Spawacza" creationdate="20200601T203847Z">
