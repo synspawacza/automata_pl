@@ -7904,9 +7904,17 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Change chip arrangement?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181337Z" creationid="Syn Spawacza" creationdate="20200615T181337Z">
+        <seg>Zmienić ułożenie czipów?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Change chip layout?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181152Z" creationid="Syn Spawacza" creationdate="20200615T181152Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181406Z" creationid="Syn Spawacza" creationdate="20200615T181152Z">
         <seg>Zmienić ułożenie czipów?</seg>
       </tuv>
     </tu>
@@ -10713,6 +10721,14 @@ What Are You Doing?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162808Z" creationid="Syn Spawacza" creationdate="20200608T162808Z">
         <seg>Zniszcz kulistą maszynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Destroy this chip?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181202Z" creationid="Syn Spawacza" creationdate="20200615T181202Z">
+        <seg>Zniszczyć ten czip?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28878,6 +28894,14 @@ przedmiot w sklepie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This cannot be equipped to this spot.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181317Z" creationid="Syn Spawacza" creationdate="20200615T181317Z">
+        <seg>Nie może być wyekwipowane w tym miejscu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chip can only be equipped on Easy mode.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163201Z" creationid="Syn Spawacza" creationdate="20200530T163201Z">
@@ -28898,6 +28922,14 @@ przedmiot w sklepie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092804Z" creationid="Syn Spawacza" creationdate="20200606T092804Z">
         <seg>Ten czip jest wyekwipowany jako część zestawu. Sprzedać za &lt;TOTAL_PRICE&gt; G?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chip is currently in use in a weapon set. Are you sure you want to destroy it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181232Z" creationid="Syn Spawacza" creationdate="20200615T181232Z">
+        <seg>Ten czip jest używany jako część zestawu. Na pewno chcesz go zniszczyć?</seg>
       </tuv>
     </tu>
     <tu>
