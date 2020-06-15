@@ -1188,6 +1188,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S MIA</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T102004Z" creationid="Syn Spawacza" creationdate="20200615T102004Z">
+        <seg>Zaginiony 9S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9S black box signal detected.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
