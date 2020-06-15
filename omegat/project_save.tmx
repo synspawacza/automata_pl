@@ -4046,6 +4046,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acquisition Rate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101317Z" creationid="Syn Spawacza" creationdate="20200615T101317Z">
+        <seg>Iloraz pozyskanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Action</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134517Z" creationid="Syn Spawacza" creationdate="20200530T134517Z">
@@ -9712,12 +9720,471 @@ may contain spoilers</seg>
     <tu>
       <tuv lang="en-US">
         <seg>Description:
+A New Battle Begins</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100729Z" creationid="Syn Spawacza" creationdate="20200615T100729Z">
+        <seg>Opis:
+A New Battle Begins</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+A Round by the Pond</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100737Z" creationid="Syn Spawacza" creationdate="20200615T100737Z">
+        <seg>Opis:
+A Round by the Pond</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+A Scanner's Power</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100735Z" creationid="Syn Spawacza" creationdate="20200615T100735Z">
+        <seg>Opis:
+A Scanner's Power</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Animal Rider</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100737Z" creationid="Syn Spawacza" creationdate="20200615T100737Z">
+        <seg>Opis:
+Animal Rider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Beautiful World</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100731Z" creationid="Syn Spawacza" creationdate="20200615T100731Z">
+        <seg>Opis:
+Beautiful World</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Cherish Our Resources</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100732Z" creationid="Syn Spawacza" creationdate="20200615T100732Z">
+        <seg>Opis:
+Cherish Our Resources</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Chip Collector</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+Chip Collector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Come Take a Look!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100739Z" creationid="Syn Spawacza" creationdate="20200615T100739Z">
+        <seg>Opis:
+Come Take a Look!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Creation and Insurrection</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100728Z" creationid="Syn Spawacza" creationdate="20200615T100728Z">
+        <seg>Opis:
+Creation and Insurrection</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Crime and Punishment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100731Z" creationid="Syn Spawacza" creationdate="20200615T100731Z">
+        <seg>Opis:
+Crime and Punishment</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Desire Without Emotion</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100737Z" creationid="Syn Spawacza" creationdate="20200615T100737Z">
+        <seg>Opis:
+Desire Without Emotion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Destruction is My Job</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+Destruction is My Job</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Farewell, Pascal</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100730Z" creationid="Syn Spawacza" creationdate="20200615T100730Z">
+        <seg>Opis:
+Farewell, Pascal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Fighting's Not My Thing</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100735Z" creationid="Syn Spawacza" creationdate="20200615T100735Z">
+        <seg>Opis:
+Fighting's Not My Thing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Final Wish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100730Z" creationid="Syn Spawacza" creationdate="20200615T100730Z">
+        <seg>Opis:
+Final Wish</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+First Errand</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+First Errand</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Harvest King</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100736Z" creationid="Syn Spawacza" creationdate="20200615T100736Z">
+        <seg>Opis:
+Harvest King</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Information Master</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+Information Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Inorganic Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100734Z" creationid="Syn Spawacza" creationdate="20200615T100734Z">
+        <seg>Opis:
+Inorganic Blade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Iron Soul</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100729Z" creationid="Syn Spawacza" creationdate="20200615T100729Z">
+        <seg>Opis:
+Iron Soul</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+It's a Healthy Baby Boy!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100727Z" creationid="Syn Spawacza" creationdate="20200615T100727Z">
+        <seg>Opis:
+It's a Healthy Baby Boy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Justice</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100730Z" creationid="Syn Spawacza" creationdate="20200615T100730Z">
+        <seg>Opis:
+Justice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Leaving for the New World</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100731Z" creationid="Syn Spawacza" creationdate="20200615T100731Z">
+        <seg>Opis:
+Leaving for the New World</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Lunar Tear</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100741Z" creationid="Syn Spawacza" creationdate="20200615T100741Z">
+        <seg>Opis:
+Lunar Tear</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Machines vs. Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100735Z" creationid="Syn Spawacza" creationdate="20200615T100735Z">
+        <seg>Opis:
+Machines vs. Machines</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Naughty Children</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100739Z" creationid="Syn Spawacza" creationdate="20200615T100739Z">
+        <seg>Opis:
+Naughty Children</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Not That I Mind...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100738Z" creationid="Syn Spawacza" creationdate="20200615T100738Z">
+        <seg>Opis:
+Not That I Mind...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+One Battle Ends</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100729Z" creationid="Syn Spawacza" creationdate="20200615T100729Z">
+        <seg>Opis:
+One Battle Ends</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Pod Hunter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100736Z" creationid="Syn Spawacza" creationdate="20200615T100736Z">
+        <seg>Opis:
+Pod Hunter</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
 Resuscitated Body</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100633Z" creationid="Syn Spawacza" creationdate="20200601T190946Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100640Z" creationid="Syn Spawacza" creationdate="20200601T190946Z">
         <seg>Opis:
-Description:
-Resuscitated BodyWskrzeszone ciało</seg>
+Resuscitated Body</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Ruler of the Deep</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100728Z" creationid="Syn Spawacza" creationdate="20200615T100728Z">
+        <seg>Opis:
+Ruler of the Deep</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Ruler of the Skies</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100736Z" creationid="Syn Spawacza" creationdate="20200615T100736Z">
+        <seg>Opis:
+Ruler of the Skies</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Supreme Support Weapons</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100734Z" creationid="Syn Spawacza" creationdate="20200615T100734Z">
+        <seg>Opis:
+Supreme Support Weapons</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+The Circle of Death</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100732Z" creationid="Syn Spawacza" creationdate="20200615T100732Z">
+        <seg>Opis:
+The Circle of Death</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+The Mechanical Kingdom</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100728Z" creationid="Syn Spawacza" creationdate="20200615T100728Z">
+        <seg>Opis:
+The Mechanical Kingdom</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+The Mercenary</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+The Mercenary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+The Minds That Emerged</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100732Z" creationid="Syn Spawacza" creationdate="20200615T100732Z">
+        <seg>Opis:
+The Minds That Emerged</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+The Power of Hate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100736Z" creationid="Syn Spawacza" creationdate="20200615T100736Z">
+        <seg>Opis:
+The Power of Hate</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Those Who Love Humans</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100728Z" creationid="Syn Spawacza" creationdate="20200615T100728Z">
+        <seg>Opis:
+Those Who Love Humans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Tools of the Trade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+Tools of the Trade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Transcendent Being</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100740Z" creationid="Syn Spawacza" creationdate="20200615T100740Z">
+        <seg>Opis:
+Transcendent Being</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Treacherous Blade</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100730Z" creationid="Syn Spawacza" creationdate="20200615T100730Z">
+        <seg>Opis:
+Treacherous Blade</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Vestiges of Prosperity</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100727Z" creationid="Syn Spawacza" creationdate="20200615T100727Z">
+        <seg>Opis:
+Vestiges of Prosperity</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Wait! Don't Kill Me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100738Z" creationid="Syn Spawacza" creationdate="20200615T100738Z">
+        <seg>Opis:
+Wait! Don't Kill Me!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+We Await Your Next Visit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100728Z" creationid="Syn Spawacza" creationdate="20200615T100728Z">
+        <seg>Opis:
+We Await Your Next Visit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+Weapons Maniac</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100733Z" creationid="Syn Spawacza" creationdate="20200615T100733Z">
+        <seg>Opis:
+Weapons Maniac</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description:
+What Are You Doing?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T100738Z" creationid="Syn Spawacza" creationdate="20200615T100738Z">
+        <seg>Opis:
+What Are You Doing?</seg>
       </tuv>
     </tu>
     <tu>
