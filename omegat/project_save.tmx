@@ -1710,6 +1710,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A Pod's projectile attacks have no effect on shielded units, making close combat the most effective method of disposal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T173644Z" creationid="Syn Spawacza" creationdate="20200615T173644Z">
+        <seg>Pociski poda nie działają na jednostki z tarczą, co czyni walkę w zwarciu najefektywniejszą metodą ich likwidacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A Reason to Live</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T171658Z" creationid="Syn Spawacza" creationdate="20200605T171658Z">
@@ -12028,6 +12036,14 @@ poczuć się mądrym.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184739Z" creationid="Syn Spawacza" creationdate="20200605T184739Z">
         <seg>Używane czipy autosterowania.
 &lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equipped with projectile weapons, these units attack by firing energy rounds. While the masses of energy travel slowly, they have enough firepower to easily damage an android's armor.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T173436Z" creationid="Syn Spawacza" creationdate="20200615T173436Z">
+        <seg>Jednostka wyposażona w broń strzelającą pociskami energetycznymi. Mimo że wystrzeliwane masy energii poruszają się powoli, mają dość mocy by z łatwością uszkodzić opancerzenie androida.</seg>
       </tuv>
     </tu>
     <tu>
