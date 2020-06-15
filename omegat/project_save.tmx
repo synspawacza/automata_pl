@@ -5109,6 +5109,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Amicable Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172225Z" creationid="Syn Spawacza" creationdate="20200615T172225Z">
+        <seg>Przyjazne maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amnesia</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212121Z" creationid="Syn Spawacza" creationdate="20200608T212121Z">
@@ -5460,6 +5468,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222408Z" creationid="Syn Spawacza" creationdate="20200601T075541Z">
         <seg>Zadań pobocznych androidów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Androids</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172154Z" creationid="Syn Spawacza" creationdate="20200615T172154Z">
+        <seg>Androidy</seg>
       </tuv>
     </tu>
     <tu>
@@ -11327,6 +11343,14 @@ Autozmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T081439Z" creationid="Syn Spawacza" creationdate="20200601T081439Z">
         <seg>E-dopalacz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>EMP Attack Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172047Z" creationid="Syn Spawacza" creationdate="20200615T172047Z">
+        <seg>Maszyny z atakiem EMP</seg>
       </tuv>
     </tu>
     <tu>
@@ -21935,6 +21959,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peculiar Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172210Z" creationid="Syn Spawacza" creationdate="20200615T172210Z">
+        <seg>Osobliwe maszyny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Penglai</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T214304Z" creationid="Syn Spawacza" creationdate="20200601T214304Z">
@@ -26761,6 +26793,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171103Z" creationid="Syn Spawacza" creationdate="20200615T171103Z">
         <seg>Korespondencja specjalna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Special Unit Machines</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172148Z" creationid="Syn Spawacza" creationdate="20200615T172148Z">
+        <seg>Maszyny — jednostki specjalne</seg>
       </tuv>
     </tu>
     <tu>
