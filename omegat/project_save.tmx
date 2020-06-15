@@ -3550,6 +3550,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>AIR DEFENSE SYSTEM OPERATION LEVEL</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T172658Z" creationid="Syn Spawacza" creationdate="20200615T172658Z">
+        <seg>POZIOM SYSTEMU OBRONY POWIETRZNEJ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>AM</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101430Z" creationid="Syn Spawacza" creationdate="20200615T101430Z">
