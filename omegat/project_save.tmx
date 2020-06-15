@@ -29018,6 +29018,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This medium-sized machine lifeform possesses large, human-like limbs. These arms give it tremendous versatility in battle, as it can equip a great many weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T173940Z" creationid="Syn Spawacza" creationdate="20200615T173940Z">
+        <seg>Mechaniczna forma życia średniej wielkości, z wielkimi kończynami przypominającymi ludzkie. Ramiona te dają ogromną wszechstronność w walce, pozwalając na używanie różnych broni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This place sure is big.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180912Z" creationid="Syn Spawacza" creationdate="20200530T180912Z">
