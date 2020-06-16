@@ -15439,6 +15439,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HuMAN fiGhT. WHy?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155700Z" creationid="Syn Spawacza" creationdate="20200616T155700Z">
+        <seg>LuDZiE waLCZą. DLacZEgO?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180806Z" creationid="Syn Spawacza" creationdate="20200530T180806Z">
@@ -32672,6 +32680,22 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why do humans band together?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155800Z" creationid="Syn Spawacza" creationdate="20200616T155800Z">
+        <seg>Dlaczego ludzie łączą się w grupy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why...humans love?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155739Z" creationid="Syn Spawacza" creationdate="20200616T155739Z">
+        <seg>Dlaczego... ludzie kochają?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180417Z" creationid="Syn Spawacza" creationdate="20200530T180417Z">
@@ -33371,6 +33395,14 @@ You can check your progress on the Quests tab in the System Menu.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222837Z" creationid="Syn Spawacza" creationdate="20200608T222837Z">
         <seg>Zaktualizowano postęp zadania pobocznego.
 Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You—why are you alive?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155913Z" creationid="Syn Spawacza" creationdate="20200616T155913Z">
+        <seg>Wy... dlaczego wy żyjecie?</seg>
       </tuv>
     </tu>
     <tu>
