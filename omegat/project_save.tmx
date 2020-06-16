@@ -28883,6 +28883,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The greatsword was known for the intense pain it inflicted upon its victims. This is what drove the man to carry it despite its weight, for he knew it would make others fear him, and thus could he avoid needless conflict.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T154259Z" creationid="Syn Spawacza" creationdate="20200616T154259Z">
+        <seg>Ten miecz był znany z ogromnego bólu jaki zadawał swoim ofiarom. Był to powód dla którego, mimo jego ciężaru, go nosił mężczyzna, gdyż wiedział że sprawi to że inni będą się go obawiać, co pozwoli uniknąć niepotrzebnych konfliktów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The handful of survivors that remained fled from Earth, seeking refuge on the moon.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T194705Z" creationid="Syn Spawacza" creationdate="20200530T194705Z">
@@ -33675,6 +33683,14 @@ costume.</seg>
 Przydziałowa zbroja ochronna
 używana przez żołnierzy YoRHa.
 Może być używana przez 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[NO BROADCAST FROM THIS CHANNEL]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T152737Z" creationid="Syn Spawacza" creationdate="20200616T152737Z">
+        <seg>[BRAK SYGNAŁU NA TYM KANALE]</seg>
       </tuv>
     </tu>
     <tu>
