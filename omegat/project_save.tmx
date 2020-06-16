@@ -15496,9 +15496,11 @@ Look at me. Look at me!
 Give me love. Give me love!
 Stop copying me. I'm not!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145228Z" creationid="Syn Spawacza" creationdate="20200616T145228Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145340Z" creationid="Syn Spawacza" creationdate="20200616T145228Z">
         <seg>Jestem sobą. Jestem sobą!
-Popatrz na mnie. Popatrz na mnie!</seg>
+Popatrz na mnie. Popatrz na mnie!
+Pokochaj mnie. Pokochaj mnie!
+Przestań mnie przedrzeźniać. Nie przedrzeźniam!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32015,6 +32017,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173623Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
         <seg>Jesteśmy wiecznie uwięzieni...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We are together. We are one. Life or death. Even if we kill our foes. Even if we kill each other. Our two bodies will be as one for all time. Someone separate us. Oh god please someone help m</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145538Z" creationid="Syn Spawacza" creationdate="20200616T145538Z">
+        <seg>Jesteśmy razem. Jesteśmy jednością. Żywi czy martwi. Nawet gdy zabijamy naszych wrogów. Nawet gdy zabijamy siebie nawzajem. Nasze ciała na zawsze zostaną jednością. Niech ktoś nas rozdzieli. O boże, niech ktoś mi pomoż</seg>
       </tuv>
     </tu>
     <tu>
