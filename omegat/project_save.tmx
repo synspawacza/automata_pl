@@ -14974,6 +14974,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hello? Is anyone there? Is this thing even on? It's me, radio listeners! 24D! I'm an idol, remember? An idol! An idol an idol an idol an idol an idol an idol an idol an idol an idol an idol an idol an idol an idol an idol an</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T142330Z" creationid="Syn Spawacza" creationdate="20200616T142330Z">
+        <seg>Hej! Jest tam kto? Czy ten sprzęt w ogóle działa? To ja, radiosłuchacze! 24D! Jestem idolem, pamiętacie? Idolem! Idolem idolem idolem idolem idolem idolem idolem idolem idolem idolem idolem idolem idolem idolem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here, let me try somewhere else.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204643Z" creationid="Syn Spawacza" creationdate="20200530T204059Z">
@@ -28849,6 +28857,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T210933Z" creationid="Syn Spawacza" creationdate="20200601T210933Z">
         <seg>Minimapa w prawym dolnym rogu pokazuje teren w pobliżu twojej aktualnej pozycji. Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The more old records I read, the more fascinated I become by the species known as humans. We machines must do all we can to preserve these precious artifacts and continue to record their contents.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T142539Z" creationid="Syn Spawacza" creationdate="20200616T142539Z">
+        <seg>Im więcej starych zapisków czytam, tym bardziej fascynuje mnie gatunek znany jako „ludzie”. My, maszyny, musimy zrobić wszystko co w naszej mocy by ratować te cenne artefakty i zachować ich zawartość.</seg>
       </tuv>
     </tu>
     <tu>
