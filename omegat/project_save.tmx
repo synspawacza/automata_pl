@@ -9458,6 +9458,36 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dad, if you're cold, I can give you my hat.
+You're the best father in the world, after all!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T115837Z" creationid="Syn Spawacza" creationdate="20200616T115837Z">
+        <seg>Tato, jeżeli ci zimno, dam ci moją czapkę.
+W końcu jesteś najlepszym ojcem na świecie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dad, if you're hungry, you can have my cookie.
+You're my favorite person in the world, after all!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T115915Z" creationid="Syn Spawacza" creationdate="20200616T115915Z">
+        <seg>Tato, jeżeli jesteś głodny, dam ci moje ciasteczko.
+W końcu jesteś moją ulubioną osobą na świecie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dad, if you're scared, I can sleep by your side.
+You're my closest friend in the world, after all!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T120002Z" creationid="Syn Spawacza" creationdate="20200616T120002Z">
+        <seg>Tato, jeżeli się boisz, mogę spać przy tobie.
+W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damage Absorb</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183920Z" creationid="Syn Spawacza" creationdate="20200601T183920Z">
