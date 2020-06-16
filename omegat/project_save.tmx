@@ -21284,6 +21284,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One day, a young girl's village was sacked by bandits. To protect her family, she took up a dagger her father had found in the mountains and killed one of them, an act that shocked her family. But the bandits fled, never to return.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T123829Z" creationid="Syn Spawacza" creationdate="20200616T123829Z">
+        <seg>Pewnego dnia, wioska młodej dziewczyny została napadnięta przez bandytów. Chcąc chronić rodzinę, wzięła sztylet który jej ojciec znalazł w górach i zabiła jednego z nich, co zaszokowało jej rodzinę. Bandyci uciekli, by nigdy nie powrócić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Online Body Information</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115409Z" creationid="Syn Spawacza" creationdate="20200610T115409Z">
@@ -28215,8 +28223,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>That night, bandits broke into her house, assaulted her daughter, and murdered her grandchild. The songbird then reappeared with a single question: "How long will your hatred burn this time?"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T123320Z" creationid="Syn Spawacza" creationdate="20200616T123320Z">
-        <seg>Tego wieczoru, bandyci włamali się do jej domu, napadli jej córkę i zabili jej wnuka. Ptak znów pojawił się z jednym pytaniem: „Na jak długo będzie płonęła w tobie nienawiść tym razem?”</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T123515Z" creationid="Syn Spawacza" creationdate="20200616T123320Z">
+        <seg>Tego wieczoru, bandyci włamali się do jej domu, napadli jej córkę i zabili jej wnuka. Ptak znów pojawił się z jednym pytaniem: „Jak długo będzie płonęła w tobie nienawiść tym razem?”</seg>
       </tuv>
     </tu>
     <tu>
