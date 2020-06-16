@@ -28632,6 +28632,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The craftsman's weapons were neither flashy nor attractive, but they never once failed in battle. This reliability afforded him a never-ending stream of loyal clients.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T130801Z" creationid="Syn Spawacza" creationdate="20200616T130801Z">
+        <seg>Bronie rzemieślnika nie były widowiskowe ani atrakcyjne, ale nigdy nie zwodziły w walce. Ta niezawodność dostarczała mu niekończący się strumień lojalnych klientów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The data for the "3C3C1D119440927" content has been deleted.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222051Z" creationid="Syn Spawacza" creationdate="20200608T222051Z">
@@ -32546,6 +32554,16 @@ We had our first core-installation experiment today. Saw some troubling signs, i
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T125830Z" creationid="Syn Spawacza" creationdate="20200616T125830Z">
         <seg>Dziennik zespołu badawczo-rozwojowego YoRHa, 10 grudnia
 Pierwszy eksperyment z instalacją rdzenia. Widać trochę niepokojących oznak, takie jak nieregularna moc wyjściowa i systemy zabezpieczeń rdzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa R&amp;D Team Journal: January 15
+Command pulled the plug on our project. The weapon will go into official operation with the core still sealed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T130201Z" creationid="Syn Spawacza" creationdate="20200616T130201Z">
+        <seg>Dziennik zespołu badawczo-rozwojowego YoRHa, 15 stycznia
+Dowodzenie odcięło dofinansowanie naszego projektu. Broń zostanie wprowadzona do użytku z rdzeniem wciąż zapieczętowanym.</seg>
       </tuv>
     </tu>
     <tu>
