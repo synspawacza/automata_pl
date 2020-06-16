@@ -32515,8 +32515,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can't skip this scene because 2B is in control.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135329Z" creationid="Syn Spawacza" creationdate="20200530T135329Z">
-        <seg>Nie można pominąć sceny - sterowana przez 2B</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T105759Z" creationid="Syn Spawacza" creationdate="20200530T135329Z">
+        <seg>Nie można pominąć sceny — sterowana przez 2B</seg>
       </tuv>
     </tu>
     <tu>
