@@ -15030,6 +15030,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey ho, battlefield buddies! I'm not gonna lie here—the current war situation isn't looking too optimistic. But we're expecting reinforcements from our orbiting satellite bases any moment, so don't give up yet! Glory to mankind!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T152521Z" creationid="Syn Spawacza" creationdate="20200616T152521Z">
+        <seg>Hejo, ziomki z pola bitwy! Nie będę kłamał — obecna sytuacja wojenna nie napawa optymizmem. Ale oczekujemy posiłków z innych baz orbitalnych, więc nie traćmy nadziei! Chwała ludzkości!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey! 2B!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175721Z" creationid="Syn Spawacza" creationdate="20200610T175721Z">
@@ -19398,6 +19406,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103240Z" creationid="Syn Spawacza" creationdate="20200606T103240Z">
         <seg>Może go... No nie wiem... Przenieśli gdzieś indziej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mayday! Mayday! This is Publicity Agent 42S from North 12C Defense HQ! Is anyone listening!? Our facility has been completely surrounded by machines! I don't know how much longer we can ho—</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T152714Z" creationid="Syn Spawacza" creationdate="20200616T152714Z">
+        <seg>Mayday! Mayday! Tu agent medialny 42S z Kwatery Obrony 12C Północ! Czy ktoś mnie słyszy? Nasz obiekt został całkowicie otoczony przez maszyny! Nie wiem ile jeszcze jestem w stanie utrz...</seg>
       </tuv>
     </tu>
     <tu>
