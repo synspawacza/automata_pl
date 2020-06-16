@@ -15491,6 +15491,18 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I am myself. I am myself!
+Look at me. Look at me!
+Give me love. Give me love!
+Stop copying me. I'm not!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145228Z" creationid="Syn Spawacza" creationdate="20200616T145228Z">
+        <seg>Jestem sobą. Jestem sobą!
+Popatrz na mnie. Popatrz na mnie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I can't access this right now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T210903Z" creationid="Syn Spawacza" creationdate="20200608T210903Z">
@@ -28965,6 +28977,14 @@ Do you wish to fuse this chip?</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092715Z" creationid="Syn Spawacza" creationdate="20200606T092715Z">
         <seg>Wybrany czip jest wyekwipowany jako część zestawu. Jeśli go połączysz, to zostanie on usunięty z zestawu.
 Czy chcesz połączyć ten czip?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The souls in the blade yearned to be as one. To grow old as one. To fall in love as one. It is why we both love the same person.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145156Z" creationid="Syn Spawacza" creationdate="20200616T145139Z">
+        <seg>Dusze w ostrzu pragnęły być jednością. Zestarzeć się jako jedno. Zakochać się jako jedno. Dlatego obie kochały tę samą osobę.</seg>
       </tuv>
     </tu>
     <tu>
