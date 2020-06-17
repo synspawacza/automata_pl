@@ -1364,6 +1364,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_ACTION_2&gt;: Dismount</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150752Z" creationid="Syn Spawacza" creationdate="20200617T150752Z">
+        <seg>&lt;KC_ACTION_2&gt;: Zejdź</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_CAMERA_2&gt;: Aim</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171438Z" creationid="Syn Spawacza" creationdate="20200530T171438Z">
@@ -1416,6 +1424,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171403Z" creationid="Syn Spawacza" creationdate="20200530T171403Z">
         <seg>&lt;KC_EVADE_2&gt;: Perfekcyjny unik (w odpowiednim momencie)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_EVADE_2&gt;: Sprint</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150735Z" creationid="Syn Spawacza" creationdate="20200617T150735Z">
+        <seg>&lt;KC_EVADE_2&gt;: Sprint</seg>
       </tuv>
     </tu>
     <tu>
@@ -1516,10 +1532,18 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Switch Equipment</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150723Z" creationid="Syn Spawacza" creationdate="20200617T150723Z">
+        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Zmiana ekwipunku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Switch Pods</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150413Z" creationid="Syn Spawacza" creationdate="20200617T150413Z">
-        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Zmień poda</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150726Z" creationid="Syn Spawacza" creationdate="20200617T150413Z">
+        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Zmiana poda</seg>
       </tuv>
     </tu>
     <tu>
@@ -1536,6 +1560,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171235Z" creationid="Syn Spawacza" creationdate="20200530T171235Z">
         <seg>&lt;KC_SHOT_2&gt;: Strzał</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_SKILL_2&gt;: Missile Barrage</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150711Z" creationid="Syn Spawacza" creationdate="20200617T150711Z">
+        <seg>&lt;KC_SKILL_2&gt;: Ostrzał rakietowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -16091,6 +16123,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T175952Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
         <seg>Chciałem wysłać dane mapy które wcześniej zebrałem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I was in a dead sleep when mum started shouting. "Wakey-wakey!" she squawked. "Rise and shiiine! Today’s a very important day! Today’s your first visit to the castle!" ...Annoying, right? But I got up anyway.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T152503Z" creationid="Syn Spawacza" creationdate="20200617T152503Z">
+        <seg>Śpię jak zabity, gdy budzi mnie głos mojej mamy. „Pora wstawać! Dzisiaj jest ważny dzień!  Dzień twojej pierwszej wizyty na zamku!” Denerwujące, wiem. Ale i tak muszę wstać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32147,6 +32187,14 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131516Z" creationid="Syn Spawacza" creationdate="20200530T131516Z">
         <seg>Wibracje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>View "&lt;BOOK_NAME&gt;"?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150806Z" creationid="Syn Spawacza" creationdate="20200617T150806Z">
+        <seg>Zobaczyć „&lt;BOOK_NAME&gt;”?</seg>
       </tuv>
     </tu>
     <tu>
