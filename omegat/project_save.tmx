@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"You have atoned for your sins," said the bird. "If you wish me to free you from your solitary existence, I will gladly do so." The man wept tears of joy and whispered thanks to the gods before suddenly stomping the bird to death.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T103104Z" creationid="Syn Spawacza" creationdate="20200617T103104Z">
+        <seg>„Odpokutowałeś swoje winy,” powiedział ptak. „Jeśli chcesz bym uwolnił cię z tej samotnej egzystencji, z chęcią tak zrobię.” Mężczyzna zapłakał z radości i wyszeptał podziękowania bogom, nim zadeptał ptaka na śmierć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"[&lt;SENTENCE_01&gt;] [&lt;SENTENCE_02&gt;] [&lt;CONJUNCTION&gt;]."</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T144732Z" creationid="Syn Spawacza" creationdate="20200605T184920Z">
