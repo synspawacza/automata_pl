@@ -1686,6 +1686,18 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; System YoRHa
+&gt; Unit Data Uploading...
+&gt; Checkout H.C.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T134059Z" creationid="Syn Spawacza" creationdate="20200617T134059Z">
+        <seg>&gt; System YoRHa
+&gt; Wysyłanie danych jednostki...
+&gt; Weryfikowanie H.C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>???</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203822Z" creationid="Syn Spawacza" creationdate="20200601T203822Z">
