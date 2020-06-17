@@ -15913,6 +15913,20 @@ Przestań mnie przedrzeźniać. Nie przedrzeźniam!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I see you in my sleep.
+Restless sleep.
+My heart flies to pieces each time I wake.
+I burn to see you in the real world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T142614Z" creationid="Syn Spawacza" creationdate="20200617T142614Z">
+        <seg>Widzę cię w moim śnie.
+Niespokojnym śnie.
+Moje serce rozpada się gdy tylko się budzę.
+Płonę by cię zobaczyć w prawdziwym życiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I surveyed the entire factory, but couldn't find anything resembling our target.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181605Z" creationid="Syn Spawacza" creationdate="20200530T181605Z">
@@ -29351,6 +29365,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103711Z" creationid="Syn Spawacza" creationdate="20200601T103711Z">
         <seg>Noga mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The man bought a weapon from a craftsman famed for forging instruments of pain, then used it to punish his wife—for he could not abide that she failed to protect her virtue. His revenge was complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T141750Z" creationid="Syn Spawacza" creationdate="20200617T141750Z">
+        <seg>Mężczyzna kupił broń od rzemieślnika znanego z tworzenia narzędzi zadających ból, po czym użył jej by ukarać swoją żonę — gdyż nie mógł znieść tego, że nie udało mu się ochronić jej cnoty. Jego zemsta się dokonała.</seg>
       </tuv>
     </tu>
     <tu>
