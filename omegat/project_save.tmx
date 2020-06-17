@@ -21094,6 +21094,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No MessagePAUSE_ARCHIVE_020_000</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T161517Z" creationid="Syn Spawacza" creationdate="20200617T161517Z">
+        <seg>No MessagePAUSE_ARCHIVE_020_000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No messages have been received.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T145523Z" creationid="Syn Spawacza" creationdate="20200530T145523Z">
