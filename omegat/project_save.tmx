@@ -1686,6 +1686,18 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; Close I.O.
+&gt; Duplicate Core
+&gt; Find YoRHa unit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T134222Z" creationid="Syn Spawacza" creationdate="20200617T134222Z">
+        <seg>&gt; Zamykanie I.O.
+&gt; Powielanie rdzenia
+&gt; Wyszukanie jednostki YoRHa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; System YoRHa
 &gt; Unit Data Uploading...
 &gt; Checkout H.C.</seg>
