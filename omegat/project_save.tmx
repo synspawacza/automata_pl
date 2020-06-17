@@ -1372,6 +1372,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_CAMERA_2&gt;: Change Direction</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150651Z" creationid="Syn Spawacza" creationdate="20200617T150651Z">
+        <seg>&lt;KC_CAMERA_2&gt;: Zmiana kierunku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_CAMERA_2&gt;: Move camera</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171052Z" creationid="Syn Spawacza" creationdate="20200530T171052Z">
@@ -1412,10 +1420,26 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_HEAVY_ATK_2&gt;: Hack (9S only)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150603Z" creationid="Syn Spawacza" creationdate="20200617T150603Z">
+        <seg>&lt;KC_HEAVY_ATK_2&gt;: Hakowanie (tylko 9S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_HEAVY_ATK_2&gt;: Heavy Attack</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171254Z" creationid="Syn Spawacza" creationdate="20200530T171254Z">
         <seg>&lt;KC_HEAVY_ATK_2&gt;: Atak ciężki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_JIBAKU_2&gt;: (Hold) Berserk Mode (A2 only)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150519Z" creationid="Syn Spawacza" creationdate="20200617T150519Z">
+        <seg>&lt;KC_JIBAKU_2&gt;: (przytrzymaj) Tryb berserkera (tylko A2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1492,6 +1516,14 @@ przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Switch Pods</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150413Z" creationid="Syn Spawacza" creationdate="20200617T150413Z">
+        <seg>&lt;KC_POD_PREV_2&gt;&lt;ICON_SLASH_2&gt;&lt;KC_POD_NEXT_2&gt;: Zmień poda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_SHORTCUT_2&gt;: Shortcut Menu</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171210Z" creationid="Syn Spawacza" creationdate="20200530T171210Z">
@@ -1512,6 +1544,14 @@ przez 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171259Z" creationid="Syn Spawacza" creationdate="20200530T171259Z">
         <seg>&lt;KC_SKILL_2&gt;: Program poda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_SPEED_ATK_2&gt;: (Hold) Taunt (A2 only)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150547Z" creationid="Syn Spawacza" creationdate="20200617T150547Z">
+        <seg>&lt;KC_SPEED_ATK_2&gt;: (przytrzymaj) Prowokacja (tylko A2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -8876,6 +8916,16 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130631Z" creationid="Syn Spawacza" creationdate="20200530T130631Z">
         <seg>Sterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Controls in Hacking Mode
+&lt;KC_MOVE_2&gt;: Move</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150619Z" creationid="Syn Spawacza" creationdate="20200617T150619Z">
+        <seg>Sterowanie w trybie hakowania
+&lt;KC_MOVE_2&gt;: Ruch</seg>
       </tuv>
     </tu>
     <tu>
