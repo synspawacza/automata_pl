@@ -1698,6 +1698,18 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&gt; Purge Unit Data
+&gt; Purge System Data
+&gt; Exit</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T134555Z" creationid="Syn Spawacza" creationdate="20200617T134555Z">
+        <seg>&gt; Czyszczenie danych jednostki
+&gt; Czyszczenie danych systemowych
+&gt; Wychodzenie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&gt; System YoRHa
 &gt; Unit Data Uploading...
 &gt; Checkout H.C.</seg>
@@ -1706,6 +1718,18 @@ staje się wrogiem.</seg>
         <seg>&gt; System YoRHa
 &gt; Wysyłanie danych jednostki...
 &gt; Weryfikowanie H.C.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&gt; Updating Data...
+&gt; Checking Data
+&gt; Purge Conversation Log</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T134342Z" creationid="Syn Spawacza" creationdate="20200617T134342Z">
+        <seg>&gt; Aktualizowanie danych...
+&gt; Sprawdzanie danych
+&gt; Czyszczenie zapisów konwersacji</seg>
       </tuv>
     </tu>
     <tu>
