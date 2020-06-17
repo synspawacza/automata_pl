@@ -33306,6 +33306,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When we arrive, I see my friend coming out of the castle. He’s 16, too, but his fearless gaze makes him look like a legendary hero-to-be. I’m sure he’s got a lot to live up to! MY dad’s just a carpenter, so I’ve got it easy, heh.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T153427Z" creationid="Syn Spawacza" creationdate="20200617T153427Z">
+        <seg>Gdy dotarliśmy do zamku, widzę że wychodzi z niego mój przyjaciel. Też ma 16 lat, ale jego nieustraszony wzrok sprawia, że już wygląda jak legendarny bohater. Na pewno wiele się od niego oczekuje. Mój ojciec to zwykły cieśla, więc ja mam łatwiej, heh.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your character dies, its body remains on the map as a corpse &lt;MAP_CORPSE&gt;. These bodies contain various data, so you'll have to go back to your body to retrieve your belongings. 
  
 If you die again before reaching your previous body, it will disappear. If you keep playing for an extended period of time without retrieving your body, it will disappear.</seg>
