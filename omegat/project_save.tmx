@@ -15619,6 +15619,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I am a dumb machine. I got lost during battle, and ended up in some kind of factory. I found a whole pile of dolls discarded there. They share the same fate I do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T124816Z" creationid="Syn Spawacza" creationdate="20200617T124816Z">
+        <seg>Jestem tępą maszyną. Przegrałem w bitwie i skończyłem w jakiejś fabryce. Znalazłem tu stos porzuconych lalek. Dzielą ze mną taki sam los.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I am myself. I am myself!
 Look at me. Look at me!
 Give me love. Give me love!
@@ -20458,6 +20466,14 @@ Proszę o zgodę na przejście do konfiguracji mobilnej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T133717Z" creationid="Syn Spawacza" creationdate="20200530T133717Z">
         <seg>Głośność muzyki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My name is Plato 1728. I am a failure of a machine. I was designed for combat, but I can't use weapons. Everyone makes fun of me, and my life is horrible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T124651Z" creationid="Syn Spawacza" creationdate="20200617T124651Z">
+        <seg>Nazywam się Platon 1728. Jestem porażką jako maszyna. Zostałem zaprojektowany by walczyć, ale nie mogę używać broni. Wszyscy się ze mnie śmieją, a moje życie to koszmar.</seg>
       </tuv>
     </tu>
     <tu>
