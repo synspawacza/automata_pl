@@ -500,8 +500,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>12H down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173843Z" creationid="Syn Spawacza" creationdate="20200530T173843Z">
-        <seg>Jednostka 12H zniszczona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130416Z" creationid="Syn Spawacza" creationdate="20200530T173843Z">
+        <seg>12H padł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -702,8 +702,8 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>2B here. All units have penetrated the stratosphere.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101311Z" creationid="Syn Spawacza" creationdate="20200606T101311Z">
-        <seg>Tu 2B. Wszystkie jednostki przebiły się przez stratosferę.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130236Z" creationid="Syn Spawacza" creationdate="20200606T101311Z">
+        <seg>Tutaj 2B. Wszystkie jednostki wkroczyły w stratosferę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5226,8 +5226,8 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       <tuv lang="en-US">
         <seg>All units, activate manual mode and rely on visuals to evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173848Z" creationid="Syn Spawacza" creationdate="20200530T173848Z">
-        <seg>Do wszystkich jednostek, aktywować sterowanie ręczne i unikać ataków.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130424Z" creationid="Syn Spawacza" creationdate="20200530T173848Z">
+        <seg>Do wszystkich jednostek, aktywować tryb manualny i unikać, polegając na wzroku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5263,8 +5263,8 @@ stopniu kontrolę kierunku.</seg>
       <tuv lang="en-US">
         <seg>Already engaged. Free movement unlocked.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101329Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
-        <seg>Aktywowano. Swobodny ruch dostępny.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130430Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
+        <seg>Wprowadzono. Odblokowano swobodny ruch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6642,8 +6642,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Autopilot systems green across the board.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173712Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
-        <seg>Wszystkie systemy autopilota w normie.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130249Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
+        <seg>Systemy autopilotażu w pełni sprawne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12684,8 +12684,8 @@ Chwila, musimy to przywrócić.</seg>
       <tuv lang="en-US">
         <seg>Everything that lives is designed to end.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211000Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
-        <seg>Wszystko co żyje istnieje po to, by się skończyć.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130148Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
+        <seg>Wszystko co żyje jest zaprojektowane, by kiedyś się skończyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16059,8 +16059,8 @@ Twoje ciało i serce wkrótce będzie moje.</seg>
       <tuv lang="en-US">
         <seg>I often think about the god who blessed us with this cryptic puzzle...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173636Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
-        <seg>Często myślę o bogu, który obdarował nas tą enigmatyczną zagadką...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130217Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
+        <seg>Często myślę o bogu, który pobłogosławił nas tą enigmatyczną łamigłówką...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17729,8 +17729,8 @@ w temperaturze 2000 stopni.</seg>
       <tuv lang="en-US">
         <seg>Is this a curse?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173630Z" creationid="Syn Spawacza" creationdate="20200530T173630Z">
-        <seg>Czy to przekleństwo?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130204Z" creationid="Syn Spawacza" creationdate="20200530T173630Z">
+        <seg>Czy to klątwa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22066,8 +22066,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Or some kind of punishment?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173633Z" creationid="Syn Spawacza" creationdate="20200530T173633Z">
-        <seg>Czy też jakaś kara?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130208Z" creationid="Syn Spawacza" creationdate="20200530T173633Z">
+        <seg>Albo jakiś rodzaj kary?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22096,8 +22096,8 @@ poniewiera się na powierzchni.</seg>
       <tuv lang="en-US">
         <seg>Origin point of long-range lasers confirmed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173859Z" creationid="Syn Spawacza" creationdate="20200530T173859Z">
-        <seg>Wykryto źródła laserów dalekiego zasięgu.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130438Z" creationid="Syn Spawacza" creationdate="20200530T173859Z">
+        <seg>Potwierdzono źródło lasera dalekiego zasięgu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30170,8 +30170,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Command. YoRHa squadron, come in.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101308Z" creationid="Syn Spawacza" creationdate="20200606T101308Z">
-        <seg>Tu dowództwo do eskadry YoRHa, odbiór.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130231Z" creationid="Syn Spawacza" creationdate="20200606T101308Z">
+        <seg>Tutaj Dowództwo. Eskadra YoRHa, odezwij się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30186,8 +30186,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Operator 6O. All units confirmed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101315Z" creationid="Syn Spawacza" creationdate="20200606T101315Z">
-        <seg>Tu Operator 6O. Dostałam potwierdzenie od wszystkich jednostek.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130304Z" creationid="Syn Spawacza" creationdate="20200606T101315Z">
+        <seg>Tutaj Operator 6O. Wszystkie jednostki potwierdzone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31618,8 +31618,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101320Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
-        <seg>Zrozumiano. Gdy dotrzecie do obrony przeciwpowietrznej przejdźcie do formacji ofensywnej...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130340Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
+        <seg>Zrozumiano. Gdy dotrzecie do ich obrony przeciw-powietrznej, przejdźcie w formację manualnego ataku..</seg>
       </tuv>
     </tu>
     <tu>
@@ -32853,8 +32853,8 @@ ODESZŁA W WIECZNOŚĆ</seg>
       <tuv lang="en-US">
         <seg>We are perpetually trapped...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173623Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
-        <seg>Jesteśmy wiecznie uwięzieni...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130155Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
+        <seg>Jesteśmy nieustannie uwięzieni...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32933,8 +32933,8 @@ ODESZŁA W WIECZNOŚĆ</seg>
       <tuv lang="en-US">
         <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173737Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
-        <seg>Osiągnęliśmy pułap 50 kilometrów i kontynuujemy zbliżanie się do celu.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130307Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
+        <seg>Przekroczyliśmy pułap 50 kilometrów i zbliżamy się w kierunku celu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34781,8 +34781,8 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>and wonder if we'll ever have the chance to kill him.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211017Z" creationid="Syn Spawacza" creationdate="20200530T173640Z">
-        <seg>i zastanawiam się, czy będę miała okazję go zabić.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130224Z" creationid="Syn Spawacza" creationdate="20200530T173640Z">
+        <seg>i zastanawiam się, czy kiedykolwiek będę miała szansę go zabić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36309,8 +36309,8 @@ Popularne na Dalekim Wschodzie.</seg>
       <tuv lang="en-US">
         <seg>then destroy the Goliath-class unit by any means necessary and gather what data you can.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173810Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
-        <seg>za wszelką cenę zniszczcie jednostkę klasy Goliat oraz zbierzcie tyle danych ile się da.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130408Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
+        <seg>i wtedy zniszczcie jednostkę klasy Goliat jakkolwiek zajdzie potrzeba i zbierzcie dane.</seg>
       </tuv>
     </tu>
     <tu>
