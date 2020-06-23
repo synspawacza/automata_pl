@@ -22717,6 +22717,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operator 21O to 9S. This is your regularly-scheduled contact.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T190424Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T190424Z">
+        <seg>Operator 21O do 9S. To twój zaplanowany, regularny kontakt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operator 21O to unit 9S. Come in, 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134046Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T134046Z">
@@ -31117,6 +31125,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
         <seg>Ta wiadomość jest niezbędna do weryfikacji twojego konta mailowego. Członkowie, którzy doświadczyli problemów z systemem pocztowym powinni niezwłocznie skontaktować się ze swoimi przełożonymi.
  
 —Obsługa IT, Główny Inżynier Serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This must have been quite a city once upon a time. Too bad vegetation's claimed most of it now...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T190247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T190247Z">
+        <seg>Dawno temu to musiało być całkiem niezłe miasto. Szkoda, że większość przejęła roślinność...</seg>
       </tuv>
     </tu>
     <tu>
