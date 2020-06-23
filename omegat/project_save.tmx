@@ -5032,16 +5032,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: High-powered jamming detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180612Z" creationid="Syn Spawacza" creationdate="20200530T182241Z">
-        <seg>Uwaga: wykryto silny sygnał zagłuszający.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135642Z" creationid="Syn Spawacza" creationdate="20200530T182241Z">
+        <seg>Uwaga: Wykryto potężne zakłócenia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Incoming enemy attack from below.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180602Z" creationid="Syn Spawacza" creationdate="20200530T182550Z">
-        <seg>Uwaga: zbliża się atak od dołu.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135803Z" creationid="Syn Spawacza" creationdate="20200530T182550Z">
+        <seg>Uwaga: nadchodzący atak wroga z dołu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11527,8 +11527,8 @@ Nie zrobisz z maszyny swojego brata.</seg>
       <tuv lang="en-US">
         <seg>Doesn't matter. I'll just take 'em out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103410Z" creationid="Syn Spawacza" creationdate="20200606T103410Z">
-        <seg>To bez znaczenia. Po prostu go załatwię.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135719Z" creationid="Syn Spawacza" creationdate="20200606T103410Z">
+        <seg>To bez znaczenia. Po prostu je zniszczę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12238,8 +12238,8 @@ pieniędzy przez 60 sekund.</seg>
       <tuv lang="en-US">
         <seg>Enemy analysis complete.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182758Z" creationid="Syn Spawacza" creationdate="20200530T182758Z">
-        <seg>Analiza wroga zakończona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135905Z" creationid="Syn Spawacza" creationdate="20200530T182758Z">
+        <seg>Ukończono analizę wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15092,8 +15092,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Hacking in!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182743Z" creationid="Syn Spawacza" creationdate="20200530T182743Z">
-        <seg>Hakowanie!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135848Z" creationid="Syn Spawacza" creationdate="20200530T182743Z">
+        <seg>Hakuję!</seg>
       </tuv>
     </tu>
     <tu>
@@ -17875,8 +17875,8 @@ w temperaturze 2000 stopni.</seg>
       <tuv lang="en-US">
         <seg>Is that—</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103423Z" creationid="Syn Spawacza" creationdate="20200530T182524Z">
-        <seg>Czy to...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135742Z" creationid="Syn Spawacza" creationdate="20200530T182524Z">
+        <seg>Czy to...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21314,8 +21314,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>No response from long-range communications.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180621Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
-        <seg>Komunikacja dalekiego zasięgu niemożliwa.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135712Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
+        <seg>Brak kontaktu z komunikacji na daleki dystans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23823,8 +23823,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180604Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
-        <seg>Propozycja: wykonać unik.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135825Z" creationid="Syn Spawacza" creationdate="20200530T182604Z">
+        <seg>Rozwiązanie: unik.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27685,8 +27685,8 @@ Dobrze?</seg>
       <tuv lang="en-US">
         <seg>Software vulnerabilities and penetration path detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182835Z" creationid="Syn Spawacza" creationdate="20200530T182835Z">
-        <seg>Wykryto luki oprogramowani i ścieżkę penetracji.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135925Z" creationid="Syn Spawacza" creationdate="20200530T182835Z">
+        <seg>Wykryto luki w oprogramowaniu i ścieżkę penetracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28893,8 +28893,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target enemy detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182540Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
-        <seg>Wykryto cel misji.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135749Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
+        <seg>Wykryto cel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30484,8 +30484,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is the target. I'm going to destroy it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103437Z" creationid="Syn Spawacza" creationdate="20200606T103437Z">
-        <seg>To nasz cel. Zniszczę go.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135839Z" creationid="Syn Spawacza" creationdate="20200606T103437Z">
+        <seg>To jest nasz cel. Mam zamiar go zniszczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31780,8 +31780,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Uh...right. I'll provide support!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103443Z" creationid="Syn Spawacza" creationdate="20200606T103443Z">
-        <seg>Uhm... dobra. Zapewnię wsparcie!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135844Z" creationid="Syn Spawacza" creationdate="20200606T103443Z">
+        <seg>Ee... Dobra. Zapewnię wsparcie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33574,8 +33574,8 @@ singular element.</seg>
       <tuv lang="en-US">
         <seg>What's your status!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103435Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
-        <seg>Jak sytuacja?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135834Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
+        <seg>Jaki jest Twój status?!</seg>
       </tuv>
     </tu>
     <tu>
