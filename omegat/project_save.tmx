@@ -5050,8 +5050,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Ah, 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111632Z" creationid="Syn Spawacza" creationdate="20200606T111632Z">
-        <seg>Aha, 2B.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T175410Z" creationid="Syn Spawacza" creationdate="20200606T111632Z">
+        <seg>Ach, 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20018,8 +20018,8 @@ jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Maintenance finished?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111643Z" creationid="Syn Spawacza" creationdate="20200606T111643Z">
-        <seg>Konserwacja zakończona?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180814Z" creationid="Syn Spawacza" creationdate="20200606T111643Z">
+        <seg>Skończyłaś przegląd?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22448,6 +22448,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T115409Z" creationid="Syn Spawacza" creationdate="20200610T115409Z">
         <seg>Informacje ciele w sieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Only the Commander can approve communications with the Council of Humanity. YoRHa soldiers aren't allowed to make individual contact.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T175336Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T175336Z">
+        <seg>Tylko Komandor może zatwierdzić kontakt z Radą Ludzkości. Żołnierze YoRHa nie mogą nawiązać indywidualnego połączenia.</seg>
       </tuv>
     </tu>
     <tu>
