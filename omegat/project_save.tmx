@@ -5259,6 +5259,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All right, all right! I get it! Sheesh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181825Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181825Z">
+        <seg>Dobrze, już dobrze! Rozumiem! Jeeejuu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All right, then.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180826Z" creationid="Syn Spawacza" creationdate="20200530T180826Z">
@@ -5759,6 +5767,22 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174745Z">
         <seg>I może NIE ZGUB GO NASTĘPNYM RAZEM! Serio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And that includes you guys, okay? So be careful!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181622Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181622Z">
+        <seg>To dotyczy również Was, okej? Uważajcie na siebie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And you combat types are the worst! Last time you used a flight unit, it came back with huge scratches on the side!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181812Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181812Z">
+        <seg>A wy, typy bojowe, jesteście najgorsi! Ostatnio, jak używałaś jednostki latającej, to wróciła z wielkimi zadrapaniami na boku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15557,6 +15581,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Her balance sensors got damaged, so she gets motion sickness.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181733Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181733Z">
+        <seg>Jej sensory równowagi zostały uszkodzone, więc ma chorobę lokomocyjną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here, let me try somewhere else.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204643Z" creationid="Syn Spawacza" creationdate="20200530T204059Z">
@@ -15597,6 +15629,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey there! Are you going down to Earth again?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181753Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181753Z">
+        <seg>Hej! Znowu schodzicie na Ziemię?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey there! How's it going?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174346Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174346Z">
@@ -15609,6 +15649,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T175721Z" creationid="Syn Spawacza" creationdate="20200610T175721Z">
         <seg>Hej, 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, I'd take you if I could, but...you know. I don't make the rules.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181609Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181609Z">
+        <seg>Hej, wiesz, że jak bym mogła, to bym cię zabrała... Ale nie ja tworzę te zasady.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16390,6 +16438,14 @@ Twoje ciało i serce wkrótce będzie moje.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I love hearing about Earth, but the most important thing is seeing everyone come back safely.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181617Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181617Z">
+        <seg>Uwielbiam słuchać o Ziemi, jednak najważniejsze jest by wszyscy wrócili tutaj bezpiecznie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I mean, it's your choice and all, but...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205152Z" creationid="Syn Spawacza" creationdate="20200530T205152Z">
@@ -16508,6 +16564,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I was just talking about all the plants and animals I saw on Earth. Operators are kind of nuts for data collection, you know!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181556Z">
+        <seg>Właśnie opowiadałam o wszystkich roślinach i zwierzętach, które widziałam na Ziemi. Operatorzy szaleją za zbieraniem danych, wiesz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I wish you good hunting.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145400Z" creationid="Syn Spawacza" creationdate="20200530T195526Z">
@@ -16520,6 +16584,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133714Z" creationid="Syn Spawacza" creationdate="20200530T181955Z">
         <seg>Nie obstawiałabym na to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'd give almost anything to spend more time in a flight unit...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181757Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181757Z">
+        <seg>Dałabym wszystko, żeby spędzić więcej czasu w jednostce latającej...</seg>
       </tuv>
     </tu>
     <tu>
@@ -18156,6 +18228,14 @@ by the villagers.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134245Z" creationid="Syn Spawacza" creationdate="20200601T134245Z">
         <seg>Bez wątpienia
 były otoczone troskliwą opieką.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It makes me jealous of the combat troops. I'd love to go down there and collect the data myself, but they don't allow it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181604Z">
+        <seg>Tego zazdroszczę walczącym oddziałom. Chciałabym sama tam zejść i zbierać dane, ale mi nie pozwalają.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21559,6 +21639,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T161517Z" creationid="Syn Spawacza" creationdate="20200617T161517Z">
         <seg>No MessagePAUSE_ARCHIVE_020_000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No matter how many times I repair the sensors, the problem comes back. It's almost like it's in her head or something...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181741Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181741Z">
+        <seg>Nie ważne jak często naprawiam te sensory, problem z czasem wraca. Zupełnie jakby miała to zakodowane w głowie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32660,6 +32748,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Uuurgh... I don't feel so good...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181727Z">
+        <seg>Uuurgh... Nie czuję się zbyt dobrze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>V</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204218Z" creationid="Syn Spawacza" creationdate="20200601T204218Z">
@@ -33568,6 +33664,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We'd all like that! But they're expensive, delicate pieces of equipment, so they don't just hand 'em out willy-nilly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181807Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181807Z">
+        <seg>Wszyscy byśmy tak chcieli! Ale to drogi, delikatny sprzęt, więc go tak po prostu nie rozdają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We'd better go see what's up, ma—er, 2B!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T163429Z" creationid="Syn Spawacza" creationdate="20200606T111623Z">
@@ -34095,6 +34199,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T144125Z" creationid="Syn Spawacza" creationdate="20200616T144125Z">
         <seg>Kto mógłby dzierżyć ten kawał żelaza, gdy stracił swoją ostrość? Kto mógłby pokochać go, gdy jedyne co jest w stanie to tępo uderzać wroga, zamiast przecinać ciało i kość? Kto mógłby poświęcić się takiemu szaleństwu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who do you think fixes that, huh? We do! We work our fingers to the bone to get you a beautiful ride, and you go and crap all over it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181820Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181820Z">
+        <seg>Jak myślisz, kto to naprawia? My! Zapracowujemy się po łokcie, byście mieli piękne fury, a wy ich nie szanujecie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34656,6 +34768,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174716Z" creationid="Syn Spawacza" creationdate="20200530T174716Z">
         <seg>Co ty nie powiesz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You guys take care of yourselves so you don't end up like her, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181749Z">
+        <seg>Dbajcie o siebie, żebyście nie skończyli tak jak ona, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
