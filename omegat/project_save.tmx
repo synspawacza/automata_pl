@@ -306,6 +306,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...9S!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144041Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144041Z">
+        <seg>9S...!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...9S.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111327Z" creationid="Syn Spawacza" creationdate="20200606T111327Z">
@@ -358,6 +366,14 @@ tylko klawiatury w układzie QWERTY.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104103Z" creationid="Syn Spawacza" creationdate="20200530T190643Z">
         <seg>Dobrze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...S... 9S...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144033Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144033Z">
+        <seg>S... 9S...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1222,8 +1238,16 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>9S black box signal detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183027Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
-        <seg>Wykryto sygnał czarnej skrzynki 9S.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143845Z" creationid="Syn Spawacza" creationdate="20200530T183027Z">
+        <seg>Wykryto czarną skrzynkę 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>9S data system damaged. Access impaired.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143955Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143955Z">
+        <seg>System danych 9S uszkodzony. Ograniczony dostęp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7442,8 +7466,8 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Boost!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183004Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
-        <seg>Dopalacz!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143836Z" creationid="Syn Spawacza" creationdate="20200530T183004Z">
+        <seg>Przyspieszenie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21154,8 +21178,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Negative. Communications have been jammed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103518Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
-        <seg>Odmowa. Komunikacja jest zagłuszana.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143901Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
+        <seg>Nie. Cała komunikacja jest zakłócana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21322,8 +21346,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>No response to communications.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183054Z" creationid="Syn Spawacza" creationdate="20200530T183054Z">
-        <seg>Nie można nawiązać komunikacji.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143850Z" creationid="Syn Spawacza" creationdate="20200530T183054Z">
+        <seg>Brak odpowiedzi na próby komunikacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23433,8 +23457,8 @@ przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Pod, get me staunching gel and logic-virus vaccines. Then access the—</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103547Z" creationid="Syn Spawacza" creationdate="20200606T103547Z">
-        <seg>Podzie, daj mi żel tamujący i szczepionki antywirusowe. Potem dostań się do...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144152Z" creationid="Syn Spawacza" creationdate="20200606T103547Z">
+        <seg>Pod, podaj mi żel tamujący i szczepionkę na logi-wirusa. Potem dostań się...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24631,6 +24655,14 @@ za silniejsze od miecza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recovery sector. Eliminate access impairments to all blocks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144011Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144011Z">
+        <seg>Sektor odzyskiwania. Wyeliminuj ograniczenia dostępu do wszystkich bloków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Red Belt</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165605Z" creationid="Syn Spawacza" creationdate="20200615T165605Z">
@@ -24683,6 +24715,14 @@ za silniejsze od miecza.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T144623Z" creationid="Syn Spawacza" creationdate="20200616T144623Z">
         <seg>Czerwona rdza była łzami broni. Krew, tłuszcz i mięśnie przez które się przebijał były dowodem jego klątwy. Niech znów rąbie kość! Niech niszczy ciało! Niech zrobi to wszystko na odkupienie swoich grzechów!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Redeploying in offline mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143958Z">
+        <seg>Przestawianie na tryb offline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25092,6 +25132,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142028Z" creationid="Syn Spawacza" creationdate="20200530T142028Z">
         <seg>Napraw ciało.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Repairing visual data error.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144015Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144015Z">
+        <seg>Naprawianie błędu danych wizualnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26901,8 +26949,8 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       <tuv lang="en-US">
         <seg>Send a support request to Command!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183139Z" creationid="Syn Spawacza" creationdate="20200530T183139Z">
-        <seg>Wyślij do dowództwa prośbę o wsparcie!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143856Z" creationid="Syn Spawacza" creationdate="20200530T183139Z">
+        <seg>Wyślij prośbę o wsparcie do Dowództwa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32961,6 +33009,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Voice functionality recovered. External sound input confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144023Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144023Z">
+        <seg>Odzyskano funkcje dźwięku. Potwierdzono zewnętrzne wejście dźwięku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Voices</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131405Z" creationid="Syn Spawacza" creationdate="20200530T131405Z">
@@ -33544,6 +33600,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181941Z" creationid="Syn Spawacza" creationdate="20200530T181941Z">
         <seg>C-co się dzieje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wh-where am I...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144001Z">
+        <seg>G-gdzie ja jestem...?</seg>
       </tuv>
     </tu>
     <tu>
