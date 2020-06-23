@@ -390,8 +390,9 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...I see.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145136Z" creationid="Syn Spawacza" creationdate="20200530T193106Z">
-        <seg>Rozumiem...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181241Z" creationid="Syn Spawacza" creationdate="20200530T193106Z">
+        <seg>
+Rozumiem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15486,8 +15487,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Heh. Usually we can't get NEAR flight units. They're way too expensive for us grunts.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114546Z" creationid="Syn Spawacza" creationdate="20200606T114546Z">
-        <seg>Heh. Zazwyczaj nie możemy się nawet zbliżyć do jednostek latających. Za drogi sprzęt dla szeregowych żołnierzy.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181010Z" creationid="Syn Spawacza" creationdate="20200606T114546Z">
+        <seg>Ha! Zwykle nie możemy się nawet ZBLIŻYĆ do jednostek latających. Są zbyt kosztowne dla nas, trepów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30135,8 +30136,8 @@ Kontynuować mimo to?</seg>
       <tuv lang="en-US">
         <seg>The hangar's up ahead. Let's go.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T110442Z" creationid="Syn Spawacza" creationdate="20200606T110442Z">
-        <seg>Hangar jest niedaleko. Chodźmy.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181038Z" creationid="Syn Spawacza" creationdate="20200606T110442Z">
+        <seg>Hangar jest tuż przed nami. Chodźmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30387,8 +30388,8 @@ Czy chcesz połączyć ten czip?</seg>
       <tuv lang="en-US">
         <seg>The surface? That means we'll be getting flight units, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T113815Z" creationid="Syn Spawacza" creationdate="20200606T113815Z">
-        <seg>Na powierzchnię? A więc dostaniemy jednostki latające.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180957Z" creationid="Syn Spawacza" creationdate="20200606T113815Z">
+        <seg>Powierzchnia? To znaczy, że przydzielą nam jednostki latające, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31230,8 +31231,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Too bad they can't mass-produce these things yet...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T114622Z" creationid="Syn Spawacza" creationdate="20200606T114622Z">
-        <seg>Szkoda że nie da się ich masowo produkować...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181015Z" creationid="Syn Spawacza" creationdate="20200606T114622Z">
+        <seg>Szkoda, że nie są w stanie ich jeszcze masowo produkować...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34783,6 +34784,16 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You're starting to get quite the reputation.
+...Oh, but don't worry! It's all good!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181253Z">
+        <seg>Zaczynasz wyrabiać sobie reputację...
+Och, nie martw się! To dobra reputacja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You've got mail!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100615Z" creationid="Syn Spawacza" creationdate="20200606T100615Z">
@@ -37714,16 +37725,6 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180856Z" creationid="Syn Spawacza" creationdate="20200606T112202Z">
         <seg>Zrozumiano.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <prop type="file">p100_973474b4_scp.properties</prop>
-      <prop type="id">M1010_S0030_G0200_001_a2b</prop>
-      <tuv lang="en-US">
-        <seg>Understood.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T113019Z" creationid="Syn Spawacza" creationdate="20200606T113019Z">
-        <seg>Tak jest.</seg>
       </tuv>
     </tu>
     <tu>
