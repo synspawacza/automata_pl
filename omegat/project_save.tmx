@@ -34267,8 +34267,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can see access points on the close-range map. Be sure to save often!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115803Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
-        <seg>Punkty dostępu znajdziesz na mapce. Zapisuj często!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173850Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
+        <seg>Możesz zobaczyć punkty dostępu na mapie krótkiego zasięgu. Pamiętaj, by często zapisywać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34435,8 +34435,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You need to be near an access point to save your data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T115103Z" creationid="Syn Spawacza" creationdate="20200606T115103Z">
-        <seg>Musisz być blisko punktu dostępu by zapisać dane.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173722Z" creationid="Syn Spawacza" creationdate="20200606T115103Z">
+        <seg>Musisz być w okolicy punktu dostępu, żeby zapisać swoje dane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34529,6 +34529,14 @@ This lets you replay any hacking games you completed during the game.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220734Z" creationid="Syn Spawacza" creationdate="20200608T220734Z">
         <seg>Odblokowano opcję „Salon gier” w punkcie dostępu.
 Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You want to adjust my combat style?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T173904Z">
+        <seg>Chcesz ustawić mój styl walki?</seg>
       </tuv>
     </tu>
     <tu>
