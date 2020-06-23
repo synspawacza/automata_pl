@@ -11189,6 +11189,14 @@ Patrzyłem na dane, ale nie wiem gdzie może leżeć problem. Ale się nie podda
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Disable the enemy base's defense systems immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134120Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T134120Z">
+        <seg>Natychmiast wyłącz systemy obronne bazy wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Disable the enemy's defense system.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165950Z" creationid="Syn Spawacza" creationdate="20200530T165950Z">
@@ -21186,8 +21194,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Nnnhh... Brother...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133953Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T133953Z">
-        <seg>Nnnhh... Bracie...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T133953Z">
+        <seg>Nnnnnh... Bracie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -25754,6 +25762,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T162156Z" creationid="Syn Spawacza" creationdate="20200601T162156Z">
         <seg>Zniżka u robotów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roger that!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134124Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T134124Z">
+        <seg>Zrozumiano!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33049,6 +33065,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200514Z" creationid="Syn Spawacza" creationdate="20200530T200514Z">
         <seg>Przejdziemy po kolei przez wszystkie ustawienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll need you to take down the enemy's defense systems to give our attack squadron a chance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135226Z">
+        <seg>Potrzebujemy, żebyś zdjął systemy obronne wroga, by dać naszemu atakującemu szwadronowi szansę.</seg>
       </tuv>
     </tu>
     <tu>
