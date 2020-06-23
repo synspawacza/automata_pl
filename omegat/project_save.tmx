@@ -6906,8 +6906,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>Balance controls overridden.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184639Z" creationid="Syn Spawacza" creationdate="20200530T184639Z">
-        <seg>Kontrola równowagi nadpisana.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144545Z" creationid="Syn Spawacza" creationdate="20200530T184639Z">
+        <seg>Nadpisanie sterowania balansem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12160,6 +12160,14 @@ poszukiwaniu ukrytych obiektów</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>En...gaging...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144651Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144651Z">
+        <seg>Za...atakuj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Encounter Rate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T101354Z" creationid="Syn Spawacza" creationdate="20200615T101333Z">
@@ -14330,8 +14338,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Got it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184458Z" creationid="Syn Spawacza" creationdate="20200530T184458Z">
-        <seg>Mam.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144457Z" creationid="Syn Spawacza" creationdate="20200530T184458Z">
+        <seg>Przyjęłam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16761,6 +16769,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Incoming enemy fighters detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144648Z">
+        <seg>Wykryto nadchodzących wojowników wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Increase attack power by 10% if HP is 25% or less.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T151810Z" creationid="Syn Spawacza" creationdate="20200608T151810Z">
@@ -17625,8 +17641,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Infiltrating enemy sub-unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184539Z" creationid="Syn Spawacza" creationdate="20200530T184539Z">
-        <seg>Infiltrowanie podsystemu przeciwnika.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144506Z" creationid="Syn Spawacza" creationdate="20200530T184539Z">
+        <seg>Infiltracja podjednostki wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26523,8 +26539,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>Seize its control system!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184359Z" creationid="Syn Spawacza" creationdate="20200530T184359Z">
-        <seg>Przejmuję jego system kontroli.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144440Z" creationid="Syn Spawacza" creationdate="20200530T184359Z">
+        <seg>Przejmij jego system sterowania!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33289,6 +33305,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144221Z" creationid="Syn Spawacza" creationdate="20200606T103603Z">
         <seg>Je... Jesteśmy żoł... żołnierzami... Jesteśmy dumni z... naszej służby...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weaknesses found in enemy units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144653Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144653Z">
+        <seg>Odnaleziono słabość w jednostkach wroga.</seg>
       </tuv>
     </tu>
     <tu>
