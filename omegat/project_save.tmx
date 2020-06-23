@@ -13168,6 +13168,14 @@ MOJĄ UKOCHANĄ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fiiiine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135441Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135441Z">
+        <seg>Dooobraaa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Filler Metal</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164423Z" creationid="Syn Spawacza" creationdate="20200530T164423Z">
@@ -13324,6 +13332,14 @@ jego stronę, pozwalając na atak wręcz.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T121254Z" creationid="Syn Spawacza" creationdate="20200531T121254Z">
         <seg>Kierunek strzału</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Firing missiles.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135535Z">
+        <seg>Strzelam rakietami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15042,10 +15058,26 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hacking complete. One target remains.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135327Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135327Z">
+        <seg>Ukończono hakowanie. Pozostał jeden cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hacking complete. Proceed to the next target.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135315Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135315Z">
         <seg>Hakowanie zakończone. Przejdź do kolejnego celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacking complete. Two targets remain.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135323Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135323Z">
+        <seg>Ukończono hakowanie. Pozostały dwa cele.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15070,6 +15102,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T103740Z" creationid="Syn Spawacza" creationdate="20200530T184123Z">
         <seg>Hakuję... by udzielić wsparcia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hacking of enemy defense system complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135452Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135452Z">
+        <seg>Hakowanie systemu obronnego wroga zakończone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15783,6 +15823,14 @@ lifeforms.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T142225Z" creationid="Syn Spawacza" creationdate="20200616T142225Z">
         <seg>Siemano, słuchacze! Wasz ulubiony idol DJ 24D nie dostaje ostatnio zbyt wielu listów. Przestaliście mnie lubić? Ha ha! A może już nikt nie mnie słucha? He he he! Dobra, kto chce zacząć, czekam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However, there is only one unit remaining.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135518Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135518Z">
+        <seg>Jednakże, pozostała tylko jedna jednostka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19766,6 +19814,14 @@ jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Man, this is a real pain...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135433Z">
+        <seg>Raju, to naprawdę kłopot...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Manager</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203746Z" creationid="Syn Spawacza" creationdate="20200601T203746Z">
@@ -19980,6 +20036,14 @@ wydaje się nie mieć sensu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T183041Z" creationid="Syn Spawacza" creationdate="20200601T183041Z">
         <seg>Max PŻ +8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>May I remind you that personal chatter during operations is restricted?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135438Z">
+        <seg>Mogę ci przypomnieć, że prywatne pogaduszki w trakcie operacji są zakazane?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22154,6 +22218,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oof! Must've been rough out there.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135523Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135523Z">
+        <seg>Ojć! Musiało tam być ciężko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oooh... Do not trip...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134023Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T134023Z">
@@ -22284,6 +22356,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130449Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
         <seg>Nasze zakłócacze Ho229 są nieefektywne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our attack squadron can now infiltrate the base.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135457Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135457Z">
+        <seg>Nasz atakujący szwadron teraz zinfiltruje bazę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29648,6 +29728,14 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The enemy's defensive weapon is making things more difficult than we estimated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135529Z">
+        <seg>Broń defensywna wroga utrudniła wszystko bardziej, niż zakładaliśmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The final part in possibly the best 
 soundtrack series ever.</seg>
       </tuv>
@@ -33592,6 +33680,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whoa! Get a load of that thing!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135533Z">
+        <seg>Łał! Tylko spójrzcie na tę rzecz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why do humans band together?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155800Z" creationid="Syn Spawacza" creationdate="20200616T155800Z">
@@ -33907,6 +34003,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>YoRHa has entered the base.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135514Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135509Z">
+        <seg>YoRHa weszło do bazy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>YoRHa squadron, come in.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173700Z" creationid="Syn Spawacza" creationdate="20200530T173700Z">
@@ -33967,6 +34071,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211546Z" creationid="Syn Spawacza" creationdate="20200530T195458Z">
         <seg>Jesteście ostateczną bronią... i musicie zakończyć tę wojnę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are to continue providing support by whatever means available.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135506Z">
+        <seg>Będziesz dalej udzielał wsparcia, jakkolwiek będzie to potrzebne.</seg>
       </tuv>
     </tu>
     <tu>
