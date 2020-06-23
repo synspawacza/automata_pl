@@ -31093,6 +31093,18 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This message is intended for the verification of your mail account. Members who encounter problems with the mailing system should contact their supervisors as soon as possible.
+ 
+—IT Operations, Lead Server Engineer</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184939Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184939Z">
+        <seg>Ta wiadomość jest niezbędna do weryfikacji twojego konta mailowego. Członkowie, którzy doświadczyli problemów z systemem pocztowym powinni niezwłocznie skontaktować się ze swoimi przełożonymi.
+ 
+—Obsługa IT, Główny Inżynier Serwera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This place sure is big.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133357Z" creationid="Syn Spawacza" creationdate="20200530T180912Z">
