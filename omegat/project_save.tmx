@@ -380,6 +380,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Have we seen these things before?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191155Z">
+        <seg>Widzieliśmy ich wcześniej...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104549Z" creationid="Syn Spawacza" creationdate="20200606T104549Z">
@@ -20881,6 +20889,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mindless chatter drains energy, 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191109Z">
+        <seg>Bezmózgie pogaduchy marnują energię, 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mine are only intact up to the point just before we rendezvoused.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145132Z" creationid="Syn Spawacza" creationdate="20200530T193423Z">
@@ -21719,6 +21735,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145838Z" creationid="Syn Spawacza" creationdate="20200606T104732Z">
         <seg>Ngh?! Co do cholery? Moje tętno szaleje!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nice, Operator! You work fast.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191104Z">
+        <seg>Ładnie, Operatorko! Szybko poszło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22773,6 +22797,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operator to 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191051Z">
+        <seg>Operator do 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Optimize</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211230Z" creationid="Syn Spawacza" creationdate="20200601T211230Z">
@@ -23778,6 +23810,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203444Z" creationid="Syn Spawacza" creationdate="20200530T203444Z">
         <seg>Proszę dać pozwolenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please keep your comments reserved for mission-related topics.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191117Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191117Z">
+        <seg>Proszę zachowaj swoje komentarze na tematy związane z misją.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31685,6 +31725,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174205Z" creationid="Syn Spawacza" creationdate="20200530T174205Z">
         <seg>Przekazywanie kontroli nad IMU.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transferring coordinate data for the location specified by Resistance Leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191056Z">
+        <seg>Przesyłam koordynaty dla lokacji określonej przez Lidera Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
