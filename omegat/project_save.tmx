@@ -6008,6 +6008,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you checking your mail regularly?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174149Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174149Z">
+        <seg>Regularnie sprawdzasz swojego maila?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you serious?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204503Z" creationid="Syn Spawacza" creationdate="20200530T204503Z">
@@ -8468,6 +8476,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094151Z" creationid="Syn Spawacza" creationdate="20200601T094151Z">
         <seg>Wykwintny woreczek zapachowy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Choose a combat style.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173926Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T173926Z">
+        <seg>Wybierz styl walki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15514,6 +15530,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hi there. Boy, you two are thick as thieves, aren't you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174009Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174009Z">
+        <seg>Cześć. Rany, jesteście jak papużki nierozłączki, co nie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hidden Dungeon</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175058Z" creationid="Syn Spawacza" creationdate="20200601T175058Z">
@@ -16243,6 +16267,14 @@ Twoje ciało i serce wkrótce będzie moje.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I know you're only working together by coincidence, but it's still nice that you've become friends.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174016Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174016Z">
+        <seg>Wiem, że tylko przypadkiem współpracujecie ze sobą, ale miło widzieć, że się zaprzyjaźniliście.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I know.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
@@ -16637,6 +16669,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200427Z" creationid="Syn Spawacza" creationdate="20200530T200427Z">
         <seg>Będzie nam łatwiej wszystko ustawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If you do that, it doesn't matter if you lose your body. You can just upload the back-up data to a new body and be on your merry way.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174136Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174136Z">
+        <seg>Jeśli będziecie to robić, to nie ma znaczenia, czy stracicie swoje ciało. Możecie po prostu załadować zapisane dane do nowego i iść w swoją stronę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27743,6 +27783,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So don't be that person! Check your mail regularly at a transport terminal, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174214Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174214Z">
+        <seg>Nie bądź tą osobą! Sprawdzaj pocztę regularnie w  terminalu transportowym, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So if we don't destroy it, they'll just keep coming.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133437Z" creationid="Syn Spawacza" creationdate="20200530T181213Z">
@@ -27841,6 +27889,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100056Z" creationid="Syn Spawacza" creationdate="20200606T100056Z">
         <seg>Stracono czyjeś dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes important mails sit around for weeks because the recipient doesn't know how to check 'em.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174200Z">
+        <seg>Czasem ważne wiadomości czekają całymi tygodniami, bo odbiorca nie wie, jak je odczytać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33245,6 +33301,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Want a piece of advice from someone who's been in your shoes before? Back up your data whenever you can.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174125Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174125Z">
+        <seg>Chcesz dostać małą poradę od kogoś, kto robił to co wy? Zapisujcie wasze dane kiedy tylko możecie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Warped Wire</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083934Z" creationid="Syn Spawacza" creationdate="20200601T083934Z">
@@ -33728,6 +33792,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135834Z" creationid="Syn Spawacza" creationdate="20200530T182659Z">
         <seg>Jaki jest Twój status?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173931Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T173931Z">
+        <seg>Co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -34577,6 +34649,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T105012Z" creationid="Syn Spawacza" creationdate="20200606T105012Z">
         <seg>Ty... nie chcesz słyszeć mojego głosu. Znaczy, twój wybór, ale...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your bodies automatically register information from slain enemies to the database.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174114Z">
+        <seg>Wasze ciała automatycznie rejestrują informację o zabitych przeciwnikach w naszej bazie danych.</seg>
       </tuv>
     </tu>
     <tu>
