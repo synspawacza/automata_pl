@@ -15902,6 +15902,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm? You know about 2B?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184053Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184053Z">
+        <seg>Hmmm? Wiesz coś o 2B?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ho229 flight unit.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183838Z" creationid="Syn Spawacza" creationdate="20200530T183838Z">
@@ -16784,6 +16792,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195609Z" creationid="Syn Spawacza" creationdate="20200530T195609Z">
         <seg>Rozpoczynam sekwencję startową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm the leader of the android Resistance that controls most of this territory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184119Z">
+        <seg>Jestem liderem Ruchu Oporu androidów, który kontroluje większość tutejszego terytorium.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21353,6 +21369,14 @@ Prośba o pozwolenie na przyjęcie mobilnej konfiguracji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My name is Anemone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184112Z">
+        <seg>Nazywam się Anemona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>My name is Plato 1728. I am a failure of a machine. I was designed for combat, but I can't use weapons. Everyone makes fun of me, and my life is horrible.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T124651Z" creationid="Syn Spawacza" creationdate="20200617T124651Z">
@@ -22049,6 +22073,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140158Z" creationid="Syn Spawacza" creationdate="20200530T140158Z">
         <seg>Ilość posiadanych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Number Two...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184050Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184050Z">
+        <seg>Numer Dwa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -23706,6 +23738,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210720Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
         <seg>Podłącz kontroler, by wrócić do gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please, feel free to ask them anything you like.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184133Z">
+        <seg>Proszę, nie krępujcie się zapytać ich o co tylko chcecie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28150,6 +28190,14 @@ Dobrze?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So this is the Resistance Camp, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184038Z">
+        <seg>Więc to obóz Ruchu Oporu, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So we'll need you to look into that as well.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180944Z" creationid="Syn Spawacza" creationdate="20200606T113007Z">
@@ -32341,6 +32389,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Um... Yes, well, the Bunker told me to expect you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184058Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184058Z">
+        <seg>Um... Tak, cóż, Bunkier przekazał mi, że mam się was spodziewać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Umgebungssensor wird aktiviert</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203950Z" creationid="Syn Spawacza" creationdate="20200601T203950Z">
@@ -33744,6 +33800,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We should probably go talk to their leader first thing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184042Z">
+        <seg>Powinniśmy chyba najpierw pogadać z ich liderem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We take pride in...our service...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183827Z" creationid="Syn Spawacza" creationdate="20200530T183827Z">
@@ -34099,6 +34163,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204607Z" creationid="Syn Spawacza" creationdate="20200530T204607Z">
         <seg>Dobra, spróbujmy czegoś innego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, I'm sure my people will have plenty of information for you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184129Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184129Z">
+        <seg>Cóż, zgaduję, że moi ludzie będą mieli dla was wiele informacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34900,6 +34972,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You must be the new scouts we heard about.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184123Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184123Z">
+        <seg>Wy musicie być nowymi zwiadowcami, o których mi mówiono.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You must enter a name of two characters or longer.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161745Z" creationid="Syn Spawacza" creationdate="20200530T161745Z">
@@ -35038,6 +35118,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181253Z">
         <seg>Zaczynasz wyrabiać sobie reputację...
 Och, nie martw się! To dobra reputacja!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184046Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184046Z">
+        <seg>Ty jesteś...</seg>
       </tuv>
     </tu>
     <tu>
