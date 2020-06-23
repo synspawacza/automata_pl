@@ -300,8 +300,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101416Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
-        <seg>4B zniszczona...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130601Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
+        <seg>4B padł...</seg>
       </tuv>
     </tu>
     <tu>
@@ -452,8 +452,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>11B down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173904Z" creationid="Syn Spawacza" creationdate="20200530T173904Z">
-        <seg>Jednostka 11B zniszczona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130442Z" creationid="Syn Spawacza" creationdate="20200530T173904Z">
+        <seg>11B padł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -564,8 +564,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>1D down. Assuming captain's duties.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101337Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
-        <seg>1D zniszczona. Przejmuję obowiązki kapitana.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130520Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
+        <seg>1D padł. Przejmuję obowiązki kapitana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -734,8 +734,8 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>2B to Operator 6O.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174048Z" creationid="Syn Spawacza" creationdate="20200530T174048Z">
-        <seg>2B do Operator 6O.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130606Z" creationid="Syn Spawacza" creationdate="20200530T174048Z">
+        <seg>2B do Operatora 6O.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1142,8 +1142,8 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>7E down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174010Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
-        <seg>Jednostka 7E zniszczona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130515Z" creationid="Syn Spawacza" creationdate="20200530T174010Z">
+        <seg>7E padł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,16 +5000,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemy units sighted ahead.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173936Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
-        <seg>Uwaga: zauważono wrogie jednostki.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130455Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
+        <seg>Uwaga: Dostrzeżono na czele jednostki wroga.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Heavy damage to Ho229 flight unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174135Z" creationid="Syn Spawacza" creationdate="20200530T174135Z">
-        <seg>Uwaga: silne uszkodzenia jednostki latającej Ho229.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130653Z" creationid="Syn Spawacza" creationdate="20200530T174135Z">
+        <seg>Uwaga: Jednostka latająca Ho229 odniosła poważne obrażenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5144,8 +5144,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>All allied units down.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174054Z" creationid="Syn Spawacza" creationdate="20200530T174054Z">
-        <seg>Wszystkie sprzymierzone jednostki zniszczone.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130612Z" creationid="Syn Spawacza" creationdate="20200530T174054Z">
+        <seg>Wszyscy sprzymierzeńcy padli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7884,8 +7884,8 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       <tuv lang="en-US">
         <seg>Captain, I think—</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174039Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
-        <seg>Kapitanie, chyba...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130554Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
+        <seg>Kapitanie, myślę, że...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17503,8 +17503,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Initiating short-range radio-wave camouflage.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174220Z" creationid="Syn Spawacza" creationdate="20200530T174220Z">
-        <seg>Inicjalizacja kamuflażu radiowego krótkiego zasięgu.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130813Z" creationid="Syn Spawacza" creationdate="20200530T174220Z">
+        <seg>Inicjowanie kamuflażu radiowego krótkiego zasięgu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20741,9 +20741,9 @@ przez 30 sekund.</seg>
         <seg>Multiple surrounding enemy air units confirmed.
 Requesting permission to assume mobile configuration.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101340Z" creationid="Syn Spawacza" creationdate="20200606T101340Z">
-        <seg>Jesteśmy otoczeni przez wrogie jednostki latające.
-Proszę o zgodę na przejście do konfiguracji mobilnej.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130536Z" creationid="Syn Spawacza" creationdate="20200606T101340Z">
+        <seg>Wykryto wiele jednostek wroga otaczających nas w powietrzu.
+Prośba o pozwolenie na przyjęcie mobilnej konfiguracji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21458,8 +21458,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>O-Operator to 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174104Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
-        <seg>O-operator do 2B.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130630Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
+        <seg>O-operator 6O do 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22120,8 +22120,8 @@ poniewiera się na powierzchni.</seg>
       <tuv lang="en-US">
         <seg>Our Ho229 cancellers are ineffective.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173928Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
-        <seg>Niwelatory naszych Ho229 są nieskuteczne.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130449Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
+        <seg>Nasze zakłócacze Ho229 są nieefektywne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22843,16 +22843,16 @@ z leśnym skarbem.</seg>
       <tuv lang="en-US">
         <seg>Permission granted!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174007Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
-        <seg>Zgoda udzielona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130509Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
+        <seg>Pozwalam.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Permission granted.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174032Z" creationid="Syn Spawacza" creationdate="20200530T174032Z">
-        <seg>Zgoda udzielona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130541Z" creationid="Syn Spawacza" creationdate="20200530T174032Z">
+        <seg>Pozwalam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24952,8 +24952,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Requesting permission to engage.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174001Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
-        <seg>Proszę o zgodę na atak.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130500Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
+        <seg>Prośba o pozwolenie na natarcie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29715,8 +29715,8 @@ Kontynuować mimo to?</seg>
       <tuv lang="en-US">
         <seg>The operation is compromised. Awaiting further orders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T101420Z" creationid="Syn Spawacza" creationdate="20200606T101420Z">
-        <seg>Operacja jest zagrożona. Oczekuję na dalsze rozkazy.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130622Z" creationid="Syn Spawacza" creationdate="20200606T101420Z">
+        <seg>Operacja jest zagrożona. Czekam na dalsze rozkazy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32893,8 +32893,8 @@ ODESZŁA W WIECZNOŚĆ</seg>
       <tuv lang="en-US">
         <seg>We need you to rendezvous with unit 9S and begin gathering data on the local terrain.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174107Z" creationid="Syn Spawacza" creationdate="20200530T174107Z">
-        <seg>Musisz spotkać się z jednostką 9S i zebrać dane w terenie.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130639Z" creationid="Syn Spawacza" creationdate="20200530T174107Z">
+        <seg>Masz się spotkać z jednostką 9S i zacząć zbierać dane o okolicznym terenie.</seg>
       </tuv>
     </tu>
     <tu>
