@@ -62,6 +62,32 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"This is the Bunker. Go ahead.
+...Say again? You lost your Pod!?"</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174707Z">
+        <seg>„Tu Bunkier. Mów.
+... Co? Zgubiłaś poda?!”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Uh huh... Uh huh... Yes, I see..."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174715Z">
+        <seg>„Mhm... Mhm... Tak, rozumiem...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>"Well, a lost Pod will emit a distress signal, so try to locate that and then search the surrounding area. Bunker, out."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174731Z">
+        <seg>„Cóż, zgubiony pod będzie emitował sygnał, więc spróbuj go zlokalizować i przeszukaj okolicę. Bez odbioru.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"You have atoned for your sins," said the bird. "If you wish me to free you from your solitary existence, I will gladly do so." The man wept tears of joy and whispered thanks to the gods before suddenly stomping the bird to death.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T103104Z" creationid="Syn Spawacza" creationdate="20200617T103104Z">
@@ -5728,6 +5754,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>And maybe don't LOSE IT NEXT TIME! Honestly...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174745Z">
+        <seg>I może NIE ZGUB GO NASTĘPNYM RAZEM! Serio...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Android sub-quests</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222408Z" creationid="Syn Spawacza" creationdate="20200601T075541Z">
@@ -11217,6 +11251,14 @@ Patrzyłem na dane, ale nie wiem gdzie może leżeć problem. Ale się nie podda
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204130Z" creationid="Syn Spawacza" creationdate="20200530T204130Z">
         <seg>Czułaś?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did you know you can install plug-in chips to improve your body's performance?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174630Z">
+        <seg>Wiedziałaś, że możesz zainstalować czipy rozszerzeń poprawiające wydajność twojego ciała?</seg>
       </tuv>
     </tu>
     <tu>
@@ -16737,6 +16779,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you want to install a bunch of chips, go talk to the S-type model in the server administration room.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174635Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
+        <seg>Jeśli chcesz zainstalować trochę czipów, pogadaj z modelem typu S w serwerowni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Immanuel</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165453Z" creationid="Syn Spawacza" creationdate="20200615T165453Z">
@@ -21122,6 +21172,14 @@ Prośba o pozwolenie na przyjęcie mobilnej konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T132220Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
         <seg>Nazywam się 9S. Jestem tutaj, żeby pomóc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My partner seems...tense. Do you think it's something I did?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174824Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174824Z">
+        <seg>Mój partner wydaje się... spięty. Myślisz, że to przez coś, co ja zrobiłam?</seg>
       </tuv>
     </tu>
     <tu>
@@ -30406,6 +30464,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183432Z" creationid="Syn Spawacza" creationdate="20200530T183432Z">
         <seg>Potem dostań się do—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There are a bunch of different ones, so start tinkering and see which work best for you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174544Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174544Z">
+        <seg>Jest wiele różnych rodzajów, więc zacznij majstrować i sprawdź, co się najlepiej dla ciebie sprawdza.</seg>
       </tuv>
     </tu>
     <tu>
