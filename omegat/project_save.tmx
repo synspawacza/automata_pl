@@ -422,8 +422,8 @@ tylko klawiatury w układzie QWERTY.</seg>
       <tuv lang="en-US">
         <seg>...Have we seen these things before?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191155Z">
-        <seg>Widzieliśmy ich wcześniej...?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T123805Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191155Z">
+        <seg>Widzieliśmy te rzeczy wcześniej...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15305,6 +15305,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Go! Show no mercy! Glory to machine lifeforms!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T123828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T123828Z">
+        <seg>Idźcie! Nie okazujcie litości! Chwała mechanicznym formom życia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>God Box</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175408Z" creationid="Syn Spawacza" creationdate="20200601T175408Z">
@@ -22838,6 +22846,14 @@ z skamieniałej żywicy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121053Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121053Z">
         <seg>Misja? A co mi tam... Zostaw mnie w spokoju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mmm? Enemy detected!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T123820Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T123820Z">
+        <seg>Mmm? Wykryto wroga!</seg>
       </tuv>
     </tu>
     <tu>
