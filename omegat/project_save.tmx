@@ -22765,6 +22765,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay, so I need one broken spring, one small gear, and one broken circuit. You can smash up a few small machines to find 'em.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T085824Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T085824Z">
+        <seg>Okej, więc potrzebuję jeden zepsuty resor, jeden mały trybik i jeden zepsuty obwód. Możesz rozwalić kilka małych maszyn, żeby je znaleźć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okay.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200557Z" creationid="Syn Spawacza" creationdate="20200530T200557Z">
@@ -29840,8 +29848,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target location data obtained. Marking on map.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T182514Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
-        <seg>Uzyskano położenie celu. Oznaczanie celu na mapie.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090002Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
+        <seg>Otrzymano dane o lokalizacji celu. Naniesiono na mapę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35272,6 +35280,14 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T163436Z" creationid="Syn Spawacza" creationdate="20200530T163436Z">
         <seg>Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&lt;ICON_PLUS_2&gt;&lt;KC_LOCK_CHANGE_2&gt; do zmiany celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can obtain them from enemies at the big open area towards the left when you exit the camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T085830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T085830Z">
+        <seg>Znajdziesz je u przeciwników na tej dużej otwartej przestrzeni, która jest na lewo od wyjścia z obozu.</seg>
       </tuv>
     </tu>
     <tu>
