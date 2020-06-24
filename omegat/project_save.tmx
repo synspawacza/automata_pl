@@ -9461,6 +9461,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Coordinates confirmed for location specified by Resistance Leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092724Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092610Z">
+        <seg>Potwierdzano koordynaty lokalizacji określonej przez Przywódcę Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Copied City</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091519Z" creationid="Syn Spawacza" creationdate="20200601T175048Z">
@@ -24486,6 +24494,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Placing marker on target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092618Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092618Z">
+        <seg>Stawiam znacznik na celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plant Seed</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T082852Z" creationid="Syn Spawacza" creationdate="20200601T082729Z">
@@ -24606,6 +24622,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please make sure you're ready before you go!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092627Z">
+        <seg>Proszę, upewnij się, że jesteś gotowa, zanim wyruszysz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please reconnect it to resume play.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210720Z" creationid="Syn Spawacza" creationdate="20200530T161528Z">
@@ -24658,6 +24682,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203716Z" creationid="Syn Spawacza" creationdate="20200601T203716Z">
         <seg>Pod 042 / Pod 153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042 to Operator.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092607Z">
+        <seg>Pod 042 do Operatora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30440,8 +30472,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target location data obtained. Marking on map.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090002Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
-        <seg>Otrzymano dane o lokalizacji celu. Naniesiono na mapę.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092549Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
+        <seg>Otrzymano dane o lokalizacji celu. Zaznaczam na mapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31277,6 +31309,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222051Z" creationid="Syn Spawacza" creationdate="20200608T222051Z">
         <seg>Dane zawartości "3C3C1D119440927" zostały usunięte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The desert heat is going to make resupply efforts difficult, 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092624Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092624Z">
+        <seg>Gorąc pustyni utrudni uzupełnienie zapasów, 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32723,8 +32763,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Transferring coordinate data for the location specified by Resistance Leader.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191056Z">
-        <seg>Przesyłam koordynaty dla lokacji określonej przez Lidera Ruchu Oporu.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092803Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191056Z">
+        <seg>Przesyłam koordynaty lokalizacji określonej przez Przywódcę Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33597,6 +33637,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175343Z" creationid="Syn Spawacza" creationdate="20200601T175343Z">
         <seg>Obszar podziemny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Understood, 042.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092613Z">
+        <seg>Zrozumiano, 042.</seg>
       </tuv>
     </tu>
     <tu>
