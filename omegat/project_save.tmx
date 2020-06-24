@@ -17020,6 +17020,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you have any system-related questions, ask Maintenance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083104Z">
+        <seg>Jeśli masz jakiekolwiek pytania związane z systemem - zapytaj w Warsztacie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you have the Network Features option turned on, you'll be able to see other players' dead bodies. By examining these bodies, you can do the following:
  
 - Pray: The other player's health will be fully restored, and they'll receive an item.
@@ -34531,6 +34539,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When you're walking, there should be a mini map on the bottom right. The &lt;MAP_GOAL&gt; icon there shows your next destination.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082803Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082803Z">
+        <seg>Kiedy tak sobie chodzisz, powinnaś widzieć mapę w prawym dolnym rogu. Ikona &lt;MAP_GOAL&gt; pokazuje twój kolejny cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When your character dies, its body remains on the map as a corpse &lt;MAP_CORPSE&gt;. These bodies contain various data, so you'll have to go back to your body to retrieve your belongings. 
  
 If you die again before reaching your previous body, it will disappear. If you keep playing for an extended period of time without retrieving your body, it will disappear.</seg>
@@ -35296,6 +35312,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T173904Z">
         <seg>Chcesz ustawić mój styl walki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You'll be fine so long as you follow the red marker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082807Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082807Z">
+        <seg>Nic ci nie będzie tak długo, jak będziesz podążać za czerwonym znacznikiem.</seg>
       </tuv>
     </tu>
     <tu>
