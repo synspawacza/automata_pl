@@ -492,6 +492,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Huh? What does 'G' stand for?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152644Z">
+        <seg>Hę...? Co oznacza „G”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...I promise you, we were not aware of this information.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145932Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145932Z">
@@ -513,6 +521,14 @@ Rozumiem...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151839Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151839Z">
         <seg>Jak będziemy mieć farta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...No? Hey, fair enough. Can't blame a guy for trying.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152720Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152720Z">
+        <seg>Nie...? No, dobra. Nie wińcie mnie ze to, że próbowałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8243,6 +8259,14 @@ trudno zadać nimi efektywne obrażenia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Basically, we take apart the enemies we destroy, and use their reconstructed parts.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152613Z">
+        <seg>Zazwyczaj zabieramy szczątki zniszczonych przez nas wrogów i używamy pochodzących z nich części.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Basically, you need to recover everything from your previous body immediately.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082644Z">
@@ -9183,6 +9207,14 @@ Smakowało jak olej.&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091717Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091717Z">
         <seg>Ale ta noga? Lewa noga? Nigdy jej nie tknąłem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But we Resistance folks don't know much about its construction. Apparently it uses some kind of mysterious material...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152712Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152712Z">
+        <seg>Ale my z Ruchu Oporu nie znamy jego budowy. Wygląda na to, że korzysta z jakiegoś tajemniczego materiału...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21943,6 +21975,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's much easier than digging up the iron ourselves.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152627Z">
+        <seg>To łatwiejsze niż wykopywanie żelaza samemu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's not a priority or anything. Just if you have the time.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092142Z">
@@ -27308,6 +27348,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operator 6O to 2B. Be aware that the following transmission is classified Privilege Level 5.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152901Z">
+        <seg>Operator 6O do 2B. Pamiętaj, że następująca transmisja jest chroniona 5 Poziomem Uprawnień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operator 6O to 2B. It is time for your regularly-scheduled contact.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090555Z">
@@ -31897,6 +31945,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Say, maybe you'd let me rip it out of you and take it apart for analysis!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152715Z">
+        <seg>Słuchaj, może dasz sobie wyrwać swój i oddasz do analizy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Say, you're the new YoRHa models, aren't you?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145141Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145141Z">
@@ -33677,6 +33733,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T155630Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T155630Z">
         <seg>Wybacz, że tak się wpraszam... och! Wygląda, że już zaczęłaś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sorry! That's classified.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152649Z">
+        <seg>Przepraszam. To tajne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35731,6 +35795,14 @@ A Ziemia stała się rajem dla maszyn.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095104Z">
         <seg>Zapis bitewny wciąż jest cały... Musiała walczyć do ostatniego tchu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The black box is a fusion reactor installed in all YoRHa units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152706Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152706Z">
+        <seg>Czarna skrzynka to reaktor fuzyjny zainstalowany w jednostkach YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41616,6 +41688,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Worth is decided according to weight of the enemy and value of the parts you obtained. We call that unit 'G'.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152636Z">
+        <seg>Wartość jest obliczana ze względu na wagę wroga i wartość otrzymanych części. Nazywamy tę jednostkę „G”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Would you just...die already!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144907Z" creationid="Syn Spawacza" creationdate="20200530T184842Z">
@@ -42605,6 +42685,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You're asking me? It's something you YoRHa have inside you. I'm not that familiar with it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152701Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152653Z">
+        <seg>Pytasz się o to mnie? To coś, co macie w środku wy, YoRHa. Nie jestem z tym zaznajomiony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You're going to need a rusty bolt, a small gear, and a spring.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092428Z">
@@ -42743,6 +42831,26 @@ Więc muszę przynajmniej zabrać twoje ciało.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145608Z">
         <seg>Twoje usta mogą mówić cokolwiek...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your new mission is to capture renegade YoRHa members. Not only did these members go AWOL, but we have confirmed that they engaged in unlawful conduct, including the theft of Resistance resources.
+ 
+They are to be taken into custody as soon as possible.
+ 
+—Operator 21O
+ 
+* Note that this is a direct order from the Commander. Forwarding it is forbidden.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152832Z">
+        <seg>Twoja nowa misja polega na schwytaniu zbuntowanych jednostek YoRHa. Nie tylko zdezerterowały, ale potwierdzono, że zajęły się bezprawnym rozbojem, między innymi okradaniem Ruchu Oporu z zapasów.
+ 
+Trzeba jak najprędzej je pojmać.
+ 
+—Operator 21O
+ 
+* Powyższa wiadomość jest bezpośrednim rozkazem od Komandor. Przekazywanie jej dalej jest zakazane.</seg>
       </tuv>
     </tu>
     <tu>
