@@ -2449,6 +2449,14 @@ Ostatnio wśród mechanicznych form życia krąży pewna plotka:
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A YoRHa-only chip?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153234Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153234Z">
+        <seg>Czip tylko do YoRHy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A beautiful android</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T172750Z" creationid="Syn Spawacza" creationdate="20200608T172750Z">
@@ -5793,6 +5801,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Incoming message from Command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153340Z">
+        <seg>Uwaga: Nadchodząca wiadomość od Dowództwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Large enemy group detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130832Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
@@ -5835,8 +5851,16 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Alert: Signal code detected for missing plug-in chip.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
-        <seg>Uwaga: wykryto sygnał dla zaginionych czipów.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153255Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
+        <seg>Uwaga: Wykryto sygnał dla zaginionego chipu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: The specifications of this plug-in chip are unusual.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153218Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153218Z">
+        <seg>Uwaga: Specyfikacja tego czipu jest nietypowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6119,6 +6143,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130424Z" creationid="Syn Spawacza" creationdate="20200530T173848Z">
         <seg>Do wszystkich jednostek, aktywować tryb manualny i unikać, polegając na wzroku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All units, be on the lookout for a missing YoRHa in the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153345Z">
+        <seg>Do wszystkich jednostek, zwracajcie uwagę na zaginione YoRHa w ruinach miasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10087,6 +10119,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T100004Z" creationid="Syn Spawacza" creationdate="20200601T100004Z">
         <seg>Rdzenie dzieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chips with classified data, is it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153408Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153408Z">
+        <seg>Chipy z tajnymi danymi, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -19307,6 +19347,14 @@ Twoje ciało i serce wkrótce będzie moje.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I need you to seek out whatever intel you can regarding their current whereabouts and status.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153353Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153353Z">
+        <seg>Potrzebuję, byście dowiedzieli się jak najwięcej dacie radę, o miejscu jej pobytu i statusie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I often think about the god who blessed us with this cryptic puzzle...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130217Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
@@ -21775,6 +21823,14 @@ by the villagers.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T134245Z" creationid="Syn Spawacza" creationdate="20200601T134245Z">
         <seg>Bez wątpienia
 były otoczone troskliwą opieką.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is likely in the possession of a machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153248Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153248Z">
+        <seg>Zapewne jest w posiadaniu mechanicznej formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36736,6 +36792,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There is no reason for a non-YoRHa android to possess it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153226Z">
+        <seg>Nie ma powodów, by android nie z YoRHy wszedł w jego posiadanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There it goes!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T103958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T103958Z">
@@ -37140,6 +37204,14 @@ przedmiot w sklepie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This chip is a model used exclusively by YoRHa units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153221Z">
+        <seg>Ten czip to model używany wyłącznie przez jednostki YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This chip is currently equipped to a chip set. Sell for &lt;TOTAL_PRICE&gt; G?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092804Z" creationid="Syn Spawacza" creationdate="20200606T092804Z">
@@ -37540,6 +37612,14 @@ jeszcze splamione nawet kroplą krwi.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134725Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134725Z">
         <seg>Ta rzecz jest strasznie gadatliwa jak na maszynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This unit was in possession of several plug-in chips that contain classified information.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153348Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153348Z">
+        <seg>Jednostka ta była w posiadaniu paru chipów zawierających tajne informacje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45996,6 +46076,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152240Z">
         <seg>Start!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">q640_ccd60068_scp.properties</prop>
+      <prop type="id">M5640_S0020_G0250_001_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Roger.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153400Z">
+        <seg>Zrozumiano.</seg>
       </tuv>
     </tu>
     <tu>
