@@ -42788,12 +42788,52 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <prop type="file">subtitle0321.properties</prop>
+      <prop type="id">M1030_S0300_H0010_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133603Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133603Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">subtitle0321.properties</prop>
       <prop type="id">M1030_S0300_H0020_001_a2b</prop>
       <tuv lang="en-US">
         <seg>Go!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T132105Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T132105Z">
         <seg>Atakuj!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">subtitle0322.properties</prop>
+      <prop type="id">M1030_S0300_H0010_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133607Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">subtitle0323.properties</prop>
+      <prop type="id">M1030_S0300_H0010_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133611Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133611Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">subtitleb321.properties</prop>
+      <prop type="id">M1030_S0300_H0010_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133615Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133615Z">
+        <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
     <tu>
