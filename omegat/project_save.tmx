@@ -2068,6 +2068,24 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+He won't look my way.&lt;bt_wait&gt;
+He won't look my way.&lt;bt_wait&gt;
+He won't look my way.&lt;bt_wait&gt;
+He won't look my way.&lt;bt_wait&gt;
+He won't look my way.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134138Z">
+        <seg>&lt;page&gt;
+On nie patrzył w moją stronę.&lt;bt_wait&gt;
+On nie patrzył w moją stronę.&lt;bt_wait&gt;
+On nie patrzył w moją stronę.&lt;bt_wait&gt;
+On nie patrzył w moją stronę.&lt;bt_wait&gt;
+On nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 I once heard tell of a precious jewel far to the east.
 It was said to be located on a terribly dangerous mountain.
 But I did not care.&lt;bt_wait&gt;</seg>
@@ -2089,6 +2107,30 @@ Long ago, an old machine lifeform told me something:
         <seg>&lt;page&gt;
 Dawno temu, stara mechaniczna forma życia powiedziała mi:
 „Piękno jest tym, co wygrywa miłość.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Not a moment passed where I didn't strive to become more beautiful.
+But he still won't look my way.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134043Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134043Z">
+        <seg>&lt;page&gt;
+Nie minęła nawet chwila, kiedy zapragnęłam być jeszcze piękniejsza.
+Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+There's a rumor floating among the other machine lifeforms lately:
+"Devour the body of an android to gain eternal beauty."&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134000Z">
+        <seg>&lt;page&gt;
+Ostatnio wśród mechanicznych form życia krąży pewna plotka:
+„Pochłoń ciało androida by zdobyć wieczne piękno.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8517,6 +8559,22 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But I tried anyway.
+I would try anything.&lt;bt_wait&gt;
+I wanted to vomit, but I kept going.&lt;bt_wait&gt;
+It tasted like oil.&lt;bt_wait&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134032Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134032Z">
+        <seg>Ale i tak spróbowałam.
+Spróbowałabym wszystkiego.&lt;bt_wait&gt;
+Chciało mi się wymiotować, ale jadłam dalej.&lt;bt_wait&gt;
+Smakowało jak olej.&lt;bt_wait&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But after more than a dozen large-scale descents upon the enemy, we still haven't managed to repel the invaders.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145335Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
@@ -8537,6 +8595,16 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083702Z">
         <seg>Ale gdyby udało mi się uruchomić o narzędzie przeglądowe w skrzynce z narzędziami, mógłbym znów zacząć naprawiać i sprzedawać broń. Zerkniesz na nie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But my wounds are badges.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133950Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133950Z">
+        <seg>Ale moje rany to medale.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -17806,6 +17874,18 @@ Przestań mnie przedrzeźniać. Nie przedrzeźniam!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I ate more androids. I even ate machine lifeforms.&lt;bt_wait&gt;
+But he still won't look my way.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134123Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134123Z">
+        <seg>Zjadłam więcej androidów. Zjadłam nawet mechaniczne formy życia.&lt;bt_wait&gt;
+Ale on wciąż nie patrzył w moją stronę.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I brandish my sword for you.
 Victims uncountable. Victims beyond measure.
 Their dying wails become the song of my sleep.</seg>
@@ -17957,6 +18037,22 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133313Z" creationid="Syn Spawacza" creationdate="20200606T102753Z">
         <seg>Zwykle nie dostaję partnera. A to dość miłe!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I even tried to learn what is called a "song."
+Songs can make someone have feelings for you.
+That's what they say.
+So I practiced every day.&lt;bt_wait&gt;
+But he still won't look my way.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134111Z">
+        <seg>Nawet spróbowałam nauczyć się czegoś nazywanego „piosenką”.
+Piosenki mogą sprawić, że ktoś coś do ciebie poczuje.
+Tak powiadają.
+Ćwiczyłam więc codziennie.&lt;bt_wait&gt;
+Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -18137,6 +18233,14 @@ Twoje ciało i serce wkrótce będzie moje.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T131943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T131943Z">
         <seg>Wiem... Muszę stać się piękniejsza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I lost many parts obtaining this jewel. I lost...myself.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133944Z">
+        <seg>Straciłam wiele części w trakcie zdobywania tego kamienia. Straciłam... siebie.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32571,6 +32675,16 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such nonsense.
+It is physically impossible to obtain beauty by consuming an android.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134009Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134009Z">
+        <seg>Co za nonsens.
+To fizycznie niemożliwe, by zdobyć piękno przez skonsumowanie androida.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Suddenly, she turned to find a fine-looking hunk of meat at her side. Stabbing it produced a scream so pure, she couldn't help but smile. She continued to smile as she stabbed, no longer able to recall that the hunk was her own child.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T122341Z" creationid="Syn Spawacza" creationdate="20200617T122341Z">
@@ -38984,6 +39098,18 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T124258Z" creationid="Syn Spawacza" creationdate="20200616T124258Z">
         <seg>Nie mając do kogo się zwrócić, opuściła rodzinną wioskę i zaczęła błąkać się po świecie, zwiedzając wiele dziwnych krain. Z biegiem lat, jej umiejętności i sława jako mistrzyni szermierki stały się legendą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Won't look my way won't look my way won't look my way won't look my way won't
+look my way won't look my way won't look my way won't look my way won't look my
+way won't look my way won't look my way won't look my way won't look my way&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134225Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134225Z">
+        <seg>Nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył
+w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją
+stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w moją stronę&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
