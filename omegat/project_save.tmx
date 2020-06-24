@@ -13153,6 +13153,14 @@ poszukiwaniu ukrytych obiektów</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>End transmission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124147Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124147Z">
+        <seg>Koniec transmisji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Endings</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141525Z" creationid="Syn Spawacza" creationdate="20200530T141525Z">
@@ -16916,6 +16924,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm. I heard something about that back at the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124150Z">
+        <seg>Hmm. Słyszałam coś o tym w obozie Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm. Wonder if there are any huge boars and such too?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090857Z">
@@ -18255,6 +18271,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105103Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105103Z">
         <seg>Martwię się o obrażenia, które otrzymaliśmy podczas ostatniej walki z maszynami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm worried about the other androids...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124209Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124209Z">
+        <seg>Martwię się o inne androidy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30815,6 +30839,14 @@ Dobrze?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So, 2B—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124304Z">
+        <seg>Więc, 2B...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So-Shi</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T145343Z" creationid="Syn Spawacza" creationdate="20200605T145343Z">
@@ -32115,6 +32147,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182742Z" creationid="Syn Spawacza" creationdate="20200610T180356Z">
         <seg>Zdobyto lokalizację celu. Oznaczam na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target location confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124206Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124206Z">
+        <seg>Odebrano lokalizację celów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33525,6 +33565,14 @@ Jeśli punkt dostępu jest atakowany przez wrogów, zniszcz ich by reaktywować 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Their black boxes are online, so we presume they're still alive.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124133Z">
+        <seg>Ich czarne skrzynki są włączone, więc podejrzewamy, że wciąż żyją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Their master never saw a moment of conflict.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T155748Z" creationid="Syn Spawacza" creationdate="20200601T155748Z">
@@ -34278,6 +34326,14 @@ Jesteś pewien?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095417Z">
         <seg>Raport: Otrzymano powiadomienie o nowej wiadomości w skrzynce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those machines out in the desert looked just like androids, right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124601Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124601Z">
+        <seg>Te maszyny na pustyni wyglądały jak androidy, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36989,6 +37045,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We should probably check this out as soon as possible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124216Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124216Z">
+        <seg>Powinniśmy pewnie sprawdzić to jak najszybciej się da.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We should probably go talk to their leader first thing.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184042Z">
@@ -37089,6 +37153,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130307Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
         <seg>Przekroczyliśmy pułap 50 kilometrów i zbliżamy się w kierunku celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've tracked the location of their signals,</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124138Z">
+        <seg>Wyśledziliśmy lokalizację ich sygnałów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40979,6 +41051,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T180416Z" creationid="Syn Spawacza" creationdate="20200608T175936Z">
         <seg>widzę wroga przejmującego Ziemię</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>so I need all YoRHa units on the surface to head over and investigate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124141Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124141Z">
+        <seg>potrzebujemy więc od wszystkich jednostek YoRHa by to zbadały.</seg>
       </tuv>
     </tu>
     <tu>
