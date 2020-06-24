@@ -1579,6 +1579,16 @@ Sama wykuję własne przeznaczenie! To jedyne marzenie każdej kobiety z YoRHa, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M1030_S0310_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134435Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134435Z">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M1030_S0310_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -2055,6 +2065,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134433Z">
+        <seg>&lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;page&gt;
 &lt;i&gt;Do these clothes make me look cute?&lt;/i&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M1030_S0310_N_0010&gt;
 &lt;i&gt;Would he like it if I walked like this?&lt;/i&gt;&lt;bt_wait&gt;</seg>
@@ -2119,6 +2137,20 @@ But he still won't look my way.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Nie minęła nawet chwila, kiedy zapragnęłam być jeszcze piękniejsza.
 Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+That's when I realized he cares not for jewels.
+Or songs or beauty or appearance or anything else.
+I cannot win his love.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134359Z">
+        <seg>&lt;page&gt;
+Wtedy zdałam sobie sprawę, że nie obchodzą go klejnoty.
+Czy piosenki, czy piękno, czy wygląd czegokolwiek innego.
+Nie zdobędę jego miłości.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16703,6 +16735,16 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He      still      won't      look      my      way.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134334Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134334Z">
+        <seg>On    wciąż      nie      patrzył      w     moją    stronę.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He eventually married a kind woman, and several years later, they had a child. As the peaceful, uneventful days went on, the man began to feel that there could be no greater happiness in life.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T115506Z" creationid="Syn Spawacza" creationdate="20200616T115506Z">
@@ -18085,6 +18127,16 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184110Z" creationid="Syn Spawacza" creationdate="20200530T184110Z">
         <seg>Znalazłem słaby punkt celu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I gaze into the mirror. In its reflection, I see only my own meaninglessness. And so I scream.&lt;BGM_BGM_M1030_S0310_N_0020&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134432Z">
+        <seg>Wpatruję się w lustro. w odbiciu widzę tylko własny bezsens. I dlatego krzyczę.&lt;BGM_BGM_M1030_S0310_N_0020&gt;
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -23100,6 +23152,18 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T152714Z" creationid="Syn Spawacza" creationdate="20200616T152714Z">
         <seg>Mayday! Mayday! Tu agent medialny 42S z Kwatery Obrony 12C Północ! Czy ktoś mnie słyszy? Nasz obiekt został całkowicie otoczony przez maszyny! Nie wiem ile jeszcze jestem w stanie utrz...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Meaningless.&lt;bt_wait&gt;
+Meaningless.&lt;bt_wait&gt;
+MEANINGLESS.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134420Z">
+        <seg>Bez sensu.&lt;bt_wait&gt;
+Bez sensu.&lt;bt_wait&gt;
+BEZ SENSU.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39014,6 +39078,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why have I done this to myself?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134404Z">
+        <seg>Dlaczego to sobie zrobiłam?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why...fight...?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T104619Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T104619Z">
@@ -42253,6 +42325,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124141Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124141Z">
         <seg>potrzebujemy więc od wszystkich jednostek YoRHa by to zbadały.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>someone&lt;bt_wait&gt;　please&lt;bt_wait&gt;　look&lt;bt_wait&gt;　my&lt;bt_wait&gt;   way</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134506Z">
+        <seg>niech&lt;bt_wait&gt;　ktoś&lt;bt_wait&gt;　na&lt;bt_wait&gt;　mnie&lt;bt_wait&gt;   spojrzy</seg>
       </tuv>
     </tu>
     <tu>
