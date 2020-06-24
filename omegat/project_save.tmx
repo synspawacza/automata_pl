@@ -436,6 +436,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Hmm? Me? I'm researching the old world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121140Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121140Z">
+        <seg>...Hmmm? Ja? Badam stary świat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Hmm? You don't know how to adjust the brightness? I think it's set up to respond to some kind of input.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104549Z" creationid="Syn Spawacza" creationdate="20200606T104549Z">
@@ -26369,6 +26377,30 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Unit 2B should use the dynamic scanner.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121309Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121309Z">
+        <seg>Propozycja: jednostka 2B powinna użyć dynamicznego skanera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Unit 9S should use the dynamic scanner.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121318Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121318Z">
+        <seg>Propozycja: jednostka 9S powinna użyć dynamicznego skanera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Unit A2 should use the dynamic scanner.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121357Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121357Z">
+        <seg>Propozycja: jednostka A2 powinna użyć dynamicznego skanera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Protect 2B at the city ruins.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223422Z" creationid="Syn Spawacza" creationdate="20200608T223422Z">
@@ -27536,6 +27568,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130318Z" creationid="Syn Spawacza" creationdate="20200530T130318Z">
         <seg>Zwalnianie zabezpieczeń</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Relics from the old world...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121329Z">
+        <seg>Relikty ze starego świata...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28921,6 +28961,22 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Say, if you find anything in the desert that looks like a relic, can you bring it to me? I'll find a way to reward you for the trouble.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121156Z">
+        <seg>Czy jeśli znajdziecie na pustyni coś, co przypomina relikt, możecie go do mnie przynieść? Znajdę sposób, by wynagrodzić wam wasze starania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Say, if you find anything in the desert that looks like an old-world relic, can you bring it to me? I'll find a way to reward you for the trouble.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121229Z">
+        <seg>Czy jeśli znajdziecie na pustyni coś, co przypomina relikt z starego świata, możecie go do mnie przynieść? Znajdę sposób, by wynagrodzić wam wasze starania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Says its allies
 were destroyed by the resistance.</seg>
       </tuv>
@@ -29067,6 +29123,14 @@ zostali zniszczeni prze ruch oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Searching for relics in the desert without assistance might prove difficult.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121240Z">
+        <seg>Poszukiwanie reliktów na pustyni bez wsparcia może okazać się trudne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Secret Shop</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175851Z" creationid="Syn Spawacza" creationdate="20200601T175851Z">
@@ -29079,6 +29143,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170445Z" creationid="Syn Spawacza" creationdate="20200608T170445Z">
         <seg>Zobacz co się dzieje na zewnątrz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See you later... Hee! Heeee hee hee hee...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121114Z">
+        <seg>Do zobaczenia później... Hii! Hi hi hi hi hihihihih...</seg>
       </tuv>
     </tu>
     <tu>
@@ -33174,6 +33246,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There might be ancient relics buried just beneath the surface.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121137Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121137Z">
+        <seg>Tuż pod powierzchnią mogą być zakopane starożytne relikty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There should be another facility across that bridge.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133613Z" creationid="Syn Spawacza" creationdate="20200530T181715Z">
@@ -37256,6 +37336,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whoa whoa whoa! Watch your step around here!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121133Z">
+        <seg>Ło ło ło! Uważajcie gdzie stawiacie stopy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Whoa! Get a load of that thing!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135533Z">
@@ -37933,6 +38021,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105119Z">
         <seg>Rozumie się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You guys are with YoRHa, right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121146Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121146Z">
+        <seg>Jesteście z YoRHy prawda?</seg>
       </tuv>
     </tu>
     <tu>
