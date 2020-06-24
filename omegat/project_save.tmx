@@ -17116,6 +17116,22 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Easy mode, enemies are weaker and you can use special auto chips. Equip them and &lt;KC_LOCKON&gt; will activate automatic attacks and evades.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083212Z">
+        <seg>Na poziomie Łatwym przeciwnicy są słabsi i możesz używać specjalnych automatycznych czipów. Włóż je i &lt;KC_LOCKON&gt; będzie aktywować automatyczne ataki i uniki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In Very Hard mode, not only is lock-on disabled, but the enemies are... Well, they're kind of insane.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083301Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083301Z">
+        <seg>Na poziomie Bardzo Trudnym nie tylko skupianie się na celu jest wyłączone, ale przeciwnicy są... Cóż, szalenie silni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In a distant kingdom, there lived two princes. The son of the queen consort was clever of mind but weak of flesh. The son of the king's second wife was dimwitted, yet charming, and quite gifted in the art of war.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T112558Z" creationid="Syn Spawacza" creationdate="20200617T112558Z">
@@ -21951,6 +21967,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201020Z" creationid="Syn Spawacza" creationdate="20200601T201020Z">
         <seg>Zwykła maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Normal mode is a standard level of difficulty.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083217Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083217Z">
+        <seg>Poziom Normalny to standardowy poziom trudności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30451,6 +30475,14 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The enemy gets stronger in Hard mode and you can't use any lock-on features.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083232Z">
+        <seg>Na poziomie Trudnym przeciwnicy stają się silniejsi i nie możesz używać żadnych skupiających na celu zdolności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemy seems to have repurposed the facility to increase their overall machine production.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133429Z" creationid="Syn Spawacza" creationdate="20200530T181134Z">
@@ -30995,6 +31027,14 @@ mechanism that imparts blows with explosive power.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T154952Z" creationid="Syn Spawacza" creationdate="20200601T154952Z">
         <seg>Stara broń YoRHa wyposażona w prymitywny, ale
 niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They handle everything from body maintenance to Pod adjustments.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083114Z">
+        <seg>Oni zajmują się wszystkim od obsługi ciała po ulepszenia Poda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35000,6 +35040,14 @@ Sub-quest destinations are indicated as &lt;MAP_GOAL_SUB&gt; on the mini-map.</s
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222716Z" creationid="Syn Spawacza" creationdate="20200608T222716Z">
         <seg>Możesz przyjmować zadania poboczne od klientów (oznaczeni &lt;MAP_EVENT&gt;).
 Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can change the game difficulty at any time on the System Menu.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083151Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083151Z">
+        <seg>Możesz zmienić poziom trudności gry w każdej chwili w Menu Systemowym.</seg>
       </tuv>
     </tu>
     <tu>
