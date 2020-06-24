@@ -6595,6 +6595,28 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attention all androids:
+ 
+Thousands of years have passed since we humans were driven to the moon. And while the war remains deadlocked, we know that our continued safety is only possible thanks to your valiant efforts on the ground. We ask that you continue giving your all to the mission of recapturing Earth from the scourge of the machines!
+ 
+Glory to mankind.
+ 
+League of Assemblymen,
+Council of Humanity</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105425Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105425Z">
+        <seg>Do wszystkich androidów:
+ 
+Minęły tysiące lat od kiedy ludzie zostali zepchnięci na księżyc. I kiedy wojna trwa nieustannie, wiemy, że nasze bezpieczeństwo zależy wyłącznie dzięki waszym śmiałym staraniom na powierzchni. Prosimy was, byście dalej dawali z siebie wszystko w misji odbicia Ziemi z rąk plagi maszyn!
+
+Chwała ludzkości.
+ 
+Liga Zgromadzenia,
+Rada Ludzkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Attivazione IAN</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203929Z" creationid="Syn Spawacza" creationdate="20200601T203929Z">
@@ -21084,6 +21106,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083735Z">
         <seg>Wygląda na to, że ta twoja maszyna do przeglądów doznała zwarcia. Może za bardzo ją obciążyłeś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Looks like we can use this oil field as a resource.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105531Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105531Z">
+        <seg>Wygląda na to, że możemy korzystać z tego złoża ropy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36487,6 +36517,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181320Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181320Z">
         <seg>Zatroszczymy się o twoje dane, więc upewnij się, że będziesz je regularnie przesyłać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We're investigating this area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105537Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105537Z">
+        <seg>Badamy ten obszar.</seg>
       </tuv>
     </tu>
     <tu>
