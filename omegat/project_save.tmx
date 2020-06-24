@@ -8613,6 +8613,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Can I help you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130006Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130006Z">
+        <seg>Jak mogę ci pomóc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Can be changed in-game and on the Start Menu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T143020Z" creationid="Syn Spawacza" creationdate="20200530T131402Z">
@@ -21117,6 +21125,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's dance! Let's dance!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130140Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130140Z">
+        <seg>Zatańczmy! Zatańczmy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's get started.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200446Z" creationid="Syn Spawacza" creationdate="20200530T200446Z">
@@ -21133,6 +21149,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's look around for a route we can take.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130116Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130116Z">
+        <seg>Rozejrzyjmy się za ścieżką, którą da się przejść.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's move to an area with better reception so we can contact Command.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105021Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105021Z">
@@ -21141,10 +21165,34 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's play! Let's play!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130201Z">
+        <seg>Zabawmy się! Zabawmy się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's play! Play! Play!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130220Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130220Z">
+        <seg>Zabawmy się! Bawmy! Bawmy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's run a check to make sure it's working.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T211746Z" creationid="Syn Spawacza" creationdate="20200530T203852Z">
         <seg>Upewnijmy się, czy działa jak należy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's sing! Let's sing!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130217Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130217Z">
+        <seg>Zaśpiewajmy! Zaśpiewajmy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -26255,6 +26303,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Play! Play! Let's play!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130211Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130211Z">
+        <seg>Bawmy się! Bawmy! Zabawmy się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Playful Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T200812Z" creationid="Syn Spawacza" creationdate="20200601T200804Z">
@@ -30407,6 +30463,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shhh! Don't shout!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130003Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130003Z">
+        <seg>Ciii! Nie krzycz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shield-equipped</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T163932Z" creationid="Syn Spawacza" creationdate="20200615T163932Z">
@@ -33998,6 +34062,14 @@ To wszystko.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These machines are heavily armed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130227Z">
+        <seg>Te maszyny są ciężko uzbrojone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These machines are...talking.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095938Z">
@@ -37357,6 +37429,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need a way through.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130111Z">
+        <seg>Potrzebujemy przejścia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need you to collect the materials required to improve the network environment.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092350Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092350Z">
@@ -37457,6 +37537,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135226Z">
         <seg>Potrzebujemy, żebyś zdjął systemy obronne wroga, by dać naszemu atakującemu szwadronowi szansę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll regret it later if we let them escape, so let's take 'em out!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130232Z">
+        <seg>Będziemy później żałować, jeśli nic z tym nie zrobimy, więc zniszczmy je!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38124,6 +38212,14 @@ If you die again before reaching your previous body, it will disappear. If you k
         <seg>Kiedy twoja postać umiera, jej ciało zostaje na mapie jako &lt;MAP_CORPSE&gt;. Powróć do ciała by odzyskać swoje rzeczy.
 
 Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała, to zniknie ono po pewnym czasie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where does this corridor lead?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130035Z">
+        <seg>Gdzie prowadzi ta uliczka?</seg>
       </tuv>
     </tu>
     <tu>
