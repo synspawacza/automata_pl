@@ -1571,6 +1571,24 @@ Sama wykuję własne przeznaczenie! To jedyne marzenie każdej kobiety z YoRHa, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133717Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133717Z">
+        <seg>&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133720Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133720Z">
+        <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -2033,6 +2051,44 @@ staje się wrogiem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184954Z" creationid="Syn Spawacza" creationdate="20200605T184954Z">
         <seg>&lt;WEAPON_NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+&lt;i&gt;Do these clothes make me look cute?&lt;/i&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M1030_S0310_N_0010&gt;
+&lt;i&gt;Would he like it if I walked like this?&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133723Z">
+        <seg>&lt;page&gt;
+&lt;i&gt;Czy dzięki tym ciuchom, wyglądam uroczo?&lt;/i&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M1030_S0310_N_0010&gt;
+&lt;i&gt;Czy będzie mu się podobało, jak będę tak chodzić?&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+I once heard tell of a precious jewel far to the east.
+It was said to be located on a terribly dangerous mountain.
+But I did not care.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133904Z">
+        <seg>&lt;page&gt;
+Niegdyś usłyszałam opowieść o wartościowym klejnocie na dalekim wschodzie.
+Powiadano, że leży na bardzo niebezpiecznej górze.
+Ale nie obchodziło mnie to.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Long ago, an old machine lifeform told me something:
+"Beauty is what wins love."&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133816Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133816Z">
+        <seg>&lt;page&gt;
+Dawno temu, stara mechaniczna forma życia powiedziała mi:
+„Piękno jest tym, co wygrywa miłość.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8085,6 +8141,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blue stone.&lt;bt_wait&gt; Brilliant blue.&lt;bt_wait&gt; So beautiful.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133937Z">
+        <seg>Niebieski kamień. &lt;bt_wait&gt; Przepięknie niebieski. &lt;bt_wait&gt; Tak piękny.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blur</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142252Z" creationid="Syn Spawacza" creationdate="20200530T133042Z">
@@ -8529,6 +8593,22 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124611Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124611Z">
         <seg>Ale my androidy zostaliśmy stworzeni na podobieństwo naszych ludzkich twórców.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But what is "beauty"?&lt;bt_wait&gt;
+After researching the old world, I finally learned the truth.&lt;bt_wait&gt;
+Beauty is pretty skin.
+Beauty is stylish accessories.
+Beauty is looking one's best.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133843Z">
+        <seg>Ale czym jest „piękno”?&lt;bt_wait&gt;
+Po przebadaniu starego świata, wreszcie odnalazłam prawdę.&lt;bt_wait&gt;
+Piękno to ładna skóra.
+Piękno to stylowe dodatki.
+Piękno to wyglądanie najlepiej jak się da.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16547,6 +16627,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have I not become beautiful?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133715Z">
+        <seg>Czy nie stałam się piękna?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He eventually married a kind woman, and several years later, they had a child. As the peaceful, uneventful days went on, the man began to feel that there could be no greater happiness in life.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T115506Z" creationid="Syn Spawacza" creationdate="20200616T115506Z">
@@ -18179,6 +18267,24 @@ Płonę by cię zobaczyć w prawdziwym życiu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I slipped on cliffs. I fell onto rocks. But eventually I claimed the jewel.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133913Z">
+        <seg>Ześlizgiwałam się z klifów. Spadałam na skały. Ale w końcu zdobyłam klejnot.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I still don't understand what it means to love someone.
+But I've made up my mind.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133750Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133750Z">
+        <seg>Wciąż nie rozumiem, co oznacza kogoś kochać.
+Ale podjęłam decyzję.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I suppose...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124622Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124622Z">
@@ -18295,6 +18401,26 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181556Z">
         <seg>Właśnie opowiadałam o wszystkich roślinach i zwierzętach, które widziałam na Ziemi. Operatorzy szaleją za zbieraniem danych, wiesz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will become beautiful. I will do it for him.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133850Z">
+        <seg>Stanę się piękna. Zrobię to dla niego.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I will do whatever it takes to capture his affection.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133757Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133757Z">
+        <seg>Zrobię cokolwiek będzie trzeba, by przykuć jego uczucie.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21839,6 +21965,18 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Look at me.
+           Oh please look at me.
+                                I want your eyes to look upon me alone.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133712Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133712Z">
+        <seg>Popatrz na mnie.
+           Och, proszę, popatrz na mnie.
+                                Chcę by twoje oczy patrzyły tylko na mnie.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Looks flashy, but the blade is top quality.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T145622Z" creationid="Syn Spawacza" creationdate="20200601T145622Z">
@@ -24456,6 +24594,16 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T144035Z" creationid="Syn Spawacza" creationdate="20200530T144035Z">
         <seg>Opowiadania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133719Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133719Z">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□</seg>
       </tuv>
     </tu>
     <tu>
