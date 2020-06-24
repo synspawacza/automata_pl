@@ -9099,6 +9099,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Come to me whenever you need help with your weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091244Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091244Z">
+        <seg>Przyjdź do mnie kiedy tylko będziesz potrzebować pomocy ze swoją bronią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Come to think of it, do we have enough supplies?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T111054Z" creationid="Syn Spawacza" creationdate="20200606T111054Z">
@@ -9407,8 +9415,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Copied City</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175048Z" creationid="Syn Spawacza" creationdate="20200601T175048Z">
-        <seg>Skopiowane miasto</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091519Z" creationid="Syn Spawacza" creationdate="20200601T175048Z">
+        <seg>Copied City </seg>
       </tuv>
     </tu>
     <tu>
@@ -12476,8 +12484,8 @@ Mogą zostać sprzedane.</seg>
       <tuv lang="en-US">
         <seg>Emil's Shop</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180241Z" creationid="Syn Spawacza" creationdate="20200601T180241Z">
-        <seg>Sklep Emila</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091536Z" creationid="Syn Spawacza" creationdate="20200601T180241Z">
+        <seg>Emil's Shop </seg>
       </tuv>
     </tu>
     <tu>
@@ -16604,6 +16612,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I could tell you were a connoisseur just by looking at you! Here, have this.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091354Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091354Z">
+        <seg>Widać po tobie, że jesteś koneserem! Masz, weź to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I cry out "Give me your head!"
 I capture you as you flee and take it.
 I do all this for you. For you. For you.
@@ -18872,6 +18888,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144956Z" creationid="Syn Spawacza" creationdate="20200530T190634Z">
         <seg>Jest gotowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's so relaxing to listen to music...don't you agree?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091349Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091349Z">
+        <seg>Słuchanie muzyki jest takie relaksujące... Nie zgodzisz się?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28166,6 +28190,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shall we rest a bit?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091312Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091312Z">
+        <seg>Chcemy trochę odpocząć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shattered Earring</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083313Z" creationid="Syn Spawacza" creationdate="20200601T083313Z">
@@ -30660,8 +30692,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>The Tower</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174933Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
-        <seg>Wieża</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091525Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
+        <seg>The Tower </seg>
       </tuv>
     </tu>
     <tu>
@@ -31809,6 +31841,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135839Z" creationid="Syn Spawacza" creationdate="20200606T103437Z">
         <seg>To jest nasz cel. Mam zamiar go zniszczyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is what people used to call a "jukebox," a machine that plays music.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091412Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091412Z">
+        <seg>To jest rzecz, którą kiedyś ludzie nazywali "szafą grającą", maszyną, która gra muzykę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34508,6 +34548,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wanna try 'em out?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091238Z">
+        <seg>Chcesz je wypróbować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Want a piece of advice from someone who's been in your shoes before? Back up your data whenever you can.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174125Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174125Z">
@@ -35167,10 +35215,26 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Which melody would you like?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091442Z">
+        <seg>Którą melodię sobie życzysz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Which prince would succeed the throne? When news came down that the king had died in battle, the two men each declared themselves the next true king, rallying the people to take the side of one or the other.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T112917Z" creationid="Syn Spawacza" creationdate="20200617T112917Z">
         <seg>Który książę przejmie tron? Gdy dotarły wieści o tym, że król zginął w bitwie, obaj ogłosili siebie następcą króla, zbierając przy tym ludzi którzy by ich poparli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Which song would you like to play?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091436Z">
+        <seg>Którą piosenkę chcesz zagrać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35660,6 +35724,14 @@ Activating the debug menu will disable all save functionality until you load any
         <seg>Możesz otworzyć menu debugowe naciskając &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
 
 Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześniejszego zapisu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can play any song you like on it, as long as you have the necessary records. It's yours to use!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091425Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091425Z">
+        <seg>Możesz odtworzyć na niej piosenkę, która ci się podoba, jeśli tylko masz nagranie. Możesz z niej korzystać!</seg>
       </tuv>
     </tu>
     <tu>
