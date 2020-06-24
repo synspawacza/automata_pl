@@ -4093,6 +4093,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accept my love!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125846Z">
+        <seg>Zaakceptuj moją miłość!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access Point</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T180301Z" creationid="Syn Spawacza" creationdate="20200601T180301Z">
@@ -8117,6 +8125,14 @@ przeznaczony dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Break time!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125911Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125911Z">
+        <seg>Przerwa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Breaking Through</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160620Z" creationid="Syn Spawacza" creationdate="20200530T160620Z">
@@ -9743,8 +9759,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Congratulations! You're our first customer!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125428Z">
-        <seg>Gratulacje! Jesteś naszym pierwszym klientem!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125806Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125428Z">
+        <seg>Gratulacje! Jesteś naszym pierwszym odwiedzającym!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10707,6 +10723,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T104647Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T104647Z">
         <seg>Cholera, nie kolejny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dangerous beyond here! Broken!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125703Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125703Z">
+        <seg>Tam dalej jest niebezpiecznie! Zapsute!</seg>
       </tuv>
     </tu>
     <tu>
@@ -20571,6 +20595,14 @@ Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Junk! Danger!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125707Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125707Z">
+        <seg>Śmieci! Niebezpieczeństwo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jupiter's Fortunes</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170705Z" creationid="Syn Spawacza" creationdate="20200615T170705Z">
@@ -24478,6 +24510,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh! Hello.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125737Z">
+        <seg>Och! Cześć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, 2B. Hello.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095054Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095054Z">
@@ -24602,6 +24642,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124957Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124957Z">
         <seg>OcH, jAKa zaBAwA! OcH, jAKa zaBAwA!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, what fun! Oh, what fun!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125937Z">
+        <seg>Och, jaka zabawa! Och, jaka zabawa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38853,6 +38901,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181749Z">
         <seg>Dbajcie o siebie, żebyście nie skończyli tak jak ona, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You have business here? No?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125944Z">
+        <seg>Masz tu jakieś interesy? Nie?</seg>
       </tuv>
     </tu>
     <tu>
