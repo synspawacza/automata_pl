@@ -16850,6 +16850,14 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I heard about this from the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092937Z">
+        <seg>Słyszałam o tym z Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hunt for the woman who pines for you.
 The scream pleases me.
 Your body and heart shall be mine.</seg>
@@ -19068,6 +19076,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's not much, but I have a reward for you. Oh, but don't tell the Commander—it's probably against regulations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092959Z">
+        <seg>To niezbyt wiele, ale mam dla ciebie nagrodę. Och, ale nie mów o tym Pani Komandor — to pewnie wbrew zasadom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's ready.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144956Z" creationid="Syn Spawacza" creationdate="20200530T190634Z">
@@ -20245,6 +20261,14 @@ jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083735Z">
         <seg>Wygląda na to, że ta twoja maszyna do przeglądów doznała zwarcia. Może za bardzo ją obciążyłeś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Looks like you found all the necessary parts to improve our network environment. Nice work!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092902Z">
+        <seg>Wygląda na to, że odnalazłaś wszystkie niezbędne części potrzebne do ulepszenia środowiska sieciowego. Dobra robota!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23541,6 +23565,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Operator 6O to 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092853Z">
+        <seg>Operator 6O do 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Operator 6O to 2B. It is time for your regularly-scheduled contact.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090555Z">
@@ -26551,6 +26583,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160645Z" creationid="Syn Spawacza" creationdate="20200608T160645Z">
         <seg>Zdaj raport Dowódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Report: Mail notification received from access point.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092846Z">
+        <seg>Zgłaszam: otrzymano powiadomienie o nowej poczcie w punkcie dostępu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31885,6 +31925,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These are the parts we need for our network structure, right? Thanks for bringing them over.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092949Z">
+        <seg>To są części potrzebne do naszej struktury sieciowej, prawda? Dzięki za przyniesienie ich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These are your current play records.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154943Z" creationid="Syn Spawacza" creationdate="20200601T075652Z">
@@ -36096,6 +36144,14 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083151Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083151Z">
         <seg>Możesz zmienić poziom trudności gry w każdej chwili w Menu Systemowym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can conclude your mission by bringing everything over to Anemone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092924Z">
+        <seg>Możesz zakończyć swoje zadanie przez dostarczenie wszystkiego do Anemony.</seg>
       </tuv>
     </tu>
     <tu>
