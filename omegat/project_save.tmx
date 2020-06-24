@@ -5503,6 +5503,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ah, &lt;SARU_JAN&gt;...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141244Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141244Z">
+        <seg>Ach, &lt;SARU_JAN&gt;...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ah, it's you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T123958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T123958Z">
@@ -19365,6 +19373,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you take it to her, it should make it clear that we're a peaceful group.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141025Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141025Z">
+        <seg>Jeśli go do niej zabierzecie, stanie się jasne, że mamy pokojowe zamiary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you want to install a bunch of chips, go talk to the S-type model in the server administration room.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174635Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
@@ -19433,6 +19449,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T112558Z" creationid="Syn Spawacza" creationdate="20200617T112558Z">
         <seg>W odległym królestwie żyli dwaj książęta. Syn królowej miał bystry umysł, ale słabe ciało. Syn drugiej żony króla był głupi, ale urokliwy i utalentowany w sztuce wojennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In fact, I'm hoping you can take this to Anemone in the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141016Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141016Z">
+        <seg>Właściwie, to mam nadzieję, że zaniesiesz to do Anemony w obozie Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20848,6 +20872,14 @@ prawdę tego świata.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133625Z" creationid="Syn Spawacza" creationdate="20200530T181738Z">
         <seg>To mała wycieczka, ale może powinniśmy to sprawdzić?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a fuel filter that she requested.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141021Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141021Z">
+        <seg>To filtr do paliwa, o który prosiła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27199,6 +27231,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204526Z" creationid="Syn Spawacza" creationdate="20200601T204526Z">
         <seg>Przypisz zduplikowane ustawienia do osobnych przycisków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please be calm. We are not your enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141216Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141216Z">
+        <seg>Proszę, uspokój się. Nie jesteśmy waszymi wrogami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34841,6 +34881,14 @@ Czy chcesz połączyć ten czip?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The white flag means we surrender.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141229Z">
+        <seg>Biała flaga oznacza poddanie się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The world is filled with cleverly disguised access points &lt;MAP_EVENT&gt; which can be used for the following:
  
 - Unlocking map info
@@ -38467,6 +38515,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are not your enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141153Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141153Z">
+        <seg>Nie jesteśmy waszymi wrogami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We are perpetually trapped...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130155Z" creationid="Syn Spawacza" creationdate="20200530T173623Z">
@@ -38479,6 +38535,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T145538Z" creationid="Syn Spawacza" creationdate="20200616T145538Z">
         <seg>Jesteśmy razem. Jesteśmy jednością. Żywi czy martwi. Nawet gdy zabijamy naszych wrogów. Nawet gdy zabijamy siebie nawzajem. Nasze ciała na zawsze zostaną jednością. Niech ktoś nas rozdzieli. O boże, niech ktoś mi pomoż</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We do not want to fight.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141142Z">
+        <seg>Nie chcemy walczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38599,6 +38663,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184042Z">
         <seg>Powinniśmy chyba najpierw pogadać z ich liderem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We surrender. We surrender.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141149Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141149Z">
+        <seg>Poddajemy się. Poddajemy się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40273,6 +40345,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T132524Z" creationid="Syn Spawacza" creationdate="20200530T180410Z">
         <seg>Wie pani co. Cieszę się, że pani tu jest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You know, we already have something of a relationship with you androids.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141010Z">
+        <seg>Wiesz, już nawiązaliśmy relację z wami, androidami.</seg>
       </tuv>
     </tu>
     <tu>
