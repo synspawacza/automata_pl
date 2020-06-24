@@ -3246,6 +3246,14 @@ the Resistance.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A low-altitude approach is recommended.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151426Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151426Z">
+        <seg>Zaleca się podejście na niskich wysokościach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A loyal soldier</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171811Z" creationid="Syn Spawacza" creationdate="20200608T171811Z">
@@ -5867,6 +5875,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T151056Z" creationid="Syn Spawacza" creationdate="20200530T151056Z">
         <seg>Wszystkie bronie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All YoRHa members are ordered to engage at once.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151532Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151532Z">
+        <seg>Wszyscy członkowie YoRHy dostali rozkazy by natychmiast zaatakować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14105,6 +14121,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemy anti-air defenses are on patrol at higher altitudes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151420Z">
+        <seg>Wroga obrona przeciwlotnicza patroluje wyższe rejony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemy missiles intercepted.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182933Z" creationid="Syn Spawacza" creationdate="20200530T182933Z">
@@ -14117,6 +14141,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184707Z" creationid="Syn Spawacza" creationdate="20200530T184707Z">
         <seg>Ujarzmienie wroga zakończone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemy vibrations are growing in intensity.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151613Z">
+        <seg>Wibracje wroga narastają w siłę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16409,6 +16441,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090603Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090603Z">
         <seg>Dobrze to słyszeć. Powiedz, jaka jest pogoda na Ziemi? Dobra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Got it, thanks!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151430Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151430Z">
+        <seg>Zrozumiałem, dzięki!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21540,6 +21580,14 @@ prawdę tego świata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It seems to be accompanied by a large number of machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151528Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151528Z">
+        <seg>Wygląda na to, że towarzyszy mu duża liczba mechanicznych form życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It seems to be back to normal now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202805Z" creationid="Syn Spawacza" creationdate="20200530T202805Z">
@@ -21777,6 +21825,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144956Z" creationid="Syn Spawacza" creationdate="20200530T190634Z">
         <seg>Jest gotowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's resonating in tandem with the area beneath the combat zone!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151621Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151621Z">
+        <seg>Rezonują z terenem położonym pod polem bitwy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23121,6 +23177,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
         <seg>Popatrz na mnie.
            Och, proszę, popatrz na mnie.
                                 Chcę by twoje oczy patrzyły tylko na mnie.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look out! It's recharging!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151610Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151610Z">
+        <seg>Uwaga! Naładowuje się z powrotem!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27064,6 +27128,14 @@ Pora na twój zaplanowany kontakt...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T191051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T191051Z">
         <seg>Operator do 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operator to 9S. Emergency transmission incoming.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151521Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151521Z">
+        <seg>Operator do 9S. Nadchodzi transmisja kryzysowa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34591,6 +34663,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Target enemies offline. That should do it for the Goliaths.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151606Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151606Z">
+        <seg>Wrogie cele rozłączone. Tyle z Goliatów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Target enemy detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135749Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
@@ -38442,6 +38522,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unbelievable... The aliens who haven't revealed themselves in hundreds of years...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151631Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151631Z">
+        <seg>Nieprawdopodobne.... Kosmici, którzy nie pokazali się od setek lat...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unclearable Quests</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143018Z" creationid="Syn Spawacza" creationdate="20200530T143018Z">
@@ -40165,6 +40253,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've detected a Goliath-class enemy inside the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151524Z">
+        <seg>Wykryliśmy wrogów klasy Goliat wewnątrz ruin miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130307Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
@@ -40752,6 +40848,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124959Z">
         <seg>Co do...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What the...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151626Z">
+        <seg>Co do...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -41525,6 +41629,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173700Z" creationid="Syn Spawacza" creationdate="20200530T173700Z">
         <seg>do eskadry YoRHa, odbiór.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa, this is your Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151641Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151641Z">
+        <seg>YoRHa, tu wasza Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44777,6 +44889,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T192714Z" creationid="Syn Spawacza" creationdate="20200608T192714Z">
         <seg>nie jestem w szczytowej formie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>were hiding underground!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151636Z">
+        <seg>chowali się pod ziemią?!</seg>
       </tuv>
     </tu>
     <tu>
