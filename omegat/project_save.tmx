@@ -12466,6 +12466,58 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Elapsed time: 00:02:13
+Re-activation complete. A check of my body reveals various failures. Communication functions have been destroyed. I cannot contact my team or the bunker. I leave a draft of this message here as a log.
+ 
+Elapsed time: 00:10:13
+I verify the plan once more. Using my supposed destruction in this sortie as a guise, I sever all communication. I then pass beneath the abandoned factory and escape. Further analysis reveals that I took anti-air fire while in the flight unit, resulting in damage to my body. No matter—it can be repaired.
+ 
+Elapsed time: 00:15:21
+I'm cold. My sensory systems seem to be failing.
+ 
+Elapsed time: 00:33:12
+Noise has started to cloud my vision. Virus warnings appear frequently. It is unclear whether I am infected or if the system is in error.
+ 
+Elapsed time: 00:33:21
+Repairs are proceeding poorly, perhaps because I am flustered. Pursuers will come if I don't move soon. Was I wrong to attempt escape?
+ 
+Elapsed time: 00:33:31
+I'm scared. I want to go back to the bunker, but I can't restore communications.
+ 
+Elapsed time: 00:38:00
+This can't continue. I can't stay here. I have to run... YoRHa squadron was wrong... I have to find somewhere safer... I'm scared. I'm so scared.
+ 
+Elapsed time: 00:45:00
+Painful. It hurts. Help. Why stop. Who am I? Wrong wrong wrong. I need to run...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095034Z">
+        <seg>Upłynęło: 00:02:13
+Zakończono reaktywację. Sprawdzenie ciała wykryło przeróżne błędy. Zniszczono moduły komunikacyjne. Nie jestem w stanie skontaktować się ani z bunkrem, ani z drużyną. Zostawiam tutaj tę notatkę.
+ 
+Upłynęło: 00:10:13
+Po raz kolejny sprawdziłam plan. Używając mojego domniemanego zniszczenia w tej misji jako przykrywki, odetnę całą komunikację. Wtedy prześlizgnę się przez opuszczoną fabrykę i ucieknę. Kolejna analiza wykryła, że te strzały z broni przeciw powietrznej, które otrzymałam w jednostce latającej, również mnie uszkodziły. To bez znaczenia — i tak nie mogą zostać naprawione.
+ 
+Upłynęło: 00:15:21
+Zimno mi. Chyba padają moje systemy sensorów.
+ 
+Upłynęło: 00:33:12
+Zakłócenia zasnuwają moją wizję. Regularnie pojawiają się ostrzeżenia o wirusach. Niejasne dla mnie jest, czy zostałam zarażona, czy to błąd systemu.
+ 
+Upłynęło: 00:33:21
+Naprawa przebiega kiepsko, pewnie dlatego, że jestem wytrącona z równowagi. Niedługo pojawią się prześladowcy, jeśli się stąd nie ruszę. Czy próba ucieczki była błędem?
+ 
+Upłynęło: 00:33:31
+Boję się. Chcę wrócić do bunkra, ale nie umiem przywrócić kontaktu.
+ 
+Upłynęło: 00:38:00
+Nie może tak dalej być. Nie mogę tu zostać. Muszę uciekać... Szwadron YoRHa się mylił... Musze znaleźć bezpieczniejsze miejsce... Boję się. Tak bardzo się boję.
+ 
+Upłynęło: 00:45:00
+Bolesne. To boli. Pomocy. Czemu przestać. Kim jestem? Źle źle źle. Muszę uciekać...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Electromagnetic Shield-equipped</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164035Z" creationid="Syn Spawacza" creationdate="20200615T164035Z">
@@ -14171,6 +14223,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090425Z" creationid="Syn Spawacza" creationdate="20200601T090327Z">
         <seg>Czterokolorowy kabel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fragmented data detected in memory region.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T094713Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T094713Z">
+        <seg>Wykryto sfragmentaryzowane dane w regionie pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22413,8 +22473,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Negative. Unit 11B's black box has been irreparably damaged.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T094553Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T094553Z">
-        <seg>Zaprzeczenie.Czarna skrzynka jednostki 11B została bezpowrotnie zniszczona.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T094722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T094553Z">
+        <seg>Zaprzeczenie. Czarna skrzynka jednostki 11B została bezpowrotnie zniszczona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25364,6 +25424,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182801Z" creationid="Syn Spawacza" creationdate="20200610T180538Z">
         <seg>Propozycja: Podążyć w stronę lokalizacji celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Unit 2B should recover any usable weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T094616Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T094616Z">
+        <seg>Propozycja: jednostka 2B powinna odzyskać całą działającą broń.</seg>
       </tuv>
     </tu>
     <tu>
