@@ -19173,6 +19173,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hello there! Er, so I was wondering if you might help me with a small project.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124836Z">
+        <seg>Witajcie! Ee, więc zastanawiałem się, czy możesz mi pomóc z taki małym projektem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hello there.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091221Z">
@@ -21900,6 +21908,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'd like you to collect and bring back any information you find regarding the old world during your travels.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124840Z">
+        <seg>Chciałbym, żebyście zbierali i przynosili do mnie wszelkie informacje o starym świecie, które znajdziecie podczas swoich wędrówek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'd love to see what it does, so go ahead and chow down.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111410Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111410Z">
@@ -21912,6 +21928,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084405Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084405Z">
         <seg>Bardzo chciałbym je sprzedawać, ale nie mam wymaganych materiałów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'll be glad to share anything we find with you as well, of course. So would you be willing to assist us?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124853Z">
+        <seg>Oczywiście, z radością podzielę się wszystkim, czego się dowiem również z Wami. Więc chcecie nam pomóc?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22200,6 +22224,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091051Z">
         <seg>Mam nadzieję, że je naprawię i od tego zacznę własną rodzinę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm hoping to use whatever knowledge remains of the old world to make life better for those here in the village.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124847Z">
+        <seg>Mam nadzieję, że uda mi się wykorzystać wiedze ze starego świata, by poprawić poziom życia w wiosce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24367,6 +24399,14 @@ prawdę tego świata.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105017Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105017Z">
         <seg>Przestało. Wygląda na to, że jesteśmy już bezpieczni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It was a lesson we learned from mankind's past history. Most fascinating, don't you think?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124749Z">
+        <seg>To lekcja, której nauczyliśmy się z ludzkiej przeszłości. Nie uważasz, że to fascynujące?</seg>
       </tuv>
     </tu>
     <tu>
@@ -33637,6 +33677,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Really? Why?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124843Z">
+        <seg>Naprawdę? Czemu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reboot</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T155903Z" creationid="Syn Spawacza" creationdate="20200530T155903Z">
@@ -37366,6 +37414,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So if we use those numbers from the Resistance camp as coordinates...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125031Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125031Z">
+        <seg>Więc jeśli użyjemy tych numerów z obozu Ruchu Oporu jako koordynatów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So if we want to know what all those old human records are always going on about, all we need to do is let our fists fly!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085325Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085325Z">
@@ -39594,6 +39650,14 @@ To koniec.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153823Z">
         <seg>Dziękuję. Och i wiem, że to niewiele, ale proszę, weź to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank you. Please show me anything of interest you find.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124858Z">
+        <seg>Dziękuję. Pokazujcie mi proszę wszystko, co jest warte uwagi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45868,6 +45932,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've made it a point of emphasis to teach our children about different economic systems. You should speak to them if the subject is of further interest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124755Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124755Z">
+        <seg>Wzięliśmy sobie do serca nauczenie naszych dzieci o różnych systemach ekonomicznych. Powinieneś z nimi porozmawiać, jeśli cię to interesuje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130307Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
@@ -47401,6 +47473,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105549Z">
         <seg>Tak. Lepiej wracajmy do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah. We're pretty much standing right on top of whatever they're pointing to.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125035Z">
+        <seg>Tak. Właściwie stoimy w miejscu, na które wskazują.</seg>
       </tuv>
     </tu>
     <tu>
