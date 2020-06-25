@@ -15010,6 +15010,14 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you think us fools?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143346Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143346Z">
+        <seg>Uważasz nas za głupców?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you want to proceed with this configuration anyway?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204510Z" creationid="Syn Spawacza" creationdate="20200601T204510Z">
@@ -19443,8 +19451,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Haaaaaalp!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091818Z">
-        <seg>Pooooomooooc!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143206Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091818Z">
+        <seg>Pooomóóóż!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21258,6 +21266,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How wonderful! I think our joy really came across this time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143332Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143332Z">
+        <seg>Jak cudownie! Myślę, że tak nasza radość tym razem dotarła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How'd you get lost out here, anyway?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090421Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090421Z">
@@ -22442,6 +22458,14 @@ do roboty, więc pomóż mi!
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140209Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140209Z">
         <seg>Wiem, że to niezręczne, ale jeśli macie czas, znowu potrzebujemy waszego wsparcia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know this isn't much of a reward, but please accept it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143314Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143314Z">
+        <seg>Wiem, że to niewielka nagroda, ale proszę, zaakceptuj ją.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23798,6 +23822,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095744Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095744Z">
         <seg>Przepraszam mamusiu! Proszę, nie płacz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm sorry. I hope to see you again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143349Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143349Z">
+        <seg>Wybacz. Mam nadzieję, że niedługo znów się zobaczymy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39930,6 +39962,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So do you...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143340Z">
+        <seg>Więc czy ty...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So don't be that person! Check your mail regularly at a transport terminal, all right?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174214Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174214Z">
@@ -42262,6 +42302,14 @@ To koniec.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090324Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090324Z">
         <seg>Tak bardzo wam dziękuję. I proszę, uważajcie na siebie, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thank you very much.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143208Z">
+        <seg>Bardzo ci dziękuję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48682,6 +48730,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We managed to complete the parade without being annihilated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143311Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143311Z">
+        <seg>Udało nam się ukończyć paradę i nie zostać wybitymi co do nogi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We might be able to find one in the remains of other enemies.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125835Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125835Z">
@@ -48942,6 +48998,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134824Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134824Z">
         <seg>Zobaczymy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll soon be holding another parade elsewhere. I hope we can count on your support for that as well.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143336Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143336Z">
+        <seg>Niedługo odbędziemy kolejną paradę w innym miejscu. Mam nadzieję, że wtedy też będziemy mogli liczyć na twoje wsparcie.</seg>
       </tuv>
     </tu>
     <tu>
