@@ -2331,6 +2331,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;SARU_JAN&gt; doesn't care at all about anyone but himself...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110459Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110459Z">
+        <seg>Przekazałaś mój podarek Mistrzowi &lt;SARU_JAN&gt;owi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;SARU_JAN&gt; doesn't seem to appreciate these presents he's getting.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T094854Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T094854Z">
@@ -18645,6 +18653,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>He called it a useless piece of junk.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110436Z">
+        <seg>Nazwał go bezużytecznym śmieciem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>He eventually married a kind woman, and several years later, they had a child. As the peaceful, uneventful days went on, the man began to feel that there could be no greater happiness in life.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T115506Z" creationid="Syn Spawacza" creationdate="20200616T115506Z">
@@ -19353,6 +19369,26 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152003Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152003Z">
         <seg>Hej, jesteś z YoRHy, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey.
+ 
+Sorry to bring this up out of the blue, but I've got a fish I want to recommend to YoRHa units. Er, or to be more specific, I want YOU to eat it so I can study how its oil affects a YoRHa unit. You know? For science?
+ 
+Anyhoo, stop by if you get bored. It's my treat.
+ 
+—Jackass</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110233Z">
+        <seg>Hej.
+ 
+Sorki, że tak wyskakuję z tym znienacka, ale mam rybę, którą chciałabym polecić jednostkom YoRHa. Ee, albo, żeby być bardziej precyzyjną, chciałaby, żebyś to TY ją zjadła, żeby mogła zbadać jak jej oleje oddziaływają  na jednostki YoRHa. No wiesz? W imię nauki? 
+ 
+W każdym razie, wpadnij jak będzie ci się nudzić. Ja stawiam.
+ 
+—Jackass</seg>
       </tuv>
     </tu>
     <tu>
@@ -27951,6 +27987,31 @@ Prośba o pozwolenie na przyjęcie mobilnej konfiguracji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095612Z">
         <seg>Mój starszy brat mnie uderzył, ale jakoś to była MOJA wina!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My friend,
+ 
+It feels as if we haven't spoken in quite some time! As it turns out, many stores in our village recently acquired a number of new items, and I wanted to be sure that everyone from YoRHa was aware of this.
+ 
+I would also be delighted if you would commit to memory that there are some out there who—despite being machine lifeforms—are willing to open their hearts and share such valuable information.
+ 
+Yours in friendship,
+ 
+Pascal</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110401Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110316Z">
+        <seg>Przyjaciółko,
+ 
+Czuję się, jakbyśmy nie rozmawiali od dawna! Wygląda na to, że wiele sklepów w naszej wiosce ma nowy asortyment i chciałabym, żeby wszyscy z YoRHy byli tego świadomi.
+ 
+Byłoby mi też niezmiernie miło, gdybyś miała na uwadze, że jest ktoś kto — pomimo bycia mechaniczną formą życia — ze szczerego serca dzieli się taką wartościową informacją.
+ 
+Twój przyjaciel,
+ 
+Pascal
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -37983,6 +38044,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Such cruelty! I've barely the words for it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110439Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110439Z">
+        <seg>Co za okrucieństwo! Brakuje mi na nie słów!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Such nonsense.
 It is physically impossible to obtain beauty by consuming an android.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -45774,6 +45843,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When I think about his wanton sadism, it makes me... Oooooooh.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110446Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110446Z">
+        <seg>Kiedy pomyślę o tym lubieżnym sadyzmie, to sprawia, że... Ooooooch.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When I was close, I hurt him. Yet being distant hurt him more.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155529Z" creationid="Syn Spawacza" creationdate="20200616T155529Z">
@@ -47313,6 +47390,14 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153744Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153744Z">
         <seg>Jesteś pewien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You there! Delivery boy! Pray tell what Master &lt;SARU_JAN&gt; thought of my present.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110432Z">
+        <seg>Ty tam! Posłańcze! Wyduś z siebie co Mistrz &lt;SARU_JAN&gt; myśli o moim prezencie.</seg>
       </tuv>
     </tu>
     <tu>
