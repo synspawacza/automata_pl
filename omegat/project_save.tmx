@@ -1275,6 +1275,22 @@ Sama wykuję własne przeznaczenie! To jedyne marzenie każdej kobiety z YoRHa, 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B,
+ 
+Thank you soooo much for repairing that access point! Sorry I'm always putting you through so much trouble, but I've sent along a little reward for all your hard work. Hope you like it!
+ 
+—Operator 6O</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133905Z">
+        <seg>2B,
+ 
+Ślicznie Ci dziękuję, za naprawę tego punktu dostępu! Przepraszam, zawsze przynoszę wam tyle kłopotów, ale podesłałam wam małą nagrodę za ciężką pracę. Mam nadzieję, że się spodoba!
+ 
+—Operator 6O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B, can you hear me?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195551Z" creationid="Syn Spawacza" creationdate="20200530T195551Z">
@@ -31500,6 +31516,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130847Z">
         <seg>Okej. To powinno być wszystko, co jest nam potrzebne do naprawienia tej maszyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay. That's all the coordinates that Resistance member wanted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133925Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133925Z">
+        <seg>Okej. To wszystkie koordynaty, które chciała ta członkini Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
