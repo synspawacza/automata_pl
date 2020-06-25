@@ -6199,6 +6199,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ah! You have a four-color cable! Gimme.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141040Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141040Z">
+        <seg>Ach! Macie czterokolorowy kabel! Dajcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ah! You're back!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095713Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095713Z">
@@ -10321,6 +10329,14 @@ Smakowało jak olej.&lt;bt_wait&gt;
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But that can easily be rectified if you bring me a five-color cable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141126Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141126Z">
+        <seg>Ale to można z łatwością naprawić, jeśli przyniesiesz mi pięciokolorowy kabel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But that's what regulations call for.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205002Z" creationid="Syn Spawacza" creationdate="20200530T205002Z">
@@ -10565,6 +10581,14 @@ Piękno to wyglądanie najlepiej jak się da.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131035Z" creationid="Syn Spawacza" creationdate="20200530T131035Z">
         <seg>STEROWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>CREATIVITY is my friend!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141157Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141157Z">
+        <seg>KREATYWNOŚĆ to mój przyjaciel!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10823,6 +10847,14 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095109Z" creationid="Syn Spawacza" creationdate="20200601T095109Z">
         <seg>Kartonowy pod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Care to check it out? I'll give you a prize if you can debug it for me.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141050Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141050Z">
+        <seg>Chcesz ją sprawdzić? Dam ci nagrodę, jeśli dasz radę ją dla mnie zdebugować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16604,8 +16636,8 @@ Poczekaj, musimy je wgrać.</seg>
         <seg>Excellent! All I need is a single tri-color cable.
 Just let me know when you find it.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154125Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154125Z">
-        <seg>Doskonale! Potrzebuję pojedynczego trój-kolorowego kabla.
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141033Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154125Z">
+        <seg>Doskonale! Potrzebuję pojedynczego trójkolorowego kabla.
 Daj mi znać, jak go znajdziesz.</seg>
       </tuv>
     </tu>
@@ -27167,6 +27199,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let me know if you find any data on the old world.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140959Z">
+        <seg>Dajcie znać, jeśli znajdziecie jakiekolwiek dane ze starego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let me try hacking it open.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154945Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154945Z">
@@ -29966,6 +30006,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Muchas gracias!  And best of luck tracking down that five-color cable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141138Z">
+        <seg>Muchas gracias! I powodzenia w wytropieniu tego pięciokolorowego kabla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Multi-leg Medium Model</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T164718Z" creationid="Syn Spawacza" creationdate="20200615T164718Z">
@@ -31156,6 +31204,14 @@ W imię... NAUKI!
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154643Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154643Z">
         <seg>Tak więc! Ile raczysz zainwestować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now then, I just connect this end to the widget here aaaand...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141044Z">
+        <seg>Teraz tylko połączę ten koniec do końca wihajstra tutaj iiii...</seg>
       </tuv>
     </tu>
     <tu>
@@ -34598,6 +34654,14 @@ all ages.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203928Z" creationid="Syn Spawacza" creationdate="20200601T203928Z">
         <seg>Pressione interna scatola nera: normale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Presto! My amazingly fun game is now more difficult.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141046Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141046Z">
+        <seg>Presto! Moja niesamowicie fajna gra jest teraz trudniejsza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43859,6 +43923,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They tend to hang out in groups, so good luck finding the right ones!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141148Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141148Z">
+        <seg>Mają w zwyczaju trzymać się w grupach, więc powodzenia w znalezieniu właściwego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They were found by the machines.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124923Z">
@@ -46209,6 +46281,14 @@ wybuchowych przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095024Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095024Z">
         <seg>Ee, myślę, że doszło tu do pewnego nieporozumienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Um, I thought these machines were your friends.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141154Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141154Z">
+        <seg>Um, myślałem, że te maszyny są twoimi przyjaciółmi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50740,6 +50820,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can salvage them from the machines in the desert. Just go ahead and rip it right out of 'em!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141141Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141141Z">
+        <seg>Możesz je zebrać z maszyn na pustyni. Po prostu idź i wyrwij je z nich.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can see access points on the close-range map. Be sure to save often!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173850Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
@@ -51040,6 +51128,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084339Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084339Z">
         <seg>Dokładnie. Każdy przedmiot tutaj jest ręcznie zrobiony z porzuconych części i rzeczy splądrowanych z ciał wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You know something? I don't think my fun game is hard enough yet. We need to reach beyond typical market boundaries to include hardcore gamers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141121Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141121Z">
+        <seg>Wiesz co? Nie wydaje mi się, żeby ta moja fajna gra była wystarczająco trudna. Potrzebujemy sięgnąć poza typowe granice rynku by wziąć pod uwagę też hardkorowych graczy.</seg>
       </tuv>
     </tu>
     <tu>
