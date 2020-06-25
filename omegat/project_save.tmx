@@ -4983,6 +4983,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accessing historical records...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140634Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140634Z">
+        <seg>Szukanie dostępu do danych historycznych...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>According to legend, the nation that used to be here was wiped out quite suddenly.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121637Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121637Z">
@@ -5497,8 +5505,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>Activation complete. Access granted.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090817Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090817Z">
-        <seg>Ukończono aktywację. Otrzymano dostęp.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090817Z">
+        <seg>Aktywacja ukończona. Przyznano dostęp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7295,6 +7303,14 @@ przeznaczona dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T132436Z" creationid="Syn Spawacza" creationdate="20200530T180143Z">
         <seg>Analiza: Sterowanie drzwiami tej windy jest zablokowane i nie może zostać użyte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: This location was once used for weapons production and experimentation.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140639Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140639Z">
+        <seg>Analiza: ta lokacja niegdyś była używana do produkcji i eksperymentów z bronią.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21162,10 +21178,26 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Human-shaped weapons, huh? Wonder if they worked like flight units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140653Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140653Z">
+        <seg>Broń w kształcie ludzi, co? Ciekawe czy działały jak jednostki latające.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Humanity launched its counterattack, deploying an army of androids from a network of orbiting bases.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145325Z" creationid="Syn Spawacza" creationdate="20200530T195002Z">
         <seg>Ludzkość podjęła się kontrataku, wypuszczając armię androidów z sieci orbitujących baz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Humanoid combat robots. Common examples include the P-22 and P-33 models.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140648Z">
+        <seg>Humanoidalne roboty bitewne. Powszechne przykłady to modele P-22 i P-33.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22846,6 +22878,22 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095503Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095503Z">
         <seg>Ciekawe, czy pozwoli nam zbadać swoje obwody mózgowe, jak przyprowadzimy jej dziecko do domu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wonder if we can use it? Pod, reset this and check the original owner ID.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140513Z">
+        <seg>Jestem ciekaw, czy możemy go użyć? Podzie, zresetuj go i sprawdź ID oryginalnego właściciela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wonder what it used to be like?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140632Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140632Z">
+        <seg>Jestem ciekaw, jakie było dawniej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30559,6 +30607,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No kidding? What kind of weapons?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140642Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140642Z">
+        <seg>Nie żartujesz? Jakiego rodzaju broni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No matter how many times I repair the sensors, the problem comes back. It's almost like it's in her head or something...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181741Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181741Z">
@@ -36298,6 +36354,14 @@ próchnicy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130359Z">
         <seg>Wymagam... dzenia... usta...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Requested material obtained.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140608Z">
+        <seg>Zdobyto wymagany materiał.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44495,6 +44559,14 @@ zabarwiła na czarno.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This whole place is like a giant machine's nest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140630Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140630Z">
+        <seg>To całe miejsce jest jak gigantyczne gniazdo maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This will close the game and apply the settings.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162115Z" creationid="Syn Spawacza" creationdate="20200530T162115Z">
@@ -49435,6 +49507,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125344Z">
         <seg>Łał, spokojnie! Już w porządku! Zajęliśmy się tą, która zabiła twojego przyjaciela.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoa, is this a pod?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140455Z">
+        <seg>Łał, czy to pod?</seg>
       </tuv>
     </tu>
     <tu>
