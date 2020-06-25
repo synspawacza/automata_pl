@@ -24571,11 +24571,10 @@ zatytułowana „Pensées”.</seg>
 "I've left to seek the truth of the world.
 Throw that trash away!"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180527Z" creationid="Syn Spawacza" creationdate="20200605T180527Z">
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110940Z" creationid="Syn Spawacza" creationdate="20200605T180527Z">
         <seg>List od Jean-Paula. Jest w nim napisane:
-„Wyruszyłem w podróż by odnaleźć
-prawdę tego świata.
-Wyrzućcie te śmieci.”</seg>
+„Odszedłem, by szukać prawdy
+o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -29445,6 +29444,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125737Z">
         <seg>Och! Cześć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh! It's 9S and 2B, yes?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111000Z">
+        <seg>Och, to 9S i 2B, tak?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35061,11 +35068,10 @@ swoim okrucieństwem, poczernione krwią jego wrogów.</seg>
 "I've left to seek the truth of the world.
 Throw that trash away!"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180524Z" creationid="Syn Spawacza" creationdate="20200605T180524Z">
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110836Z" creationid="Syn Spawacza" creationdate="20200605T180524Z">
         <seg>List od Sartre'a. Jest w nim napisane:
-„Wyruszyłem w podróż by odnaleźć
-prawdę tego świata.
-Wyrzućcie te śmieci.”</seg>
+„Odszedłem, by szukać prawdy
+o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -43067,8 +43073,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Um...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142602Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142602Z">
-        <seg>Eee...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111045Z">
+        <seg>Um...</seg>
       </tuv>
     </tu>
     <tu>
@@ -50937,6 +50943,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144856Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144856Z">
         <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">q020_404eba3d_scp.properties</prop>
+      <prop type="id">M5020_S0010_G0010_001_a9s</prop>
+      <tuv lang="en-US">
+        <seg>Um...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111100Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111100Z">
+        <seg>Eee...</seg>
       </tuv>
     </tu>
     <tu>
