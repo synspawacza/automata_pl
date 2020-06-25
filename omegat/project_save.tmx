@@ -5713,6 +5713,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ah! 9S! Yes, it is me. Many apologies for the sudden transmission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090221Z">
+        <seg>Ach! 9S! Tak, to ja Przepraszam, za tę nagłą transmisję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ah! A stone tablet with laws written upon it! That's definitely worth a reward.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121526Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121526Z">
@@ -14705,6 +14713,14 @@ poczuć się mądrym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Er, Pascal? Is that you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090218Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090218Z">
+        <seg>Ee, Pascal? To ty?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Er, all right.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200328Z" creationid="Syn Spawacza" creationdate="20200530T200328Z">
@@ -15081,6 +15097,14 @@ Daj mi znać, jak go znajdziesz.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154314Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154314Z">
         <seg>Doskonale! Teraz przyczepię to tutaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Excellent! You're the best guinea pig a gal could ask for! This should be the last bit of data I need.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090101Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090101Z">
+        <seg>Świetnie! Jesteś najlepszy królikiem doświadczalnym, o jaki można prosić! To powinna być ostatnia potrzebna pula danych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18197,6 +18221,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey! This is NOT the time to start slacking off!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090150Z">
+        <seg>Hej! To NIE jest pora na opieprzanie się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey, 2B. Why do you think they sent a combat model like you to a recon job?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T182542Z">
@@ -19507,6 +19539,14 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I heard that you were searching for the missing child, yes?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090224Z">
+        <seg>Słyszałem, że szukacie zaginionego dziecka, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hunt for the woman who pines for you.
 The scream pleases me.
 Your body and heart shall be mine.</seg>
@@ -19956,10 +19996,26 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I wanna go hoooome... Siiiiisteeeeer! Where are you!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090330Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090330Z">
+        <seg>Chcę iść do dooomuuu... Siooostrooo! Gdzie jesteś?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I want you to take out those enemies over there in 30 seconds or less.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085823Z">
         <seg>Chcę, żebyś zajęła się tymi wrogami w 30 sekund, lub mniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I want you to wipe out those enemies in 30 seconds or less... Oh, and you can't take any damage either.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090128Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090124Z">
+        <seg>Chcę, żebyś zabiła tych przeciwników 30 lub mniej sekund... Och i nie wolno ci otrzymać żadnych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33567,10 +33623,26 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She's probably somewhere around the desert at the moment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090242Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090242Z">
+        <seg>Pewnie teraz jest gdzieś na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She's probably waiting in her room now.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T150201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T150201Z">
         <seg>Pewnie czeka teraz w swoim pokoju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She's such a good little girl, and so fond of her sister!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090233Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090233Z">
+        <seg>Ona jest taką dobrą, małą dziewczynką i tak bardzo zależy jej na siostrze!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36097,6 +36169,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you so much. And please be careful, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090324Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090324Z">
+        <seg>Tak bardzo wam dziękuję. I proszę, uważajcie na siebie, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thank you.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191052Z" creationid="Syn Spawacza" creationdate="20200530T191052Z">
@@ -36309,6 +36389,14 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085544Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085544Z">
         <seg>I o tym mówię!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's where she's likely to find the dented plate her sister needs.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090308Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090308Z">
+        <seg>Tam miała największe szanse na znalezienie wygiętej płyty, której potrzebuje jej siostra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39764,6 +39852,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Um, hello there! Hello? Testing testing?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090213Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090213Z">
+        <seg>Ee, cześć! Halo? Testuję testuję?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Um, hello?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142634Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142634Z">
@@ -42034,6 +42130,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104905Z" creationid="Syn Spawacza" creationdate="20200606T104905Z">
         <seg>Skoro tak mówisz. Co powiesz na to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Well, if you would, please consider this a personal request from myself as well. Go find the child as quickly as you can!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090229Z">
+        <seg>Cóż, jeśli możecie, to potraktujcie to też jako osobista prośbę ode mnie. Znajdźcie to dziecko jak najszybciej się da!</seg>
       </tuv>
     </tu>
     <tu>
@@ -46932,6 +47036,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144856Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144856Z">
         <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">q110_171236f0_scp.properties</prop>
+      <prop type="id">M5110_S0020_G0080_001_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Got it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090317Z">
+        <seg>Jasne.</seg>
       </tuv>
     </tu>
     <tu>
