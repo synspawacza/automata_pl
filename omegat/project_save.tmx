@@ -540,6 +540,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Formatting complete. He should reboot here in a little while.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142840Z">
+        <seg>Format zakończony. Powinien uruchomić się ponownie za chwilkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Glory to mankind.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151754Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151754Z">
@@ -4863,6 +4871,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Abandon all hatred!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143145Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143145Z">
+        <seg>Porzućcie całą nienawiść!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abandoned Factory</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T160651Z" creationid="Syn Spawacza" creationdate="20200530T160651Z">
@@ -6809,6 +6825,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All right...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142843Z">
+        <seg>Dobrze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All units confirmed.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173719Z" creationid="Syn Spawacza" creationdate="20200530T173719Z">
@@ -7985,6 +8009,14 @@ walczącym na zadanie im serii
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anyway, we'd better get going. The next time you see this guy, he's going to be incredible!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142952Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142952Z">
+        <seg>W każdym razie, będziemy lecieć. Następnym razem, kiedy spotkacie tego gościa, będzie niesamowity!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyway. Operator 6O out!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132311Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132311Z">
@@ -8141,6 +8173,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105405Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105405Z">
         <seg>Jesteście szaleni?! Nigdy tego nie zrobimy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Are you ready?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142850Z">
+        <seg>Gotowa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -10195,6 +10235,14 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130001Z">
         <seg>Bunker do 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But I can't do that without a complete system reset, which is why I had you format him. Now it's time to strengthen him up!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142926Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142926Z">
+        <seg>Ale nie mogłam tego zrobić bez kompletnego zresetowania sytemu, dlatego chciałam, żebyś go sformatował. Teraz pora, by go wzmocnić!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15150,6 +15198,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't you understand? We're too weak.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142910Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142910Z">
+        <seg>Nie rozumiesz? Jesteśmy zbyt słabi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Données géographiques : chargement en cours</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203905Z" creationid="Syn Spawacza" creationdate="20200601T203905Z">
@@ -16275,6 +16331,14 @@ poczuć się mądrym.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223529Z" creationid="Syn Spawacza" creationdate="20200608T223529Z">
         <seg>Używanie wielu czipów &lt;CHIP_NAME&gt; nie zwiększa ich efektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Er, 9S? What was that about?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142956Z">
+        <seg>Ee, 9S? O co w tym wszystkim chodziło?</seg>
       </tuv>
     </tu>
     <tu>
@@ -20856,6 +20920,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm... While I'm at it, I'd better delete all of his namby-pamby ways. I need someone more forceful in my life, you know?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142933Z">
+        <seg>Hmmm... Skoro już przy tym jesteśmy, to lepiej usunę jego niunianie się. Potrzebuję u boku kogoś stanowczego, wiesz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm? My mask?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082443Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082443Z">
@@ -21879,6 +21951,14 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144950Z" creationid="Syn Spawacza" creationdate="20200530T190427Z">
         <seg>Nie wyobrażam sobie... żeby miało się to skończyć dobrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don't know if this is enough payment for all you've done, but please accept it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142947Z">
+        <seg>Nie wiem, czy to wystarczająca zapłata za wszystko co zrobiliście, ale proszę, przyjmijcie ją.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23954,6 +24034,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092107Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092107Z">
         <seg>Ro... Rozumiem... Jaka szkoda. Była kimś, kogo mogłam nazwać swoim mentorem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I...see. I will bear that in mind...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143001Z">
+        <seg>Rozumiem... Będę miał to na uwadze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29252,6 +29340,14 @@ of the forest.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Me? No, I'm fine, thanks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142852Z">
+        <seg>Ja? Nie, nie ma potrzeby, dzięki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Meaningless.&lt;bt_wait&gt;
 Meaningless.&lt;bt_wait&gt;
 MEANINGLESS.&lt;bt_wait&gt;</seg>
@@ -32126,6 +32222,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110647Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110647Z">
         <seg>Och, ale zostawił dla was list. Proszę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, don't look at me like that! This is the sixth time I've had him formatted, and it's never been a problem.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142939Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142939Z">
+        <seg>Och, już się tak na mnie nie patrz! To szósty raz, kiedy go sformatowałam i to nigdy nie był problem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42170,6 +42274,16 @@ To koniec.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you. 
+...You can begin with me.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142828Z">
+        <seg>Dziękuję...
+Możecie zacząć ode mnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thank you. Here's her bio-code—it should help you find her.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142256Z">
@@ -42510,6 +42624,14 @@ To koniec.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111151Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111151Z">
         <seg>Dlatego uznałem, że mam dość.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's why I knew I had to convert one of us into a combat model. Then we'll never have to run from anything again!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142917Z">
+        <seg>Dlatego wiedziałam, że będę musiała przemienić jedno z nas w model bitewny. Wtedy nie będziemy już musieli przed niczym uciekać!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48216,6 +48338,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait, what are you—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142907Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142907Z">
+        <seg>Chwila, co ty...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait, what? No! Hold on!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133208Z">
@@ -50405,6 +50535,14 @@ To taka mordęga.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Women can be pretty scary sometimes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142959Z">
+        <seg>Kobiety czasem potrafią byś straszne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Won't look my way won't look my way won't look my way won't look my way won't
 look my way won't look my way won't look my way won't look my way won't look my
 way won't look my way won't look my way won't look my way won't look my way&lt;bt_wait&gt;</seg>
@@ -52166,6 +52304,14 @@ Och, nie martw się! To dobra reputacja!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105824Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105824Z">
         <seg>Wasze dowództwo kazało mi zbudować nowy punkt dostępu, więc... proszę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your formatting procedure was perfect. I'd expect nothing less from a cutting-edge YoRHa model.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142903Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142903Z">
+        <seg>Twoja procedura formatowania była idealna. Nie spodziewałam się niczego innego od dopracowanego modelu YoRHy.</seg>
       </tuv>
     </tu>
     <tu>
