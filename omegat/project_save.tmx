@@ -396,6 +396,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>..."Together"?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104301Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104301Z">
+        <seg>...„Razem”?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...'Kay.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095650Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090454Z">
@@ -20034,6 +20042,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I can still feel the intense heat beating down on me...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104240Z">
+        <seg>Wciąż czuję ten intensywny żar spływający na mnie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I can tell. I can smell him on you. *sniiiiiiiiff* Ahhhhh!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091251Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091251Z">
@@ -20712,6 +20728,14 @@ do roboty, więc pomóż mi!
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153110Z">
         <seg>Widzę, że jesteście zajęci, ale jeśli macie czas, by mi pomóc, docenię to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I remember having fun there...together.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104258Z">
+        <seg>Pamiętam, ze dobrze się tam bawiłam... razem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28788,6 +28812,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh! This photo...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104235Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104235Z">
+        <seg>Och! To zdjęcie...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh! Well, if you insist... It turns out one of my friends has gone missing.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145229Z">
@@ -32389,6 +32421,22 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T223312Z" creationid="Syn Spawacza" creationdate="20200608T223312Z">
         <seg>Otrzymano książkę o filozofii od Anemone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recently, a search order was issued for a YoRHa member who was in possession of secret information chips. As this individual has since been found, the order is now withdrawn.
+ 
+As a further note, the member in question had been killed by a machine lifeform. However, our search team still managed to recover the information chips. They also located the corpse of another Resistance member nearby; we are currently investigating if the two issues are connected.
+ 
+—The Commander</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104407Z">
+        <seg>Ostatnio został wysłany nakaz poszukiwania członka YoRHY, który był w posiadaniu czipów z sekretnymi informacjami. Skoro konkretny osobnik został odnaleziony, rozkaz zostaje wycofany.
+ 
+Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne formy życia. Jednakże nasz zespół poszukiwawczy i tak dał radę odzyskać chipy z informacjami. Udało im się również zlokalizować ciało innego członka ruchu oporu w jego okolicy; prowadzimy dochodzenie, czy te dwa przypadki są ze sobą powiązane.
+ 
+—Komandor</seg>
       </tuv>
     </tu>
     <tu>
@@ -40216,6 +40264,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is from the amusement park...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104255Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104255Z">
+        <seg>To jest z parku rozrywki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is getting embarrassing...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202403Z" creationid="Syn Spawacza" creationdate="20200530T202403Z">
@@ -43491,6 +43547,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T083934Z" creationid="Syn Spawacza" creationdate="20200601T083934Z">
         <seg>Poskręcany drut</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Was I...with someone?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104243Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104243Z">
+        <seg>Czy byłam... z kimś?</seg>
       </tuv>
     </tu>
     <tu>
