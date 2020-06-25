@@ -6257,6 +6257,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Jamming signals detected from enemy units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125939Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125939Z">
+        <seg>Uwaga: Wykryto sygnał zakłócający ze strony jednostek wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Large enemy group detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130832Z" creationid="Syn Spawacza" creationdate="20200530T174326Z">
@@ -16619,8 +16627,8 @@ MOJĄ UKOCHANĄ</seg>
       <tuv lang="en-US">
         <seg>Father Servo requires a gold ore, a piece of filler metal, a pristine cable, and a large battery.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T113730Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113730Z">
-        <seg>Ojciec Servo potrzebuje rudy złota, kawałka spoiwa, nieskazitelnego kabla i dużej baterii.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125829Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113730Z">
+        <seg>Ojciec Servo potrzebuje rudy złota, kawałka spoiwa, nietkniętego kabla i dużej baterii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32847,6 +32855,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod, search for the locations of relevant enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125838Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125838Z">
+        <seg>Podzie, poszukaj lokalizacji odpowiednich przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod-Übertragungsverbindung wird initialisiert</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203948Z" creationid="Syn Spawacza" creationdate="20200601T203948Z">
@@ -41174,6 +41190,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The more data we have, the better, right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125847Z">
+        <seg>Im więcej danych zbierzemy, tym lepiej, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The more old records I read, the more fascinated I become by the species known as humans. We machines must do all we can to preserve these precious artifacts and continue to record their contents.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T142539Z" creationid="Syn Spawacza" creationdate="20200616T142539Z">
@@ -46004,6 +46028,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We might be able to find one in the remains of other enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125835Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125835Z">
+        <seg>Może damy radę znaleźć jakąś w pozostałościach innych przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need a way through.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130111Z">
@@ -46320,6 +46352,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151524Z">
         <seg>Wykryliśmy wrogów klasy Goliat wewnątrz ruin miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've got company. Looks like machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125931Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125931Z">
+        <seg>Mamy towarzystwo. Wygląda na maszyny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48644,6 +48684,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142926Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142926Z">
         <seg>Kojarzycie maszynę z grubą warstwą farby na twarzy? To ta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You know, I'm still not sure any of this is a good idea.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125843Z">
+        <seg>Wiesz, wciąż nie jestem pewna, czy to dobry pomysł.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52345,6 +52393,16 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090317Z">
         <seg>Jasne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">q162_fc7da4a2_scp.properties</prop>
+      <prop type="id">M5162_S0010_G0070_001_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Yeah?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125949Z">
+        <seg>Doprawdy?</seg>
       </tuv>
     </tu>
     <tu>
