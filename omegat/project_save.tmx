@@ -7109,6 +7109,14 @@ przeznaczona dla Sartre'a.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis: Non-functioning transporters can result in serious limitations to data uploading and other vital mission activities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130802Z">
+        <seg>Analiza: niefunkcjonujący transporter może spowodować poważne ograniczenia w wysyłaniu danych i innych istotnych dla misji działań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: Strong software locks detected. Access impossible.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105134Z">
@@ -7919,6 +7927,22 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193955Z" creationid="Syn Spawacza" creationdate="20200601T193955Z">
         <seg>Arowana maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As I mentioned over laser communications, the access point in the center of the city ruins is malfunctioning, and its data-upload functions, transporter functions, and more are currently halted. According to the analysis team, possible causes include a faulty forwarding terminal, or perhaps even radio interference being emitted by enemies in the area.
+ 
+Please head to the site and check it out when you can, okay? Thanks!
+ 
+—Operator 6O</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130935Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130935Z">
+        <seg>Jak wspomniałam przy ostatniej laserowej komunikacji, punkt dostępu w centrum ruin miasta nie działa i jego funkcje przesyłania danych, transportu i wiele innych zostało wstrzymanych. Według zespołu badawczego, prawdopodobny powód to wadliwy terminal przekazu albo może nawet radiowe zakłócenia emitowane przez wrogów w okolicy.
+ 
+Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzięki!
+ 
+—Operator 6O</seg>
       </tuv>
     </tu>
     <tu>
@@ -10417,6 +10441,14 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105407Z">
         <seg>Możesz w to uwierzyć 2B? Ci kolesie są pomyleni!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can you head over there and get it working again when you have a sec?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130729Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130729Z">
+        <seg>Czy możesz się tam udać i z powrotem go uruchomić, jak znajdziesz chwilę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17629,6 +17661,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Gather as much data as you can, no matter how irrelevant it may seem.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130702Z">
+        <seg>Zbierz jak najwięcej danych możesz, niezależnie jak nieprzydatne się wydają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Gathering Intel</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173135Z" creationid="Syn Spawacza" creationdate="20200601T173135Z">
@@ -21664,6 +21704,14 @@ do roboty, więc pomóż mi!
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I read you, Operator. Go ahead.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130718Z">
+        <seg>Słyszę cię, Operatorze. Mów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I realize the odds of you believing me are strikingly low...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145937Z">
@@ -24676,6 +24724,14 @@ były otoczone troskliwą opieką.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130412Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130412Z">
         <seg>Jest podobny w strukturze do komórki roślinnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It looks like the transporter we installed in the city ruins has gone offline.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130721Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130721Z">
+        <seg>Wygląda na to, że transporter zainstalowany w ruinach miasta odłączył się od sieci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31000,6 +31056,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Okay. That should be everything we need to repair the machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130847Z">
+        <seg>Okej. To powinno być wszystko, co jest nam potrzebne do naprawienia tej maszyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Okay. That's weird.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091254Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091254Z">
@@ -31442,8 +31506,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Operator 6O to 2B. Come in, 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125432Z">
-        <seg>Operator 6O do 2B. Odezwij się 2B.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130714Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125432Z">
+        <seg>Operator 6O do 2B. Odezwij się, 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31660,6 +31724,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T131640Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T131640Z">
         <seg>Nasze zapiski nie wspominają nic o maszynach takich jak ta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our surface activity is going to be severely limited until we get it fixed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130727Z">
+        <seg>Nasza aktywność na powierzchni zostanie poważnie ograniczona, dopóki tego nie naprawimy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34273,6 +34345,14 @@ Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne fo
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201705Z" creationid="Syn Spawacza" creationdate="20200601T201705Z">
         <seg>Recepcjonista</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recommend repairing transporter as quickly as possible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130808Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130808Z">
+        <seg>Zalecam naprawienie transportera najszybciej jak to możliwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40298,6 +40378,14 @@ To koniec.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091836Z">
         <seg>Dzięki! Wiedziałam, że mogę na was liczyć!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks, 2B! Sending the details now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130735Z">
+        <seg>Dzięki 2B! Wysyłam ci szczegóły.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47933,6 +48021,14 @@ To taka mordęga.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195130Z" creationid="Syn Spawacza" creationdate="20200601T195130Z">
         <seg>Maszyna żona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130733Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130733Z">
+        <seg>Zrobi się.</seg>
       </tuv>
     </tu>
     <tu>
