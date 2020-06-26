@@ -7636,6 +7636,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: FFCS destroyed. Ranged combat no longer operable.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170638Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170638Z">
+        <seg>Uwaga: FFCS zniszczone. Walka dystansowa nie jest już możliwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Faint black box signal detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152315Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152315Z">
@@ -8974,6 +8982,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095142Z">
         <seg>Analiza: Jest to utwardzona wazelina, znana jako „szminka”. Ludzie nakładali to na usta, by wyglądać atrakcyjniej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: The actions of unit 9S have an unacceptably low probability of success.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170610Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170606Z">
+        <seg>Analiza: działania podjęte przez jednostkę 9S mają nie akceptowanie niskie prawdopodobieństwo sukcesu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19626,6 +19642,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160248Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160248Z">
         <seg>Tarcza wroga zdezaktywowana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemy unit cut off from network functionality.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170623Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170623Z">
+        <seg>Wroga jednostka odcięta od funkcji sieci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30647,6 +30671,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213920Z" creationid="Syn Spawacza" creationdate="20200608T213920Z">
         <seg>Genialny idiota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If 9S says he can do it, then he will!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170620Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170620Z">
+        <seg>Jeśli 9S mówi, że może to zrobić, to to zrobi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45211,6 +45243,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Unit 2B should abandon unit 9S and save—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170617Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170617Z">
+        <seg>Propozycja: jednostka 2B powinna porzucić jednostkę 9S i ratować...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Unit 2B should destroy the enemy machines.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132130Z">
@@ -45319,6 +45359,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124134Z">
         <seg>Obronić... grób... króla...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protecting unit 9S while he hacks the system!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170559Z">
+        <seg>Ochrona jednostki 9S, gdy hakuje system!</seg>
       </tuv>
     </tu>
     <tu>
@@ -54739,6 +54787,14 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083232Z">
         <seg>Na poziomie Trudnym przeciwnicy stają się silniejsi i nie możesz używać żadnych skupiających na celu zdolności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The enemy is connected to a vast network.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170601Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170601Z">
+        <seg>Wróg jest podłączony do obszernej sieci.</seg>
       </tuv>
     </tu>
     <tu>
