@@ -1006,6 +1006,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Sounds good!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215109Z">
+        <seg>Brzmi dobrze...!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...THE MEDICINE SEEMS TO HAVE WORKED. SHE IS SLEEPING SOUNDLY.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095508Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095508Z">
@@ -1676,6 +1684,14 @@ Spróbuję tego i dam ci znać, co mi wyszło!
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B! I have an idea!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215040Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215040Z">
+        <seg>2B! Mam pomysł!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B! I just shut down the electrical grid!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160246Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160246Z">
@@ -1764,6 +1780,14 @@ Spróbuję tego i dam ci znać, co mi wyszło!
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B! Your black box!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215126Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215126Z">
+        <seg>2B! Twoja czarna skrzynka!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B's black box signal detected nearby.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164411Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164411Z">
@@ -1836,6 +1860,14 @@ Thank you soooo much for repairing that access point! Sorry I'm always putting y
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T135037Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T135037Z">
         <seg>2B, Dowództwo planuje wystrzelić z satelity laser w twój cel!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B, I need to hack into you and fry your identification circuit!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214929Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214929Z">
+        <seg>2B, muszę cię zhakować, żeby usmażyć twoje obwody identyfikacyjne!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1960,6 +1992,14 @@ Dzięki wielkie za naprawę urządzenia transportowego!
 Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane na Ziemię... Jest tak wiele rzeczy, które bym chciała wiedzieć o tej planecie! Jak będziesz miała chwilę, to z chęcią posłucham Twoich opowieści!
  
 —Operator 6O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2B. You okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214858Z">
+        <seg>2B. Wszystko w porządku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2240,6 +2280,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152408Z" creationid="Syn Spawacza" creationdate="20200608T152408Z">
         <seg>5% szansa na odzyskanie 10% obrażeń jako zdrowie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>50 percent complete!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215114Z">
+        <seg>Wysłano 50 procent!</seg>
       </tuv>
     </tu>
     <tu>
@@ -7644,6 +7692,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Connection lost. Unable to reach Command.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215020Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215020Z">
+        <seg>Uwaga: Utracono połączenie. Nie można połączyć się z Dowództwem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Corruption confirmed in YoRHa unit 9S's self-consciousness data.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164948Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164948Z">
@@ -8497,6 +8553,14 @@ stopniu kontrolę kierunku.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213521Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213521Z">
         <seg>Prawie zrobione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Almost! We're at 92 percent!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215124Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215124Z">
+        <seg>Prawie! Jesteśmy na 92 procentach!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10372,6 +10436,14 @@ Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w któr
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you done yet!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215122Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215122Z">
+        <seg>Skończyłeś już?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you feeling all right?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T175100Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T175100Z">
@@ -10744,6 +10816,14 @@ Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzi�
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211122Z" creationid="Syn Spawacza" creationdate="20200601T211122Z">
         <seg>Nastawiony na atak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attack functions aren't working!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214922Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214922Z">
+        <seg>Funkcje ataku nie działają!</seg>
       </tuv>
     </tu>
     <tu>
@@ -15266,6 +15346,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Connection lost due to server-side authentication failure.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215030Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215030Z">
+        <seg>Utracono połączenie w związku z porażka autoryzacji ze strony serwera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contact Command.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185239Z" creationid="Syn Spawacza" creationdate="20200530T185239Z">
@@ -16324,6 +16412,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damn it, they're STILL jamming us?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215022Z">
+        <seg>Cholera, WCIĄŻ nas zakłócają?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damn it, we took too long. They're gone.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214238Z">
@@ -16520,6 +16616,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T213018Z" creationid="Syn Spawacza" creationdate="20200608T213018Z">
         <seg>Dane ze starego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data upload 30 percent complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215112Z">
+        <seg>Ukończono 30 procent wysyłania danych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22838,6 +22942,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>God damn it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215000Z">
+        <seg>Cholera by to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goddamned machines!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165109Z">
@@ -27240,6 +27352,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I can use that to initiate an emergency upload of our personal log data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215049Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215049Z">
+        <seg>Mogę jej użyć, żeby zainicjować kryzysowe wysłanie naszych osobistych zapisów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I can use this!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133920Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T133920Z">
@@ -27300,6 +27420,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115645Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115645Z">
         <seg>Nie jestem w stanie wyczarować tak skomplikowanego narkotyku przez noc. Zajmij się czymś przez chwilę, okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I can't keep doing this forever!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215038Z">
+        <seg>Nie mogę tak walczyć przez wieczność!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28405,6 +28533,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T131943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T131943Z">
         <seg>Wiem... Muszę stać się piękniejsza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I located the unit that's jamming our comms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215004Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215004Z">
+        <seg>Zlokalizowałem jednostkę, która zakłóca naszą komunikację.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31023,6 +31159,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170604Z" creationid="Syn Spawacza" creationdate="20200530T170604Z">
         <seg>Sygnał identyfikujący nie działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Identification signal not functioning</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214944Z">
+        <seg>Sygnał identyfikacyjny nie działa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34101,6 +34245,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's possible to access the Bunker through a backdoor in the system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215044Z">
+        <seg>Możliwe jest dotarcie do Bunkra przez tylną furtkę w systemie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's ready.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144956Z" creationid="Syn Spawacza" creationdate="20200530T190634Z">
@@ -36178,6 +36330,14 @@ Niezapisane dane zostaną utracone.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072252Z" creationid="Syn Spawacza" creationdate="20200530T132118Z">
         <seg>Śledzenie namierzonych p.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Log-data upload complete!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215131Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215131Z">
+        <seg>Wysłano zapisy danych!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39434,6 +39594,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Negative. Signal reception is clear.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215025Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215025Z">
+        <seg>Zaprzeczenie. Odbiór sygnału jest czysty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Negative. This enemy is unrelated.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130918Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
@@ -39966,6 +40134,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143850Z" creationid="Syn Spawacza" creationdate="20200530T183054Z">
         <seg>Brak odpowiedzi na próby komunikacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No responses coming from Command on any channel.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215033Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215033Z">
+        <seg>Żadne odpowiedzi nie docierają z żadnego kanału Dowództwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44939,6 +45115,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod, report our status to Command!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214952Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214952Z">
+        <seg>Podzie, zgłoś nasz status Dowództwu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod, scan this bio-code and run a positional search.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142258Z">
@@ -44959,6 +45143,14 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143422Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143422Z">
         <seg>Podzie, wyślij sygnał ratunkowy do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod, send an emergency distress signal to Command!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215016Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215016Z">
+        <seg>Podzie wyślij alarmowy sygnał kryzysowy do Dowództwa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -50290,6 +50482,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shit. What happened to the Bunker?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215035Z">
+        <seg>Cholera. Co stało się w Bunkrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shit...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164559Z">
@@ -54332,6 +54532,14 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That should take care of the jamming.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215013Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215013Z">
+        <seg>To powinno anulować zakłócenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That this world...is utterly meaningless.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164819Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164819Z">
@@ -54456,6 +54664,14 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132430Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132430Z">
         <seg>To najdalej, jak możemy ją tutaj zabrać, ale są na świecie rzemieślnicy, którzy podniosą ja do Poziomu 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's because of their YoRHa IDs!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214925Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214925Z">
+        <seg>Jest tak przez ich ID YoRHy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -55634,6 +55850,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The hell...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214901Z">
+        <seg>Co do...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The honor was mine.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145030Z" creationid="Syn Spawacza" creationdate="20200530T190853Z">
@@ -55646,6 +55870,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163329Z">
         <seg>Ludzka rasa... nie istnieje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The jamming is coming from that thing!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215011Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215011Z">
+        <seg>Zakłócenia dochodzą z tej rzeczy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -56507,6 +56739,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Then we set our black boxes to self-destruct and take 'em all out at once!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215103Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215103Z">
+        <seg>Wtedy ustawimy nasze czarne skrzynki na autodestrukcję i rozwalimy je wszystkie za jednym razem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Then you must be here to kill me.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T155806Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T155806Z">
@@ -57291,6 +57531,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164619Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164619Z">
         <seg>Wciąż nadchodzą?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They've been infected and taken over!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214916Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214916Z">
+        <seg>Zostały zainfekowane i przejęte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61896,6 +62144,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait, what!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214919Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214919Z">
+        <seg>Chwila, co?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wait, what? No! Hold on!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133208Z">
@@ -62428,6 +62684,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163222Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163222Z">
         <seg>To my zainstalowaliśmy serwer Rady Ludzkości na powierzchni Księżyca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We just hit 70 percent!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215120Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215120Z">
+        <seg>Właśnie mamy 70 procent!</seg>
       </tuv>
     </tu>
     <tu>
