@@ -7212,6 +7212,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Resistance fighters in the vicinity were annihilated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142159Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142159Z">
+        <seg>Wszyscy członkowie Ruchu Oporu w zasięgu zostali unicestwieni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Rights Reserved.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072106Z" creationid="Syn Spawacza" creationdate="20200601T072106Z">
@@ -13586,6 +13594,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142335Z" creationid="Syn Spawacza" creationdate="20200530T142335Z">
         <seg>Sprawdź szczegóły zadań i celów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Confirmed elimination of electromagnetic interference.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142217Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142217Z">
+        <seg>Elektromagnetyczne zakłócenia wyeliminowane!</seg>
       </tuv>
     </tu>
     <tu>
@@ -45766,6 +45782,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So basically, if this thing reaches land, we're screwed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142203Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142203Z">
+        <seg>Więc, krótko mówiąc, jeśli to dotrze do brzegu, mamy przerąbane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So benevolent and kind... And now he's dead.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T091420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T091420Z">
@@ -46812,6 +46836,14 @@ wśród wrogów których dotknie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092045Z">
         <seg>Odkryto pieczątkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stand by for incoming satellite laser strike.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142221Z">
+        <seg>Przygotowujemy strzał z lasera z satelity!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64250,6 +64282,16 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
         <seg>Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144856Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144856Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p200_20cd934d_scp.properties</prop>
+      <prop type="id">M1060_S0070_G0200_011_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142214Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142214Z">
         <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
