@@ -16292,6 +16292,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damn it! There's no end to them!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214633Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214633Z">
+        <seg>Cholera! Ciągle przybywają nowi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damn it! They're here too!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164628Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164628Z">
@@ -27825,10 +27833,34 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I gotta do something...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214704Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214704Z">
+        <seg>Muszę coś zrobić...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I gotta finish 'em off and help 2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214842Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214842Z">
+        <seg>Muszę się ich pozbyć i pomóc 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I gotta get those packages for transport out of there...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104727Z">
         <seg>Muszę wydostać stamtąd te paczki do transportu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I gotta...reboot...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214554Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214554Z">
+        <seg>Muszę... się zrestartować...</seg>
       </tuv>
     </tu>
     <tu>
@@ -28049,10 +28081,26 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have to protect 2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214607Z">
+        <seg>Muszę chronić 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I have to repair him.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183313Z" creationid="Syn Spawacza" creationdate="20200530T183313Z">
         <seg>Muszę go naprawić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have to save 2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214656Z">
+        <seg>Muszę uratować 2B!</seg>
       </tuv>
     </tu>
     <tu>
@@ -29875,6 +29923,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T093752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T093752Z">
         <seg>Otworzę bramę, którą zbudowaliśmy, by powstrzymać najeźdźców wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'll provide backup!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214600Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214600Z">
+        <seg>Zapewnię wsparcie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33061,6 +33117,14 @@ Pewnie Operatorka będzie tym zainteresowana.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is this...a wide-area virus?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214732Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214732Z">
+        <seg>Czy to... wielko-obszarowy wirus?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is this...death...?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150559Z">
@@ -35706,6 +35770,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164533Z">
         <seg>Załatwmy tego drania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let...my guard down... EMP hit me point-blank...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214547Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214547Z">
+        <seg>Dałam... się zaskoczyć... EMP zwaliło mnie z nóg...</seg>
       </tuv>
     </tu>
     <tu>
@@ -57239,6 +57311,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They...they have visual camouflage!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214603Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214603Z">
+        <seg>One... używają wizualnego kamuflażu?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thick Dictionary</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T084903Z" creationid="Syn Spawacza" creationdate="20200601T084903Z">
@@ -58225,6 +58305,14 @@ jeszcze splamione nawet kroplą krwi.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214002Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214002Z">
         <seg>To zwycięstwo było gigantycznym krokiem naprzód w naszej misji odzyskania Ziemi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This viral attack... The EMP must have triggered it!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214700Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214700Z">
+        <seg>Ten atak wirusowy... EMP musiało go uruchomić?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64587,6 +64675,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What the hell's going on here!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214605Z">
+        <seg>Co do cholery się tu dzieje?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What the hell?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T131636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T131636Z">
@@ -67606,6 +67702,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170412Z" creationid="Syn Spawacza" creationdate="20200530T170412Z">
         <seg>Zdobyto broń:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You okay!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214729Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214729Z">
+        <seg>Nic ci nie jest?!</seg>
       </tuv>
     </tu>
     <tu>
