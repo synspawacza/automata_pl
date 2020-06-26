@@ -7902,6 +7902,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All YoRHa members are to report to combat stations immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163354Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163354Z">
+        <seg>Wszystkie jednostki YoRHa mają stawić się natychmiast przy stacjach bojowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All YoRHa units are hereby ordered to prioritize data collection above all else.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151746Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151746Z">
@@ -9900,6 +9908,34 @@ We have received troubling reports from multiple administration zones that the R
 [Podsumowanie]
  
 Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w których Replikanci zaczęli się zachowywać tak, jakby zdobyli świadomość. Wciąż to badamy jaki to może mieć wpływ na całość Projektu Gestalt. Tak jak inne zamknięte sprawy zostały już przekazane do Unii Administracyjnej, tą pominięto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>April 4, 2015
+ 
+[Summary]
+ 
+- Protests in opposition to the "Spiritual Preservation Method" that was disclosed as Level 1 information related to Project Gestalt have sprung up in all areas.
+ 
+- The committee continues to receive formal complaints from our research team regarding the collection of biased data as a result of the Gestalt process being conducted on the sick and elderly.
+ 
+- The number of civilians having undergone the Gestalt process remains at four.
+ 
+- A public relations department will be established in order to better control information and improve our image. We will also consider rescheduling the project itself if such an action is deemed necessary.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163617Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163617Z">
+        <seg>4 kwietnia 2015
+ 
+[Podsumowanie]
+ 
+- Protesty przeciwko „Metodzie Duchowego Zachowania”, które było informacją poziomu 1 związaną z Projektem Gestalt, wybuchają wszędzie.
+ 
+- Komitet wciąż otrzymuje formalne skargi od zespołu badawczego dotyczące nieprawdziwych i krzywdzących plotek jakoby proces Gestalt był przeprowadzany na chorych i starych.
+ 
+- Ilość cywilów, którzy poddali się procesowi Gestalt wynosi wciąż cztery.
+ 
+- Oddział Public relations zostanie utworzony, by utrzymać lepszą kontrolę nad informacjami i poprawić nasz wizerunek. Weźmiemy też pod uwagę zmianę harmonogramu projektu, jeśli to wyda się niezbędne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14262,6 +14298,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124837Z">
         <seg>Prośba o wymianę danych bojowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Combat stations? I'd better get a move on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163400Z">
+        <seg>Stacje bojowe? Lepiej się ruszę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18957,6 +19001,14 @@ Bolesne. To boli. Pomocy. Czemu przestać. Kim jestem? Źle źle źle. Muszę uc
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160553Z" creationid="Syn Spawacza" creationdate="20200608T160553Z">
         <seg>Wyeliminuj maszyny na pustyni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emergency Protocol, code F2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163351Z">
+        <seg>Protokół Kryzysowy, kod F2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25570,6 +25622,14 @@ Przydałoby mi się więcej pomocy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144608Z">
         <seg>Jak ja...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How do I tell 2B?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163348Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163348Z">
+        <seg>Jak ja to powiem 2B?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36209,6 +36269,30 @@ wydaje się nie mieć sensu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>March 12, 2014
+ 
+[Summary]
+ 
+The proliferation of the White Chlorination Syndrome that emerged in 2003— alongside the appearance of the "Giant" and "Dragon"—has continued unabated, and outbreaks are now being observed on a global scale. Despite being researched in laboratories across the world, not only have there been no breakthroughs in the development of a vaccine to prevent infection, we have yet to ascertain how it even spreads.
+ 
+However, many technological breakthroughs have been made as a result of research conducted on the "maso" particle that was discovered at that same time. We are confident that the technology it enables — the separation of the soul from the body and the independent preservation of both — will be the final defense against the unprecedented threat to humanity we now face.
+ 
+Now that the project has passed from preparation into the main implementation phase, we have given it the official name "Project Gestalt."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163519Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163519Z">
+        <seg>12 marca 2014
+ 
+[Podsumowanie]
+ 
+Rozprzestrzenianie się Syndromu Białego Chlorowania, który powstał w 2003 — wraz z pojawieniem się „Giganta” oraz „Smoka” — trwa niepowstrzymanie i wybuchy ognisk są obserwowane na globalną skalę. Pomimo badań w laboratoriach na całym świecie, nie tylko nie było przełomów w wynalezieniu szczepionek przeciw infekcji, ale nawet nie upewniliśmy się jak się roznosi.
+ 
+Jednakże doszło do wielu przełomowych odkryć technologicznych w rezultacie badań przeprowadzanych na czasteczce „maso”, która odkryto w tym samym czasie. Jesteśmy pewni, że technologia, którą ona umożliwia — oddzielenie duszy od ciała i niezależne istnienie obu — będzie ostateczną obroną przeciwko bezprecedensowemu zagrożeniu, któremu teraz stawia czoła ludzkość.
+ 
+Teraz, kiedy projekt wyszedł z fazy przygotowań do fazy głównej implementacji, otrzymał oficjalną nazwę „Projekt Gestalt”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Marine life has returned in force to the oceans and rivers, after all.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144440Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144440Z">
@@ -45850,6 +45934,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Repeat. Emergency Protocol, code F2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163357Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163357Z">
+        <seg>Powtarzam. Protokół Kryzysowy, kod F2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Replace your fuel filter.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163319Z" creationid="Syn Spawacza" creationdate="20200608T163319Z">
@@ -53890,6 +53982,14 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145030Z" creationid="Syn Spawacza" creationdate="20200530T190853Z">
         <seg>Dla mnie również.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The human race is...gone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163329Z">
+        <seg>Ludzka rasa... nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
