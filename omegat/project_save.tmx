@@ -850,6 +850,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...THE MEDICINE SEEMS TO HAVE WORKED. SHE IS SLEEPING SOUNDLY.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095508Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095508Z">
+        <seg>WYGLĄDA NA TO, ŻE LEK ZADZIAŁAŁ. GŁĘBOKO ZASNĘŁA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Tch.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154800Z">
@@ -4157,6 +4165,14 @@ włóczni, po czym spotkał go taki sam los.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A request for information was not submitted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095445Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095445Z">
+        <seg>Nie padła prośba o taką informację.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A restored photo. It's much clearer now.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T120056Z" creationid="Syn Spawacza" creationdate="20200601T120056Z">
@@ -6792,6 +6808,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Organic pharmacology textbook discovered.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095356Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095356Z">
+        <seg>Uwaga: odkryto podręcznik farmakologii organicznej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Poor reception in this area is preventing data upload.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140709Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140709Z">
@@ -7720,6 +7744,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105134Z">
         <seg>Analiza: wykryto silne software'owe zamki. Dostęp niemożliwy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: That is a hygienic tool known as a "toothbrush."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095215Z">
+        <seg>Analiza: jest to narzędzie służące do higieny, zwane „szczoteczką do zębów”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11750,6 +11782,22 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200531T110940Z" creationid="Syn Spawacza" creationdate="20200530T141412Z">
         <seg>Ostrożny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cavities are bits of decayed enamel caused by acids in the mouth. The cave analogy is not altogether inaccurate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095235Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095235Z">
+        <seg>Dziury to fragmenty zepsutego szkliwa, spowodowane kwasem w ustach. Skojarzenie z ziemią jest nieadekwatne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cavities? As in caves?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095229Z">
+        <seg>Dziur? Takich w ziemi?</seg>
       </tuv>
     </tu>
     <tu>
@@ -21953,6 +22001,14 @@ lifeforms.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm. Well, it's got nothing to do with us.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095350Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095350Z">
+        <seg>Hmmm. Cóż, to nie ma z nami nic wspólnego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm. Wonder if there are any huge boars and such too?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090857Z">
@@ -22659,6 +22715,14 @@ but to machines it's worthless.</seg>
         <seg>Ludzie uważali złoto za cenny
 materiał, dla maszyn zaś jest
 bezwartościowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Humans moved it back and forth across the teeth at a rapid rate to reduce the probability of cavities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095224Z">
+        <seg>Ludzie ruszali tym w tę i z powrotem po zębach w szybkim tempie, by zmniejszyć ryzyko dziur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29626,6 +29690,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's just make the medicine and get it back to that machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095451Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095451Z">
+        <seg>Po prostu zróbmy lek i zanieśmy go tej maszynie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's keep our eyes open next time we're in any of those areas.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153152Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153152Z">
@@ -30455,6 +30527,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095008Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095008Z">
         <seg>LEK...ARSTWO? TEN KONCEPT NIE JEST MI ZNANY.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>MEDICINE!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095453Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095453Z">
+        <seg>LEKARSTWO!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36465,6 +36545,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085747Z" creationid="Syn Spawacza" creationdate="20200601T085747Z">
         <seg>Paczka</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Page 278 contains a recipe for an anti-inflammation analgesic which has a high probability of—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095430Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095426Z">
+        <seg>Strona 278 zawiera przepis na lek przeciwzapalny i przeciwbólowy, który ma dużą szansę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44599,6 +44687,14 @@ and an old dragon.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>THANK YOU. I WILL ADMINISTER IT IMMEDIATELY.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095457Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095457Z">
+        <seg>DZIĘKUJĘ. ZAAPLIKUJĘ JE NATYCHMIAST.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>THAT'S IT! Where did you find it?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104430Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104430Z">
@@ -46219,6 +46315,14 @@ zostali zniszczeni przez Ruch Oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The contents of this book are contained in my internal database.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095440Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095440Z">
+        <seg>Zawartość tej książki mieści się w mojej wewnętrznej bazie danych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The control...on the enemy's upper arm...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184236Z" creationid="Syn Spawacza" creationdate="20200530T184236Z">
@@ -46308,6 +46412,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T124036Z" creationid="Syn Spawacza" creationdate="20200617T124036Z">
         <seg>Ohydna, ciemna włócznia, stworzona przez piękną rzemieślniczkę. Ludzie wszem i wobec chwalili jej projekt, co wywołało zazdrość u jej ucznia. Uczeń zabił nią swoją nauczycielkę, zaś włócznia rozpłynęła się w odmętach czasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The data contained within should prove effective for ungulates such as moose.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095414Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095414Z">
+        <seg>Dane w nim zawarte powinny okazać się skuteczne dla takiego kopytnego jak łoś.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51695,6 +51807,14 @@ nadmierną konsumpcją energii.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>WHAT!? Why didn't you tell us that when we first started looking for it!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095443Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095443Z">
+        <seg>CO?! Czemu nie powiedziałeś nam tego, jak wyruszyliśmy na jej poszukiwanie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>WITH DEATH
 WENT MY LOVER
 TO ETERNITY</seg>
@@ -52201,6 +52321,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180938Z" creationid="Syn Spawacza" creationdate="20200606T112945Z">
         <seg>Nie udało nam się z nimi skontaktować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We haven't even cracked this thing open yet! How do you know what's in it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095437Z">
+        <seg>Nawet tego jeszcze nie otworzyliśmy! Skąd wiesz co jest w środku?</seg>
       </tuv>
     </tu>
     <tu>
@@ -53374,6 +53502,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, this has been a glorious waste of time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095448Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095448Z">
+        <seg>Cóż, to była cudowna strata czasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, this is weird.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125001Z">
@@ -53782,6 +53918,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's this?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095210Z">
+        <seg>Co to jest?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's this? Says "ledger" on it...
 Oh well, more junk for the Operator!</seg>
       </tuv>
@@ -54128,6 +54272,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150904Z">
         <seg>A kto pyta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Whoa whoa whoa! Hold on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095434Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095434Z">
+        <seg>Ła ła ła! Chwila.</seg>
       </tuv>
     </tu>
     <tu>
