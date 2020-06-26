@@ -10460,6 +10460,14 @@ Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzi�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As such, humanity has chosen to seize this opportunity and launch an all-out attack against the machine forces.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T212513Z">
+        <seg>W tej sytuacji ludzkość wybrała by wykorzystać okazję i wysłać całe siły przeciwko siłom maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As the name suggests, the residents of Facade all wore masks, as well as unusual clothes.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121953Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121953Z">
@@ -40604,6 +40612,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Of course, the forces of YoRHa will participate in this endeavor.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212518Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T212518Z">
+        <seg>Oczywiście, siły YoRHy będą uczestniczyć w tym przedsięwzięciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Of course.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104450Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104450Z">
@@ -54823,6 +54839,14 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The enemy's chain of command has been thrown into complete chaos.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212509Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T212509Z">
+        <seg>Łańcuch dowodzenia wroga zapadł w kompletny chaos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemy's defensive weapon is making things more difficult than we estimated.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135529Z">
@@ -55390,8 +55414,8 @@ Kontynuować mimo to?</seg>
       <tuv lang="en-US">
         <seg>The pain of having your homeland stolen!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165550Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165550Z">
-        <seg>Bólu utraconej ojczyzny.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212530Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165550Z">
+        <seg>Bólu utraconej ojczyzny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -59347,6 +59371,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Um, can you please try not to puke while we're in the deep vacuum of space? It's super gross.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212723Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T212723Z">
+        <seg>Um, mogłabyś postarać się nie wymiotować w próżni kosmicznej? To mega obrzydliwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Um, do you want us to bring a message back to the woman who gave this to you?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T094722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T094722Z">
@@ -62034,8 +62066,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>We will not fail in this mission...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165605Z">
-        <seg>Nie zaakceptujemy porażki w tej misji...</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165605Z">
+        <seg>Nie odniesiemy porażki w tej misji...</seg>
       </tuv>
     </tu>
     <tu>
@@ -62090,8 +62122,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>We will take back the seas! The skies! The land!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165556Z">
-        <seg>Odbierzemy z powrotem morza, niebo, ziemię!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212558Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165556Z">
+        <seg>Odbierzemy z powrotem morza! Niebo! Ziemię!</seg>
       </tuv>
     </tu>
     <tu>
@@ -62468,6 +62500,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134813Z">
         <seg>Jesteśmy pod ciężkim ostrzałem wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've confirmed that the network core units known as Adam and Eve have been destroyed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T212441Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T212441Z">
+        <seg>Potwierdziliśmy, że jednostki rdzenne dla sieci, znane jako Adam i Ewa zostały zniszczone.</seg>
       </tuv>
     </tu>
     <tu>
