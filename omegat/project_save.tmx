@@ -7268,6 +7268,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All these advances, and it's all thanks to YOU! ...See? I told you science was the best.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115605Z">
+        <seg>Cały ten postęp i wszystko dzięki TOBIE!... Widzisz? Mówiłam, że nauka rządzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All this help for no personal gain? I know she's pretty, but—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150500Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150500Z">
@@ -8520,6 +8528,14 @@ walczącym na zadanie im serii
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095545Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095545Z">
         <seg>Jakieś pomysły 2B? Nigdy wcześniej nie musiałem radzić sobie z zasmarkaną maszyną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anyway, I think I can localize this substance and turn it into a drug that will help expand our combat capabilities.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115601Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115601Z">
+        <seg>W każdym razie, jestem w stanie zlokalizować tę substancję i przemienić ją w narkotyk, który rozszerzy nasze możliwości bitewne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34471,10 +34487,9 @@ mechanicznej formy życia.</seg>
         <seg>Now it's time to fight! 
 In the name... OF SCIENCE!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085628Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085628Z">
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085628Z">
         <seg>Pora walczyć!
-W imię... NAUKI!
-</seg>
+W imię... NAUKI!</seg>
       </tuv>
     </tu>
     <tu>
@@ -47290,6 +47305,14 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135529Z">
         <seg>Broń defensywna wroga utrudniła wszystko bardziej, niż zakładaliśmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The excitement we feel in battle is caused by a type of pleasure-generating chemical produced in our circuits!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115556Z">
+        <seg>Podniecenie, które czujemy w trakcie walki, jest powodowane chemikaliami generującymi przyjemność, produkowanymi w naszych obwodach!</seg>
       </tuv>
     </tu>
     <tu>
