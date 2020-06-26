@@ -2620,6 +2620,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S, I need to take over your controls!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215823Z">
+        <seg>9S, potrzebuję przejąc twoje sterowanie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9S, why did you ask Pascal about A2?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094051Z">
@@ -7740,6 +7748,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Critical damage to flight unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215908Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215908Z">
+        <seg>Uwaga: wykryto krytyczne obrażenia jednostki latającej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Data synchronization is mandatory for all YoRHa units.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161022Z">
@@ -7784,6 +7800,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170159Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170159Z">
         <seg>Uwaga: wykryto tarcze energetyczne na wielu walczących wrogach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: FFCS and NFCS systems unresponsive.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215920Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215920Z">
+        <seg>Uwaga: Systemy FFCS i NFCS nie odpowiadają.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7940,10 +7964,26 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Multiple enemies confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215928Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215928Z">
+        <seg>Uwaga: Potwierdzono wielu wrogów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Multiple machine lifeforms detected above our position.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133122Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133122Z">
         <seg>Uwaga: wykryto liczne mechaniczne formy życia nad naszą pozycją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Multiple pursuers detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215810Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215810Z">
+        <seg>Uwaga: Wykryto wielu prześladowców.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7984,6 +8024,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152344Z">
         <seg>Uwaga: prawdopodobieństwo zasadzki wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Reactor core temperature rising.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215917Z">
+        <seg>Uwaga: Wzrasta temperatura rdzenia reaktora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8054,10 +8102,42 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Virus contamination rate up to 16 percent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220014Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220014Z">
+        <seg>Uwaga: Poziom skażenia wirusem wzrósł do 16 procent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Virus contamination rate up to 32 percent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220103Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220103Z">
+        <seg>Uwaga: Poziom skażenia wirusem wzrósł do 32 procent.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Virus infection detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215932Z">
+        <seg>Uwaga: wykryto infekcję wirusową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: We are not authorized to access this data.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161406Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161406Z">
         <seg>Uwaga: nie jesteśmy autoryzowani, by widzieć te dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: YoRHa unit 2B will sustain serious damage unless the virus is eliminated.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220050Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220050Z">
+        <seg>Uwaga: Jednostka YoRHa 2B odniesie poważne obrażenia, jeśli nie wyeliminuje się wirusa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8332,6 +8412,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160922Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160922Z">
         <seg>Dobrze, dobrze. Rób co musisz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All right, enough of this shit...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215821Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215821Z">
+        <seg>Dobra, koniec tego szajsu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9154,6 +9242,14 @@ Doceniono twoją pomoc.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis: Offensive functionality lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215923Z">
+        <seg>Analiza: Funkcjonalność ofensywna utracona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: Scans indicate no mechanical malfunctions in this unit. Therefore, it must be deliberately ignoring you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153056Z">
@@ -9190,6 +9286,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170610Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170606Z">
         <seg>Analiza: działania podjęte przez jednostkę 9S mają nie akceptowanie niskie prawdopodobieństwo sukcesu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: The area near the abandoned commercial facility meets the desired parameters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220045Z">
+        <seg>Analiza: Obszar w okolicach porzuconego centrum handlowego spełnia oczekiwane parametry.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15274,6 +15378,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Commander...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215807Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215807Z">
+        <seg>Pani Komandor...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Commander?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134417Z">
@@ -20318,6 +20430,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Entering escape route from combat zone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215844Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215844Z">
+        <seg>Wpisuję drogę ucieczki z obszaru walki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enthusiastic Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203518Z" creationid="Syn Spawacza" creationdate="20200601T203518Z">
@@ -22026,6 +22146,22 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flight controls established for unit 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215836Z">
+        <seg>Sterowanie lotem związane z jednostką 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flight controls transferred to unit 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215833Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215833Z">
+        <seg>Sterowanie lotem przekazane jednostce 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Flight units also leave us open to attack, and they're expensive to operate, too.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105929Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105929Z">
@@ -23142,6 +23278,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>God damn it...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215925Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215925Z">
+        <seg>Cholera by to...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Goddamned machines!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165109Z">
@@ -23402,6 +23546,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170204Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170204Z">
         <seg>Łapię. Zabierz stąd inne androidy!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gotta find a way to land this thing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215914Z">
+        <seg>Muszę znaleźć sposób, żeby tym wylądować...</seg>
       </tuv>
     </tu>
     <tu>
@@ -26566,6 +26718,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hostiles?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215812Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215812Z">
+        <seg>Wrogowie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Housing Complex</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175153Z" creationid="Syn Spawacza" creationdate="20200601T175153Z">
@@ -26978,6 +27138,14 @@ Przydałoby mi się więcej pomocy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104828Z" creationid="Syn Spawacza" creationdate="20200606T104828Z">
         <seg>Hę? Dziwne. Wszystko powinno być ustawione poprawnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Huh? W-Wait, what are you...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215847Z">
+        <seg>Hę? Ch-chwila, co ty...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -28421,6 +28589,14 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183226Z" creationid="Syn Spawacza" creationdate="20200530T183226Z">
         <seg>Muszę pomóc 9S...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have to keep it...from spreading to other androids...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220025Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220025Z">
+        <seg>Muszę to zatrzymać... przed rozszerzeniem się na inne androidy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30491,6 +30667,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164531Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164531Z">
         <seg>Nie, w porządku...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm getting us out of here!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215828Z">
+        <seg>Wydostanę nas stąd!</seg>
       </tuv>
     </tu>
     <tu>
@@ -34070,6 +34254,14 @@ A co ze mną? Dlaczego ja tu jestem? Dlaczego ja...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's YoRHa!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215817Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215817Z">
+        <seg>To YoRHa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's a Lunar Tear. I'd better tell Emil.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125724Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125724Z">
@@ -37627,6 +37819,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085329Z">
         <seg>To sprawia, że ta cała rzecz jest dużo bardziej romantyczna, nie sądzisz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Malfunction detected in NFCS circuit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220024Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220024Z">
+        <seg>Wykryto awarię w obwodach NFCS.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45411,6 +45611,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod, give me a location that's low on android signals.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220039Z">
+        <seg>Podzie, podaj mi lokację, w której jest mało sygnałów androidów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod, help me out here.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T131005Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T131005Z">
@@ -46043,6 +46251,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Administer vaccine immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215955Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215955Z">
+        <seg>Propozycja: natychmiast podać szczepionkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Applying it to your own lips might lead to a further understanding of human customs.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095200Z">
@@ -46127,6 +46343,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130933Z" creationid="Syn Spawacza" creationdate="20200530T174710Z">
         <seg>Propozycja: zlikwidować jak najszybciej się da.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Eject immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215911Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215911Z">
+        <seg>Propozycja: Natychmiast się wystrzelić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49774,6 +49998,14 @@ zostali zniszczeni prze ruch oporu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Searching...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220040Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220040Z">
+        <seg>Szukam...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Secret Shop</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175851Z" creationid="Syn Spawacza" creationdate="20200601T175851Z">
@@ -50478,6 +50710,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205818Z" creationid="Syn Spawacza" creationdate="20200530T133946Z">
         <seg>Ustaw zachowanie dźwięku, gdy nie znajduje się w aktywnym oknie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Setting automatic course.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215839Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215839Z">
+        <seg>Ustawiam automatyczny kurs.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52786,6 +53026,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T103943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T103943Z">
         <seg>Skup się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stealth function released!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215852Z">
+        <seg>Uwolnić funkcję ukrycia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58893,6 +59141,14 @@ jeszcze splamione nawet kroplą krwi.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This signal, it's...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215814Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215814Z">
+        <seg>Ten sygnał, to...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This sure is sad.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T091424Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T091424Z">
@@ -60843,6 +61099,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Um, o-okay...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215830Z">
+        <seg>E, okej...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Um, okay.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213444Z">
@@ -62474,6 +62738,14 @@ ODESZŁA W WIECZNOŚĆ</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150353Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150353Z">
         <seg>Poczekaj!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait! ...2B!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215859Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215859Z">
+        <seg>Chwila!... 2B!</seg>
       </tuv>
     </tu>
     <tu>
@@ -67596,6 +67868,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>YoRHa unit 2B's stealth function unlocked.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215857Z">
+        <seg>Odblokowano funkcję ukrycia jednostki 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>YoRHa unit Number 2. She's an older model, but the same type as you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T131835Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T131835Z">
@@ -68398,6 +68678,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095954Z">
         <seg>Musisz mieć na myśli cykliczne zmiany światła i ciemności, które kiedyś funkcjonowały. Było o tym w zapisach, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You need to WHAT!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215826Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215826Z">
+        <seg>Musisz zrobić CO?!</seg>
       </tuv>
     </tu>
     <tu>
