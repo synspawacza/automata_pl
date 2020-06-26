@@ -2264,6 +2264,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S should have landed around here...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152311Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152311Z">
+        <seg>9S powinien był wylądować gdzieś tutaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9S to Bunker, do you copy?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105029Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105029Z">
@@ -7304,6 +7312,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Faint black box signal detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152315Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152315Z">
+        <seg>Uwaga: wykryto słaby sygnał czarnej skrzynki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Hacking has resulted in an alignment of synaptic transmissions.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153549Z">
@@ -7444,6 +7460,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140709Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140709Z">
         <seg>Uwaga: kiepski zasięg w tej okolicy przeszkadza w wysłaniu danych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Possible enemy ambush ahead.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152344Z">
+        <seg>Uwaga: prawdopodobieństwo zasadzki wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8522,6 +8546,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121734Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121734Z">
         <seg>Analiza: Ich stroje były oparte na podzbiorze ludzkiej kultury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: This area is composed of crystallized silicon and carbon.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152438Z">
+        <seg>Analiza: Ten obszar jest stworzony ze skrystalizowanego silikonu i węgla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17443,6 +17475,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't care.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152349Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152349Z">
+        <seg>Nie obchodzi mnie to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't get me wrong—I know all this fighting isn't easy for you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132258Z">
@@ -20862,6 +20902,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191559Z" creationid="Syn Spawacza" creationdate="20200601T191559Z">
         <seg>Karp włochaty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further details unknown.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152439Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152439Z">
+        <seg>Więcej detali nieznane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25150,6 +25198,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121421Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121421Z">
         <seg>Hipoteza: Wymieniony materiał może być reliktem pochodzącym od starożytnej cywilizacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypothesis: The enemy must have placed them here deliberately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152525Z">
+        <seg>Hipoteza: wróg musiał ułożyć je tutaj umyślnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31013,6 +31069,14 @@ były otoczone troskliwą opieką.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130412Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130412Z">
         <seg>Jest podobny w strukturze do komórki roślinnej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is unlikely the YoRHa units came this far on their own.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152506Z">
+        <seg>Nieprawdopodobne jest, że te jednostki YoRHa zaszły tak daleko same.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37070,6 +37134,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143413Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143413Z">
         <seg>Nie wykryto anomalii w sygnale czarnej skrzynki. Jednakże, jej rdzeń lingwistyczny wydaje się być uszkodzony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No black box signals detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152334Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152334Z">
+        <seg>Nie wykryto sygnałów czarnych skrzynek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52482,6 +52554,14 @@ I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt;
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The transmission seems to be coming from an underground cave network.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152318Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152318Z">
+        <seg>Transmisja zdaje się dochodzić z sieci podziemnych jaskiń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The transporter was being jammed by machine lifeforms. It should be working now.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132234Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132234Z">
@@ -59307,6 +59387,14 @@ singular element.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Welcome...to my beloved city.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152555Z">
+        <seg>Witaj... w moim ukochanym mieście.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Welcome...to the graveyard of our creators.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105044Z">
@@ -60177,6 +60265,14 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's with the corpses?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152451Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152451Z">
+        <seg>O co chodzi z ciałami?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's with the weird-looking outfits?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100032Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100032Z">
@@ -60565,6 +60661,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Who built it?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152445Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152445Z">
+        <seg>Kto to zbudował?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Who could wield this hunk of iron now that its edge was gone? Who might love it when all it could do was bash dully against a foe instead of cutting through flesh and bone? Who would devote themselves to such insanity?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T144125Z" creationid="Syn Spawacza" creationdate="20200616T144125Z">
@@ -60697,6 +60801,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144524Z">
         <seg>Dlaczego niektóre maszyny są takie agresywne, kiedy inne się nami zupełnie nie przejmują?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are there dead androids here?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152331Z">
+        <seg>Dlaczego są tu martwe androidy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -61079,6 +61191,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152636Z">
         <seg>Wartość jest obliczana ze względu na wagę wroga i wartość otrzymanych części. Nazywamy tę jednostkę „G”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Would 9S have made it this far inside?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152339Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152339Z">
+        <seg>Czu 9S wszedłby sam tak głęboko?</seg>
       </tuv>
     </tu>
     <tu>
@@ -66813,6 +66933,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142625Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142625Z">
         <seg>Biorę się za to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p200_d5ac1e7d_scp.properties</prop>
+      <prop type="id">M1070_S0120_G0040_101_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Unknown.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152535Z">
+        <seg>Nieznane.</seg>
       </tuv>
     </tu>
     <tu>
