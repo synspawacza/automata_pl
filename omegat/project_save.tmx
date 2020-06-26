@@ -10124,6 +10124,14 @@ Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w któr
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are they...eating them!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165843Z">
+        <seg>Czy oni... ich jedzą?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are they...talking?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144652Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144652Z">
@@ -22258,6 +22266,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170141Z" creationid="Syn Spawacza" creationdate="20200608T170141Z">
         <seg>Uzyskaj raport od Pascala.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get out of here now!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165840Z">
+        <seg>Uciekajmy stąd natychmiast!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39610,6 +39626,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No... Nooooo!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165834Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165834Z">
+        <seg>Nie... Nieeeeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No... Oh no...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125326Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125326Z">
@@ -50822,6 +50846,14 @@ A dokładniej, dlaczego naśladują ich porażki?&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Somebody help me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165837Z">
+        <seg>Niech ktoś mi pomoże!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Somebody help us!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160000Z">
@@ -58595,6 +58627,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Try contacting the Bunker via laser relay system.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165826Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165826Z">
+        <seg>Spróbuj skontaktować się z Bunkrem przez system przekaźników laserowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try not to act so recklessly, all right?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180200Z" creationid="Syn Spawacza" creationdate="20200610T180200Z">
@@ -64253,6 +64293,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144524Z">
         <seg>Dlaczego niektóre maszyny są takie agresywne, kiedy inne się nami zupełnie nie przejmują?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are their numbers increasing like this?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165823Z">
+        <seg>Dlaczego ich ilość tak bardzo wzrasta?</seg>
       </tuv>
     </tu>
     <tu>
@@ -70646,6 +70694,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
         <seg>Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155005Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155005Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p200_d0a7f4dc_scp.properties</prop>
+      <prop type="id">M1090_S0100_G0180_101_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165831Z">
         <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
