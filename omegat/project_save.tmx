@@ -4907,6 +4907,14 @@ To liczy się jako pozostałość ludzkości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A single reply is sufficient for acknowledgment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160836Z">
+        <seg>Pojedyncza odpowiedź wystarczy jako potwierdzenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A sky-loving android</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T173022Z" creationid="Syn Spawacza" creationdate="20200608T173022Z">
@@ -34090,6 +34098,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's move.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160542Z">
+        <seg>Chodźmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's play! Let's play!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130201Z">
@@ -36419,6 +36435,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180646Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: w normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memory core diagnostics complete. No issues detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160840Z">
+        <seg>Diagnostyka rdzenia pamięci ukończona. Nie wykryto problemów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43559,6 +43583,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160222Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160222Z">
         <seg>Propozycja: żródło energii powinno zostać zniszczone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Engage memory core diagnostics.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160833Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160833Z">
+        <seg>Propozycja: przeprowadź diagnostykę rdzenia pamięci.</seg>
       </tuv>
     </tu>
     <tu>
