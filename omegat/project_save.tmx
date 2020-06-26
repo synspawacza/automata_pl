@@ -1592,6 +1592,14 @@ Spróbuję tego i dam ci znać, co mi wyszło!
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B! Keep going straight!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155832Z">
+        <seg>2B! Idź na wprost!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B! Let's try for a more "direct" approach!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142400Z">
@@ -18119,6 +18127,14 @@ To wszystko.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dying won't make us gods...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155903Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155903Z">
+        <seg>Śmierć nie zrobi z nas bogów...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204157Z" creationid="Syn Spawacza" creationdate="20200601T204157Z">
@@ -32650,6 +32666,14 @@ zatytułowana „Pensées”.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132902Z">
         <seg>Ja — my tak właściwie — pracowaliśmy wspólnie, by utrzymać nasze linie obrony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I’m scared...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155913Z">
+        <seg>Boję się...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52677,6 +52701,14 @@ Te ruiny to pozostałość czegoś, co kiedyś było strefą zamieszkania — ko
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The door's open! Keep moving!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155842Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155842Z">
+        <seg>Drzwi są otwarte! Idź dalej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The effect limit for "&lt;CHIP_NAME&gt;" has been exceeded.
 Effect limit: &lt;CHIP_HELP&gt;</seg>
       </tuv>
@@ -61011,6 +61043,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What happened to everyone?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155925Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155925Z">
+        <seg>Co stało się nimi wszystkimi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What happened to her body?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092113Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092113Z">
@@ -68367,6 +68407,26 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142643Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142643Z">
         <seg>Załatwione.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">qaba_a7ed1850_scp.properties</prop>
+      <prop type="id">M1080_S0080_G1130_201_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Will do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155836Z">
+        <seg>Robi się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">qaba_a7ed1850_scp.properties</prop>
+      <prop type="id">M1080_S0080_G1160_201_a2b</prop>
+      <tuv lang="en-US">
+        <seg>All right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155847Z">
+        <seg>Dobra.</seg>
       </tuv>
     </tu>
     <tu>
