@@ -562,6 +562,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Destroy? What happened to detain?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101252Z">
+        <seg>Zniszczyć...? A co stało się z zatrzymać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Drugs? Yeah, they're pretty crazy. I can't stop fighting!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121045Z">
@@ -7228,6 +7236,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All units destroyed. Black box signals confirmed offline.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101255Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101255Z">
+        <seg>Wszystkie jednostki zniszczone. Sygnały czarnych skrzynek offline.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All units have penetrated the stratosphere.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173709Z" creationid="Syn Spawacza" creationdate="20200530T173709Z">
@@ -7850,6 +7866,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132222Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132222Z">
         <seg>Analiza: transporter teraz działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: Unit 8B specializes in close-quarters combat.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101240Z">
+        <seg>Analiza: jednostka 8B specjalizuje się w walce na bliski dystans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29772,6 +29796,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's find out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101313Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101313Z">
+        <seg>Dowiedzmy się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's get started.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200446Z" creationid="Syn Spawacza" creationdate="20200530T200446Z">
@@ -32317,6 +32349,14 @@ z skamieniałej żywicy.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170514Z" creationid="Syn Spawacza" creationdate="20200615T170514Z">
         <seg>Powiadomienie o misji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mission complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101259Z">
+        <seg>Misja wypełniona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37490,6 +37530,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please! You have to stop fighting!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101231Z">
+        <seg>Proszę! Musisz przestać walczyć!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Please, I need your help!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141332Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141332Z">
@@ -38216,6 +38264,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124847Z">
         <seg>Propozycja: dane powinny być wymieniane regularnie, by zwiększyć wydajność.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Destroy enemy with long-range attacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101245Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101245Z">
+        <seg>Propozycja: zniszczyć wroga atakami zasięgowymi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42679,6 +42735,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144203Z" creationid="Syn Spawacza" creationdate="20200606T103553Z">
         <seg>Zamknij się! Rób co mówię!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shut up! You don't know anything!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101234Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101234Z">
+        <seg>Zamknij się! Nic nie wiesz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53215,6 +53279,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We...killed them. Our fellow units.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101304Z">
+        <seg>My... zabiliśmy ich. Nasze jednostki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We...we're sold...iers...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183807Z" creationid="Syn Spawacza" creationdate="20200530T183807Z">
@@ -54732,6 +54804,14 @@ To taka mordęga.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140230Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140230Z">
         <seg>Dlaczego zawsze musisz być taki uparty?! Pozwól mi się tym zająć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why the hell did they steal from the Resistance in the first place?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101308Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101308Z">
+        <seg>Dlaczego tak w ogóle kradli od Ruchu Oporu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56581,6 +56661,14 @@ Przywrócić poprzednie wyposażenie?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150629Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150629Z">
         <seg>Ty tam! Natychmiast musisz mi pomóc!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You think Anemone might know something, 2B?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101310Z">
+        <seg>Myślisz, że Anemona może coś o tym wiedzieć, 2B?</seg>
       </tuv>
     </tu>
     <tu>
