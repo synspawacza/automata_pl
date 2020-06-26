@@ -8150,6 +8150,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: The use of B-Mode to increase nuclear fusion output carries unacceptable levels of risk.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221312Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221312Z">
+        <seg>Uwaga: Użycie Trybu-B by zwiększyć produkcję fuzji nuklearnej niesie za sobą nieakceptowalne ryzyko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: This unit is currently wanted by YoRHa. Annihilation recommended.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T093436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T093436Z">
@@ -10292,6 +10300,14 @@ Tak jakby...
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095545Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095545Z">
         <seg>Jakieś pomysły 2B? Nigdy wcześniej nie musiałem radzić sobie z zasmarkaną maszyną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Any offensive boost is offset by lowered defense and increased maintenance costs.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221317Z">
+        <seg>Każde użycie ofensywnego dopalacza skutkuje zmniejszeniem obrony i zwiększeniem kosztów naprawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16892,6 +16908,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damn! He's tough.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221244Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221244Z">
+        <seg>Cholera! Twardy jest.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damn! She got away.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T093632Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T093632Z">
@@ -19299,6 +19323,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T130715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T130715Z">
         <seg>Nie potrzebuję tego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't tell me what to do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221025Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221025Z">
+        <seg>Nie mów mi co mam robić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23586,6 +23618,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164349Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164311Z">
         <seg>Potwierdzono również obecność wroga klasy Goliat. Zaleca się natychmiastowe podjęcie działań.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goliath-class enemies detected in desert area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221017Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221017Z">
+        <seg>Wykryto wrogów klasy Goliat na terenie pustyni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34038,6 +34078,14 @@ may be made from scraps, but it gets the job done.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It appears to be a machine lifeform that has adapted to the desert environment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221232Z">
+        <seg>Wygląda na to, że jest to mechaniczna forma życia przystosowana do pustynnego środowiska.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It appears to be the journal of a human who once worked in the factory.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140759Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140759Z">
@@ -37176,6 +37224,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153751Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153751Z">
         <seg>Słuchaj, po prostu zapomnijmy o tych chipach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look, just stay out of my way.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221056Z">
+        <seg>Słuchaj, po prostu nie wchodź mi w drogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40390,6 +40446,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215025Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215025Z">
         <seg>Zaprzeczenie. Odbiór sygnału jest czysty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negative. This Pod is engaging in activity based on the final order of unit 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221049Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221049Z">
+        <seg>Zaprzeczenie. Ten Pod działa w oparciu z ostatnim rozkazem jednostki 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46115,6 +46179,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pods are not authorized to issue commands.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221027Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221027Z">
+        <seg>Pody nie mają uprawnień do wydawania rozkazów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Poor girl died a long time ago, by the looks of it.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092535Z">
@@ -46715,6 +46787,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Destroy the enemy machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221237Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221237Z">
+        <seg>Propozycja: zniszczyć wrogą maszynę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Destroy the generator quickly.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T135059Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T135059Z">
@@ -46807,6 +46887,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143026Z">
         <seg>Propozycja: Dalsze informacje powinny zostać odebrane od lidera Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Goliath-class enemies should be destroyed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221022Z">
+        <seg>Propozycja: przeciwnicy klasy Goliat powinni zostać zniszczeni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47003,6 +47091,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Unit A2 should state updated intentions in order to secure more usable data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221040Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221040Z">
+        <seg>Propozycja: jednostka A2 powinna pilnować, by uaktualniać zamiary, by móc otrzymywać bardziej użyteczne dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Unit A2 should use the dynamic scanner.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121357Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121357Z">
@@ -47023,6 +47119,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143451Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143451Z">
         <seg>Propozycja: usunąć funkcję strachu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposals are merely recommendations based on data provided by unit A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221031Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221031Z">
+        <seg>Propozycje to po prostu zalecenia oparte o dane udostępnione przez jednostkę A2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51822,6 +51926,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095745Z">
         <seg>Zamknij jadaczkę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shut...the hell...up.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221043Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221043Z">
+        <seg>Zamknij... cholerną... jadaczkę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60193,6 +60305,14 @@ wybuchowych przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Time to bust out B-Mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221306Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221306Z">
+        <seg>Pora by użyć Trybu-B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tire</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194019Z" creationid="Syn Spawacza" creationdate="20200601T194019Z">
@@ -66291,6 +66411,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What the hell is that!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221226Z">
+        <seg>Co to do cholery jest?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What the hell just happened?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T104955Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T104955Z">
@@ -67999,6 +68127,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yeah, that's REAL helpful!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221241Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221241Z">
+        <seg>Tak, to NAPRAWDĘ pomocne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yeah, that's true.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122233Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122233Z">
@@ -68536,6 +68672,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220648Z">
         <seg>Jednostka YoRHa A2 również gotowa do reaktywacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa unit A2 lacks the authority to issue commands.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221053Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221053Z">
+        <seg>Jednostka A2 nie posiada uprawnień by wydawać rozkazy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73790,6 +73934,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
         <seg>Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221005Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221005Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p300_1c94bbb3_scp.properties</prop>
+      <prop type="id">M3010_S0020_G0370_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221104Z">
         <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
