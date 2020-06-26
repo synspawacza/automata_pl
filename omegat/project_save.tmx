@@ -19522,6 +19522,14 @@ z dużej wysokości.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Give it a try if you like.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103134Z">
+        <seg>Wypróbujcie to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give to an animal in order to ride them.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T101615Z" creationid="Syn Spawacza" creationdate="20200601T101615Z">
@@ -22621,6 +22629,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103110Z">
+        <seg>Jak bardzo mogę ulepszyć waszą broń, zależy od tego ile macie funduszy i materiałów. Niektóre ulepszenia broni nakładają na nie również efekty zwiększające wydajność.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How odd.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095154Z" creationid="Syn Spawacza" creationdate="20200530T202809Z">
@@ -23534,6 +23550,14 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I don't know where she gets this stuff, but most of it's in pretty good condition!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103031Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103031Z">
+        <seg>Nie wiem, skąd bierze te rzeczy, ale większość jest w niezłym stanie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I don't know, Pascal. That's not for me to decide.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094522Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094522Z">
@@ -24333,6 +24357,14 @@ do roboty, więc pomóż mi!
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150951Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150951Z">
         <seg>Zrobiłam to tylko, żeby się jej pozbyć. Cóż i ponieważ pomyślałam, że może dobrze wyglądać na mojej przyjaciółce... Ale jeśli jej to powiecie, zabiję was!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I only see her every few years, to be honest. She mostly just uses delivery drones to drop things off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103029Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103029Z">
+        <seg>Szczerze, to widuję ją raz na kilka lat. Głównie używa dronów, by podrzucać rzeczy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35151,6 +35183,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, the lady who owns the place sends 'em over every once in a while.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T102954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T102954Z">
+        <seg>Och, właścicielka przesyła materiały raz na jakiś czas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, there's no need to fret about them.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105309Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105309Z">
@@ -41433,6 +41473,14 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174523Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174523Z">
         <seg>Mam do ciebie pytanie: Używasz swojego poda efektywnie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Say, if you ever happen to run into her, say hello from me, all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103035Z">
+        <seg>Jeśli kiedykolwiek na nią wpadniecie, pozdrówcie ją ode mnie, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56139,6 +56187,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173850Z" creationid="Syn Spawacza" creationdate="20200606T115139Z">
         <seg>Możesz zobaczyć punkty dostępu na mapie krótkiego zasięgu. Pamiętaj, by często zapisywać!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You can upgrade the weapons you buy here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103105Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103105Z">
+        <seg>Możecie ulepszać broń, którą tu kupujecie.</seg>
       </tuv>
     </tu>
     <tu>
