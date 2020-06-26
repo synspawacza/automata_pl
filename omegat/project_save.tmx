@@ -2370,6 +2370,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0060_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145806Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145806Z">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0060_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -3036,6 +3046,16 @@ evolutionary speed.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Jeśli chodzi o walkę, to maszyny wykazują niesamowite zachowania adaptacyjne i
 ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I...”&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0060_N_0010&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145736Z">
+        <seg>&lt;page&gt;
+„Ja...”&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0060_N_0010&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25959,6 +25979,14 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I hear something. A distant voice.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145745Z">
+        <seg>Słyszę coś. Daleki głos.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hear you're planning to take out all the machines in the desert?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095821Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095821Z">
@@ -26665,6 +26693,16 @@ Płonę by cię zobaczyć w prawdziwym życiu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094036Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094036Z">
         <seg>Rozumiem... Dobrze, dzięki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I sense a change in the data. Some kind of movement.&lt;bt_wait&gt;
+I hone my perception and hold my breath.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145722Z">
+        <seg>Wyczuwam zmianę w danych. Pewien ruch.&lt;bt_wait&gt;
+Wyostrzam wzrok i wstrzymuję oddech.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31012,6 +31050,14 @@ Nigdy wcześniej nie widziałem czegoś takiego.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T154150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T154150Z">
         <seg>To wszystko jest tak niesamowicie frustrujące. W końcu jestem największym geniuszem na świecie! Nigdy wcześniej nie poczułem gorzkiego smaku porażki!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's almost as if the objective is &lt;i&gt;failure itself&lt;/i&gt;.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145707Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145707Z">
+        <seg>To tak jakby ich celem była &lt;i&gt;porażka sama w sobie&lt;/i&gt;.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -47374,6 +47420,16 @@ Dobrze?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So why do they insist on imitating humanity?
+And more specifically, why do they imitate their failures?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145642Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145642Z">
+        <seg>Dlaczego więc nalegają na naśladowanie ludzkości?
+A dokładniej, dlaczego naśladują ich porażki?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So why do you have all these animals here anyway?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134746Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134746Z">
@@ -52381,6 +52437,14 @@ To wszystko.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T202628Z" creationid="Syn Spawacza" creationdate="20200530T202628Z">
         <seg>Jest coś uspokajającego w twoim głosie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There's something there. Something clearly intelligent.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145804Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145804Z">
+        <seg>Coś tam jest. Coś wyraźnie inteligentnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65598,6 +65662,22 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204153Z" creationid="Syn Spawacza" creationdate="20200601T204153Z">
         <seg>‐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“...all androids...”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145801Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145801Z">
+        <seg>„...wszystkie androidy...”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“I annou...”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145752Z">
+        <seg>„Ja ogłasz...”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
