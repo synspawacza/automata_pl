@@ -466,6 +466,14 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121342Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121342Z">
+        <seg>2B...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...4B down.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130601Z" creationid="Syn Spawacza" creationdate="20200530T174043Z">
@@ -7128,6 +7136,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133132Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133132Z">
         <seg>Chwała Królowi Lasu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All hail the king!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121138Z">
+        <seg>Chwała królowi!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35395,6 +35411,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh! You survived! How wonderful.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121416Z">
+        <seg>Och! Przetrwaliście! Jak cudownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, 2B. Hello.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095054Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095054Z">
@@ -39044,6 +39068,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182801Z" creationid="Syn Spawacza" creationdate="20200610T180538Z">
         <seg>Propozycja: Podążyć w stronę lokalizacji celu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Pursue the deserter A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121259Z">
+        <seg>Propozycja: goń za dezerterem A2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43115,6 +43147,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092110Z">
         <seg>Była tak silna i godna podziwu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She's gone...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121303Z">
+        <seg>Odeszła...</seg>
       </tuv>
     </tu>
     <tu>
@@ -49546,6 +49586,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is our beloved nation!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121140Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121140Z">
+        <seg>To nasz ukochany naród!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is pointless.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142824Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142824Z">
@@ -51416,8 +51464,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Ugh!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T120822Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T120822Z">
-        <seg>Uh!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T120822Z">
+        <seg>Uch!</seg>
       </tuv>
     </tu>
     <tu>
