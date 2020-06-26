@@ -16545,6 +16545,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ERROR. ERROR. BAD FILE OR PATHWAY. BZZZZZT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T111404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T111404Z">
+        <seg>BŁĄD. BŁĄD. BŁĘDNY PLIK LUB ŚCIEŻKA. BZZZZT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>EXP</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140830Z" creationid="Syn Spawacza" creationdate="20200530T140830Z">
@@ -30146,6 +30154,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T093542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T093542Z">
         <seg>Chodźmy za nią, 2B!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's go already.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T111411Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T111411Z">
+        <seg>Chodźmy już.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44713,6 +44729,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105736Z">
         <seg>Przestań narzekać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop it! I know you're not broken!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T111409Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T111409Z">
+        <seg>Przestań! Wiem, że nie jesteś zepsuty!</seg>
       </tuv>
     </tu>
     <tu>
