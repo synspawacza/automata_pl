@@ -17219,6 +17219,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>EMP generator?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T141036Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T141036Z">
+        <seg>Generator EMP?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ENDING</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T173305Z" creationid="Syn Spawacza" creationdate="20200530T173305Z">
@@ -44738,6 +44746,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sending the coordinates to your map now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T141144Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T141144Z">
+        <seg>Wysyłam koordynaty do twojej mapy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seriously, you YoRHa types are something else.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125853Z">
@@ -50214,6 +50230,14 @@ Kontynuować mimo to?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The only known record of this machine lifeform is a lone sighting 320 years ago.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T141258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T141258Z">
+        <seg>Jedyne znane zapiski o tej mechanicznej formie życia dotyczą pojedynczej obserwacji 320 lat temu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The only remaining option...is to destroy you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105413Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105413Z">
@@ -54365,6 +54389,14 @@ w Leśnym Królestwie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Upon reaching land, the unit unleashed a devastating electromagnetic wave attack.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142156Z">
+        <seg>Gdy maszyna dotarła do brzegu, wyzwoliła niszczycielską falę elektromagnetyczną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Upper Castle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175256Z" creationid="Syn Spawacza" creationdate="20200601T175256Z">
@@ -56102,6 +56134,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092350Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092350Z">
         <seg>Potrzebujemy, żebyś zebrała niezbędne materiały do usprawnienia środowiska sieciowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We need you to destroy the enemy EMP generator so we can lock on to the target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T141032Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T141032Z">
+        <seg>Potrzebujemy, żebyście zniszczyli generator EMP wroga, byśmy mogli wycelować.</seg>
       </tuv>
     </tu>
     <tu>
