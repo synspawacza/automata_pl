@@ -2973,6 +2973,18 @@ Nie zdobędę jego miłości.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+The recovery program begins to fill in the blanks in my memory.&lt;bt_wait&gt;
+They drift back like missing letters filling out a word.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145038Z">
+        <seg>&lt;page&gt;
+Program odzyskiwania zaczyna wypełniać dziury w mojej pamięci.&lt;bt_wait&gt;
+Wracają na swoje miejsca, jak brakujące w słowie litery.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 There's a rumor floating among the other machine lifeforms lately:
 "Devour the body of an android to gain eternal beauty."&lt;bt_wait&gt;</seg>
       </tuv>
@@ -24378,6 +24390,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, I still can't establish a link to my body.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145253Z">
+        <seg>Jednakże cały czas nie mogłem nawiązać połączenia z ciałem.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, I thank you for bringing it to my attention.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094507Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094507Z">
@@ -31720,6 +31740,16 @@ o świecie. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Just follow the emergency manual and execute the memory recovery program.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145021Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145021Z">
+        <seg>Po prostu wykorzystaj poradnik kryzysowy i przeprowadź program odzyskiwania pamięci.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Just give me a second here...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200335Z" creationid="Syn Spawacza" creationdate="20200530T200335Z">
@@ -37076,6 +37106,24 @@ Znalazłem się w przedziwnym rejonie przechowywania pamięci, rozciągającym s
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0040_N_start&gt;
+&lt;page&gt;
+It took a while...
+but the recovery program managed to restore most of my memory functions.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145247Z">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0040_N_start&gt;
+&lt;page&gt;
+To chwilę zajęło...
+ale program odzyskiwania pomógł odbudować większość funkcji pamięci.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now I can finally concentrate on my work again!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104504Z">
@@ -38540,6 +38588,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T131035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T131035Z">
         <seg>Okej, myślę, że to ostatni z czipów z danymi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay, calm down.&lt;bt_wait&gt; Calm down, calm down, calm down.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145012Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145012Z">
+        <seg>Dobrze, uspokój się.&lt;bt_wait&gt; Uspokój się, uspokój się, uspokój się.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41364,6 +41420,20 @@ all ages.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142238Z">
         <seg>Przygotowujemy strzał z lasera z satelity!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preservation mode was activated at the moment of the blast.
+It halted most of the safeties the network had in place.
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0020_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145121Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145121Z">
+        <seg>W chwili wybuchu był włączony tryb ochronny.
+Zatrzymało to wszystkie bezpieczniki sieci na miejscu.
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0020_N_end&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50332,6 +50402,20 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Bunker...
+2B's plan...
+A colossal machine lifeform...
+The last-resort missile strike...&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145112Z">
+        <seg>Bunkier...
+Plan 2B...
+Gigantyczna mechaniczna forma życia...
+Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Commander was calling for you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T163724Z" creationid="Syn Spawacza" creationdate="20200606T111509Z">
@@ -58885,6 +58969,16 @@ Prawda?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T113836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113836Z">
         <seg>I? Co myślicie teraz o Ojcu Servo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welp, I guess there's nothing else to do but examine the surrounding memory space.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145301Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145301Z">
+        <seg>Cóż, chyba nie ma nic innego do roboty, jak zbadać otaczającą mnie przestrzeń pamięci.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
