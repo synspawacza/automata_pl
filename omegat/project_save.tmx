@@ -286,6 +286,42 @@ Kiedy uderzy monsun, ciężko będzie wywiesić pościel, dlatego wykorzystajcie
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Note that these documents are classified Level-S Confidential, and are not to be disclosed to any persons affiliated with YoRHa aside from the Commander.
+ 
+Index:
+・ Project YoRHa Outline
+・・ YoRHa Forces
+・・ YoRHa Unit Combat System
+・・ Bunker Administration
+・・・ Chain of Command
+・・・ Council of Humanity Development Department
+・・・ Backdoor
+・・ Support Units
+・・ Black Box
+・・ Resistance Communications Network
+ 
+* Permission is to be received from the designated parties responsible for each entry prior to viewing.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161715Z">
+        <seg>Proszę zauważyć, że poniższe dokumenty są sklasyfikowane jako Poufne Klasy S i nie powinny być pokazywane nikomu stowarzyszonemu poza Panią Komandor.
+ 
+Indeks:
+・ Zarys Projektu YoRHa
+・・ Siły YoRHa
+・・ System Walki Jednostek YoRHa
+・・ Administracja Bunkra
+・・・ Łańcuch Dowodzenia
+・・・ Oddział Rozwoju Rady Ludzkości
+・・・ Tylne Drzwi
+・・ Jednostki Wspierające
+・・ Czarne Skrzynki
+・・ Sieć Komunikacyjna Ruchu Oporu
+ 
+* Zgoda na wgląd do danych jest wydawana przez uprawnioną do tego jednostkę odpowiedzialną za dany dział.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>* This description 
 may contain spoilers</seg>
       </tuv>
@@ -14006,6 +14042,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close the server connection and activate my body.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161458Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161458Z">
+        <seg>Zamknij połączenie z serwerem i aktywuj moje ciało.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close-range</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141358Z" creationid="Syn Spawacza" creationdate="20200530T141358Z">
@@ -14980,6 +15024,14 @@ i czekają na ciebie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202018Z" creationid="Syn Spawacza" creationdate="20200601T202018Z">
         <seg>Odważny brat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Crap! Did they find me?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161451Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161451Z">
+        <seg>Cholera! Odnaleźli mnie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -37842,6 +37894,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143901Z" creationid="Syn Spawacza" creationdate="20200606T103514Z">
         <seg>Nie. Cała komunikacja jest zakłócana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Negative. Emergency backup request from 2B.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161455Z">
+        <seg>Zaprzeczenie. Jest to żądanie kryzysowego wsparcia od 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69170,6 +69230,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
         <seg>Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161051Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">qab6_69325679_scp.properties</prop>
+      <prop type="id">M1080_S0020_G0530_201_a9s</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161505Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161505Z">
         <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
