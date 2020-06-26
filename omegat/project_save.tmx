@@ -15686,8 +15686,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Come back any time!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132140Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132140Z">
-        <seg>Zapraszamy ponownie!</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T225010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132140Z">
+        <seg>Wracaj, kiedy zechcesz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41648,6 +41648,14 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T161517Z" creationid="Syn Spawacza" creationdate="20200617T161517Z">
         <seg>No MessagePAUSE_ARCHIVE_020_000</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No MessagePAUSE_ARCHIVE_090_000</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T224905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T224905Z">
+        <seg>No MessagePAUSE_ARCHIVE_090_000</seg>
       </tuv>
     </tu>
     <tu>
