@@ -6968,6 +6968,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Storage media found.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124158Z">
+        <seg>Uwaga: odnaleziono nośnik z danymi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Target is former YoRHa captain 8B, currently wanted for desertion.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T100053Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T100053Z">
@@ -7906,6 +7914,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100402Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100402Z">
         <seg>Analiza: To ruiny niegdysiejszego obszaru mieszkalnego ludzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: Machine lifeform parts can be assembled in some fashion.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124005Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124005Z">
+        <seg>Analiza: części mechanicznej formy życia mogą w jakiś sposób zostać połączone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15841,6 +15857,14 @@ Patrzyłem na dane, ale nie wiem gdzie może leżeć problem. Ale się nie podda
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Digitization and saving complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124202Z">
+        <seg>Cyfryzacja i zapis zakończony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Diiiieeeeeee!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092735Z">
@@ -17147,6 +17171,14 @@ Bolesne. To boli. Pomocy. Czemu przestać. Kim jestem? Źle źle źle. Muszę uc
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T093048Z" creationid="Syn Spawacza" creationdate="20200601T093048Z">
         <seg>Klucz do windy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eliminate intruder! Eliminate intruder!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124141Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124141Z">
+        <seg>Wyeliminować intruza! Wyeliminować intruza!</seg>
       </tuv>
     </tu>
     <tu>
@@ -28484,6 +28516,14 @@ Przywraca też 100% PŻ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Intruder...detected...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124144Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124144Z">
+        <seg>Wykryto... intruza...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Intruders detected!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T091933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T091933Z">
@@ -28947,6 +28987,14 @@ były otoczone troskliwą opieką.</seg>
         <seg>Jest w nim napisane:
 „Wyruszyłem w podróż by odnaleźć
 prawdę tego świata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It reads: "Here lies the king of our forest."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124152Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124152Z">
+        <seg>Jest tu napisane: „Tu leży król naszego lasu.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -30185,6 +30233,14 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131414Z" creationid="Syn Spawacza" creationdate="20200530T131414Z">
         <seg>Układ klawiatury</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keyhole detected. A corresponding key will likely be required.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124111Z">
+        <seg>Wykryto dziurkę od klucza. Przydałby się pasujący klucz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39320,6 +39376,30 @@ when approached.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Processing complete. Machine lifeform parts can be assembled into a key.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124027Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124027Z">
+        <seg>Przetwarzanie ukończone. Części mechanicznej formy życia mogą zostać połączone w klucz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Processing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124018Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124018Z">
+        <seg>Przetwarzam...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Processing....</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124013Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124013Z">
+        <seg>Przetwarzam....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Produces a mass of energy that
 sprouts from the ground in the
 shape of deadly spears.</seg>
@@ -39568,6 +39648,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Initiate search for a door that matches the key.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124037Z">
+        <seg>Propozycja: rozpoczęcie poszukiwanie drzwi, pasujących do klucza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: It should be confiscated for safekeeping.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T123849Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T123849Z">
@@ -39716,6 +39804,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T182644Z" creationid="Syn Spawacza" creationdate="20200601T174450Z">
         <seg>Chronić dzieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protect...the grave...of the king...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124134Z">
+        <seg>Obronić... grób... króla...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44863,6 +44959,14 @@ Dobrze?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some kind of writing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124149Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124149Z">
+        <seg>Są tu jakieś napisy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some of our kind can be violent. They are beyond our control.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T155831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T155831Z">
@@ -49053,6 +49157,14 @@ Jeśli punkt dostępu jest atakowany przez wrogów, zniszcz ich by reaktywować 
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111213Z">
         <seg>O... kosmitach? Mówisz o tych, którzy nas stworzyli?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The...king...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124131Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124131Z">
+        <seg>Król...</seg>
       </tuv>
     </tu>
     <tu>
