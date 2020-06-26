@@ -2390,6 +2390,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;“You're thinking about how much you want to **** 2B, aren't you?”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150335Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150335Z">
+        <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;„Myślisz o tym, jak bardzo chcesz ***** 2B, czyż nie?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -2880,6 +2888,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;I'm not like that!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150146Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150146Z">
+        <seg>&lt;i&gt;Nie jestem taki!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;I'm... We're...&lt;/i&gt;&lt;bt_wait&gt;
                      
 “Perhaps you have a will after all,” he chuckles. “Perhaps you have desires.”</seg>
@@ -2900,6 +2916,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;Stop! Stop it!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150352Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150352Z">
+        <seg>&lt;i&gt;Przestań! Dosyć!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;Wrong!&lt;bt_wait&gt; Wrong!&lt;bt_wait&gt; Wrong!&lt;bt_wait&gt; Wrong!&lt;/i&gt;
 &lt;/page&gt;
 &lt;BGM_BGM_M1070_S0080_N_end&gt;</seg>
@@ -2916,6 +2940,14 @@ staje się wrogiem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150051Z">
         <seg>&lt;i&gt;MYLISZ SIĘ!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;You're wrong, damn it!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150407Z">
+        <seg>&lt;i&gt;Mylisz się, cholera!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3178,16 @@ ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150026Z">
         <seg>&lt;page&gt;
 „Widzisz chłopcze! Prawdziwym sensem życia... jest nienawiść!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Reality stained by lies.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
+        <seg>&lt;page&gt;
+„Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -65804,6 +65846,24 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Ha ha ha! Oh, yes you are.”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150152Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150152Z">
+        <seg>„Ha ha ha! Oczywiście, że jesteś.”
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Hatred pouring into you.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150400Z">
+        <seg>„Nienawiść się w ciebie wlewa.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“How am I wrong, boy?”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145959Z">
@@ -65828,6 +65888,22 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Overflowing desire.”&lt;bt_wait&gt;
+&lt;i&gt;I'm...I'm not like you!&lt;/i&gt;&lt;bt_wait&gt;
+“Your true self.”
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0100_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150432Z">
+        <seg>„Przelewające się pożądanie.”&lt;bt_wait&gt;
+&lt;i&gt;Ja... nie jestem jak ty!&lt;/i&gt;&lt;bt_wait&gt;
+„Twoja prawdziwa strona.”
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0100_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“The more you try to hide it, the more that darkness grows.”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150057Z">
@@ -65846,6 +65922,46 @@ Indeed, it is as if a new form of existence has been born.”
 Nauczyłyśmy się. Rozwinęłyśmy. I teraz osiągnęłyśmy nową świadomość.&lt;bt_wait&gt;
 Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
 &lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“You&lt;bt_wait&gt; do not trust anything.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150249Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150249Z">
+        <seg>„Ty&lt;bt_wait&gt; nie ufasz niczemu.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“You&lt;bt_wait&gt; have lost hope in everything.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150256Z">
+        <seg>„Ty&lt;bt_wait&gt; zatraciłeś całą swoją nadzieję.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“You&lt;bt_wait&gt; want to be loved by all.”</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150303Z">
+        <seg>„Ty&lt;bt_wait&gt; chcesz być przez wszystkich kochany.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“You&lt;bt_wait&gt; want to destroy everything.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150253Z">
+        <seg>„Ty&lt;bt_wait&gt; chcesz wszystko zniszczyć.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“You&lt;bt_wait&gt; want to obtain everything.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150300Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150300Z">
+        <seg>„Ty&lt;bt_wait&gt; chcesz wszystko posiąść.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
