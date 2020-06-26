@@ -2880,6 +2880,54 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;I'm... We're...&lt;/i&gt;&lt;bt_wait&gt;
+                     
+“Perhaps you have a will after all,” he chuckles. “Perhaps you have desires.”</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150017Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150017Z">
+        <seg>&lt;i&gt;Jestem... Jesteśmy...&lt;/i&gt;&lt;bt_wait&gt;
+                     
+„Może jednak masz wolę.” Chichocze. „Może masz pragnienia.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;No! You're wrong!&lt;/i&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145946Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145946Z">
+        <seg>&lt;i&gt;Nie! Mylisz się!&lt;/i&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;Wrong!&lt;bt_wait&gt; Wrong!&lt;bt_wait&gt; Wrong!&lt;bt_wait&gt; Wrong!&lt;/i&gt;
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0080_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150111Z">
+        <seg>&lt;i&gt;Mylisz się!&lt;bt_wait&gt; Mylisz się!&lt;bt_wait&gt; Mylisz się!&lt;bt_wait&gt; Mylisz się!&lt;/i&gt;
+&lt;/page&gt;
+&lt;BGM_BGM_M1070_S0080_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;You're WRONG!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150051Z">
+        <seg>&lt;i&gt;MYLISZ SIĘ!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;You're wrong.&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150035Z">
+        <seg>&lt;i&gt;Mylisz się.&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;page&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134433Z">
@@ -2901,6 +2949,16 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+&lt;i&gt;Lies! Nothing but lies from mere machines!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145922Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145922Z">
+        <seg>&lt;page&gt;
+&lt;i&gt;Kłamstwa! Nic tylko kłamstwa nędznych maszyn!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
@@ -2914,6 +2972,16 @@ On nie patrzył w moją stronę.&lt;bt_wait&gt;
 On nie patrzył w moją stronę.&lt;bt_wait&gt;
 On nie patrzył w moją stronę.&lt;bt_wait&gt;
 On nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+His words flow through me as though they were poured into my ear.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145954Z">
+        <seg>&lt;page&gt;
+Jego słowa płynęły przeze mnie, jakby były wlewane do mojego ucha.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3027,6 +3095,18 @@ Wracają na swoje miejsca, jak brakujące w słowie litery.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+The words shimmer into focus. The voice grows clear in my mind.&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0080_N_0010&gt;
+It is Adam—a machine made in the image of a man.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145833Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145833Z">
+        <seg>&lt;page&gt;
+Słowa rozbłysły w polu widzenia. Głos narastał czysto w mojej głowie.&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0080_N_0010&gt;
+To Adam — maszyna stworzona na podobieństwo człowieka.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 There's a rumor floating among the other machine lifeforms lately:
 "Devour the body of an android to gain eternal beauty."&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3056,6 +3136,16 @@ ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145736Z">
         <seg>&lt;page&gt;
 „Ja...”&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0060_N_0010&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Now you see, boy! The true meaning of life...is hatred!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150026Z">
+        <seg>&lt;page&gt;
+„Widzisz chłopcze! Prawdziwym sensem życia... jest nienawiść!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6218,6 +6308,16 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203717Z" creationid="Syn Spawacza" creationdate="20200601T203717Z">
         <seg>Adam</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adam laughs. “And yet you androids claim to be alive? How very odd.
+You are puppets who lack even your own free will.”</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145932Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145932Z">
+        <seg>Adam zaśmiał się. „I to wy androidy uważacie się za żywych? Jakież to dziwne.
+Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -37260,6 +37360,28 @@ One tylko naśladowały ludzkie zachowania.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0100_N_start&gt;
+&lt;page&gt;
+“All who live are slaves to desire.
+Such internal appetites are what give our lives meaning.
+Some seek beauty. Others serenity.
+For me, hatred is the—”</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150138Z">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0100_N_start&gt;
+&lt;page&gt;
+„Każdy kto żyje, jest niewolnikiem pragnienia.
+Takie wewnętrzne ciągoty nadają naszym życiom sens.
+Jedni szukają piękna. Inni spokoju.
+Dla mnie nienawiść jest...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now I can finally concentrate on my work again!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104504Z">
@@ -65674,10 +65796,56 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“A vile hatred slumbers in the depths of your heart.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150043Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150043Z">
+        <seg>„Plugawa nienawiść ukrywa się w głębinach twego serca.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“How am I wrong, boy?”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145959Z">
+        <seg>„W czym się mylę, chłopcze?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“I annou...”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145752Z">
         <seg>„Ja ogłasz...”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“I announce...to all...androids...”</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145818Z">
+        <seg>” Do wszystkich... Androidów...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“The more you try to hide it, the more that darkness grows.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150057Z">
+        <seg>„Im bardziej starasz się ją ukryć, tym bardziej ta ciemność rośnie.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“We machine lifeforms have evolved,” he says. “We made war. Learned. Grew.
+And thus we gained a new consciousness.&lt;bt_wait&gt;
+Indeed, it is as if a new form of existence has been born.”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145914Z">
+        <seg>„My, mechaniczne formy życia wyewoluowałyśmy.” mówi „Odbyłyśmy wojnę.
+Nauczyłyśmy się. Rozwinęłyśmy. I teraz osiągnęłyśmy nową świadomość.&lt;bt_wait&gt;
+Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
