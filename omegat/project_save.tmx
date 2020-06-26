@@ -7458,6 +7458,14 @@ Proszę, weźcie to.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: 2B is currently engaging a machine lifeform of significant ability.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162652Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162652Z">
+        <seg>Uwaga: 2B właśnie mierzy się z mechaniczną formą życia o potężnych zdolnościach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Abnormalities detected in vital signs.
 Pulse rate nearing dangerous levels.</seg>
       </tuv>
@@ -18135,6 +18143,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Door two disabled.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162555Z">
+        <seg>Drugie drzwi otwarte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Down this corridor, if you would.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T154600Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154600Z">
@@ -28631,6 +28647,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'd better secure her an escape route...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162420Z">
+        <seg>Lepiej zabezpieczę jej drogę ucieczki...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'd give almost anything to spend more time in a flight unit...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181757Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181757Z">
@@ -32817,6 +32841,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094055Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094055Z">
         <seg>Nie zalecane jest kontaktowanie się z maszynami bez konsultacji z Dowództwem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's open.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162647Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162647Z">
+        <seg>Otwarte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -44007,6 +44039,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Infiltrate the factory's mainframe and shut off the power.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162748Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162748Z">
+        <seg>Propozycja: zinfiltruj fabryczny mainframe i odciąć zasilanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Initiate search for a door that matches the key.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124037Z">
@@ -46998,6 +47038,14 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143024Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143024Z">
         <seg>Podobno dynamiczny skaner jest zlokalizowany w obozie Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Said machine is drawing electrical power from the factory itself.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162656Z">
+        <seg>Wspomniana maszyna pobiera energię elektryczną z samej fabryki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54625,6 +54673,14 @@ To wszystko.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145119Z" creationid="Syn Spawacza" creationdate="20200530T193849Z">
         <seg>Przepustowość łącza była tam koszmarna, wiesz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There we go. First door unlocked!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162422Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162422Z">
+        <seg>Proszę. Pierwsze drzwi otwarte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -69108,6 +69164,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
       </tuv>
     </tu>
     <tu>
+      <prop type="file">p200_56645a4b_scp.properties</prop>
+      <prop type="id">M1080_S0080_G0130_201_a2b</prop>
+      <tuv lang="en-US">
+        <seg>Will do.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162515Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162515Z">
+        <seg>Tak zrobię.</seg>
+      </tuv>
+    </tu>
+    <tu>
       <prop type="file">p200_58623dde_scp.properties</prop>
       <prop type="id">M1070_S0020_G0050_101_op60</prop>
       <tuv lang="en-US">
@@ -69433,8 +69499,8 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
       <tuv lang="en-US">
         <seg>Will do.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155836Z">
-        <seg>Robi się.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162441Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155836Z">
+        <seg>Tak zrobię.</seg>
       </tuv>
     </tu>
     <tu>
