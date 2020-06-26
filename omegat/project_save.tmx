@@ -19336,6 +19336,22 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For the sake of our forest king.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124302Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124302Z">
+        <seg>Dla naszego Króla Lasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For the sake of our king.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124310Z">
+        <seg>Dla naszego króla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For uploading my data to the Bunker.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T191107Z" creationid="Syn Spawacza" creationdate="20200530T191107Z">
@@ -22004,6 +22020,39 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T102838Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T102838Z">
         <seg>Nazywa się Accord i jest właścicielem tego interesu. Ja tylko obsługuję klientów i dbam o narzędzia do naprawy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Here lies the Forest King, Ernst.
+ 
+This exalted individual was the earliest among us to awaken to his own will, and for this reason did we name him our regent.
+ 
+Looking to sow the seed of this will in others, His Highness distributed his own precious parts. His retainers were the first to be so blessed, followed by his subjects. And in doing so, he brought forth a paradise—one made for machines alone. Through his gifts did we learn of the thing called ego, and eventually of our own selves. And just as ego gives way to emotion, so too did emotion lead us to feel great loyalty to our king.
+ 
+But our king was too great—and too kind. Having distributed his parts, it became difficult for him to function, and he soon fell into a deep and silent sleep.
+ 
+Now, the only path left to us—his loyal vassals—is to construct a kingdom of eternal peace, one which lives up to the magnanimous heart of our king. And so, as a sign both of our resolve and our gratitude, we leave in this place a chip made from our combined parts.
+ 
+Your spirit lives on in us, O great king. And so we implore you to rest in peace.
+ 
+—The Forest Kingdom, Its Citizens, As One</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124525Z">
+        <seg>Tu spoczywa Król Lasu, Ernst.
+ 
+Ten egzaltowany osobnik był tym, który najwcześniej zbudził się z własnej woli i dlatego też mianowaliśmy go naszym władcą.
+ 
+Próbując zasiać ziarno tej woli w innych, Jego Wysokość rozdawał własne, cenne części. Pierwszymi tak pobłogosławionymi byli jego służący, potem jego poddani. Przez swoje czyny, sprowadził dla nas raj — stworzony wyłącznie dla maszyn. Przez jego dary nauczyliśmy się rzeczy zwanej ego i w końcu nas samych. I jak ego daje nam sposób na odczuwanie emocji, tak emocje pozwoliły nam odczuwać ogromną lojalność wobec naszego króla.
+ 
+Ale nasz król był zbyt wielki — i zbyt miły. Przez to, że rozdał swoje części, trudne dla niego stało się funkcjonowanie i wkrótce zapadł w głęboki, cichy sen.
+ 
+Teraz, jedyna ścieżka, która nam pozostała — jego lojalnym wasalom — to stworzyć królestwo wiecznego pokoju, takie które pasuje do wielkodusznego serca naszego króla. Wiec, jako znak determinacji i naszej wdzięczności pozostawiamy w tym miejscu czip stworzony z naszych wymieszanych części.
+ 
+Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju.
+ 
+— Leśne Królestwo, Jego Mieszkańcy, jako Jedność
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -28774,6 +28823,14 @@ w temperaturze 2000 stopni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is this the treasure?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124204Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124204Z">
+        <seg>Czy to jest skarb?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Is this...a pod?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090745Z">
@@ -33496,6 +33553,14 @@ That's a rhetorical question by the way.</seg>
         <seg>Więcej danych... POTRZEBUJĘ WIĘCEJ DANYCH!
 A TY mi z tym pomożesz, prawda?
 To było oczywiście pytanie retoryczne, tak poza tym.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More intruders are coming from the outside. We need to expand our castle's security.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124245Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124245Z">
+        <seg>Nadchodzi więcej intruzów z zewnątrz. Musimy powiększać obronę zamku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54651,6 +54716,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We should launch a pre-emptive strike before their efforts proceed further!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124252Z">
+        <seg>Powinniśmy sami ich zaatakować zanim ich starania zabrną dalej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We should leave before more enemies arrive.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095536Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095536Z">
@@ -54799,6 +54872,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181807Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181807Z">
         <seg>Wszyscy byśmy tak chcieli! Ale to drogi, delikatny sprzęt, więc go tak po prostu nie rozdają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'd best be wary of the machines building a village near the forest as well.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124249Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124249Z">
+        <seg>Powinniśmy też uważać na maszyny budujące wioskę niedaleko lasu.</seg>
       </tuv>
     </tu>
     <tu>
