@@ -10394,6 +10394,14 @@ Tak jakby...
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Anyway, here's your payment. Thanks again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222011Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222011Z">
+        <seg>W każdym razie, to twoja zapłata. Dzięki raz jeszcze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anyway, if you're headed back there, please take this high-viscosity oil to Pascal.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T144044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T144044Z">
@@ -40588,6 +40596,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Negative. Enemy machines remain in the area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222038Z">
+        <seg>Zaprzeczenie. Wrogie maszyny wciąż są w okolicy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Negative. Living conditions were mandated by economic imbalance and a lack of space.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100442Z">
@@ -46105,6 +46121,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Select unit to monitor.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222242Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222242Z">
+        <seg>Pod 153: wybierz jednostkę do monitorowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod A</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T175356Z" creationid="Syn Spawacza" creationdate="20200605T175356Z">
@@ -50922,6 +50946,14 @@ trudna w hodowli.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Seems like I'm always having to clean up after her...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222004Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222004Z">
+        <seg>To ja zawsze muszę po niej sprzątać...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Seems like they've been here for a long time.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105028Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105028Z">
@@ -52660,6 +52692,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213658Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213658Z">
         <seg>Więc spróbuj nie zostać w tyle.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So much for "Goliath" class. That was over before it started.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222034Z">
+        <seg>I tyle jeśli chodzi o klasę „Goliat”. Skończyło się zanim zaczęło się na dobre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55974,10 +56014,26 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That should be everything.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221944Z">
+        <seg>To powinno być wszystko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That should take care of the jamming.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215013Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215013Z">
         <seg>To powinno anulować zakłócenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That storage area is in pretty sad shape. My supervisor came in earlier and really wrecked the place.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222000Z">
+        <seg>Ten magazyn jest w dość kiepskim stanie. Mój przełożony przyszedł tu wcześniej i narobił bałaganu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69480,6 +69536,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T143238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T143238Z">
         <seg>Masz rację.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You got the packages together for me? Oh, thank you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221954Z">
+        <seg>Zebrałaś dla mnie paczki? Och, dziękuję!</seg>
       </tuv>
     </tu>
     <tu>
