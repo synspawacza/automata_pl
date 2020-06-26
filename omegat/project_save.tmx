@@ -17814,6 +17814,14 @@ pieniędzy przez 60 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enemy aerial unit destroyed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134845Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134845Z">
+        <seg>Jednostka latająca wroga zniszczona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enemy analysis complete.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135905Z" creationid="Syn Spawacza" creationdate="20200530T182758Z">
@@ -25817,6 +25825,14 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I repeat, this is carrier Blue Ridge II.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134831Z">
+        <seg>Powtarzam, tutaj transportowiec Niebieski Brzeg II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I saw one near the abandoned factory.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095334Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095334Z">
@@ -27105,6 +27121,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095555Z">
         <seg>Jestem gotowa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm picking up a large-scale enemy inbound!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134838Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134838Z">
+        <seg>Odbieram obecność wielkogabarytowego przeciwnika w zasięgu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -32457,6 +32481,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092902Z">
         <seg>Wygląda na to, że odnalazłaś wszystkie niezbędne części potrzebne do ulepszenia środowiska sieciowego. Dobra robota!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Looks to be 2.8 klicks southwest of us!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134841Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134841Z">
+        <seg>Wygląda na to, że jest 2,8 kilometrów na południowy-zachód od nas!</seg>
       </tuv>
     </tu>
     <tu>
@@ -38406,6 +38438,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Our escort ship has taken damage and is unable to engage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134816Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134816Z">
+        <seg>Statek, który nas eskortował jest uszkodzony i nie jest w stanie walczyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Our intel team is hard at work attempting to analyze the source of the signal, but we're not there yet.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151735Z">
@@ -42960,6 +43000,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165156Z" creationid="Syn Spawacza" creationdate="20200615T165156Z">
         <seg>Odwrócony Goliat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reverting back to area reconnai—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134852Z">
+        <seg>Powracam do rekonesansu ter...</seg>
       </tuv>
     </tu>
     <tu>
@@ -55842,6 +55890,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need immediate backup from any available android forces.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134834Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134834Z">
+        <seg>Potrzebujemy natychmiastowego wsparcia od każdej dostępnej siły androidów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need more data.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151739Z">
@@ -56274,6 +56330,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We're currently resisting with all remaining support fighters, but we can't hold them off for long.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134828Z">
+        <seg>Aktualnie odpieramy ich wszystkimi pozostałymi wojownikami, ale nie utrzymamy się długo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We're getting Resistance signals from that building over there.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130752Z">
@@ -56398,6 +56462,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182814Z" creationid="Syn Spawacza" creationdate="20200610T175621Z">
         <seg>Ostatnio widujemy coraz więcej takich przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We've come under heavy fire from the enemy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134813Z">
+        <seg>Jesteśmy pod ciężkim ostrzałem wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63931,6 +64003,16 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144856Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144856Z">
         <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p200_27db07bb_scp.properties</prop>
+      <prop type="id">M1060_S0056_G0020_001_a9s</prop>
+      <tuv lang="en-US">
+        <seg>Wait!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134901Z">
+        <seg>Chwila!</seg>
       </tuv>
     </tu>
     <tu>
