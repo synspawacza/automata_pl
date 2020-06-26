@@ -59780,6 +59780,48 @@ Może być używana przez 2B.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Overview]
+Engels Fortress Destroyer Transformable Combination Infantry
+Production code: 110-B
+Production date: February 14, 11943 CE
+ 
+[Records]
+First deployment: August 3, 11943 CE
+Individuals killed: 11,345
+Largest combo: 234
+Total points: 9,432
+ 
+[Condition]
+(Repair required) Both arms malfunctioning
+(Repair required) Legs damaged—ambulation impossible
+(Repair required) Fragmentation errors verified in memory storage
+(Repair required) Voice system malfunctioning
+ 
+* Additional errors exist, but are not listed above</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124916Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124916Z">
+        <seg>[Przegląd]
+Engels Zmiennokształtna Forteca Niszczyciel Kombinacja Piechoty
+Kod Produkcji: 110-B
+Data produkcji: 14 luty, 11943 n.e.
+ 
+[Zapiski]
+Pierwsze użycie: 3 sierpnia, 11943 n.e.
+Zabitych jednostek: 11 345
+Największe kombo: 234
+Suma punktów: 9432
+ 
+[Stan]
+(Wymagana naprawa) Obie ręce niesprawne
+(Wymagana naprawa) Nogi zniszczone — niemożliwe poruszanie się
+(Wymagana naprawa) Znaleziono błędy fragmentacji w zapisie pamięci
+(Wymagana naprawa) Niesprawny system głosowy
+ 
+* występują też dodatkowe błędy, nie zapisane powyżej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Pod Model]
 A high-capacity device used in the
 Gestalt Project.</seg>
@@ -59914,6 +59956,38 @@ of pink. Common in the Far East.</seg>
         <seg>[Wygląd poda]
 Biało-niebieskie paski z nutą różowego.
 Popularne na Dalekim Wschodzie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Shipment Record] February 14
+[Approved] February 14
+ 
+Engels Fortress Destroyer Transformable Combination Infantry—4 units
+&gt; Production code: 110-A
+&gt; Production code: 110-B
+&gt; Production code: 110-C
+&gt; Production code: 110-D
+ 
+Engels Goliath-class Suppression Flight Weapon
+&gt; Production code: 022-A
+ 
+[Inspection] OK</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T124655Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124655Z">
+        <seg>[Zapis ładunku] 14 lutego
+[Zatwierdzono] 14 lutego
+ 
+Engels Zmiennokształtna Forteca Niszczyciel Kombinacja Piechoty — 4 jednostki
+&gt; Kod produkcji: 110-A
+&gt; Kod produkcji: 110-B
+&gt; Kod produkcji: 110-C
+&gt; Kod produkcji: 110-D
+ 
+Engels Broń Klasy Goliat Pacyfikująca Lot
+&gt; Kod produkcji: 022-A
+ 
+[Inspekcja] OK</seg>
       </tuv>
     </tu>
     <tu>
