@@ -10554,6 +10554,14 @@ Tak jakby...
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Apparently? What does that mean?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222556Z">
+        <seg>Najwyraźniej? Co to znaczy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Appreciated.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155111Z">
@@ -11224,6 +11232,32 @@ Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzi�
       <tuv lang="en-US">
         <seg>Attention all androids:
  
+As you are all aware, our recent large-scale offensive ended in crushing defeat, with the loss of our YoRHa compatriots being a particular point of deep regret. Long will we remember their brave sacrifice.
+ 
+However, do not lose hope! For the truth is that we, humanity's great army, still possess the upper hand. Go forth and fight for victory not just for your sake, but for the sake of the fallen as well!
+ 
+Glory to mankind.
+ 
+League of Assemblymen,
+Council of Humanity</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222900Z">
+        <seg>Uwaga wszystkie androidy:
+ 
+Jak jesteście wszyscy świadomi, nasz atak całymi siłami był druzgoczącą porażką, gdzie strata naszych ziomków z YoRHy jest rzeczą, której nam szczególnie żal. Na długo zapamiętamy ich odważne poświęcenie.
+ 
+Jednakże, nie traćcie nadziei. Tak naprawdę my, wielka armia ludzkości, wciąż mamy przewagę. Idźcie i walczcie dla zwycięstwa, nie tylko dla was, ale też dla tych, którzy odeszli!
+ 
+Chwała ludzkości.
+ 
+Liga Zgromadzenia,
+Rada Ludzkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attention all androids:
+ 
 Thousands of years have passed since we humans were driven to the moon. And while the war remains deadlocked, we know that our continued safety is only possible thanks to your valiant efforts on the ground. We ask that you continue giving your all to the mission of recapturing Earth from the scourge of the machines!
  
 Glory to mankind.
@@ -11236,6 +11270,28 @@ Council of Humanity</seg>
  
 Minęły tysiące lat od kiedy ludzie zostali zepchnięci na księżyc. I kiedy wojna trwa nieustannie, wiemy, że nasze bezpieczeństwo zależy wyłącznie dzięki waszym śmiałym staraniom na powierzchni. Prosimy was, byście dalej dawali z siebie wszystko w misji odbicia Ziemi z rąk plagi maszyn!
 
+Chwała ludzkości.
+ 
+Liga Zgromadzenia,
+Rada Ludzkości</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Attention all androids:
+ 
+We have received word of the recent destruction of Adam and Eve, the enemy machine lifeforms' central networking units. With the enemy weakened, now is our moment! We, humanity's great army, will now launch an all-out assault, drive back the invaders, and reclaim our rightful home of Earth!
+ 
+Glory to mankind.
+ 
+League of Assemblymen,
+Council of Humanity</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222832Z">
+        <seg>Uwaga wszystkie androidy:
+ 
+Otrzymaliśmy wieści o niedawnym zniszczeniu Adama i Ewy, wrogich mechanicznych form życia, jednostek centralnych sieci. Gdy wróg jest osłabiony, nadeszła nasza chwila! My, wielka armia ludzkości, przejdziemy w pełen atak, wykurzymy najeźdźców i odbierzemy nasz dom, Ziemię!
+ 
 Chwała ludzkości.
  
 Liga Zgromadzenia,
@@ -13854,6 +13910,14 @@ Smakowało jak olej.&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165055Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165055Z">
         <seg>Ale nie możemy wysłać tych zarażonych danych do Bunkra, więc...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But we were spared.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222609Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222609Z">
+        <seg>Ale nas zostawiono.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30649,6 +30713,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'd like to think that we're atoning in some way for our past sins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222622Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222622Z">
+        <seg>Lubię myśleć, że w jakiś sposób odpokutowujemy za nasze dawne grzechy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'd like you to collect and bring back any information you find regarding the old world during your travels.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T124840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T124840Z">
@@ -34423,6 +34495,14 @@ były otoczone troskliwą opieką.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181604Z">
         <seg>Tego zazdroszczę walczącym oddziałom. Chciałabym sama tam zejść i zbierać dane, ale mi nie pozwalają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It means we don't know. All the records from that era have been deleted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222559Z">
+        <seg>To znaczy, że nie wiemy. Wszystkie zapiski z tamtej ery został usunięte.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39787,6 +39867,14 @@ To było oczywiście pytanie retoryczne, tak poza tym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Most of our kind were disposed of after that.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222605Z">
+        <seg>Większości z naszych wtedy się pozbyto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mother Machine</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195547Z" creationid="Syn Spawacza" creationdate="20200601T195547Z">
@@ -44562,6 +44650,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150859Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150859Z">
         <seg>Zespół naprawczy wypełnił skargę dotyczącą twojego traktowania jednostek latających.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our model kinda went nutso at some point in the past. It ended badly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222602Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222602Z">
+        <seg>Naszym modelom kiedyś w przeszłości zupełnie odbiło. To się źle skończyło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53080,6 +53176,14 @@ A dokładniej, dlaczego naśladują ich porażki?&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So yeah, we're lab rats. But at least we get to be here helping out friends.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222619Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222619Z">
+        <seg>Więc tak, jesteśmy szczurami laboratoryjnymi. Ale przynajmniej możemy tu być i pomagać przyjaciołom.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So you erased your own memories.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T151343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T151343Z">
@@ -59073,6 +59177,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>They used us as a sort of control group in order to ensure such a thing couldn't happen again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222614Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222614Z">
+        <seg>Użyto nas jako grupy kontrolnej by upewnić się, że podobna rzecz nigdy więcej się nie zdarzy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>They wanted to discuss a peace treaty.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T154315Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154315Z">
@@ -61665,6 +61777,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180200Z" creationid="Syn Spawacza" creationdate="20200610T180200Z">
         <seg>Nie rób takich głupot, dobra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Try not to overdo it, 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222628Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222628Z">
+        <seg>Nie przemęczaj się 9S.</seg>
       </tuv>
     </tu>
     <tu>
