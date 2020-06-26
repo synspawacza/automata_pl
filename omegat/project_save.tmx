@@ -17613,6 +17613,14 @@ Mogą zostać sprzedane.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Eek! Who are you!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143438Z">
+        <seg>Aaa! Kim jesteś?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Effect: &lt;CHIP&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100622Z" creationid="Syn Spawacza" creationdate="20200606T100622Z">
@@ -36096,6 +36104,14 @@ mechanicznej formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No anomalies detected in black box signal. However, her language core seems to have been damaged.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143413Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143413Z">
+        <seg>Nie wykryto anomalii w sygnale czarnej skrzynki. Jednakże, jej rdzeń lingwistyczny wydaje się być uszkodzony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No complaining about your work.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122209Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122209Z">
@@ -40693,6 +40709,14 @@ przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod, send a rescue signal to the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143422Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143422Z">
+        <seg>Podzie, wyślij sygnał ratunkowy do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod, take a photo of this junk and send it to Operator 21O.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T152217Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T152217Z">
@@ -40745,6 +40769,14 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092535Z">
         <seg>Wygląda na to, że biedna dziewczyna zmarła dawno temu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poor thing... You're going to be fine, don't worry.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143418Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143418Z">
+        <seg>Biedactwo... Wszystko będzie dobrze, nie martw się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64987,6 +65019,16 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142919Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142919Z">
         <seg>Zrozumiano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p200_58623dde_scp.properties</prop>
+      <prop type="id">M1070_S0040_G0500_101_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143429Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143429Z">
+        <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
     <tu>
