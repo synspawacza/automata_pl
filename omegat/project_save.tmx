@@ -2923,6 +2923,18 @@ Ale nie obchodziło mnie to.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+I...am 9S.
+That's all I can remember.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144938Z">
+        <seg>&lt;page&gt;
+Jestem... 9S.
+To wszystko co pamiętam.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Long ago, an old machine lifeform told me something:
 "Beauty is what wins love."&lt;bt_wait&gt;</seg>
       </tuv>
@@ -14876,6 +14888,14 @@ W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T085552Z" creationid="Syn Spawacza" creationdate="20200601T085552Z">
         <seg>Zniszczony nieśmiertelnik</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dammit...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144657Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144657Z">
+        <seg>Cholera...</seg>
       </tuv>
     </tu>
     <tu>
@@ -30527,6 +30547,14 @@ były otoczone troskliwą opieką.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It must have been created by the machines.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144909Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144909Z">
+        <seg>Musiało zostać stworzone przez maszyny.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It needs to be turned on except in very specific cases.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T203221Z" creationid="Syn Spawacza" creationdate="20200530T203221Z">
@@ -30840,6 +30868,20 @@ A co ze mną? Dlaczego ja tu jestem? Dlaczego ja...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141021Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141021Z">
         <seg>To filtr do paliwa, o który prosiła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a maze.
+A labyrinth.
+A massive interconnected network.
+I've never seen anything like it.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144901Z">
+        <seg>To plątanina.
+Labirynt.
+Masywna, połączona sieć.
+Nigdy wcześniej nie widziałem czegoś takiego.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -32208,6 +32250,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100408Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100408Z">
         <seg>Spore ilości ludzi zamieszkiwały takie cementowo-metalowe schronienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Large portions of my memory may have been destroyed...&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144949Z">
+        <seg>Duże fragmenty mojej pamięci mogły zostać zniszczone...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -37006,6 +37056,22 @@ mechanicznej formy życia.</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133719Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133719Z">
         <seg>Novel Game (80 x 11)
 □□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0020_N_start&gt;
+&lt;page&gt;
+I find myself in a bizarre memory storage area stretching as far as I can see.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144831Z">
+        <seg>Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
+&lt;BGM_BGM_M1070_S0020_N_start&gt;
+&lt;page&gt;
+Znalazłem się w przedziwnym rejonie przechowywania pamięci, rozciągającym się tak daleko, jak sięgał mój wzrok.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46990,6 +47056,16 @@ Dobrze?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084344Z">
         <seg>Tak więc! Przejdźmy do rzeczy. Czym mogę służyć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So then...what am I doing here?
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144917Z">
+        <seg>Więc... co ja tu robię?
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -57540,6 +57616,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We were made to protect mankind.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144702Z">
+        <seg>Stworzono nas do ochrony ludzkości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We weren't able to capture them...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105039Z">
@@ -57832,6 +57916,14 @@ Albo coś bardzo podobnego do...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122656Z">
         <seg>Nie różnimy się.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We're not the same as you machines!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144704Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144704Z">
+        <seg>Nie jesteśmy tacy sami, jak wy, maszyny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58913,6 +59005,14 @@ Prawda?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142245Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142245Z">
         <seg>Co się stało z kobietą, która była z Tobą?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What if I forget everything? My memories? My self? My...&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144956Z">
+        <seg>Co jeśli wszystko zapomnę? Moje wspomnienia? Siebie samego? Moje...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
