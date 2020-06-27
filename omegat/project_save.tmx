@@ -17011,8 +17011,8 @@ Wszystko dzięki parze modeli Devola i Popola z innego miasta.
       <tuv lang="en-US">
         <seg>But that's what regulations call for. Still, I'll keep it a secret from the Commander.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104959Z" creationid="Syn Spawacza" creationdate="20200606T104959Z">
-        <seg>Takie są przepisy. Ale nie powiem Dowódcy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160207Z" creationid="Syn Spawacza" creationdate="20200606T104959Z">
+        <seg>Takie są przepisy. Ale nie powiem Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18403,8 +18403,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Check the mail from Command.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162345Z" creationid="Syn Spawacza" creationdate="20200608T162345Z">
-        <seg>Sprawdź wiadomość od Dowódcy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160143Z" creationid="Syn Spawacza" creationdate="20200608T162345Z">
+        <seg>Sprawdź wiadomość od Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24948,9 +24948,9 @@ poczuć się mądrym.</seg>
         <seg>Equipped auto-control chips.
 &lt;KC_LOCKON_2&gt; has now changed from "lock on" to "toggle auto-play."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184750Z" creationid="Syn Spawacza" creationdate="20200605T184750Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T155927Z" creationid="Syn Spawacza" creationdate="20200605T184750Z">
         <seg>Używane czipy autosterowania.
-&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Włącz autosterowanie”.</seg>
+&lt;KC_LOCKON_2&gt; został zmieniony z „Namierzanie” na „Przełącz na autosterowanie”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55971,10 +55971,10 @@ The first stage of the project was spreading the word among Resistance groups th
  
 Through the dramatic alteration of the Next Generation Combat Unit Project that had been proposed at the time, new "YoRHa" models began to be manufactured. Officials models were created following the implementation of data acquired from an experimental squadron, and were then deployed to all regions. Certain members of the YoRHa operations staff, however, were informed of the full scope of the project—these units were tasked to operate and protect the server on the moon.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164031Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164031Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164031Z">
         <seg>Projekt YoRHa to złożony projekt informacyjny, który ma na celu wzbogacić morale androidów. Ten wpis opisuje okoliczności, które doprowadziły do tej propozycji, jak również informację związane z operacjami przeprowadzanymi podczas pojedynczych faz.
  
-(Należy zauważyć, że ten dokument jest oznakowany poziomem S poufności i nie powinien być ujawniany personelowi YoRHy poza Dowódcą)
+(Należy zauważyć, że ten dokument jest oznakowany poziomem S poufności i nie powinien być ujawniany personelowi YoRHy poza Komandor)
  
 [Wyginięcie Ludzi]
  
@@ -58380,8 +58380,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Report to Command.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160645Z" creationid="Syn Spawacza" creationdate="20200608T160645Z">
-        <seg>Zdaj raport Dowódcy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160128Z" creationid="Syn Spawacza" creationdate="20200608T160645Z">
+        <seg>Zdaj raport pani Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63697,8 +63697,8 @@ znajomych androidów.
       <tuv lang="en-US">
         <seg>Speak with the Commander.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170304Z" creationid="Syn Spawacza" creationdate="20200530T170304Z">
-        <seg>Porozmawiaj z Dowódcą.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160118Z" creationid="Syn Spawacza" creationdate="20200530T170304Z">
+        <seg>Porozmawiaj z Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65345,8 +65345,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Talk to the Commander.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162331Z" creationid="Syn Spawacza" creationdate="20200608T162331Z">
-        <seg>Porozmawiaj z Dowódcą.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160135Z" creationid="Syn Spawacza" creationdate="20200608T162331Z">
+        <seg>Porozmawiaj z panią Komandor.</seg>
       </tuv>
     </tu>
     <tu>
