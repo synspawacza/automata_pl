@@ -2996,6 +2996,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M3060_S0005_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100305Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100305Z">
+        <seg>&lt;BGM_BGM_M3060_S0005_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M6010_S0050_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -14457,8 +14467,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Big brother! Big brother! Big brother! Big brother! Big brother!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100048Z">
-        <seg>Starszy bracie! Starszy bracie! Starszy bracie! Starszy bracie! Starszy bracie! </seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100159Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100048Z">
+        <seg>Starszy bracie! Starszy bracie! Starszy bracie! Starszy bracie! Starszy bracie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41828,6 +41838,16 @@ Niezapisane dane zostaną utracone.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Loading Screen (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100302Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100302Z">
+        <seg>Loading Screen (102x18)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading System Screen</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T144337Z" creationid="Syn Spawacza" creationdate="20200605T144337Z">
@@ -51525,6 +51545,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 042: Acknowledged. However, this Pod has a confidential transmission for Pod 153.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100355Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100355Z">
+        <seg>Pod 042: Przyjęto. Jednakże ten Pod ma sekretną transmisję dla Poda 153.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 042: Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220727Z">
@@ -51533,10 +51561,26 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 042: An error has been detected in the transmission network between Pod 042 and Pod 153.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100414Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100414Z">
+        <seg>Pod 042: Wykryto błąd w sieci transmisyjnej między Podem 042, a Podem 153.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 042: Commencing support of unit A2.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220737Z">
         <seg>Pod 042: Rozpoczynam wsparcie jednostki A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042: Contact initiated between Pod 042 and Pod 153.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100322Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100322Z">
+        <seg>Pod 042: Zainicjowano kontakt między Podem 042, a Podem 153.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51713,6 +51757,24 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222242Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222242Z">
         <seg>Pod 153: wybierz jednostkę do monitorowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Understood. Begin transmission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100401Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100401Z">
+        <seg>Pod 153: Zrozumiano. Rozpocznij transmisję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: What is the matter, Pod 042?&lt;bt_wait&gt;
+Pod 153: This protocol is not an interface intended for conversational use.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100334Z">
+        <seg>Pod 153: W czym problem, Podzie 042?&lt;bt_wait&gt;
+Pod 153: Ten protokół nie jest interfejsem służącym do konwersacji.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
