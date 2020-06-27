@@ -8109,6 +8109,14 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access point repairs complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170607Z" creationid="Syn Spawacza" creationdate="20200627T170607Z">
+        <seg>Ukończono naprawę punktu dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Access points marked with this icon &lt;MAP_TELEPORT_N&gt;, are experiencing technical difficulties and cannot be utilized.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T220526Z" creationid="Syn Spawacza" creationdate="20200608T220526Z">
@@ -9777,6 +9785,14 @@ Proszę, weźcie to.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T151449Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T151449Z">
         <seg>Ach. Tak. Grzebałam przy czymś takim jakiś czas temu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ah...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170356Z" creationid="Syn Spawacza" creationdate="20200627T170354Z">
+        <seg>Ach...</seg>
       </tuv>
     </tu>
     <tu>
@@ -24330,6 +24346,14 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111635Z" creationid="Syn Spawacza" creationdate="20200601T111635Z">
         <seg>Jaja złożone przez orła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Eh... Oh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170415Z" creationid="Syn Spawacza" creationdate="20200627T170415Z">
+        <seg>Ech... Och...</seg>
       </tuv>
     </tu>
     <tu>
@@ -44532,6 +44556,14 @@ ostrze jest nieskrzywione.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Limited functionality detected in black box.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170533Z" creationid="Syn Spawacza" creationdate="20200627T170533Z">
+        <seg>Wykryto ograniczone funkcjonowanie czarnej skrzynki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Linked-sphere Type</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165302Z" creationid="Syn Spawacza" creationdate="20200615T165302Z">
@@ -49163,6 +49195,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No response.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170422Z" creationid="Syn Spawacza" creationdate="20200627T170422Z">
+        <seg>Brak odpowiedzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No responses coming from Command on any channel.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215033Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215033Z">
@@ -52135,6 +52175,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122746Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122746Z">
         <seg>Kiedy wyrżniemy mechaniczne formy życia, my żołnierze nie będziemy już mieli nic do roboty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Once you approach a target, the scanner can make it visible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170932Z" creationid="Syn Spawacza" creationdate="20200627T170932Z">
+        <seg>Jak zbliżysz się do celu, skaner go podświetli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63089,6 +63137,14 @@ Domyślam się, ze to największy przejaw oporu, na jaki byłam zdolna się zdob
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141401Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141401Z">
         <seg>Wyruszyła więc na pustynię w poszukiwaniu zastępstwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So she's still alive. Contact the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170445Z" creationid="Syn Spawacza" creationdate="20200627T170445Z">
+        <seg>A więc żyje. Skontaktuję się z Bunkrem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74602,6 +74658,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ungh... Angh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170406Z" creationid="Syn Spawacza" creationdate="20200627T170351Z">
+        <seg>Uugh... Aaach...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unique weapons shaped like 
 Emil's head.</seg>
       </tuv>
@@ -74951,6 +75015,14 @@ w Leśnym Królestwie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104700Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104700Z">
         <seg>Urgh...Co robić, co robić?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Urrrgh....</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170541Z" creationid="Syn Spawacza" creationdate="20200627T170541Z">
+        <seg>Urrrgh....</seg>
       </tuv>
     </tu>
     <tu>
