@@ -8038,6 +8038,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Fuel filter performance deteriorating.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053552Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053552Z">
+        <seg>Uwaga: wydajność filtru paliwa się pogarsza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Hacking has resulted in an alignment of synaptic transmissions.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153549Z">
@@ -8878,6 +8886,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115605Z">
         <seg>Cały ten postęp i wszystko dzięki TOBIE!... Widzisz? Mówiłam, że nauka rządzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All this goddamn sand is starting to piss me off.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053547Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053547Z">
+        <seg>Cały ten przeklęty piasek zaczyna mnie wkurzać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9776,6 +9792,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T094542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T094542Z">
         <seg>Analiza: potwierdzono YoRHę typu B. Należy do zaginionej jednostki 11B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: YoRHa unit A2 was restarted five minutes and forty-two seconds ago.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053539Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053539Z">
+        <seg>Analiza: jednostka YoRHa A2 została zrestartowana pięć minut i czterdzieści dwie sekundy temu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22756,6 +22780,14 @@ Wróćcie później.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051045Z">
         <seg>Znalezienie jednej w takim miejscu nie będzie łatwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Fine particulate matter seems to have entered the filter while fighting in the desert.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053556Z">
+        <seg>Wygląda na to, że miałka, cząstkowa materia weszła do filtra w trakcie walk na pustyni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49015,6 +49047,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Replace the faulty part immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053601Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053601Z">
+        <seg>Propozycja: jak najszybciej wymień szwankującą część.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Return to the entrance and secure the promised "deluxe prize."</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092910Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092910Z">
@@ -59132,6 +59172,14 @@ zostali zniszczeni przez Ruch Oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143517Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143517Z">
         <seg>Powodem wydaje się być impuls elektromagnetyczny wyemitowany przez gigantyczną mechaniczną formę życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The cause was excessive strain due to battle against a large machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053543Z">
+        <seg>Powodem było nadmierne napięcie związane walką przeciwko dużej mechanicznej formie życia.</seg>
       </tuv>
     </tu>
     <tu>
