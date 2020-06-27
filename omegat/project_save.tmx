@@ -19087,6 +19087,14 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Come again!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174755Z" creationid="Syn Spawacza" creationdate="20200627T174755Z">
+        <seg>Zapraszamy ponownie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Come again?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T160000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T160000Z">
@@ -66585,6 +66593,14 @@ To koniec.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thank you! Thank you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174743Z" creationid="Syn Spawacza" creationdate="20200627T174743Z">
+        <seg>Dziękuję! Dziękuję!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thank you, my child.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T114702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T114702Z">
@@ -79125,6 +79141,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145722Z">
         <seg>Witajcie! Nawet jeśli nikt z wioski nie chce walczyć,w razie czego mam w ofercie broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome! Welcome!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174746Z" creationid="Syn Spawacza" creationdate="20200627T174746Z">
+        <seg>Witaj! Witaj!</seg>
       </tuv>
     </tu>
     <tu>
