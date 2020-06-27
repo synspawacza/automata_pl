@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>"Operational Summary of Model Number Two in Project YoRHa."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114007Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114007Z">
+        <seg>„Podsumowanie Działań Modelu Numer Dwa w Projekcie YoRHa.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"Resident Life"
 May Issue
  
@@ -6053,6 +6061,14 @@ Nie powinieneś go nie czytać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A library is a data-storage facility constructed by past human civilizations.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113854Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113854Z">
+        <seg>Biblioteka to budynek przechowujący dane, konstruowany przez dawne ludzkie cywilizacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A liquid used for coloring.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111104Z" creationid="Syn Spawacza" creationdate="20200601T111104Z">
@@ -8901,8 +8917,8 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       <tuv lang="en-US">
         <seg>Affirmative.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184515Z" creationid="Syn Spawacza" creationdate="20200530T184515Z">
-        <seg>Potwierdzenie.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113929Z" creationid="Syn Spawacza" creationdate="20200530T184515Z">
+        <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19955,6 +19971,14 @@ ale odtrąca je na boki jak muchy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Damn it, this is useless. There's too many of them.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113956Z">
+        <seg>Cholera, to bezużyteczne. Jest ich zbyt wiele.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Damn it, we took too long. They're gone.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214238Z">
@@ -28343,6 +28367,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hacking-interface access rights granted to YoRHa unit A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113942Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113942Z">
+        <seg>Dostęp do interfejsu hakowania przyznany jednostce YoRHa A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Half-wit Inventor</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214559Z" creationid="Syn Spawacza" creationdate="20200608T214559Z">
@@ -29271,6 +29303,14 @@ Aktywuje tryb obronny!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T152231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T152231Z">
         <seg>Wiitaaaj, Operatorze! Jak mogę ci pomóc?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help me out, Pod.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113900Z">
+        <seg>Pomóż mi, Podzie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31471,6 +31511,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh? What's that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114002Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114002Z">
+        <seg>Hę? Co to?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh? When did YOU get here!?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122933Z">
@@ -31651,6 +31699,14 @@ bezwartościowy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hypothesis: It is a representation of a library.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113840Z">
+        <seg>Hipoteza: To reprezentacja biblioteki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hypothesis: Jamming caused by enemies in local vicinity.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182935Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
@@ -31671,6 +31727,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170324Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170324Z">
         <seg>Hipoteza: krzyk wroga klasy Goliat przyzwał okoliczne mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypothesis: The corpse is likely a result of YoRHa unit 9S's advance through the area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113834Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113834Z">
+        <seg>Hipoteza: Trup najprawdopodobniej jest rezultatem przejścia tą droga jednostki YoRHa 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34542,6 +34606,14 @@ Ale podjęłam decyzję.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145616Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145616Z">
         <seg>Zgaduję, że jest to... technicznie poprawne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I suppose we have to hack in to look at the data, yeah?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113857Z">
+        <seg>Podejrzewam, że musimy to zhakować, żeby przejrzeć dane, tak?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42654,6 +42726,38 @@ w każdej  chwili.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172711Z" creationid="Syn Spawacza" creationdate="20200605T172711Z">
         <seg>Katalog biblioteki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Library Index
+015 port 042148 Adam Unit Storage Record
+016 port 009397 Eve Unit Storage Record
+017 port 027581 YoRHa Communications Interception Record
+018 port 053031 YoRHa Server Record
+019 port 056776 Human Server Record
+020 port 028295 Human Server Establishment Record
+021 port 008471 Human Heritage Preservation Record
+022 port 062423 Tower System Summary
+023 port 064202 Tower Sub-system Summary
+024 port 058632 Special Units Creation Record
+025 port 016941 Plant Species Preservation Record
+026 port 004742 Animal Species Preservation Record</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114158Z">
+        <seg>Indeks Biblioteki
+015 port 042148 Zapis o Jednostce Adam
+016 port 009397 Zapis o Jednostce Ewa
+017 port 027581 Zapis o Przejęciu Komunikacji YoRHa
+018 port 053031 Zapis Serwera YoRHy
+019 port 056776 Zapis Serwera Ludzi
+020 port 028295 Zapis Ustanowienia Serwera Ludzi
+021 port 008471 Zapis Konserwacji Spuścizny Ludzkości
+022 port 062423 Podsumowanie Systemu Wieży
+023 port 064202 Podsumowanie Podjednostek Wieży
+024 port 058632 Zapis Stworzenia Specjalnych Jednostek
+025 port 016941 Zapis Ochrony Gatunków Roślin
+026 port 004742 Zapis Ochrony Gatunków Zwierząt</seg>
       </tuv>
     </tu>
     <tu>
@@ -52054,6 +52158,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Peachy.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113944Z">
+        <seg>Odjazd.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Peak</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175424Z" creationid="Syn Spawacza" creationdate="20200601T175424Z">
@@ -61052,6 +61164,14 @@ A dokładniej, dlaczego naśladują ich porażki?&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Some records on old humans...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113954Z">
+        <seg>Zapiski dotyczące dawnych ludzi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Some things are better left unknown.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T151540Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T151540Z">
@@ -66046,6 +66166,14 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The machines hacked that deep into the system, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113952Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113952Z">
+        <seg>Maszyny wdarły się aż tak głęboko do systemu, hm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The machines have gained emotions. 
 ...Consciousness.</seg>
       </tuv>
@@ -67515,6 +67643,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>These records are from the human server on the moon...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113949Z">
+        <seg>Te zapisy pochodzą z serwera ludzi na księżycu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Theta Squad destroyed</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214233Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214233Z">
@@ -68101,6 +68237,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This Tower looks like a data-gathering system for the machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113947Z">
+        <seg>Ta Wieża wygląda jak system zbierający dane dla maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This WAS a trap! I knew it!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145928Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145928Z">
@@ -68301,6 +68445,14 @@ wszystkim jednostkom YoRHa.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134626Z">
         <seg>Te dane mówią mi, że powinnam przeć dalej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This data...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114010Z">
+        <seg>Te dane...</seg>
       </tuv>
     </tu>
     <tu>
@@ -76829,6 +76981,14 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's up with this place?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113836Z">
+        <seg>O co chodzi z tym miejscem?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's with the corpses?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152451Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152451Z">
@@ -85119,6 +85279,16 @@ Relapses increasing...</seg>
         <seg>Affirmative.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221104Z">
+        <seg>Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p300_24fd47f4_scp.properties</prop>
+      <prop type="id">M3060_S0150_G0070_001_pod042</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113913Z">
         <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
