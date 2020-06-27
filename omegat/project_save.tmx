@@ -6351,8 +6351,9 @@ Nie powinieneś go nie czytać.</seg>
         <seg>A lost bag belonging to
 the Resistance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123138Z" creationid="Syn Spawacza" creationdate="20200601T123138Z">
-        <seg>Zgubiona torba należąca do ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152543Z" creationid="Syn Spawacza" creationdate="20200601T123138Z">
+        <seg>Zgubiona torba należąca
+do Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6545,9 +6546,9 @@ ruchu oporu.</seg>
 Resistance's materials storeroom.
 The contents are unknown.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180634Z" creationid="Syn Spawacza" creationdate="20200605T180634Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152533Z" creationid="Syn Spawacza" creationdate="20200605T180634Z">
         <seg>Paczka przechowywana w
-magazynie ruchu oporu.
+magazynie Ruchu Oporu.
 Zawartość nieznana.</seg>
       </tuv>
     </tu>
@@ -21925,8 +21926,8 @@ What Are You Doing?</seg>
       <tuv lang="en-US">
         <seg>Destroy all enemies at the Resistance camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162712Z" creationid="Syn Spawacza" creationdate="20200608T162712Z">
-        <seg>Zniszcz wszystkich wrogów w obozie ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152621Z" creationid="Syn Spawacza" creationdate="20200608T162712Z">
+        <seg>Zniszcz wszystkich wrogów w obozie Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27384,8 +27385,8 @@ wielką siłą z względu na swoją masę.</seg>
       <tuv lang="en-US">
         <seg>Gain intel from the Resistance members.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160541Z" creationid="Syn Spawacza" creationdate="20200608T160541Z">
-        <seg>Przeprowadź wywiad wśród członków ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152559Z" creationid="Syn Spawacza" creationdate="20200608T160541Z">
+        <seg>Przeprowadź wywiad wśród członków Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27756,8 +27757,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Go to the Resistance camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161835Z" creationid="Syn Spawacza" creationdate="20200608T161835Z">
-        <seg>Idź do obozu ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152605Z" creationid="Syn Spawacza" creationdate="20200608T161835Z">
+        <seg>Idź do obozu Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -28236,8 +28237,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Grants a discount at the Resistance shops.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164009Z" creationid="Syn Spawacza" creationdate="20200601T164009Z">
-        <seg>Daje zniżkę w sklepach ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152550Z" creationid="Syn Spawacza" creationdate="20200601T164009Z">
+        <seg>Daje zniżkę w sklepach Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46461,8 +46462,8 @@ Może zostać sprzedane.</seg>
       <tuv lang="en-US">
         <seg>Meet Devola at the Resistance camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170918Z" creationid="Syn Spawacza" creationdate="20200608T170918Z">
-        <seg>Spotkaj Devolę w obozie ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152636Z" creationid="Syn Spawacza" creationdate="20200608T170918Z">
+        <seg>Spotkaj Devolę w obozie Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57432,10 +57433,10 @@ As a further note, the member in question had been killed by a machine lifeform.
  
 —The Commander</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104407Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104407Z">
         <seg>Ostatnio został wysłany nakaz poszukiwania członka YoRHY, który był w posiadaniu czipów z sekretnymi informacjami. Skoro konkretny osobnik został odnaleziony, rozkaz zostaje wycofany.
  
-Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne formy życia. Jednakże nasz zespół poszukiwawczy i tak dał radę odzyskać czipy z informacjami. Udało im się również zlokalizować ciało innego członka ruchu oporu w jego okolicy; prowadzimy dochodzenie, czy te dwa przypadki są ze sobą powiązane.
+Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne formy życia. Jednakże nasz zespół poszukiwawczy i tak dał radę odzyskać czipy z informacjami. Udało im się również zlokalizować ciało innego członka Ruchu Oporu w jego okolicy; prowadzimy dochodzenie, czy te dwa przypadki są ze sobą powiązane.
  
 —Komandor</seg>
       </tuv>
@@ -58707,8 +58708,8 @@ Instrukcja budowy:
       <tuv lang="en-US">
         <seg>Resistance Disappearance</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T212144Z" creationid="Syn Spawacza" creationdate="20200608T212144Z">
-        <seg>Zniknięcie w ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152640Z" creationid="Syn Spawacza" creationdate="20200608T212144Z">
+        <seg>Zniknięcie w Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -65260,24 +65261,24 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Talk to the Resistance Camp leader.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160438Z" creationid="Syn Spawacza" creationdate="20200608T160438Z">
-        <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152556Z" creationid="Syn Spawacza" creationdate="20200608T160438Z">
+        <seg>Porozmawiaj z przywódcą Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Talk to the Resistance leader.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T162721Z" creationid="Syn Spawacza" creationdate="20200608T162721Z">
-        <seg>Porozmawiaj z przywódcą ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152628Z" creationid="Syn Spawacza" creationdate="20200608T162721Z">
+        <seg>Porozmawiaj z przywódcą Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Talk to the red-headed Resistance members.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161933Z" creationid="Syn Spawacza" creationdate="20200608T161933Z">
-        <seg>Porozmawiaj z rudowłosymi członkiniami ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152615Z" creationid="Syn Spawacza" creationdate="20200608T161933Z">
+        <seg>Porozmawiaj z rudowłosymi członkiniami Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
