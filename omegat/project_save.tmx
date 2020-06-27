@@ -3484,6 +3484,18 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;Your comrades sacrifice themselves and fight to the last breath.&lt;/i&gt;&lt;bt_wait&gt;
+&lt;i&gt;They feel suffering. They feel sadness. They feel pain and terror.&lt;/i&gt;&lt;bt_wait&gt;
+&lt;i&gt;And yet YOU would surrender now? Unforgivable!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075936Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075936Z">
+        <seg>&lt;i&gt;Twoje towarzyszki poświęcają się i walczą do ostatniego tchu.&lt;/i&gt;&lt;bt_wait&gt;
+&lt;i&gt;Czują cierpienie. Czują smutek. Czują ból i lęk.&lt;/i&gt;&lt;bt_wait&gt;
+&lt;i&gt;A TY się teraz poddasz? Niewybaczalne!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;page&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134433Z">
@@ -3515,11 +3527,35 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+&lt;i&gt;Unforgiveable. &lt;bt_wait&gt;Unforgiveable. &lt;bt_wait&gt;Unforgiveable. &lt;bt_wait&gt;Unforgiveable. &lt;bt_wait&gt;Unforgiveable.&lt;/i&gt;&lt;BGM_BGM_M6010_S0250_N_0050&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075908Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075908Z">
+        <seg>&lt;page&gt;
+&lt;i&gt;Niewybaczalne. &lt;bt_wait&gt;Niewybaczalne. &lt;bt_wait&gt;Niewybaczalne. &lt;bt_wait&gt;Niewybaczalne. &lt;bt_wait&gt;Niewybaczalne.&lt;/i&gt;&lt;BGM_BGM_M6010_S0250_N_0050&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 A massive explosion echoes in the distance as the hall slowly shakes.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075635Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075635Z">
         <seg>&lt;page&gt;
 Masywna eksplozja rozlega się w oddali, kiedy korytarz lekko się trzęsie.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+A soft wind touches my cheek.&lt;bt_wait&gt; I smell fire.&lt;bt_wait&gt; I smell ash.&lt;bt_wait&gt;
+The explosion in the server room was powerful enough to take out Mt. Ka'ala
+itself, reducing the once proud summit to a smoking crater.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080201Z">
+        <seg>&lt;page&gt;
+Delikatny powiew dotyka mego policzka.&lt;bt_wait&gt; Czuję ogień.&lt;bt_wait&gt; Czuję popiół.&lt;bt_wait&gt;
+Wybuch w serwerowni był wystarczająco potężny, by zmieść z powierzchni samą górę Ka'ala,
+redukując niegdyś dumny szczyt do dymiącego krateru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3628,6 +3664,20 @@ But I did not care.&lt;bt_wait&gt;</seg>
 Niegdyś usłyszałam opowieść o wartościowym klejnocie na dalekim wschodzie.
 Powiadano, że leży na bardzo niebezpiecznej górze.
 Ale nie obchodziło mnie to.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+I scream at the top of my lungs and race down the hall.&lt;bt_wait&gt;
+I'll show you.&lt;bt_wait&gt; If you're going to push me, I'll show you.&lt;bt_wait&gt;
+You'll only be satisfied if it ends with more killing.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080048Z">
+        <seg>&lt;page&gt;
+Krzyczę z całych sił i biegnę dalej korytarzem.&lt;bt_wait&gt;
+Pokażę wam.&lt;bt_wait&gt; Jeśli masz zamiar mnie naciskać, to ci pokażę.&lt;bt_wait&gt;
+Będziesz usatysfakcjonowana tylko wtedy, gdy zakończy się to większą ilością zabijania.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11919,6 +11969,16 @@ Please head to the site and check it out when you can, okay? Thanks!
 Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzięki!
  
 —Operator 6O</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As I scream, an explosion suddenly rises up and sweeps everything away.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080123Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080123Z">
+        <seg>Kiedy krzyczę, nagle rozlega się wybuch, który zmiata wszystko wokół.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -27225,6 +27285,18 @@ I póki tak jest...&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here I am.&lt;bt_wait&gt;
+HERE I AM!&lt;bt_wait&gt;
+KILL ME!&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080115Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080115Z">
+        <seg>Oto jestem.&lt;bt_wait&gt;
+OTO JESTEM!&lt;bt_wait&gt;
+ZABIJCIE MNIE!&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Here and now, we will put an end to this goddamn war!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165607Z">
@@ -31052,6 +31124,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T131943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T131943Z">
         <seg>Wiem... Muszę stać się piękniejsza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I leap into the fray with weapons in both hands.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080053Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080053Z">
+        <seg>Wskakuję w wir bitwy z bronią w obu dłoniach.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36476,6 +36556,16 @@ aura of pompousness.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221436Z">
         <seg>Był to rozkaz, jaki otrzymała od Pani Komandor YoRHy, kiedy wciąż żyła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is another me, crying out.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080010Z">
+        <seg>To wykrzykuje druga ja.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61814,6 +61904,16 @@ They studied Number 21's patterns and developed a new resistance.&lt;bt_wait&gt;
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075404Z">
         <seg>Szczepionka, którą dała Lilly już jest nieefektywna. Wróg ewoluował.&lt;bt_wait&gt;
 Przestudiowały wzory pracy Numeru 21 i stworzyły odporność.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The voice is a battlefield curse, telling those who survive to see their
+mission through no matter what.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080003Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080003Z">
+        <seg>Głos jest przekleństwem bitewnym, który mówi tym, którzy przetrwali,
+by rozważyli swoją misję niezależnie od sytuacji.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
