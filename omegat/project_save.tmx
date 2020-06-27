@@ -592,8 +592,8 @@ wybrałyśmy, by tu być...</seg>
       <tuv lang="en-US">
         <seg>.....</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172547Z" creationid="Syn Spawacza" creationdate="20200627T172547Z">
-        <seg>.....</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172834Z" creationid="Syn Spawacza" creationdate="20200627T172547Z">
+        <seg>...</seg>
       </tuv>
     </tu>
     <tu>
@@ -38167,8 +38167,8 @@ Sam.
       <tuv lang="en-US">
         <seg>I'm sure you've realized it by now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172712Z" creationid="Syn Spawacza" creationdate="20200627T172712Z">
-        <seg>Z pewnością już sobie to uświadomiłaś.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173008Z" creationid="Syn Spawacza" creationdate="20200627T172712Z">
+        <seg>Z pewnością już sobie uświadomiłaś ten fakt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51629,8 +51629,8 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
       <tuv lang="en-US">
         <seg>Oh, um, I also have a message for you.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T153035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T153035Z">
-        <seg>Och i mam też wiadomość dla ciebie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T153035Z">
+        <seg>Och, i mam też wiadomość dla ciebie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80781,6 +80781,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132756Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132756Z">
         <seg>Gdzie my jesteśmy...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where are you going, 2B? The machine lifeforms wishing to form an alliance are in the abandoned factory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173123Z" creationid="Syn Spawacza" creationdate="20200627T173123Z">
+        <seg>Gdzie idziesz, 2B? Mechaniczne formy życia które chcą zawrzeć przymierze są w opuszczonej fabryce.</seg>
       </tuv>
     </tu>
     <tu>
