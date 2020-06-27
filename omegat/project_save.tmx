@@ -3871,6 +3871,26 @@ Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+“Lilly said you were like a family to her! You can't abandon family,
+not before you exhaust every possibility!”&lt;bt_wait&gt;
+“What can you do, then?”&lt;bt_wait&gt;
+“I'll use my power to erase the virus!”&lt;bt_wait&gt;
+“That's impossible!”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065425Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065425Z">
+        <seg>&lt;page&gt;
+„Lilly mówiła, że jesteś dla niej jak rodzina! Nie możesz
+porzucić rodziny, nie zanim nie spróbujesz wszystkiego!”&lt;bt_wait&gt;
+„Więc, co możesz zrobić?”&lt;bt_wait&gt;
+„Użyję swojej mocy, by wykasować tego wirusa!”&lt;bt_wait&gt;
+„To niemożliwe!”
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 “Now you see, boy! The true meaning of life...is hatred!”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150026Z">
