@@ -33177,6 +33177,24 @@ Muszę kontynuować aż jedna ze stron będzie martwa.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I don't know anymore.
+&lt;/page&gt;
+&lt;page&gt;
+&lt;color_b0b0b0&gt;I try to speak my mind, but the words don't come out right.&lt;color_c0c0c0&gt;&lt;bt_wait&gt;
+My thought routines are losing cohesion.&lt;bt_wait&gt;
+I don't...&lt;bt_wait&gt; I can't remember my name.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123901Z">
+        <seg>Już tego nie wiem.
+&lt;/page&gt;
+&lt;page&gt;
+&lt;color_b0b0b0&gt;Próbuję się odezwać, ale słowa nie chcą poprawnie wyjść.&lt;color_c0c0c0&gt;&lt;bt_wait&gt;
+Moje procesy myślowe tracą płynność.&lt;bt_wait&gt;
+Nie...&lt;bt_wait&gt; Nie pamiętam swojego imienia.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I don't know if this is enough payment for all you've done, but please accept it.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142947Z">
@@ -35483,6 +35501,28 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090145Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090145Z">
         <seg>próbuję wytłumaczyć czemu tak mówię, ale wyjaśniam to tak szybko, że nikt nie rozumie tego co mówię, wiec to nigdy do niczego nie prowadzi i</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I try to look up at him, but my body refuses to move.&lt;color_a0a0a0&gt;&lt;bt_wait&gt;
+Looks like the damage has spread to my motor functions as well.
+&lt;/page&gt;
+&lt;page&gt;
+“Will you come with us?” asks Adam.&lt;bt_wait&gt;
+The question was completely free of malice.&lt;bt_wait&gt;
+It seemed I no longer had a reason to hate machines.&lt;bt_wait&gt;
+Maybe I never had a reason in the first place.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123756Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123756Z">
+        <seg>Chcę na niego spojrzeć, ale moje ciało odmawia ruchu..&lt;color_a0a0a0&gt;&lt;bt_wait&gt;
+Wygląda na to, że zniszczenia dotarły również do moich funkcji ruchowych.
+&lt;/page&gt;
+&lt;page&gt;
+„Wyruszysz z nami?” pyta Adam.&lt;bt_wait&gt;
+To pytanie było całkowicie wolne od złośliwości.&lt;bt_wait&gt;
+Wygląda na to, że nie mam już powodu, by nienawidzić maszyn.&lt;bt_wait&gt;
+Może tak właściwie nigdy nie było tego powodu.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -53165,6 +53205,28 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122704Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122704Z">
         <seg>Możliwe, że ktoś widzi w tym grzech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Perhaps they'll never reach that world.&lt;bt_wait&gt;
+Perhaps they'll simply wander an empty sky for eternity.&lt;bt_wait&gt;
+It's all the same to the girls. For them, time is without end.
+&lt;/page&gt;
+&lt;page&gt;
+Adam and Eve are inside the ark.&lt;bt_wait&gt;
+Eve is asleep.&lt;bt_wait&gt;
+Adam holds him in a gentle embrace. He seems to be smiling at me.&lt;color_808080&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123713Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123713Z">
+        <seg>Możliwe, że nigdy nie dotrą do tego świata.&lt;bt_wait&gt;
+Możliwe, że będą wędrować po pustym niebie przez wieczność.&lt;bt_wait&gt;
+Dla dziewczynek to nie ma różnicy. Dla nich, czas nie ma końca.
+&lt;/page&gt;
+&lt;page&gt;
+Adam i Ewa są w środku arki.&lt;bt_wait&gt;
+Ewa śpi.&lt;bt_wait&gt;
+Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&lt;color_808080&gt;&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78030,6 +78092,16 @@ Prawda?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090533Z">
         <seg>Co się stało?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What have I been fighting for?&lt;bt_wait&gt;
+Who have I been &lt;i&gt;living&lt;/i&gt; for?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123826Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123826Z">
+        <seg>Dlaczego walczyłem?&lt;bt_wait&gt;
+Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
