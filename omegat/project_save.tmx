@@ -590,6 +590,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.....</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172547Z" creationid="Syn Spawacza" creationdate="20200627T172547Z">
+        <seg>.....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>......</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104209Z" creationid="Syn Spawacza" creationdate="20200606T104209Z">
@@ -10095,6 +10103,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Enemy deception detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172635Z" creationid="Syn Spawacza" creationdate="20200627T172635Z">
+        <seg>Uwaga: wykryto podstęp wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Enemy hacking detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115202Z">
@@ -16759,6 +16775,14 @@ Smakowało jak olej.&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145335Z" creationid="Syn Spawacza" creationdate="20200530T195141Z">
         <seg>Ale po ponad tuzinie wielkoskalowych zrzutów na wroga, wciąż nie daliśmy rady z odparciem najeźdźców..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But alas, it was all in vain.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172539Z" creationid="Syn Spawacza" creationdate="20200627T172539Z">
+        <seg>Lecz niestety, wszystko to na próżno.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38141,6 +38165,14 @@ Sam.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm sure you've realized it by now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172712Z" creationid="Syn Spawacza" creationdate="20200627T172712Z">
+        <seg>Z pewnością już sobie to uświadomiłaś.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm sure.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095135Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095135Z">
@@ -50967,6 +50999,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154037Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154037Z">
         <seg>Och, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172820Z" creationid="Syn Spawacza" creationdate="20200627T172820Z">
+        <seg>Och!</seg>
       </tuv>
     </tu>
     <tu>
@@ -68568,6 +68608,14 @@ Za długo by czekać, za krótko by żałować.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150144Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150144Z">
         <seg>Wyginięcie YoRHy to kwestia czasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The fact humanity is already...extinct?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172718Z" creationid="Syn Spawacza" creationdate="20200627T172614Z">
+        <seg>Fakt, że ludzkość już... wyginęła.</seg>
       </tuv>
     </tu>
     <tu>
