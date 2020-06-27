@@ -8917,16 +8917,16 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       <tuv lang="en-US">
         <seg>Adjust how far the camera is typically positioned from the player.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205741Z" creationid="Syn Spawacza" creationdate="20200530T132402Z">
-        <seg>Dostosuj, jak daleko ma być zazwyczaj umieszczona kamera od postaci.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153217Z" creationid="Syn Spawacza" creationdate="20200530T132402Z">
+        <seg>Dostosuj standardową odległość kamery od postaci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Adjust how far the camera pans out when enemies are nearby.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153137Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
-        <seg>Dostosuj, odległość kamera od postaci w pobliżu wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153214Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
+        <seg>Dostosuj odległość kamery od postaci w pobliżu wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8949,16 +8949,16 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       <tuv lang="en-US">
         <seg>Adjust how fast the camera moves left/right in response to player actions.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132429Z" creationid="Syn Spawacza" creationdate="20200530T132429Z">
-        <seg>Dostosuj prędkość ruchu kamery w poziomie w reakcji na działania gracza.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153246Z" creationid="Syn Spawacza" creationdate="20200530T132429Z">
+        <seg>Dostosuj prędkość kamery w poziomie w reakcji na działania gracza.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Adjust how fast the camera moves up/down in response to player actions.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T132417Z" creationid="Syn Spawacza" creationdate="20200530T132417Z">
-        <seg>Dostosuj prędkość ruchu kamery w pionie w reakcji na działania gracza.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153249Z" creationid="Syn Spawacza" creationdate="20200530T132417Z">
+        <seg>Dostosuj prędkość kamery w pionie w reakcji na działania gracza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12815,8 +12815,8 @@ I dzięki temu wszelkie wątpliwości zostały zmyte.
       <tuv lang="en-US">
         <seg>Animal Riding Controls</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170015Z" creationid="Syn Spawacza" creationdate="20200615T170015Z">
-        <seg>Sterowanie podczas ujeżdżania zwierząt</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153326Z" creationid="Syn Spawacza" creationdate="20200615T170015Z">
+        <seg>Ujeżdżanie zwierząt</seg>
       </tuv>
     </tu>
     <tu>
@@ -22682,8 +22682,8 @@ Nie byłabym w stanie samotnie znieść tego brzemienia.
       <tuv lang="en-US">
         <seg>Display the skill gauge. (Shows a Pod program's cooldown time.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184148Z" creationid="Syn Spawacza" creationdate="20200605T184148Z">
-        <seg>Wyświetla wskaźnik umiejętności (czas odnowienia programu poda).</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153500Z" creationid="Syn Spawacza" creationdate="20200605T184148Z">
+        <seg>Wyświetla wsk. umiejętności (czas odnowienia programu poda).</seg>
       </tuv>
     </tu>
     <tu>
