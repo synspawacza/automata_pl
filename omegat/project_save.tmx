@@ -3463,6 +3463,18 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+An uneasy Sonia pulls Shion close and chews on a loose strand of hair.&lt;bt_wait&gt;
+“I don't like it,” she says. “What if it's some kind of machine trap?”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061449Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061449Z">
+        <seg>&lt;page&gt;
+Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.&lt;bt_wait&gt;
+„Nie podoba mi się to.” mówi. „A co jeśli to jakaś pułapka maszyn?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
@@ -3682,6 +3694,20 @@ ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
         <seg>&lt;page&gt;
 „Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“There's been a change in enemy movements,” she says finally.
+“Someone just started fighting over there.”&lt;bt_wait&gt;
+“But that's not possible,” stammers Margaret. “We're...all here.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060444Z">
+        <seg>&lt;page&gt;
+„Nastąpiła zmiana w działaniach wroga.” mówi wreszcie.
+„Ktoś właśnie tam zaczął walczyć.”&lt;bt_wait&gt;
+„Ale to niemożliwe.” wykrztusza z siebie Margaret. „Wszystkie... jesteśmy tutaj.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29835,6 +29861,20 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I grab Dahlia's arm before she can flee the trench and turn to Rose.
+She brought us here, after all—she must have a plan of some kind.&lt;bt_wait&gt;
+But as the enemy horde closes in, Rose simply squints off in the distance.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060424Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060424Z">
+        <seg>Złapałam rękę Dalii, zanim ta wybiegła z okopu i zwróciłam się do Róży.
+W końcu to ona nas tu przywiodła — musi mieć jakiś plan.&lt;bt_wait&gt;
+Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I guess even they get bad intel from time to time, huh?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181924Z" creationid="Syn Spawacza" creationdate="20200530T181924Z">
@@ -40239,6 +40279,18 @@ Rozprzestrzenianie się Syndromu Białego Chlorowania, który powstał w 2003 �
 Jednakże doszło do wielu przełomowych odkryć technologicznych w rezultacie badań przeprowadzanych na czasteczce „maso”, która odkryto w tym samym czasie. Jesteśmy pewni, że technologia, którą ona umożliwia — oddzielenie duszy od ciała i niezależne istnienie obu — będzie ostateczną obroną przeciwko bezprecedensowemu zagrożeniu, któremu teraz stawia czoła ludzkość.
  
 Teraz, kiedy projekt wyszedł z fazy przygotowań do fazy głównej implementacji, otrzymał oficjalną nazwę „Projekt Gestalt”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Margaret's right. There are only nine of us left capable of fighting the machines:
+Captain Rose. Gerbera. Lilly. Sonia. Erica. Margaret. Shion. Dahlia...&lt;bt_wait&gt;
+And me. Anemone. &lt;bt_wait&gt;We're all that's left of the eighth descent forces.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060525Z">
+        <seg>Margaret ma rację. Została tylko dziewiątka zdolna do walki z maszynami:
+Kapitan Róża. Gerbera. Lilly. Sonia. Erica. Margaret. Shion. Dalia...&lt;bt_wait&gt;
+I ja. Anemona. &lt;bt_wait&gt;Tylko my zostałyśmy na polu walki z ośmiu oddziałów.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60392,6 +60444,16 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T150124Z" creationid="Syn Spawacza" creationdate="20200616T150124Z">
         <seg>Nowa królowa stworzyła potężną armię. By pozwolić na takie przedsięwzięcie, opodatkowała swój lud, w zamian dając im pracę w nowch fabrykach, stworzonych by wesprzeć działania wojenne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The one that took place roughly 200 years ago.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060534Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060534Z">
+        <seg>Które wylądowały tutaj prawie 200 lat temu.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
