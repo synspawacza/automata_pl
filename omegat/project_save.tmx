@@ -4255,6 +4255,18 @@ pozostały bez odpowiedzi.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Rain falls from the sky.
+It stimulates our sensation nerves like cold needles.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105802Z">
+        <seg>&lt;page&gt;
+Deszcz spada z nieba.
+Stymuluje nasze nerwy sensualne jak zimne igły.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Rose spat out what we were all thinking, but before we can act,
 Lilly starts to send nearby comrades flying with impossible strength.&lt;bt_wait&gt;
 I've seen infected androids before—I know how much damage they can do once the
@@ -4498,6 +4510,20 @@ We're new models rolled out as part of something called Project YoRHa.”&lt;bt_
 „Dobra” mówię do obcych. „Zacznijcie gadać.”&lt;bt_wait&gt;
 „Spokojnie” mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
 Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Are you cold, Devola?”&lt;bt_wait&gt;
+“I'm all right as long as you're with me, Sis.”&lt;bt_wait&gt;
+“I feel the same.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105832Z">
+        <seg>&lt;page&gt;
+„Zimno ci, Devolu?”&lt;bt_wait&gt;
+„Wszystko w porządku, dopóki ty ze mną jesteś, Siostrzyczko.”&lt;bt_wait&gt;
+„Mam tak samo.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13143,6 +13169,18 @@ Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzi�
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164821Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164821Z">
         <seg>Tak bardzo jak jestem zaniepokojony, mój brat... był wszystkim...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>As far as I'm concerned, there's only one Devola.&lt;bt_wait&gt; And for her, there's only me.&lt;bt_wait&gt;
+No one can take the other's place.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105747Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105747Z">
+        <seg>Z tego, co mnie w ogóle obchodzi, to istnieje tylko jedna Devola.&lt;bt_wait&gt; I dla niej, istnieję tylko ja.&lt;bt_wait&gt;
+Nikt nie może zająć miejsca tej drugiej.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -73198,6 +73236,18 @@ zanim kradnie go chłodny, wieczorny wiatr.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We need maintenance badly. But that's a pipe dream, I suppose.&lt;bt_wait&gt;
+No android would dare help a pair of outcasts like us.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105816Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105816Z">
+        <seg>Bardzo potrzebujemy naprawy. Ale myślę, że to mrzonka.&lt;bt_wait&gt;
+Żadne z androidów nie śmiałby pomóc takiej parze wyrzutków jak my.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We need more data.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151739Z">
@@ -73314,6 +73364,24 @@ zanim kradnie go chłodny, wieczorny wiatr.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T091432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T091432Z">
         <seg>Umieściliśmy pamięć Jego Wysokości — jego ostatnią pamiątkę — w tym maleńkim dziecku.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We press our bodies together to try and retain heat.
+It's cold now. Much worse than the searing heat of midday.
+But we just smile at each other and keep pressing on.&lt;bt_wait&gt;
+There's another camp on the other side of the desert. A new camp.
+If we can just get there, I can finally fix Devola's leg.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105949Z">
+        <seg>Przyciskamy do siebie nasze cała i próbujemy odzyskać ciepło.
+Teraz jest zimno. Gorzej niż gorąc w środku dnia.
+Ale tylko się do siebie uśmiechamy i przemy naprzód.&lt;bt_wait&gt;
+Po drugiej stronie pustyni jest kolejny obóz. Nowy obóz.
+Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
