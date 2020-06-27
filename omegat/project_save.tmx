@@ -4866,6 +4866,24 @@ Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+“I'll stay.”
+“I...”&lt;color_d0d0d0&gt;&lt;bt_wait&gt;
+“We YoRHa... We don't deserve to be loved by this world....”
+&lt;/page&gt;
+&lt;go_END&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T155051Z" creationid="Syn Spawacza" creationdate="20200627T155051Z">
+        <seg>&lt;page&gt;
+„Zostanę.”
+“Ja...”&lt;color_d0d0d0&gt;&lt;bt_wait&gt;
+“My z YoRHy... Nie zasługujemy by kochał nas ten świat...”
+&lt;/page&gt;
+&lt;go_END&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 “I'm glad you were with me,” murmurs Popola.
 “I couldn't have handled being an observer all alone.”&lt;bt_wait&gt;
 “We were able to endure because we had each other,” I reply softly.&lt;bt_wait&gt;</seg>
@@ -5131,6 +5149,18 @@ I stare at the gun I hold in trembling hands.&lt;bt_wait&gt;</seg>
 Kiedy tylko winda dotyka dna, wystrzeliwuję pocisk w mózg Numeru 21.&lt;bt_wait&gt;
 Patrze jak rzecz, która nią była, upada na ziemię.&lt;bt_wait&gt;
 Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;sele_YES&gt; “I'll go with you.”
+&lt;sele_NO&gt; “I'll stay.”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T154937Z" creationid="Syn Spawacza" creationdate="20200627T154937Z">
+        <seg>&lt;sele_YES&gt; „Polecą z wami.”
+&lt;sele_NO&gt; „Zostanę.”
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
