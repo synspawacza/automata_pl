@@ -44209,7 +44209,7 @@ w każdej  chwili.</seg>
 025 port 016941 Plant Species Preservation Record
 026 port 004742 Animal Species Preservation Record</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114158Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114158Z">
         <seg>Indeks Biblioteki
 015 port 042148 Zapis o Jednostce Adam
 016 port 009397 Zapis o Jednostce Ewa
@@ -44219,7 +44219,7 @@ w każdej  chwili.</seg>
 020 port 028295 Zapis Ustanowienia Serwera Ludzi
 021 port 008471 Zapis Konserwacji Spuścizny Ludzkości
 022 port 062423 Podsumowanie Systemu Wieży
-023 port 064202 Podsumowanie Podjednostek Wieży
+023 port 064202 Podsumowanie Podsystemów Wieży
 024 port 058632 Zapis Stworzenia Specjalnych Jednostek
 025 port 016941 Zapis Ochrony Gatunków Roślin
 026 port 004742 Zapis Ochrony Gatunków Zwierząt</seg>
@@ -82095,8 +82095,8 @@ Usmażyło obwody trzem pracownikom pod rząd, jak ci próbowali usunąć zabezp
       <tuv lang="en-US">
         <seg>YoRHa attacker model Number Two...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115313Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115313Z">
-        <seg>Modelu YoRHA atakujący o Numerze Dwa...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115313Z">
+        <seg>Modelu YoRHA atakujący Numer Dwa...</seg>
       </tuv>
     </tu>
     <tu>
