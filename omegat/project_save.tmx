@@ -8925,8 +8925,8 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       <tuv lang="en-US">
         <seg>Adjust how far the camera pans out when enemies are nearby.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205744Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
-        <seg>Dostosuj, jak daleko ma być umieszczona kamera od postaci w pobliżu wrogów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153137Z" creationid="Syn Spawacza" creationdate="20200530T132407Z">
+        <seg>Dostosuj, odległość kamera od postaci w pobliżu wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18423,8 +18423,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Choose which monitor to use in full-screen mode.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205810Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
-        <seg>Wybierz monitor, na którym ma się wyświetlać gra w trybie pełnoekranowym.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153059Z" creationid="Syn Spawacza" creationdate="20200530T133706Z">
+        <seg>Wybierz monitor używany w trybie pełnoekranowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27789,8 +27789,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Go to the commercial facility.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T163222Z" creationid="Syn Spawacza" creationdate="20200608T163222Z">
-        <seg>Idź do obiektu handlowego.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152945Z" creationid="Syn Spawacza" creationdate="20200608T163222Z">
+        <seg>Idź do obiektu komercyjnego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29665,8 +29665,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Head to the forest via the commercial facility.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161735Z" creationid="Syn Spawacza" creationdate="20200608T161735Z">
-        <seg>Idź do lasu przez obiekt handlowy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152932Z" creationid="Syn Spawacza" creationdate="20200608T161735Z">
+        <seg>Idź do lasu przez obiekt komercyjny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33206,8 +33206,8 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
       <tuv lang="en-US">
         <seg>I can't believe the size of the commercial facility. The people of the old world must have led pretty good lives.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122734Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122734Z">
-        <seg>Nie mogę uwierzyć w rozmiar tego miejsca komercyjnego. Ludzie ze starego świata musieli wieść całkiem przyjemne życie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T153006Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122734Z">
+        <seg>Nie mogę uwierzyć w rozmiar tego budynku komercyjnego. Ludzie ze starego świata musieli wieść całkiem przyjemne życie.</seg>
       </tuv>
     </tu>
     <tu>
