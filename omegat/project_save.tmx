@@ -27770,24 +27770,24 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Go to the marked resource recovery unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170942Z" creationid="Syn Spawacza" creationdate="20200608T170942Z">
-        <seg>Idź do oznaczonej jednostki odzyskiwania zasobów.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150236Z" creationid="Syn Spawacza" creationdate="20200608T170942Z">
+        <seg>Idź do oznaczonej jednostki odzyskującej zasoby.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Go to the recovery unit in the flooded city.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170647Z" creationid="Syn Spawacza" creationdate="20200608T170647Z">
-        <seg>Idź do jednostki odzyskiwania zasobów w zatopionym mieście.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150131Z" creationid="Syn Spawacza" creationdate="20200608T170647Z">
+        <seg>Idź do jednostki odzyskującej zasoby w zatopionym mieście.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Go to the recovery unit in the forest.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170623Z" creationid="Syn Spawacza" creationdate="20200608T170623Z">
-        <seg>Idź do jednostki odzyskiwania zasobów w lesie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150126Z" creationid="Syn Spawacza" creationdate="20200608T170623Z">
+        <seg>Idź do jednostki odzyskującej zasoby w lesie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58705,8 +58705,8 @@ Instrukcja budowy:
       <tuv lang="en-US">
         <seg>Resource Recovery Unit</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T202904Z" creationid="Syn Spawacza" creationdate="20200601T202904Z">
-        <seg>Jednostka odzyskiwania zasobów</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150243Z" creationid="Syn Spawacza" creationdate="20200601T202904Z">
+        <seg>Jednostka Odzyskująca Zasoby</seg>
       </tuv>
     </tu>
     <tu>
@@ -88570,8 +88570,8 @@ Relapses increasing...</seg>
       <tuv lang="en-US">
         <seg>Affirmative.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134400Z">
-        <seg>Przyjąłem.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150312Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134400Z">
+        <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
     <tu>
