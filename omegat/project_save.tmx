@@ -704,6 +704,20 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Desert Part 2
+*Show desert image B (rocky area)
+&lt;BGLOAD_1_2&gt;
+&lt;BGON_1_2&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103311Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103311Z">
+        <seg>...Desert Part 2
+*Show desert image B (rocky area)
+&lt;BGLOAD_1_2&gt;
+&lt;BGON_1_2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Destroy? What happened to detain?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101252Z">
@@ -3699,6 +3713,26 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+"Ah!"&lt;bt_wait&gt;
+"Watch out!"&lt;bt_wait&gt;
+Devola staggers and falls in the soft yet unforgiving sand.
+I hurry to her side and sigh with relief when I find she's not seriously hurt.&lt;bt_wait&gt;
+“Are you all right?”&lt;bt_wait&gt;
+“Sorry, Sis. Guess I spaced out there for a bit.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103356Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103356Z">
+        <seg>&lt;page&gt;
+"Ach!"&lt;bt_wait&gt;
+"Uważaj!"&lt;bt_wait&gt;
+Devola zachwiała się i upadła w miękki, ale bezwzględny piasek.
+Śpieszę do niej i wzdycham z ulga, widząc, że nie jest poważnie ranna.&lt;bt_wait&gt;
+„Wszystko w porządku?”&lt;bt_wait&gt;
+„Wybacz Siostrzyczko. Chyba na chwilę odpłynęłam.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 &lt;i&gt;Do these clothes make me look cute?&lt;/i&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M1030_S0310_N_0010&gt;
 &lt;i&gt;Would he like it if I walked like this?&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3786,6 +3820,20 @@ Beyond that lies an elevator, and beyond that...is the server.&lt;bt_wait&gt;</s
         <seg>&lt;page&gt;
 Dalia i reszta kupią nam czas na dotarcie do bram szczytu Ka'ala.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0020&gt;
 Za nimi leży winda, a za nią... jest serwer.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Each pair was given their own cities as observation areas.
+We were ordered to guide the Replicants with our own hands.
+All for the sake of the “promised time” that would one day arrive.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103259Z">
+        <seg>&lt;page&gt;
+Każda para otrzymała własne miasto jako teren obserwacji.
+Rozkazano nam prowadzić Replikantów własnymi siłami.
+Wszystko dla „obiecanego czasu”, który miał kiedyś nastać.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4175,6 +4223,16 @@ Numer 16 i Numer 21.&lt;bt_wait&gt; Poza tym nie spieszyło im się, by zdradzi�
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+We were the latest model, though many companions shared our appearance.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103209Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103209Z">
+        <seg>&lt;page&gt;
+Zostałyśmy późno stworzone, ale wiele towarzyszy dzieliło nasz wygląd.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 When first we woke, there were still people.&lt;bt_wait&gt;
 They had flesh. Egos. Emotions. Souls. And they issued us a single order:</seg>
       </tuv>
@@ -4437,6 +4495,22 @@ Luckily, the others either don't hear or decide to ignore it.&lt;bt_wait&gt;</se
         <seg>&lt;page&gt;
 „Jesteście nieostrożne.” stwierdzam, głośniej niż miałam zamiar.&lt;bt_wait&gt;
 Na szczęście reszta albo mnie nie słyszy, albo ignoruje.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Your bandage is coming undone. Here, let me change it.”&lt;bt_wait&gt;
+“It's all right, Popola. Come on—we have to go before we lose the light.”&lt;bt_wait&gt;
+“We won't be going anywhere if sand gets into that thing.
+Now quit whining and hold still. I'll be quick.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103443Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103443Z">
+        <seg>&lt;page&gt;
+„Twój bandaż się rozwiązuje. Pozwól, że go zmienię.”&lt;bt_wait&gt;
+„W porządku Popola. Nie przesadzaj, musimy iść póki mamy światło.”&lt;bt_wait&gt;
+„Nie pójdziemy nigdzie, jeśli dostanie się do tego piasek.
+A teraz przestań marudzić i nie ruszaj się. Zrobię to szybko.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11555,6 +11629,20 @@ Tak jakby...
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115834Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115834Z">
         <seg>A, tak, to brzmi źle, jak tak to ujmę, ale wy z YoRHy jakoś się tym nie przejmujecie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>And yes, there was anxiety as well.&lt;bt_wait&gt;
+But we existed as a pair. We shared destiny's burden as a pair.
+And because of that, all hesitation was swept away.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103248Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103248Z">
+        <seg>I tak, był też niepokój.&lt;bt_wait&gt;
+Ale istniałyśmy jako para. Dzieliłyśmy ciężar przeznaczenia jako para.
+I dzięki temu wszelkie wątpliwości zostały zmyte.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58111,6 +58199,18 @@ ma znaczenia — już widzę, jak zbliżamy się do grupy YoRHa.&lt;bt_wait&gt;<
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She smiles—the same wry smile I know so well—as she rubs absently at her leg.
+It is wrapped in a white bandage.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103407Z">
+        <seg>Uśmiecha się — tak samo drwiąco, jak zawsze — kiedy bezmyślnie pociera swoją nogę.
+Jest obwinięta białym bandażem.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She sure cares about her little sister, huh?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T141421Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T141421Z">
@@ -65768,6 +65868,16 @@ nie zobaczył wojny nawet przez chwilę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There was a sparkle in all of our eyes. A sense of pride at having been
+entrusted with humanity's future.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103227Z">
+        <seg>W naszych oczach błyskały jasne ogniki. Przejaw dumy, z tego,
+że powierzono nam przyszłość ludzkości.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There was something I forgot to mention prior to your sortie. According to our analysis team, the equipment that was lost when breaking into the abandoned factory is still there. I've marked its estimated location, so be sure to pick it up next time you're in the area. 
  
 That is all.
@@ -72861,6 +72971,18 @@ serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144702Z">
         <seg>Stworzono nas do ochrony ludzkości.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We were the only ones who could handle such a duty.
+We were observers, after all.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103308Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103308Z">
+        <seg>Tylko my mogłyśmy poradzić sobie z takim obowiązkiem.
+W końcu byłyśmy obserwatorkami.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
