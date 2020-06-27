@@ -16667,6 +16667,14 @@ Smakowało jak olej.&lt;bt_wait&gt;
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But I've never seen a machine that could communicate at this level.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164255Z" creationid="Syn Spawacza" creationdate="20200627T164255Z">
+        <seg>Ale nigdy nie widziałem maszyny, która potrafi porozumiewać się na takim poziomie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But I...don't have any explosives.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T223848Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T223848Z">
@@ -23556,6 +23564,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T093125Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T093125Z">
         <seg>Nic nie mówcie — usłyszeliście opowieści o genialnym wynalazcy i przyszliście tutaj natychmiast, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't transfer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164435Z" creationid="Syn Spawacza" creationdate="20200627T164435Z">
+        <seg>Nie transferuj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41309,6 +41325,14 @@ były otoczone troskliwą opieką.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It might be worth checking out.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164306Z" creationid="Syn Spawacza" creationdate="20200627T164306Z">
+        <seg>Może warto by to sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It moved fast.&lt;bt_wait&gt; So fast.&lt;bt_wait&gt;
 Like a wind.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -48731,6 +48755,14 @@ Koniec</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160133Z">
         <seg>Jak mam teraz żyć...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nnngh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164443Z" creationid="Syn Spawacza" creationdate="20200627T164443Z">
+        <seg>Nnngh....</seg>
       </tuv>
     </tu>
     <tu>
@@ -67471,6 +67503,14 @@ Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Machines' Village</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164321Z" creationid="Syn Spawacza" creationdate="20200627T164321Z">
+        <seg>Wioska Maszyn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Manager's Request</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T211941Z" creationid="Syn Spawacza" creationdate="20200608T211941Z">
@@ -72962,6 +73002,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Transfer data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164428Z" creationid="Syn Spawacza" creationdate="20200627T164428Z">
+        <seg>Transferuj dane.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Transferring FCS control.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174202Z" creationid="Syn Spawacza" creationdate="20200530T174202Z">
@@ -76572,6 +76620,14 @@ serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115616Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115616Z">
         <seg>Nie zgadzamy się. Ten android jest niebezpieczny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We do not want fight.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164313Z" creationid="Syn Spawacza" creationdate="20200627T164313Z">
+        <seg>Nie chcemy walczyć.</seg>
       </tuv>
     </tu>
     <tu>
