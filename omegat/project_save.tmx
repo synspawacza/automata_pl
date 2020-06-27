@@ -406,6 +406,16 @@ tylko klawiatury w układzie QWERTY.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122631Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122631Z">
+        <seg>*Novel Game (80 x 11)
+□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>*huff, huff...*</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121058Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121058Z">
@@ -12456,6 +12466,14 @@ I dzięki temu wszelkie wątpliwości zostały zmyte.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132516Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132516Z">
         <seg>Androidy nie muszą się kąpać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Androids were designed to protect their human masters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122429Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122429Z">
+        <seg>Androidy zostały stworzone, by chronić swych ludzkich panów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25954,6 +25972,14 @@ Wróćcie później.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fine then... I'll just destroy it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122438Z">
+        <seg>Dobrze więc... Zniszczę to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fine, I'll do it. You'll just bug me about it every waking minute of my life otherwise.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084142Z">
@@ -29378,6 +29404,14 @@ strefy hazardowej.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T135811Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T135811Z">
         <seg>Hihi! Ten ci się spodoba!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hee hee... If it all goes away, that'll solve everything!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122442Z">
+        <seg>Hi hi... Jeśli to zniknie, problem sam się rozwiąże!</seg>
       </tuv>
     </tu>
     <tu>
@@ -41140,6 +41174,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's how we were made.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122427Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122427Z">
+        <seg>Tak zostaliśmy stworzeni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's in pain because it can't find value in its own existence?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153522Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153522Z">
@@ -51784,6 +51826,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Our core programming demands that we—</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122434Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122434Z">
+        <seg>Zaprogramowanie naszego rdzenia wymaga, żebyśmy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Our cursed cycle of destruction and rebirth continues without end!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153710Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153710Z">
@@ -53833,6 +53883,14 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Beginning emergency evacuation of remaining memories.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122517Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122517Z">
+        <seg>Pod 153: Rozpoczynam kryzysową ewakuację pozostałych wspomnień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: But I am concerned about his worsening psychological state.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T092547Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T092547Z">
@@ -53877,6 +53935,14 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100702Z">
         <seg>Pod 153: Obowiązek? Ha. Zabrzmiałaś jak android.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Fatal system error detected.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122455Z">
+        <seg>Pod 153: Wykryto krytyczny błąd systemu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53941,6 +54007,14 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053121Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053121Z">
         <seg>Pod 153: Wykryto problem w twojej konwersacyjnej funkcjonalności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Memory leak verified. Repair impossible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122510Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122510Z">
+        <seg>Pod 153: Wykryto wyciek pamięci. Naprawa jest niemożliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60859,6 +60933,14 @@ Jest obwinięta białym bandażem.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shut up, shut up, shut UP, SHUT UP!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122436Z">
+        <seg>Zamknij się, zamknij się, zamknij SIĘ, ZAMKNIJ SIĘ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Shut up... Shut up!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T121731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121731Z">
@@ -64027,6 +64109,14 @@ and an old dragon.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051912Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051912Z">
         <seg>Dbaj o siebie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take care...of 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122449Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122449Z">
+        <seg>Zadbaj... o 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79148,6 +79238,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164831Z">
         <seg>Dlaczego zabiłaś mojego brata?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why do I desire the touch of something that no longer exists!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122423Z">
+        <seg>Dlaczego pragnę dotykać czegoś, co już nie istnieje?!</seg>
       </tuv>
     </tu>
     <tu>
