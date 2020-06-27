@@ -44129,6 +44129,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's see if we can't find another route.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164014Z" creationid="Syn Spawacza" creationdate="20200627T164014Z">
+        <seg>Zobaczmy, może znajdziemy inną drogę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's see... Four pristine screws and one large gear should be enough to bridge the gap in its memory circuits.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130457Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130457Z">
@@ -46344,6 +46352,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T130731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T130731Z">
         <seg>Może jest inna droga, która zaprowadzi nas do środka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe there's another way around.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163801Z" creationid="Syn Spawacza" creationdate="20200627T163801Z">
+        <seg>Może jest jakaś droga z innej strony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55794,6 +55810,14 @@ Zatrzymało to wszystkie bezpieczniki sieci na miejscu.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T141046Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T141046Z">
         <seg>Presto! Moja niesamowicie fajna gra jest teraz trudniejsza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pretty sure this is the last place we haven't searched.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163836Z" creationid="Syn Spawacza" creationdate="20200627T163836Z">
+        <seg>Jestem pewien że tutaj jeszcze nie sprawdzaliśmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69868,6 +69892,14 @@ To wszystko.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's got to be some way to proceed further in...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163659Z" creationid="Syn Spawacza" creationdate="20200627T163659Z">
+        <seg>Musi być jakiś sposób by tam wejść...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's gotta be an easier way, right?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095855Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095855Z">
@@ -71062,6 +71094,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This gate isn't going to open.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163709Z" creationid="Syn Spawacza" creationdate="20200627T163709Z">
+        <seg>Ta brama się nie otworzy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This guy has followers?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142857Z">
@@ -71240,8 +71280,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Tactical Support Pod 042.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163521Z" creationid="Syn Spawacza" creationdate="20200627T163458Z">
-        <seg>Tu Pod Wsparcia Taktycznego 042.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163609Z" creationid="Syn Spawacza" creationdate="20200627T163458Z">
+        <seg>Tu Jednostka Wsparcia Taktycznego Pod 042.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71280,8 +71320,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Weapon Support Pod 153.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163532Z" creationid="Syn Spawacza" creationdate="20200627T163516Z">
-        <seg>Tu Pod Wsparcia Bojowego 153.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163606Z" creationid="Syn Spawacza" creationdate="20200627T163516Z">
+        <seg>Tu Jednostka Wsparcia Taktycznego Pod 153.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85225,6 +85265,14 @@ Popularne na Dalekim Wschodzie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103818Z">
         <seg>[Zapiski Dotyczące Nasilenia Nawrotów]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[SCREAM]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163631Z" creationid="Syn Spawacza" creationdate="20200627T163631Z">
+        <seg>[KRZYK]</seg>
       </tuv>
     </tu>
     <tu>
