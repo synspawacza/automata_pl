@@ -49839,6 +49839,14 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Number 16... Number 21...Number 4...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134619Z" creationid="Syn Spawacza" creationdate="20200627T134619Z">
+        <seg>Numerze 16... Numerze 21... Numerze 4...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number 2, go! I can handle—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220755Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220755Z">
@@ -81628,6 +81636,30 @@ Gdybym tylko miał materiały...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>YoRHa Pearl Harbor Descent Personal Record—Part 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134544Z" creationid="Syn Spawacza" creationdate="20200627T134544Z">
+        <seg>Zapiski osobiste z desantu na Pearl Harbor - część 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa Pearl Harbor Descent Personal Record—Part 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134546Z" creationid="Syn Spawacza" creationdate="20200627T134546Z">
+        <seg>Zapiski osobiste z desantu na Pearl Harbor - część 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa Pearl Harbor Descent Personal Record—Part 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134549Z" creationid="Syn Spawacza" creationdate="20200627T134549Z">
+        <seg>Zapiski osobiste z desantu na Pearl Harbor - część 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>YoRHa R&amp;D Team Journal: August 29
 Held a progress-report meeting for the new weapon. Considering how many observers we have from the other orbiting satellites, I can tell they expect a lot from us.</seg>
       </tuv>
@@ -81873,8 +81905,8 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>YoRHa: Gunner 16</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172159Z" creationid="Syn Spawacza" creationdate="20200605T172159Z">
-        <seg>YoRHa: Ogniowy 16</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134728Z" creationid="Syn Spawacza" creationdate="20200605T172159Z">
+        <seg>YoRHa: Strzelec 16</seg>
       </tuv>
     </tu>
     <tu>
