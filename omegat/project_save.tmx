@@ -3669,6 +3669,18 @@ Ostatnio wśród mechanicznych form życia krąży pewna plotka:
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+We learn that the four androids refer to each other as Number 2, Number 4,
+Number 16, and Number 21.&lt;bt_wait&gt; They also aren't in a hurry to share much more.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062039Z">
+        <seg>&lt;page&gt;
+Dowiedziałyśmy się, że cztery androidy zwracają się do siebie Numer 2, Numer 4,
+Numer 16 i Numer 21.&lt;bt_wait&gt; Poza tym nie spieszyło im się, by zdradzić nic więcej.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 When it comes to combat, the machines show overwhelming adaptive behavior and
 evolutionary speed.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3676,6 +3688,20 @@ evolutionary speed.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Jeśli chodzi o walkę, to maszyny wykazują niesamowite zachowania adaptacyjne i
 ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“All right,” I say to the strangers. “Start talking.”&lt;bt_wait&gt;
+“Easy,” says one of the mystery androids. “We're on your side.
+We're new models rolled out as part of something called Project YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061852Z">
+        <seg>&lt;page&gt;
+„Dobra” mówię do obcych. „Zacznijcie gadać.”&lt;bt_wait&gt;
+„Spokojnie” mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
+Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30861,6 +30887,22 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145125Z" creationid="Syn Spawacza" creationdate="20200530T193047Z">
         <seg>Pewnie starczyło mi czasu jedynie na zabezpieczenie twoich wspomnień.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I probably speak with more bluster than necessary, but I have to make sure
+they're actually on our side. I don't think they're lying, necessarily,
+but I can't read their expressions thanks to the giant goggles they wear.&lt;bt_wait&gt;
+And frankly, a little caution never goes amiss in the middle of a war.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062001Z">
+        <seg>Pewnie mówię ze zbytnim naciskiem, ale muszę się upewnić, że są
+po naszej stronie. Nie wydaje mi się, żeby kłamały, ale nie jestem w stanie 
+odczytać ich wyrazów twarzy przez wielkie gogle, które noszą na twarzach.&lt;bt_wait&gt;
+A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku wojny.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77254,6 +77296,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
 „Twoja prawdziwa strona.”
 &lt;/page&gt;
 &lt;BGM_BGM_M1070_S0100_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Really?” I say. “We haven't heard anything about new models.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061858Z">
+        <seg>„Naprawdę?” mówię. „Nie słyszałyśmy nic o nowych modelach.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
