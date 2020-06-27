@@ -3849,6 +3849,16 @@ Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.&
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Annoyed at my hesitation, Devola crosses her legs and scowls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103905Z">
+        <seg>&lt;page&gt;
+Zirytowana moim wahaniem, Devola krzyżuje nogi i się marszczy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Artificial skin—torn and bloodied—peeks out from beneath the bandage.
 Judging by Devola's current lack of ambulatory control,
 I imagine the circuitry underneath has been damaged as well.&lt;bt_wait&gt;
@@ -4392,6 +4402,22 @@ Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+“I'm sorry, Sis. It's not your fault. I shouldn't have lashed out like that.”&lt;bt_wait&gt;
+“It's okay. I understand.”&lt;bt_wait&gt;
+“It's all going wrong. You can feel it too, right?”&lt;bt_wait&gt;
+“I...”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104034Z">
+        <seg>&lt;page&gt;
+„Wybacz Siostro. To nie twoja winna. Nie powinnam tak wybuchać.”&lt;bt_wait&gt;
+„W porządku. Rozumiem.”&lt;bt_wait&gt;
+„Wszystko dzieje się źle. Też masz takie wrażenie, prawda?”&lt;bt_wait&gt;
+„Ja...”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 “I'm sorry, Sister.”&lt;bt_wait&gt;
 “Okay, now YOU'RE apologizing!”&lt;bt_wait&gt;</seg>
       </tuv>
@@ -4459,6 +4485,26 @@ porzucić rodziny, nie zanim nie spróbujesz wszystkiego!”&lt;bt_wait&gt;
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
         <seg>&lt;page&gt;
 „Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“There has to be some way to prevent relapses!”&lt;bt_wait&gt;
+Devola's sharp voice echoes through our private quarters.
+“You must be quiet, Sister. The Replicants will hear.”&lt;bt_wait&gt;
+“Pffft. They wouldn't understand even if they did.”&lt;bt_wait&gt;
+“That might be true, but regardless...”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103858Z">
+        <seg>&lt;page&gt;
+„Musi być jakiś sposób, żeby powstrzymać nawroty!”&lt;bt_wait&gt;
+Ostry głos Devoli roznosi się echem po naszych prywatnych kwaterach.
+„Musisz być ciszej, Siostro. Replikanci usłyszą.”&lt;bt_wait&gt;
+„Pfff. Nie zrozumieliby nawet jakby usłyszeli.”&lt;bt_wait&gt;
+„Może i masz rację, ale niezależnie...”
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28733,6 +28779,18 @@ I póki tak jest...&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T102838Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T102838Z">
         <seg>Nazywa się Accord i jest właścicielem tego interesu. Ja tylko obsługuję klientów i dbam o narzędzia do naprawy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Her shout makes me jump. Just a little—but enough for her to notice.
+Seeing that, her eyes suddenly open wide.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104010Z">
+        <seg>Jej krzyk sprawia, że podskakuję. Tylko trochę, ale wystarczająco, żeby zobaczyła.
+Widząc to, jej oczy nagle się szerzej otwierają.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -72195,6 +72253,16 @@ A skoro nie znamy lekarstwa...&lt;bt_wait&gt;jest to też wyrok śmierci.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We both apologize while insisting the other's apology isn't necessary.&lt;bt_wait&gt;
+It's kind of funny in a way. Such a trivial exchange under such circumstances?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103745Z">
+        <seg>Obie przepraszamy, upierając się, że przeprosiny drugiej nie są potrzebne.&lt;bt_wait&gt;
+Jest to w pewien sposób zabawne. Taka trywialna pogadanka w takiej sytuacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We can get into the city ruins if we move that box.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T143415Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T143415Z">
@@ -72604,6 +72672,18 @@ serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T073353Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T073353Z">
         <seg>Wiemy, że to koniec.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We laugh together, the sound echoing out across the desert before being stolen
+by the cool evening wind.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103800Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103800Z">
+        <seg>Jednocześnie wybuchamy śmiechem, dźwięk roznosi się echem po pustyni,
+zanim kradnie go chłodny, wieczorny wiatr.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -75642,6 +75722,18 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155529Z" creationid="Syn Spawacza" creationdate="20200616T155529Z">
         <seg>Krzywdziłam go jak był blisko. Ale krzywdziło go bardziej to, że byłam daleko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When I was first assigned to Project Gestalt, I was over the moon with pride.&lt;bt_wait&gt;
+But now, my chest hurts just to think about it. If it were to fail...
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104050Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104050Z">
+        <seg>Kiedy pierwszy raz przypisano mnie do Projektu Gestalt, byłam przepełniona dumą.&lt;bt_wait&gt;
+Ale teraz boli mnie serce, kiedy o tym myślę. Jeśli nam się nie powiedzie...
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80470,6 +80562,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Report Regarding the Increase in Relapses]</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103818Z">
+        <seg>[Zapiski Dotyczące Nasilenia Nawrotów]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Shipment Record] February 14
 [Approved] February 14
  
@@ -82938,6 +83038,20 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“The Black Scrawl took another victim,” she says. "That's three this month.
+It's spreading way too fast.”&lt;bt_wait&gt;
+“Let's wait and see what happens.”&lt;bt_wait&gt;
+“I'm tired of hearing you say that!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103953Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103953Z">
+        <seg>„Czarne Bazgroły zabrały kolejną ofiarę.” mówi „ To trzecia w tym miesiącu.
+Zbyt szybko się roznosi.”&lt;bt_wait&gt;
+„Poczekajmy i zobaczmy co się stanie.”&lt;bt_wait&gt;
+„Jestem już zmęczona słyszeniem tego od ciebie!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“The more you try to hide it, the more that darkness grows.”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150057Z">
@@ -83038,6 +83152,18 @@ informuje nas, że nie pojawią się żadne posiłki.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150300Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150300Z">
         <seg>„Ty&lt;bt_wait&gt; chcesz wszystko posiąść.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>※画像ＦＯ。
+&lt;BGOFF_1_2&gt;
+Relapses increasing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103801Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103801Z">
+        <seg>※画像ＦＯ。
+&lt;BGOFF_1_2&gt;
+Relapses increasing...</seg>
       </tuv>
     </tu>
     <tu>
