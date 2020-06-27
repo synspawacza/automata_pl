@@ -2996,6 +2996,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M3060_S0005_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100813Z">
+        <seg>&lt;BGM_BGM_M3060_S0005_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M3060_S0005_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -51557,6 +51565,14 @@ Pod 042: Cokolwiek się nie wydarzy, my Taktyczne Jednostki Wsparcia mamy obowi�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 042: ...Yeah.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100811Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100811Z">
+        <seg>Pod 042: Tak...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 042: Acknowledged. However, this Pod has a confidential transmission for Pod 153.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100355Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100355Z">
@@ -51645,6 +51661,16 @@ Pod 042: Pytanie: czy może być to... nasza „wola”?&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T093541Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093541Z">
         <seg>Pod 042: Tym samym, ten Pod zadba, by jednostka A2 unikała kontaktu z jednostką 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042: Pod 153...&lt;bt_wait&gt;
+Pod 042: Do not die.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100733Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100733Z">
+        <seg>Pod 042: Podzie 153...&lt;bt_wait&gt;
+Pod 042: Nie umieraj.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51849,6 +51875,18 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222242Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222242Z">
         <seg>Pod 153: wybierz jednostkę do monitorowania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: The concept of death has no meaning to Tactical Support Units.
+Pod 153: However, your expression of concern is appreciated.&lt;bt_wait&gt;
+Pod 153: I also hope that you do not die, Pod 042.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100802Z">
+        <seg>Pod 153: Koncepcja śmierci nie ma znaczenia dla Taktycznych Jednostek Wsparcia.
+Pod 153: Jednakże twój wyraz zmartwienia jest doceniony.&lt;bt_wait&gt;
+Pod 153: Ja też mam nadzieję, że nie umrzesz, Podzie 042.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
