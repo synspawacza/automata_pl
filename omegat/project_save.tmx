@@ -914,6 +914,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Huh.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143255Z" creationid="Syn Spawacza" creationdate="20200627T143255Z">
+        <seg>Hę?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Huh? A new port just opened.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161331Z">
@@ -23037,6 +23045,14 @@ Autozmiana broni.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180930Z" creationid="Syn Spawacza" creationdate="20200606T112918Z">
         <seg>Czy YoRHa nie ma już przypisanego kontaktu z Ruchem Oporu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Doesn't look like I'll need this.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143237Z" creationid="Syn Spawacza" creationdate="20200627T143237Z">
+        <seg>Chyba mi się nie przyda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71179,6 +71195,14 @@ To powód, dla którego w ogóle istniejemy.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140012Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140012Z">
         <seg>Ten dzieciak jest dziwny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This looks useless.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143155Z" creationid="Syn Spawacza" creationdate="20200627T143155Z">
+        <seg>Wygląda bezużytecznie.</seg>
       </tuv>
     </tu>
     <tu>
