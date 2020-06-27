@@ -18792,8 +18792,8 @@ W razie nagłego pogorszenia się stanu pacjenta, zostanie do niej przypisane do
       <tuv lang="en-US">
         <seg>Come on! I need those chips!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153630Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153630Z">
-        <seg>No weź! Potrzebuję tych chipów!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144540Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153630Z">
+        <seg>No weź! Potrzebuję tych czipów!</seg>
       </tuv>
     </tu>
     <tu>
@@ -22041,8 +22041,8 @@ What Are You Doing?</seg>
       <tuv lang="en-US">
         <seg>Detected: Access log to Council of Humanity's lunar server.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161205Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161122Z">
-        <seg>Wykryto: Dostęp do księżycowego serwera Rady Ludzkości.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161122Z">
+        <seg>Wykryto: Logi dostępu do księżycowego serwera Rady Ludzkości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24846,8 +24846,8 @@ poczuć się mądrym.</seg>
       <tuv lang="en-US">
         <seg>Er, I suppose you noticed those chips were YoRHa, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091026Z">
-        <seg>Ee, domyślam się, że zauważyliście, że chipy te należały do YoRHy, hę?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091026Z">
+        <seg>Ee, domyślam się, że zauważyliście, że czipy te należały do YoRHy, hę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -44530,8 +44530,8 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       <tuv lang="en-US">
         <seg>Look, just forget about the chips.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153751Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153751Z">
-        <seg>Słuchaj, po prostu zapomnijmy o tych chipach.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144554Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153751Z">
+        <seg>Słuchaj, po prostu zapomnijmy o tych czipach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50330,8 +50330,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Oh man, you really saved my bacon! I'll take those chips from you now.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153619Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153619Z">
-        <seg>O, raju, naprawdę uratowaliście mi tyłek! Wezmę teraz od was te chipy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144534Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153619Z">
+        <seg>O, raju, naprawdę uratowaliście mi tyłek! Wezmę teraz od was te czipy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55114,8 +55114,8 @@ przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Pod, get me staunching gel and logic-virus vaccines. Then access the—</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144152Z" creationid="Syn Spawacza" creationdate="20200606T103547Z">
-        <seg>Pod, podaj mi żel tamujący i szczepionkę na logi-wirusa. Potem dostań się...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144727Z" creationid="Syn Spawacza" creationdate="20200606T103547Z">
+        <seg>Pod, podaj mi żel tamujący i szczepionki na wirusy logiczne. Potem dostań się...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60924,6 +60924,42 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095851Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095851Z">
         <seg>Wysłana na pierwszą linię jako jednostka 21B. Określona jako zaginiona w akcji cztery godziny później.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>September 24 - Shipped
+September 25 - Delivery (Scheduled)
+ 
+UNIT 010 EMPTY
+UNIT 010 EMPTY
+UNIT 010 EMPTY
+UNIT 010 EMPTY
+UNIT 010 PURIFIED WATER
+UNIT 010 EMPTY
+UNIT 010 EMPTY
+UNIT 010 REPAIR MATERIALS
+UNIT 010 EMPTY
+UNIT 010 EMPTY
+ 
+Over.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144908Z" creationid="Syn Spawacza" creationdate="20200627T144908Z">
+        <seg>24 września - Wysłano
+25 września - Dostarczono (zgodnie z planem)
+ 
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 WODA OCZYSZCZONA
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 MATERIAŁY NAPRAWCZE
+JEDNOSTKA 010 PUSTA
+JEDNOSTKA 010 PUSTA
+ 
+Odbiór.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71741,8 +71777,8 @@ Jesteś pewien?</seg>
       <tuv lang="en-US">
         <seg>This...Resistan...camp!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160524Z">
-        <seg>To... obóz... Ruchu...!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144647Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160524Z">
+        <seg>Tu... obóz... Ruchu...!</seg>
       </tuv>
     </tu>
     <tu>
@@ -72599,8 +72635,8 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
       <tuv lang="en-US">
         <seg>Trends Among the Machines</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171820Z" creationid="Syn Spawacza" creationdate="20200615T171820Z">
-        <seg>Tendencje wśród maszyn</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144624Z" creationid="Syn Spawacza" creationdate="20200615T171820Z">
+        <seg>Trendy wśród maszyn</seg>
       </tuv>
     </tu>
     <tu>
@@ -79623,8 +79659,8 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
       <tuv lang="en-US">
         <seg>What? You feel like giving me those plug-in chips now?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153810Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153810Z">
-        <seg>Co? Jednak chcesz mi oddać te chipy?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153810Z">
+        <seg>Co? Jednak chcesz mi oddać te czipy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -83758,8 +83794,8 @@ Och, nie martw się! To dobra reputacja!</seg>
       <tuv lang="en-US">
         <seg>You're the guys who got those chips back for me, right? Boy, do I ever owe you one.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091023Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091023Z">
-        <seg>To wy mi przynieśliście te chipy, prawda? Rany, tyle wam zawdzięczam.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144545Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091023Z">
+        <seg>To wy mi przynieśliście te czipy, prawda? Rany, tyle wam zawdzięczam.</seg>
       </tuv>
     </tu>
     <tu>
