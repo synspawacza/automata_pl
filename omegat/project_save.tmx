@@ -5590,9 +5590,10 @@ feniksa. Niesprawdzone w boju.</seg>
 Heavily damaged, there is little that
 can be analyzed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180553Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T141025Z" creationid="Syn Spawacza" creationdate="20200601T115808Z">
         <seg>Czip z zapisem danych na temat A2.
-Zbyt uszkodzony by nadawał się do analizy.</seg>
+Zbyt uszkodzony by nadawał się
+do analizy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6103,8 +6104,9 @@ swoich zmarłych kompanach.</seg>
         <seg>A key that unlocks an elevator in
 the shopping mall.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T123201Z" creationid="Syn Spawacza" creationdate="20200601T123201Z">
-        <seg>Klucz otwierający windę w centrum handlowym.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T140920Z" creationid="Syn Spawacza" creationdate="20200601T123201Z">
+        <seg>Klucz otwierający windę
+w centrum handlowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6517,9 +6519,8 @@ Może zostać sprzedany.</seg>
         <seg>A piece of a meteorite that fell to
 the earth.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100923Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
-        <seg>Fragment meteorytu który spadł
-na ziemię.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T141004Z" creationid="Syn Spawacza" creationdate="20200601T103222Z">
+        <seg>Fragment meteorytu który spadł na ziemię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7008,8 +7009,9 @@ as its motif.</seg>
       <tuv lang="en-US">
         <seg>A statue in the shape of a young girl.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T122711Z" creationid="Syn Spawacza" creationdate="20200601T122711Z">
-        <seg>Pomnik przedstawiający młodą dziewczynę.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T140904Z" creationid="Syn Spawacza" creationdate="20200601T122711Z">
+        <seg>Statuetka  przedstawiająca
+młodą dziewczynę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7209,11 +7211,10 @@ czyszczenia zębów.</seg>
         <seg>A tool humans used to brush their teeth.
 Reduces the probability of cavities.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180648Z" creationid="Syn Spawacza" creationdate="20200605T180648Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T141100Z" creationid="Syn Spawacza" creationdate="20200605T180648Z">
         <seg>Przyrząd używany przez ludzi do
 czyszczenia zębów.
-Zmniejsza występowanie
-próchnicy.</seg>
+Zmniejsza występowanie próchnicy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -31017,8 +31018,9 @@ Jackass</seg>
         <seg>High-viscosity oil used by machine
 lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T124218Z" creationid="Syn Spawacza" creationdate="20200601T124218Z">
-        <seg>Lepki smar używany przez mechaniczne formy życia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T140935Z" creationid="Syn Spawacza" creationdate="20200601T124218Z">
+        <seg>Lepki smar używany przez mechaniczne
+formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63736,8 +63738,8 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>Statue of a Girl</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T092136Z" creationid="Syn Spawacza" creationdate="20200601T092136Z">
-        <seg>Pomnik dziewczyny</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T140850Z" creationid="Syn Spawacza" creationdate="20200601T092136Z">
+        <seg>Statuetka dziewczyny</seg>
       </tuv>
     </tu>
     <tu>
