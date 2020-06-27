@@ -3492,6 +3492,14 @@ Project Gestalt collapses</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;ITEM_NAME&gt;: &lt;ITEM_NUM&gt;/&lt;REQ_NUM&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T183949Z" creationid="Syn Spawacza" creationdate="20200627T183949Z">
+        <seg>&lt;ITEM_NAME&gt;: &lt;ITEM_NUM&gt;/&lt;REQ_NUM&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_ACTION_2&gt;: Dismount</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150752Z" creationid="Syn Spawacza" creationdate="20200617T150752Z">
@@ -60097,8 +60105,8 @@ przez ustalony czas.</seg>
  
 We Masked People have traditionally shown proclivities toward treasuring our children. However, due to parents purchasing far too many ingredients for the birthday parties of their children, much of what is bought goes to waste. This rule was passed by the king, who was quite distressed by the ceaselessness of such behavior.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T122138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T122138Z">
-        <seg>Reguła 8614
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184237Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T122138Z">
+        <seg>Zasada 8614
  
 [Rodzice nie powinni kupować składników na urodzinową ucztę]
  
