@@ -3783,6 +3783,16 @@ Wyczuwam drażniący smród i wiem, że część z moich włosów została spalo
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+The only sounds we hear are distant explosions and the rasp of Number 21's breathing.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075231Z">
+        <seg>&lt;page&gt;
+Jedyny dźwięk, jaki do nas dociera, to oddalone wybuchy i charczenie w oddechu Numeru 21.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 The recovery program begins to fill in the blanks in my memory.&lt;bt_wait&gt;
 They drift back like missing letters filling out a word.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3907,6 +3917,16 @@ Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem 
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+“Go on,” she says “I've got this.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075106Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075106Z">
+        <seg>&lt;page&gt;
+„Idźcie.” mówi. „Zajmę się tym.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 “I want all of you to leave this trench and get to those explosives,” says Rose.&lt;bt_wait&gt;
 “We'll let the blast take out most of them, then clean up the stragglers.&lt;bt_wait&gt;
 Identifying our unknown mystery fighters can wait until we're done.”&lt;bt_wait&gt;</seg>
@@ -3916,6 +3936,16 @@ Identifying our unknown mystery fighters can wait until we're done.”&lt;bt_wai
 „Chcę, byście wszystkie wyszły z okopu i poszły do tych ładunków wybuchowych.” powiedziała Róża.&lt;bt_wait&gt;
 „Pozwolimy, by wybuch zmiótł większość z nich, a wtedy zniszczymy maruderów.&lt;bt_wait&gt;
 Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż skończymy.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I'll back up Number 21!” I cry. “The rest of you take out that server!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075158Z">
+        <seg>&lt;page&gt;
+„Wesprę Numer 21!” krzyczę. „ Reszta z was niech zajmie się serwerem!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14443,6 +14473,18 @@ Smakowało jak olej.&lt;bt_wait&gt;
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But as I notice Number 21 scowling at the elevator, I start to have a bad feeling
+about the final stage of our mission.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075056Z">
+        <seg>Ale kiedy zauważam, że numer 21 marszczy się przy windzie, zaczynam mieć złe
+przeczucia co do ostatniej fazy naszej misji.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But as a combat weapon, I do not possess a great deal of data.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132416Z">
@@ -14575,6 +14617,16 @@ Smakowało jak olej.&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151830Z">
         <seg>Ale wygląda na to, że jest pod ziemią. Głęboko pod ziemią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But it's all right. I'm going to finish this, one way or the other.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075224Z">
+        <seg>Ale jest w porządku. Zakończę to w taki czy inny sposób.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59323,6 +59375,14 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That was the last time I ever saw them.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075218Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075218Z">
+        <seg>To był ostatni raz, kiedy je widziałam.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That way I could avenge her death.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095206Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095206Z">
@@ -60478,6 +60538,16 @@ Te ruiny to pozostałość czegoś, co kiedyś było strefą zamieszkania — ko
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155842Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155842Z">
         <seg>Drzwi są otwarte! Idź dalej!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The doors close on my friends. The last thing I see is the face of my captain,
+Rose. She looks...concerned. But then the doors shut and she is no more.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075212Z">
+        <seg>Drzwi zamykają się za moimi przyjaciółkami. Ostatnia rzecz, jaką widzę to twarz mojej
+kapitan Róży. Wygląda na... zmartwioną. Ale drzwi się zamykają i już jej nie ma.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67903,6 +67973,18 @@ A skoro nie znamy lekarstwa...&lt;bt_wait&gt;jest to też wyrok śmierci.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T092136Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T092136Z">
         <seg>Nie mogliśmy się nawet z nią skomunikować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We crowd into the elevator as she begins hacking the terminal. She doesn't need
+to tell us what's happening—it's clear that the elevator won't descend all the
+way to the server unless someone stays behind to control it.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075129Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075117Z">
+        <seg>Tłoczymy się w windzie, kiedy ona zaczyna hakować terminal windy. Nie musi
+mówić co się dzieje — jest dla nas jasne, że winda nie zjedzie całej drogi do
+serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77891,6 +77973,22 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Enemies incoming... They're almost on us...”&lt;bt_wait&gt;
+As I speak, I suddenly find myself leaping from the elevator and taking up a
+position at Number 21's side—almost as if my body is out of my control.&lt;bt_wait&gt;
+Something is wrong. Something...
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075150Z">
+        <seg>„Wrogowie nadchodzą... Prawie do nas dotarli...”&lt;bt_wait&gt;
+Kiedy to mówię, nagle orientuję się, że wyskakuję z windy i przyjmuję pozycję
+przy Numerze 21 — prawie jakbym straciła kontrolę nad własnym ciałem.&lt;bt_wait&gt;
+Coś jest nie tak. Coś...
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“Gerbera? The enemy is heading toward the explosives we set up earlier, yes?”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061626Z">
@@ -78009,6 +78107,14 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T064547Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T064547Z">
         <seg>„Przestań! Nie możesz tego zrobić! Nie możesz pozwolić swojej przyjaciółce UMRZEĆ!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Thank you,” she whispers, “for staying with me.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075319Z">
+        <seg>„Dziękuję”, szepcze. „Za zostanie ze mną.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
