@@ -2892,6 +2892,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9...S...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T151034Z" creationid="Syn Spawacza" creationdate="20200627T151034Z">
+        <seg>9...S...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>90 percent... 92... 95... 98...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160243Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160243Z">
@@ -9988,6 +9996,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095810Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095810Z">
         <seg>Uwaga: intensywna walka nałoży na twoje ciało nieakceptowalne obciążenie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Exiting the planned operational area.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T151238Z" creationid="Syn Spawacza" creationdate="20200627T151134Z">
+        <seg>Uwaga: opuszczasz wyznaczony teren misji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56368,6 +56384,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Return to the operational area immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T151219Z" creationid="Syn Spawacza" creationdate="20200627T151219Z">
+        <seg>Propozycja: powróć natychmiast na teren misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Rogue YoRHa units should be captured and detained in order to keep collateral damage at a minimum.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T141659Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153004Z">
@@ -74039,6 +74063,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090835Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090835Z">
         <seg>Niestety, nie możemy zregenerować naszych rdzeni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ungh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T151017Z" creationid="Syn Spawacza" creationdate="20200627T151017Z">
+        <seg>Uugh...</seg>
       </tuv>
     </tu>
     <tu>
