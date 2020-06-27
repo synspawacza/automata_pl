@@ -6217,6 +6217,22 @@ Nie powinieneś go nie czytać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A library?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143641Z" creationid="Syn Spawacza" creationdate="20200627T143641Z">
+        <seg>Bibliotekę?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A library? Must be that long, narrow room.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143712Z" creationid="Syn Spawacza" creationdate="20200627T143712Z">
+        <seg>Bibliotekę? To musi być ten długi, wąski pokój.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A liquid used for coloring.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T111104Z" creationid="Syn Spawacza" creationdate="20200601T111104Z">
@@ -50282,8 +50298,8 @@ na 30 sekund</seg>
       <tuv lang="en-US">
         <seg>Oh hey ya found the record of the king of the forest gosh that's swell just really swell and I guess ya defeated his royal guard for me too huh gosh thanks</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125509Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125509Z">
-        <seg>Och hejo ty zajlazłaś zapiski króla lasu jeżu to elegansko naprawdę elegancko i zgaduję że też pokonałaś jego królewską straż dla mnie hę dzięki</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125509Z">
+        <seg>Och hejo ty zajlazłeśłaś zapiski króla lasu jeżu to elegansko naprawdę elegancko i zgaduję że też pokonałuście jego królewską straż dla mnie hę dzięki</seg>
       </tuv>
     </tu>
     <tu>
@@ -62340,6 +62356,14 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090852Z">
         <seg>Czy w tej fabryce jest bezpiecznie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So is this the treasure or what?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143812Z" creationid="Syn Spawacza" creationdate="20200627T143812Z">
+        <seg>To jest ten skarb, czy jak&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -75620,6 +75644,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wait. So is this the treasure?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143752Z" creationid="Syn Spawacza" creationdate="20200627T143752Z">
+        <seg>Chwila. To to jest ten skarb?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Walk 1</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T135954Z" creationid="Syn Spawacza" creationdate="20200530T135954Z">
@@ -84871,8 +84903,8 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       <tuv lang="en-US">
         <seg>a lot see 'cause I can't really talk so good if ya haven't noticed which maybe ya did and everyone else pretty much won't talk to me 'cause of it</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125529Z">
-        <seg>wielkie bo niezbyt umiem za dobrze mówić jeśli nie zauważyłaś a może zauważyłaś i wszyscy inni nie gadają ze mną przez to</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125529Z">
+        <seg>wielkie bo niezbyt umiem za dobrze mówić jeśli nie zauważyłuś a może zauważyłuś i wszyscy inni nie gadają ze mną przez to</seg>
       </tuv>
     </tu>
     <tu>
