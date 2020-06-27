@@ -8451,6 +8451,14 @@ To związek, który się zmienia w miarę upływu czasu.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ah, A2! You have the part needed to repair the child!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084456Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084456Z">
+        <seg>Ach, A2! Masz część potrzebną do naprawienia dziecka!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ah, A2. Can I help you with something?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T083328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T083328Z">
@@ -8529,6 +8537,14 @@ Please take this.</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132957Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132957Z">
         <seg>Ach, racja. Powinienem pewnie zapłacić wam za waszą pomoc.
 Proszę, weźcie to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ah, screw it. Better go see Pascal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084453Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084453Z">
+        <seg>Ach, walić to! Lepiej zobaczę się z Pascalem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15891,6 +15907,14 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T102644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T102644Z">
         <seg>Możesz nam coś opowiedzieć o żołnierzach YoRHy, którzy kradli wasze zapasy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Can't believe I'm killing machines to save a machine.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084450Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084450Z">
+        <seg>Nie wierzę, że zabijamy maszyny, żeby uratować maszynę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29551,6 +29575,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>However, it comes at the cost of our memories.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084512Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084512Z">
+        <seg>Jednakże, kosztuje to nas nasze wspomnienia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>However, its EMP strikes knocked out comms all across the region.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142933Z">
@@ -30465,6 +30497,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142747Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142747Z">
         <seg>Dłużej tak nie mogę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I cannot thank you enough.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084459Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084459Z">
+        <seg>Nie wiem, jak ci dziękować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35576,6 +35616,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T112558Z" creationid="Syn Spawacza" creationdate="20200617T112558Z">
         <seg>W odległym królestwie żyli dwaj książęta. Syn królowej miał bystry umysł, ale słabe ciało. Syn drugiej żony króla był głupi, ale urokliwy i utalentowany w sztuce wojennej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In all honestly, we could have transferred the child's core to another body instead of repairing the original.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084507Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084507Z">
+        <seg>Jeśli mam być szczery, moglibyśmy przenieść rdzeń dziecka do innego ciała, zamiast naprawiać oryginał.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56993,6 +57041,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So in a way, he would no longer be the same child.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084515Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084515Z">
+        <seg>Więc w ten sposób, nie byłby on już tym samym dzieckiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So in truth, I'm only one of a countless number of Emils.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132853Z">
@@ -57203,6 +57259,14 @@ Dobrze?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184038Z">
         <seg>Więc to obóz Ruchu Oporu, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So this is the part Pascal wanted?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084448Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084448Z">
+        <seg>Więc to ta część, której chciał Pascal?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60243,6 +60307,14 @@ Możecie zacząć ode mnie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221457Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221457Z">
         <seg>Dzięki... dałaś sens memu życiu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thankfully, this is no longer an issue. Thank you so much!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084518Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084518Z">
+        <seg>Dzięki tobie, nie jest to już problem. Dzięki wielkie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64808,6 +64880,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is meager compared to what you've done, but please take it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084502Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084502Z">
+        <seg>To takie marne w porównaniu z tym, co zrobiłaś, ale proszę, weź to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is my cross to bear.
 &lt;/page&gt;</seg>
       </tuv>
@@ -65146,6 +65226,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092924Z">
         <seg>Ta sztuka nie miała ani trochę sensu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This process allows us to resurrect ourselves as many times as we want.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084510Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084510Z">
+        <seg>Ten proces pozwala nam zmartwychwstawać tak często, jak tylko chcemy.</seg>
       </tuv>
     </tu>
     <tu>
