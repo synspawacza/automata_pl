@@ -1473,16 +1473,15 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
 ・・・・・[Browsing Restricted]
 ・・・・・[Browsing Restricted]</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114337Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114337Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T135036Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114337Z">
         <seg>019 port 056776 Zapis Serwera Ludzi
  
 ・Zarys
-・・Predicted Human Server Infiltration Route (Release)
-・・Przepowiedziana Ścieżka Infiltracji Serwera Ludzi (Zwolnienie)
+・・Przepowiedziana Ścieżka Infiltracji Serwera Ludzi (wydanie)
 ・・Atrapa Mapy Instalacji Ochronnej
-・・・Parcela SG
-・・・Parcela GI
-・・・Parcela SF
+・・・Blok SG
+・・・Blok GI
+・・・Blok SF
 ・・Informacje o Lokalizacji Magazynu Zapisów Genetycznych
 ・・・[Przeglądanie Ograniczone]
 ・・・・・[Przeglądanie Ograniczone]
@@ -12658,24 +12657,24 @@ I dzięki temu wszelkie wątpliwości zostały zmyte.
       <tuv lang="en-US">
         <seg>Anemone: Encounter</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172334Z" creationid="Syn Spawacza" creationdate="20200605T172334Z">
-        <seg>Anemone: Spotkanie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134757Z" creationid="Syn Spawacza" creationdate="20200605T172334Z">
+        <seg>Anemona: Spotkanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Anemone: Separation</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180747Z" creationid="Syn Spawacza" creationdate="20200605T172357Z">
-        <seg>Anemone: rozstanie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134812Z" creationid="Syn Spawacza" creationdate="20200605T172357Z">
+        <seg>Anemona: Rozstanie</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Anemone: Understanding</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180742Z" creationid="Syn Spawacza" creationdate="20200605T172340Z">
-        <seg>Anemone: zrozumienie</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134803Z" creationid="Syn Spawacza" creationdate="20200605T172340Z">
+        <seg>Anemona: Zrozumienie</seg>
       </tuv>
     </tu>
     <tu>
@@ -32362,8 +32361,8 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
       <tuv lang="en-US">
         <seg>Human Server Records</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172903Z" creationid="Syn Spawacza" creationdate="20200605T172903Z">
-        <seg>Dane serwera ludzkości</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134914Z" creationid="Syn Spawacza" creationdate="20200605T172903Z">
+        <seg>Zapiski z serwera ludzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -43955,8 +43954,8 @@ w każdej  chwili.</seg>
       <tuv lang="en-US">
         <seg>Library Index</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172711Z" creationid="Syn Spawacza" creationdate="20200605T172711Z">
-        <seg>Katalog biblioteki</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134843Z" creationid="Syn Spawacza" creationdate="20200605T172711Z">
+        <seg>Indeks biblioteki</seg>
       </tuv>
     </tu>
     <tu>
@@ -58574,16 +58573,16 @@ Instrukcja budowy:
       <tuv lang="en-US">
         <seg>Resistance: Anemone</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172235Z" creationid="Syn Spawacza" creationdate="20200605T172235Z">
-        <seg>Ruch oporu: Anemone</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134745Z" creationid="Syn Spawacza" creationdate="20200605T172235Z">
+        <seg>Ruch oporu: Anemona</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance: Rose</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172228Z" creationid="Syn Spawacza" creationdate="20200605T172228Z">
-        <seg>Ruch oporu: Rose</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134741Z" creationid="Syn Spawacza" creationdate="20200605T172228Z">
+        <seg>Ruch oporu: Róża</seg>
       </tuv>
     </tu>
     <tu>
@@ -81889,16 +81888,16 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>YoRHa: Attacker 2</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172006Z" creationid="Syn Spawacza" creationdate="20200605T172006Z">
-        <seg>YoRHa: Atakujący 2</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134737Z" creationid="Syn Spawacza" creationdate="20200605T172006Z">
+        <seg>YoRHa: Atakująca 2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>YoRHa: Attacker 4</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T172003Z" creationid="Syn Spawacza" creationdate="20200605T172003Z">
-        <seg>YoRHa: Atakujący 4</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134731Z" creationid="Syn Spawacza" creationdate="20200605T172003Z">
+        <seg>YoRHa: Atakująca 4</seg>
       </tuv>
     </tu>
     <tu>
