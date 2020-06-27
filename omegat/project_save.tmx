@@ -10375,6 +10375,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Proceed with mission operations immediately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162444Z" creationid="Syn Spawacza" creationdate="20200627T162444Z">
+        <seg>Uwaga: powróć do wykonywania misji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Reactor core temperature rising.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215917Z">
@@ -10557,6 +10565,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215932Z">
         <seg>Uwaga: wykryto infekcję wirusową.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: Vital signs declining.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162627Z" creationid="Syn Spawacza" creationdate="20200627T162627Z">
+        <seg>Uwaga: zanik sygnałów życiowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26767,6 +26783,14 @@ wielką siłą z względu na swoją masę.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215833Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215833Z">
         <seg>Sterowanie lotem przekazane jednostce 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flight unit recommended.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162354Z" creationid="Syn Spawacza" creationdate="20200627T162354Z">
+        <seg>Zalecane użycie jednostki latającej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75464,6 +75488,14 @@ I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160859Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160859Z">
         <seg>Zakończono diagnostykę czujników wizualnych. Nie wykryto problemów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vital signs entering sub-optimal territory.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162749Z" creationid="Syn Spawacza" creationdate="20200627T162749Z">
+        <seg>Parametry życiowe poniżej poziomu optymalnego.</seg>
       </tuv>
     </tu>
     <tu>
