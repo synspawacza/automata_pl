@@ -31548,8 +31548,8 @@ formy życia.</seg>
       <tuv lang="en-US">
         <seg>His Grace's Room</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175316Z" creationid="Syn Spawacza" creationdate="20200601T175316Z">
-        <seg>Pokój Jego Wysokości</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173332Z" creationid="Syn Spawacza" creationdate="20200601T175316Z">
+        <seg>Pokój Jego Świątobliwości</seg>
       </tuv>
     </tu>
     <tu>
@@ -54707,8 +54707,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Please board this elevator to access His Grace's sanctum.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T154603Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154603Z">
-        <seg>Proszę, wejdźcie do tej windy, by dotrzeć do sanktuarium Jego świątobliwości.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173338Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154603Z">
+        <seg>Proszę, wejdźcie do tej windy, by dotrzeć do sanktuarium Jego Świątobliwości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54909,6 +54909,14 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T094935Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T094935Z">
         <seg>Proszę, weźcie to...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Please, you must be calm! We have come to negotiate peace with you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173225Z" creationid="Syn Spawacza" creationdate="20200627T173211Z">
+        <seg>Proszę, uspokój się! Przyszliśmy negocjować z nimi pokój.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64889,6 +64897,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162101Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162101Z">
         <seg>Stój!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop! We have no desire to fight you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173144Z" creationid="Syn Spawacza" creationdate="20200627T173144Z">
+        <seg>Przestań! Nie chcemy z tobą walczyć!</seg>
       </tuv>
     </tu>
     <tu>
@@ -78336,6 +78352,14 @@ W końcu byłyśmy obserwatorkami.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We're locked in...!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173409Z" creationid="Syn Spawacza" creationdate="20200627T173409Z">
+        <seg>Jesteśmy zamknięci...!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We're no different.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122656Z">
@@ -83410,6 +83434,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153627Z">
         <seg>Chyba mnie o nic nie podejrzewacie, prawda?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You don't have to hurry so! His Grace won't run from you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173316Z" creationid="Syn Spawacza" creationdate="20200627T173253Z">
+        <seg>Nie ma powodu do pośpiechu! Jego Świątobliwości nie ucieknie.</seg>
       </tuv>
     </tu>
     <tu>
