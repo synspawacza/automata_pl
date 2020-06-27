@@ -326,17 +326,17 @@ Index:
  
 * Permission is to be received from the designated parties responsible for each entry prior to viewing.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161715Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T145119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161715Z">
         <seg>Proszę zauważyć, że poniższe dokumenty są sklasyfikowane jako Poufne Klasy S i nie powinny być pokazywane nikomu stowarzyszonemu poza Panią Komandor.
  
 Indeks:
 ・ Zarys Projektu YoRHa
 ・・ Siły YoRHa
-・・ System Walki Jednostek YoRHa
+・・ System Bojowy Jednostek Bojowy YoRHa
 ・・ Administracja Bunkra
 ・・・ Łańcuch Dowodzenia
 ・・・ Oddział Rozwoju Rady Ludzkości
-・・・ Tylne Drzwi
+・・・ Tylna Furtka
 ・・ Jednostki Wspierające
 ・・ Czarne Skrzynki
 ・・ Sieć Komunikacyjna Ruchu Oporu
@@ -1706,6 +1706,32 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130520Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
         <seg>1D padł. Przejmuję obowiązki kapitana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1S [0010] [0040] [n] [----]
+  2B [1203] [0040] [y] [----]
+  8H [8900] [0040] [y] [----]
+24S [0210] [0040] [y] [----]
+  9S [0020] [0040] [n] [----]
+12D LOST [----] [----] [----] [----]
+11B LOST [----] [----] [----] [----]
+12H LOST [----] [----] [----] [----]
+11B LOST [----] [----] [----] [----]
+12H LOST [----] [----] [----] [----]</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144954Z" creationid="Syn Spawacza" creationdate="20200627T144954Z">
+        <seg>1S [0010] [0040] [n] [----]
+  2B [1203] [0040] [t] [----]
+  8H [8900] [0040] [t] [----]
+24S [0210] [0040] [t] [----]
+  9S [0020] [0040] [n] [----]
+12D UTRACONO [----] [----] [----] [----]
+11B UTRACONO [----] [----] [----] [----]
+12H UTRACONO [----] [----] [----] [----]
+11B UTRACONO [----] [----] [----] [----]
+12H UTRACONO [----] [----] [----] [----]</seg>
       </tuv>
     </tu>
     <tu>
@@ -67955,13 +67981,13 @@ Każda jednostka YoRHa została wyposażona w „czarną skrzynkę”, przedmiot
 [Project 03-01: Disposal of YoRHa]
 The backdoor of the Bunker has been set to open once the time approaches to switch to new models when enough combat data has been collected. The Bunker will be disposed of by having it be deliberately attacked by machines. At this time, all materials regarding the YoRHa project, including this document, will be lost, and falsification of the information that mankind still resides on the moon will be complete.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T120018Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T120018Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T145320Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T120018Z">
         <seg>Poniższe materiały opisują ostatnie fazy Projektu YoRHa.
  
 (Warto zauważyć, że ta informacja jest sklasyfikowana jako Poziom SS, oznacza to, że jest niedostępna dla kogokolwiek związanego z projektem YoRHa, włączając w to Komandor Bunkra.)
  
 [Project 03-01: Pozbycie się YoRHy]
-Tylne drzwi do Bunkra zostaną ustawione na otwarcie, kiedy nadejdzie czas by przejść na nowe modele, jak zostanie zebrana wystarczająca ilość danych bojowych. Pozbycie się Bunkra odbędzie się przez celowy atak maszyn. W tym momencie, wszystkie materiały dotyczące projektu YoRHa, wraz z tym dokumentem, zostaną stracone, i falsyfikacja informacji o tym, że rodzaj ludzki przebywa na księżycu będzie kompletna.</seg>
+Tylna furtka Bunkra zostanie ustawiona na otwarcie, kiedy nadejdzie czas by przejść na nowe modele, jak zostanie zebrana wystarczająca ilość danych bojowych. Pozbycie się Bunkra odbędzie się przez celowy atak maszyn. W tym momencie, wszystkie materiały dotyczące projektu YoRHa, wraz z tym dokumentem, zostaną stracone, i falsyfikacja informacji o tym, że rodzaj ludzki przebywa na księżycu będzie kompletna.</seg>
       </tuv>
     </tu>
     <tu>
