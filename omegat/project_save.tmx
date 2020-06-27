@@ -10788,6 +10788,14 @@ stopniu kontrolę kierunku.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Am I...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112910Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112910Z">
+        <seg>Czy ja...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amber</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164428Z" creationid="Syn Spawacza" creationdate="20200530T164428Z">
@@ -11413,6 +11421,14 @@ Doceniono twoją pomoc.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220045Z">
         <seg>Analiza: Obszar w okolicach porzuconego centrum handlowego spełnia oczekiwane parametry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Analysis: The enemy structural unit collapsed during battle.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112913Z">
+        <seg>Analiza: Jednostka strukturalna wroga zapadła się podczas walki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24923,6 +24939,14 @@ MOJĄ UKOCHANĄ</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fall location was deemed too dangerous, thus said unit was transported to current location.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112923Z">
+        <seg>Lokacja upadku była zbyt niebezpieczna, więc wspomniana jednostka została przeniesiona w obecne miejsce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fam...ily...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T154800Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T154800Z">
@@ -27009,6 +27033,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134443Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134443Z">
         <seg>Powodzenia. Bez odbioru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good morning, 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112907Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112907Z">
+        <seg>Dzień dobry, 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43731,6 +43763,14 @@ Co tutaj robisz?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Maintenance mode complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112859Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112859Z">
+        <seg>Zamknięto tryb przeglądu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Majestic trees... Pretty flowers... Cute little animals... I love it all!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174413Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174413Z">
@@ -44823,6 +44863,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180646Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: w normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Memory check complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112857Z">
+        <seg>Ukończono przegląd pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51850,6 +51898,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170202Z">
         <seg>Zaleca się ataki fizyczne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Physical check complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112854Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112854Z">
+        <seg>Ukończono przegląd fizyczny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71032,6 +71088,14 @@ Emil's head.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit 9S suffered damage from the fall and was placed in emergency suspend mode.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112916Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112916Z">
+        <seg>Jednostka 9S ucierpiała od upadku i została wprowadzona w tryb kryzysowego zawieszenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit 9S was seized by the enemy and placed in a non-controlled state for an extended period of time.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160913Z">
@@ -78572,6 +78636,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220642Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220642Z">
         <seg>Jednostka YoRHa 9S ukończył naprawy oraz rekonstrukcję wszystkich uszkodzonych obszarów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa unit 9S... Activate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112903Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112903Z">
+        <seg>Jednostka YoRHa 9S... Aktywacja.</seg>
       </tuv>
     </tu>
     <tu>
