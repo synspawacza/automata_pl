@@ -7830,6 +7830,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aaaaugh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150959Z" creationid="Syn Spawacza" creationdate="20200627T150959Z">
+        <seg>Aaaaaau!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Abandon all hatred!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T143145Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T143145Z">
@@ -41672,8 +41680,8 @@ Nigdy wcześniej nie widziałem czegoś takiego.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>It's all right... It's all right...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150634Z" creationid="Syn Spawacza" creationdate="20200627T150634Z">
-        <seg>Już dobrze... Już dobrze...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150912Z" creationid="Syn Spawacza" creationdate="20200627T150634Z">
+        <seg>Dobrze... Już dobrze...</seg>
       </tuv>
     </tu>
     <tu>
@@ -54228,8 +54236,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Please keep......reserved......mission-related...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095906Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095906Z">
-        <seg>Proszę zachowaj... powściągliwe... związane z misją...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150849Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095906Z">
+        <seg>Proszę zachowaj... na tematy... związane z misją...</seg>
       </tuv>
     </tu>
     <tu>
@@ -85421,8 +85429,8 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       <tuv lang="en-US">
         <seg>coordinate data......location specified......</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095902Z">
-        <seg>dane koordynatów...  określona lokalizacja...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150829Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095902Z">
+        <seg>dane koordynatów...  lokalizacji określonej...</seg>
       </tuv>
     </tu>
     <tu>
