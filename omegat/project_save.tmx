@@ -3875,6 +3875,18 @@ Biorę głęboki oddech i...</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Before we knew it, the Replicants had gained a sense of self
+and the Black Scrawl started raging out of control.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104107Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104107Z">
+        <seg>&lt;page&gt;
+Zanim się zorientowałyśmy, Replikanci zaczęli zdobywać własną świadomość,
+a Czarne Bazgroły wymknęły się spod kontroli.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Dahlia and the others will buy us time to reach the gate at Ka'laa's peak.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0020&gt;
 Beyond that lies an elevator, and beyond that...is the server.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -4402,6 +4414,20 @@ Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+“I'm glad you were with me,” murmurs Popola.
+“I couldn't have handled being an observer all alone.”&lt;bt_wait&gt;
+“We were able to endure because we had each other,” I reply softly.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104232Z">
+        <seg>&lt;page&gt;
+„Cieszę się, że ze mną jesteś.” mamrocze Popola.
+„Nie mogłabym byś obserwatorem zupełnie sama.”&lt;bt_wait&gt;
+„Dałyśmy radę, ponieważ mamy siebie nawzajem.” odpowiadam lekko.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 “I'm sorry, Sis. It's not your fault. I shouldn't have lashed out like that.”&lt;bt_wait&gt;
 “It's okay. I understand.”&lt;bt_wait&gt;
 “It's all going wrong. You can feel it too, right?”&lt;bt_wait&gt;
@@ -4581,6 +4607,24 @@ Słyszę, jak odzywa się do mnie Lilly. Jest bardzo zaniepokojona tym,
 „Nic takiego.” zaczęłam. „Myślę...”&lt;bt_wait&gt;
 Zanim jestem w stanie skończyć swoją myśl, Lilly nagle otwiera usta i
 wydaje z siebie potworny, przenikliwy krzyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“When I get the chance, I'm going to try contacting another city,” she says.
+Maybe these abnormalities are a localized phenomenon.”&lt;bt_wait&gt;
+“I pray that's the case,” I reply. "Even if we're of no use ourselves,
+things will still work out if the other observers can pull through.”&lt;bt_wait&gt;
+“Don't worry. It's going to be okay.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104351Z">
+        <seg>&lt;page&gt;
+„Kiedy będziemy mieć okazję, spróbuję skontaktować się z innym miastem.” mówi.
+„Może te nieprawidłowości to tylko lokalny fenomen.”&lt;bt_wait&gt;
+„Mam nadzieję, że tak jest.” odpowiadam „Nawet jeśli my będziemy
+bezużyteczne, może uda się, jeśli inne obserwatorki dadzą sobie radę.”&lt;bt_wait&gt;
+„Nie martw się. Będzie dobrze.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -21048,6 +21092,22 @@ Wkrótce przystajemy na odpoczynek w cieniu pobliskiej skały, kiedy ściągam b
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150938Z">
         <seg>Czy mówię niewyraźnie? Tak, dostałam od kogoś innego. Kupiłam tą głupią rzecz zaraz po wybuchu w ruinach miasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Did the humans see this coming? Is that why they made a twin model?&lt;bt_wait&gt;
+Were they really so clever?&lt;bt_wait&gt; ...Were they really so cruel?&lt;bt_wait&gt;       
+I couldn't have done this by myself. I would have descended into madness.
+I simply couldn't bear such a burden all alone.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104322Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104310Z">
+        <seg>Czy ludzie wiedzieli, że tak się stanie? Czy dlatego stworzyli bliźniacze modele?&lt;bt_wait&gt;
+Czy naprawdę byli tacy błyskotliwi?&lt;bt_wait&gt; ...naprawdę byli tak okrutni?&lt;bt_wait&gt;       
+Nie byłabym w stanie zrobić tego sama. Pogrążyłabym się w szaleństwie.
+Nie byłabym w stanie samotnie znieść tego brzemienia.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39054,6 +39114,16 @@ były otoczone troskliwą opieką.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It moved fast.&lt;bt_wait&gt; So fast.&lt;bt_wait&gt;
+Like a wind.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104130Z">
+        <seg>Szybko się roznosiło.&lt;bt_wait&gt; Tak szybko.&lt;bt_wait&gt;
+Jak wiatr.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It must have been created by the machines.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144909Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144909Z">
@@ -52637,6 +52707,20 @@ przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203719Z" creationid="Syn Spawacza" creationdate="20200601T203719Z">
         <seg>Popola</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Popola and I would go to the observation room and act like it was all okay.
+We'd talk to the Replicants as if we didn't have a care in the world.
+But at night, we'd just hold each other and share the horror of it all.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104203Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104150Z">
+        <seg>Razem z Popolą chodziłyśmy do pokoju obserwacyjnego i zachowywałyśmy się
+jakby wszystko było w porządku. Rozmawiałyśmy z Replikantami, jakby nie obchodziło
+nas nic poza tym. W nocy przytulałyśmy się do siebie i dzieliłyśmy całym koszmarem.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
