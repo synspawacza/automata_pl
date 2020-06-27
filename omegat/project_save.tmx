@@ -9255,6 +9255,14 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Affirmative. As a support unit, I am capable of engaging in conversation as necessary.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165203Z" creationid="Syn Spawacza" creationdate="20200627T165203Z">
+        <seg>Potwierdzam.. Jako jednostka wsparcia, w razie potrzeby jestem zdolny do udziału konwersacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Affirmative. His mental state has become dangerously unstable.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095235Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095235Z">
@@ -32492,8 +32500,8 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
       <tuv lang="en-US">
         <seg>Huh. This might be useful...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164740Z" creationid="Syn Spawacza" creationdate="20200627T164740Z">
-        <seg>Huh. To może się przydać.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164836Z" creationid="Syn Spawacza" creationdate="20200627T164740Z">
+        <seg>Huh. To może się przydać...</seg>
       </tuv>
     </tu>
     <tu>
@@ -42100,6 +42108,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T134947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134947Z">
         <seg>Jest potwornie WIELKA...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's funny...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165028Z" creationid="Syn Spawacza" creationdate="20200627T165028Z">
+        <seg>Zabawne...</seg>
       </tuv>
     </tu>
     <tu>
@@ -56743,6 +56759,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: The search for 9S should commence in the flooded region.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165023Z" creationid="Syn Spawacza" creationdate="20200627T165023Z">
+        <seg>Propozycja: poszukiwania 9S rozpocząć w zalanym rejonie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Unit 2B should abandon unit 9S and save—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170617Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170617Z">
@@ -60705,6 +60729,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051445Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051445Z">
         <seg>Przeszukiwanie wykonane. Regiony z żywicą oznaczone na mapie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search target 9S was caught in a large explosion over the water.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164958Z" creationid="Syn Spawacza" creationdate="20200627T164958Z">
+        <seg>Cel poszukiwać 9S padł ofiarą wybuchu nad wodą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84342,6 +84374,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122003Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122003Z">
         <seg>Nie jesteś taki zły, Podzie. Wiesz o tym?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're oddly chatty today.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165050Z" creationid="Syn Spawacza" creationdate="20200627T165050Z">
+        <seg>Jesteś dzisiaj dziwnie gadatliwy.</seg>
       </tuv>
     </tu>
     <tu>
