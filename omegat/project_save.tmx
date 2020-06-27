@@ -3831,6 +3831,18 @@ Ostatnio wśród mechanicznych form życia krąży pewna plotka:
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Was there ever such furious gunfire? Such bombings that continued without pause?&lt;bt_wait&gt;
+Our target is the machine server under Mt. Ka'ala—and our situation is dire.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T070536Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T070536Z">
+        <seg>&lt;page&gt;
+Czy była tam ta szalona wymiana ognia? To bombardowanie trwające bez końca?&lt;bt_wait&gt;
+Naszym celem jest serwer maszyn pod góra Ka'ala — a nasza sytuacja jest tragiczna.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 We learn that the four androids refer to each other as Number 2, Number 4,
 Number 16, and Number 21.&lt;bt_wait&gt; They also aren't in a hurry to share much more.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -37259,6 +37271,19 @@ A co, jeśli tego nie chcą?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's so easy to do from up there. From the satellite. From the moon.
+&lt;/page&gt;
+We can't go back and we can't go forward. So instead, we split in two.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T073246Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T073246Z">
+        <seg>Tak łatwo to zrobić z góry. Z satelity. Z księżyca.
+&lt;/page&gt;
+&lt;page&gt;
+We can't go back and we can't go forward. So instead, we split in two.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's so relaxing to listen to music...don't you agree?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091349Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091349Z">
@@ -67687,6 +67712,14 @@ A skoro nie znamy lekarstwa...&lt;bt_wait&gt;jest to też wyrok śmierci.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are abandoned.&lt;bt_wait&gt; We are alone.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T070627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T070627Z">
+        <seg>Zostałyśmy porzucone.&lt;bt_wait&gt; Jesteśmy same.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We are currently searching for a missing YoRHa unit, designation 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152114Z">
@@ -77965,6 +77998,20 @@ Indeed, it is as if a new form of existence has been born.”
 Nauczyłyśmy się. Rozwinęłyśmy. I teraz osiągnęłyśmy nową świadomość.&lt;bt_wait&gt;
 Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
 &lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“We need reinforcement. Requesting deployment at once.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0010&gt;
+Number 2 speaks quickly, yet calmly—which is all the more remarkable considering the
+hostile army closing in on our position. But the command center in the orbiting
+satellite informs us no reinforcements will be forthcoming.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T070613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T070613Z">
+        <seg>„Potrzebujemy wsparcia. Natychmiast zażądaj ich wydania.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0010&gt;
+Numer 2 mówi szybko, ale spokojnie — co jest godna podziwu ze względu na wrogą
+armię zbliżającą się do naszej pozycji. Ale centrum dowodzenia na orbitującej satelicie
+informuje nas, że nie pojawią się żadne posiłki.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
