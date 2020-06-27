@@ -3704,6 +3704,42 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label_HOUTAI_END&gt;
+&lt;page&gt;
+“Sorry about this, Sis,” mutters Devola.&lt;bt_wait&gt;
+That wry smile again.&lt;bt_wait&gt; It kills me every time.&lt;bt_wait&gt;
+“Don't you dare apologize,” I respond. “You've done nothing wrong.”&lt;bt_wait&gt;
+I calmly change the bandage, trying not to let my worry show.
+I make it as tight as possible so no sand can slip inside.
+It's all I can do until I get the proper materials.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103712Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103712Z">
+        <seg>&lt;label_HOUTAI_END&gt;
+&lt;page&gt;
+„Przepraszam za to, Siostrzyczko.” mamrocze Devola.&lt;bt_wait&gt;
+Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie torturuje.&lt;bt_wait&gt;
+„Nie waż się przepraszać” odpowiadam „Nie zrobiłaś nic złego.”&lt;bt_wait&gt;
+Delikatnie zmieniam bandaż, próbując nie okazać po sobie niepokoju.
+Zawiązuje go tak ciasno, jak tylko mogę, żeby nie dostał się do środka żaden piasek.
+To wszystko co mogę zrobić zanim zdobędę odpowiednie materiały.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label_SYURI&gt;
+&lt;page&gt;
+As expected, wiring in the nerve circuitry has been damaged.
+Replacing it will require new connectors, as well as some tools.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103559Z">
+        <seg>&lt;label_SYURI&gt;
+&lt;page&gt;
+Tak jak się spodziewałam, okablowanie obwodów nerwowych zostało uszkodzone.
+Wymiana będzie wymagała nowych złączek a także narzędzi.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;page&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134433Z">
@@ -3808,6 +3844,22 @@ An uneasy Sonia pulls Shion close and chews on a loose strand of hair.&lt;bt_wai
         <seg>&lt;page&gt;
 Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.&lt;bt_wait&gt;
 „Nie podoba mi się to.” mówi. „A co jeśli to jakaś pułapka maszyn?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Artificial skin—torn and bloodied—peeks out from beneath the bandage.
+Judging by Devola's current lack of ambulatory control,
+I imagine the circuitry underneath has been damaged as well.&lt;bt_wait&gt;
+Taking a deep breath, I...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103542Z">
+        <seg>&lt;page&gt;
+Spod bandaża wygląda sztuczna skóra — porwana i zakrwawiona.
+Patrząc na brak kontroli ruchowej, podejrzewam,
+że obwody pod spodem również zostały uszkodzone.&lt;bt_wait&gt;
+Biorę głęboki oddech i...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4335,6 +4387,18 @@ zostając z tyłu jako nasza tarcza, nawet jeśli będzie je
 to kosztować życie. Mimo to, zgodziły się bez wahania.&lt;bt_wait&gt;
 My w straży przedniej dołączymy do nich wystarczająco szybko.&lt;bt_wait&gt;
 Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I'm sorry, Sister.”&lt;bt_wait&gt;
+“Okay, now YOU'RE apologizing!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103732Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103732Z">
+        <seg>&lt;page&gt;
+„Przepraszam, Siostro.”&lt;bt_wait&gt;
+Okej, teraz TY przepraszasz!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15845,6 +15909,16 @@ przeczucia co do ostatniej fazy naszej misji.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But that's going to be a tall order, considering our current condition.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103718Z">
+        <seg>Ale to będzie ciężka sprawa, patrząc na nasz aktualny stan.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But that's impossible! I don't know about any of that...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T151215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T151215Z">
@@ -20868,6 +20942,18 @@ Patrzyłem na dane, ale nie wiem gdzie może leżeć problem. Ale się nie podda
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222511Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222511Z">
         <seg>Devola i Popola to rzadkie modele androidów zaprojektowane w celu leczenia i przeglądów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Devola grunts and turns away.&lt;bt_wait&gt; I take it as consent.&lt;bt_wait&gt;
+Soon we are resting in the shade of a nearby rock as I pull the bandage free.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103504Z">
+        <seg>Devola mruczy i odwraca się.&lt;bt_wait&gt; Odbieram to jako pozwolenie.&lt;bt_wait&gt;
+Wkrótce przystajemy na odpoczynek w cieniu pobliskiej skały, kiedy ściągam bandaż.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -46658,6 +46744,18 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153713Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153713Z">
         <seg>Żaden z nas nie jest kochany!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>None of which is easy to find in a desert.
+&lt;/page&gt;
+&lt;go_HOUTAI_END&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103604Z">
+        <seg>Nic z tego nie można łatwo znaleźć na pustyni.
+&lt;/page&gt;
+&lt;go_HOUTAI_END&gt;</seg>
       </tuv>
     </tu>
     <tu>
