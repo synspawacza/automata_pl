@@ -54581,10 +54581,10 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
 Pod 042: ......&lt;bt_wait&gt;
 Pod 042: Whatever the case, we Tactical Support Units have a duty to see this through to the end.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100649Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161054Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100649Z">
         <seg>Pod 042: ...&lt;bt_wait&gt;
 Pod 042: ......&lt;bt_wait&gt;
-Pod 042: Cokolwiek się nie wydarzy, my Taktyczne Jednostki Wsparcia mamy obowiązek trwać do końca na posterunku.&lt;bt_wait&gt;</seg>
+Pod 042: Cokolwiek się nie wydarzy, my Jednostki Wsparcia Taktycznego mamy obowiązek trwać do końca na posterunku.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55043,8 +55043,8 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
 Pod 153: However, your expression of concern is appreciated.&lt;bt_wait&gt;
 Pod 153: I also hope that you do not die, Pod 042.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100802Z">
-        <seg>Pod 153: Koncepcja śmierci nie ma znaczenia dla Taktycznych Jednostek Wsparcia.
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100802Z">
+        <seg>Pod 153: Koncepcja śmierci nie ma znaczenia dla Jednostek Wsparcia Taktycznego.
 Pod 153: Jednakże twój wyraz zmartwienia jest doceniony.&lt;bt_wait&gt;
 Pod 153: Ja też mam nadzieję, że nie umrzesz, Podzie 042.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -56921,24 +56921,24 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Query: Since androids generate energy from water, what purpose does the Resistance have with animal protein?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144309Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144309Z">
-        <seg>Wątpliwość: skoro androidy generują energię z wody, jaki cel ma Ruch Oporu w zwierzęcym białku?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160922Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144309Z">
+        <seg>Pytanie: skoro androidy generują energię z wody, jaki cel ma Ruch Oporu w zwierzęcym białku?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Query: We understand that machine lifeforms can regenerate as long as they possess the required materials. Is this accurate?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090831Z">
-        <seg>Zapytanie: rozumiemy, że mechaniczne formy życia mogą się zregenerować tak długo, jak posiadają wymagane materiały. Mamy rację?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090831Z">
+        <seg>Pytanie: rozumiemy, że mechaniczne formy życia mogą się zregenerować tak długo, jak posiadają wymagane materiały. Mamy rację?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Query: What is the motive for a machine lifeform to provide such an announcement?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050223Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050223Z">
-        <seg>Zapytanie: jakie są motywy mechanicznych form życia, by pozostawiać takie ogłoszenie?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160844Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050223Z">
+        <seg>Pytanie: jakie są motywy mechanicznych form życia, by pozostawiać takie ogłoszenie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56961,8 +56961,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Query: Why would unit A2 be concerned with the status of unit 9S after turning on YoRHa?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100011Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100011Z">
-        <seg>Zagwozdka: czemu jednostka A2 jest zainteresowana stanem jednostki 9S po odwróceniu się od YoRHy?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T160912Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100011Z">
+        <seg>Pytanie: czemu jednostka A2 jest zainteresowana stanem jednostki 9S po odwróceniu się od YoRHy?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65213,8 +65213,8 @@ and an old dragon.</seg>
       <tuv lang="en-US">
         <seg>Tactical Support Unit Pod 042.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220809Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
-        <seg>Jednostka wsparcia taktycznego Pod 042.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
+        <seg>Jednostka Wsparcia Taktycznego Pod 042.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70618,8 +70618,8 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       <tuv lang="en-US">
         <seg>This Pod is a YoRHa Tactical Support Unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T121958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121958Z">
-        <seg>Ten Pod jest Jednostką Taktycznego Wsparcia YoRHy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121958Z">
+        <seg>Ten Pod jest Jednostką Wsparcia Taktycznego YoRHy.</seg>
       </tuv>
     </tu>
     <tu>
