@@ -1064,6 +1064,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...SiD_end</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080453Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080453Z">
+        <seg>...SiD_end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Sorry my useless subordinate caused you so much trouble.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T223917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T223917Z">
@@ -2868,6 +2876,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M6010_S0250_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080455Z">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M6010_S0250_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -3412,6 +3430,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;i&gt;I'll join you soon... You promised to join her soon!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080319Z">
+        <seg>&lt;i&gt;Dołączę do ciebie niedługo... Obiecałaś, że do niej niedługo dołączysz!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;i&gt;I'm not like that!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150146Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150146Z">
@@ -3640,6 +3666,26 @@ How many of us have been infected now?&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065543Z">
         <seg>&lt;page&gt;
 Ile z nas już było zainfekowanych?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+I begin to giggle. It's a mad thing, crazed, even to my own ears.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080303Z">
+        <seg>&lt;page&gt;
+Zaczęłam chichotać. To szalony dźwięk, pomylony, nawet dla moich uszu.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+I blink.&lt;bt_wait&gt; Daylight drifts through the smoke.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080352Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080352Z">
+        <seg>&lt;page&gt;
+Mrugam.&lt;bt_wait&gt; Przez dym przeswituje światło słońca..&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28797,6 +28843,20 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How could I have said such vain, laughable words? Such lies?&lt;bt_wait&gt;
+I laugh. I stand in the smoke and the flame and laugh until I think my
+very throat will tear itself in two.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080340Z">
+        <seg>Jak mogłam wypowiedzieć takie próżne, zabawne słowa? Takie kłamstwa?&lt;bt_wait&gt;
+Śmieję się. Stoję w dymie i płomieniach i śmieję się dopóki nie
+mam wrażenia, że moje gardło rozpadnie się na dwie części.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How did I...?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144608Z">
@@ -29635,6 +29695,18 @@ Przestań mnie przedrzeźniać. Nie przedrzeźniam!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T092802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T092802Z">
         <seg>Jestem kowalem Masamune.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am the only one left.&lt;bt_wait&gt; The only one.&lt;bt_wait&gt;
+I was alive because I had been afraid to die.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080254Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080254Z">
+        <seg>Tylko ja zostałam.&lt;bt_wait&gt; Jedyna.&lt;bt_wait&gt;
+Żyłam, bo bałam się umrzeć.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -31168,6 +31240,14 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I look out over the scorched earth.&lt;bt_wait&gt; Lilly? Number 16? Rose? Number 2? Are any of you...?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080232Z">
+        <seg>Patrze nad spaloną ziemią.&lt;bt_wait&gt; Lilly? Numerze 16? Różo? Numerze 2? Czy któraś z was...?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I lost contact with them once they reached the deep desert.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153000Z">
@@ -32174,6 +32254,14 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”&lt;b
 „Nie to powiedziałam!”&lt;bt_wait&gt;
 „Wystarczy, wy dwie.” wyszczekuje Shion. „To kapitan podejmuje ostateczną decyzję.”
 &lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I walk slowly into the west, dragging my broken body along.&lt;BGM_BGM_M6010_S0250_N_0060&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080452Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080452Z">
+        <seg>Idę powoli na zachód, ciągnąc za sobą swoje zniszczone ciało.&lt;BGM_BGM_M6010_S0250_N_0060&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -33746,6 +33834,14 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”&lt;b
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090352Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090352Z">
         <seg>Ostatnio czuję w piersiach coś dziwnego... Ciekawe co to może być.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I've been standing here all night.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080357Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080357Z">
+        <seg>Stałam tutaj całą noc.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42821,6 +42917,22 @@ Pascal
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052521Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052521Z">
         <seg>Mój królu... Mój królu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>My laughter finally depleted, I force myself to my feet.&lt;bt_wait&gt;
+I'm the coward who stayed behind. The coward who lived.
+Now it's my job to carry on the will of those who fought at my side.&lt;bt_wait&gt;
+Since I can't kill myself, I have to fight until someone does it for me.
+I'll endure every hardship. I'll kill every machine I find.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080432Z">
+        <seg>Mój śmiech wreszcie ustał, zmuszam się, żeby wstać.&lt;bt_wait&gt;
+Jestem tchórzem, który został z tyłu. Tchórzem, który przeżył.
+Teraz to moje zadanie, by nieść wolę tych, którzy walczyli u mego boku&lt;bt_wait&gt;
+Skoro nie umiem się zabić, muszę walczyć, dopóki ktoś mnie nie wyręczy.
+Zniosę każdą niedolę. Zabiję każda maszynę, którą znajdę.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -61242,6 +61354,14 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The machines immediately drop to the ground and stop moving.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080215Z">
+        <seg>Maszyny w jednej chwili upadają na ziemię i nieruchomieją.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The machines on the network all went berserk at the same moment.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164658Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164658Z">
@@ -63647,6 +63767,16 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214406Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214406Z">
         <seg>Tutaj jednostka partyzancka 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is my cross to bear.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080437Z">
+        <seg>To mój krzyż.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
