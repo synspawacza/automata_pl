@@ -37997,6 +37997,14 @@ Sam.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm sorry... I... I don't know anything.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170133Z" creationid="Syn Spawacza" creationdate="20200627T170133Z">
+        <seg>Nic... nic nie wiem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm starting your boot sequence.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T195609Z" creationid="Syn Spawacza" creationdate="20200530T195609Z">
@@ -38437,6 +38445,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T091316Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091316Z">
         <seg>Nie... Nie umiem żyć z takim złamanym sercem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I...I don't remember anything...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170125Z" creationid="Syn Spawacza" creationdate="20200627T170125Z">
+        <seg>Nic... nic nie pamiętam...</seg>
       </tuv>
     </tu>
     <tu>
@@ -67249,6 +67265,14 @@ pospiesznie zbudowane okopu, gdzie zebrali się moi kompani z Ruchu Oporu.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That's okay. Just stay here and rest.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170144Z" creationid="Syn Spawacza" creationdate="20200627T170144Z">
+        <seg>Już dobrze. Zostań tutaj i odpoczywaj..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's okay. Just stay here and wait for backup to arrive.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170052Z" creationid="Syn Spawacza" creationdate="20200627T170052Z">
@@ -75980,10 +76004,26 @@ I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>W-what happened?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170059Z" creationid="Syn Spawacza" creationdate="20200627T170059Z">
+        <seg>C-co się stało?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>W-where am I?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165607Z" creationid="Syn Spawacza" creationdate="20200627T165607Z">
         <seg>G-gdzie ja jestem...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>W-who am I...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170152Z" creationid="Syn Spawacza" creationdate="20200627T170152Z">
+        <seg>K-kim ja jestem?</seg>
       </tuv>
     </tu>
     <tu>
@@ -83234,6 +83274,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122019Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122019Z">
         <seg>Idź przodem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You got hit by an EMP blast.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170333Z" creationid="Syn Spawacza" creationdate="20200627T170333Z">
+        <seg>Dostałaś impulsem elektromagnetycznym.</seg>
       </tuv>
     </tu>
     <tu>
