@@ -23624,6 +23624,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't worry. I sent out a rescue signal to the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165632Z" creationid="Syn Spawacza" creationdate="20200627T165632Z">
+        <seg>Nie martw się. Wyślę sygnał ratunkowy do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't worry...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113710Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113710Z">
@@ -75956,6 +75964,14 @@ I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>W-where am I?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165607Z" creationid="Syn Spawacza" creationdate="20200627T165607Z">
+        <seg>G-gdzie ja jestem...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>W. Boar Meat</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T175737Z" creationid="Syn Spawacza" creationdate="20200601T081510Z">
@@ -81629,8 +81645,8 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       <tuv lang="en-US">
         <seg>Wrong route. Better go back and see if there's another one.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165358Z" creationid="Syn Spawacza" creationdate="20200627T165358Z">
-        <seg>Zła si</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165547Z" creationid="Syn Spawacza" creationdate="20200627T165358Z">
+        <seg>Źle idę. Lepiej zawróćmy i poszukajmy innej drogi.</seg>
       </tuv>
     </tu>
     <tu>
