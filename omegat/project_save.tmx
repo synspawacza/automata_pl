@@ -9861,6 +9861,14 @@ Proszę, weźcie to.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163329Z" creationid="Syn Spawacza" creationdate="20200627T163321Z">
+        <seg>Uwaga!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: 2B has defeated the Goliath-class heavy-weapon unit.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163135Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163135Z">
@@ -15287,6 +15295,14 @@ trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T194030Z" creationid="Syn Spawacza" creationdate="20200601T194030Z">
         <seg>Bateria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Battle data exchange requested.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163538Z" creationid="Syn Spawacza" creationdate="20200627T163538Z">
+        <seg>Prośba o wymianę danych bojowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56111,6 +56127,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal accepted. Data will be exchanged regularly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163552Z" creationid="Syn Spawacza" creationdate="20200627T163552Z">
+        <seg>Propozycja zaakceptowana. Dane wymieniane regularnie, dla lepszej wydajności.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal:</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115331Z">
@@ -66243,6 +66267,14 @@ Możecie zacząć ode mnie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks for all you've been doing for us.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163415Z" creationid="Syn Spawacza" creationdate="20200627T163415Z">
+        <seg>Dziękuję za to, co dla nas zrobiliście.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks for building this, Big Sis!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T085206Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T085206Z">
@@ -71206,6 +71238,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is Tactical Support Pod 042.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163521Z" creationid="Syn Spawacza" creationdate="20200627T163458Z">
+        <seg>Tu Pod Wsparcia Taktycznego 042.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is Tactical Support Unit Pod 042, assigned to 2B.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144101Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144101Z">
@@ -71216,8 +71256,8 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Tactical Support Unit Pod 042.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124823Z">
-        <seg>Oto Jednostka Wsparcia Taktycznego Pod 042.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124823Z">
+        <seg>Tu Jednostka Wsparcia Taktycznego Pod 042.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71232,8 +71272,16 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
       <tuv lang="en-US">
         <seg>This is Tactical Support Unit Pod 153.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124830Z">
-        <seg>Oto Jednostka Wsparcia Taktycznego Pod 153.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163449Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124830Z">
+        <seg>Tu Jednostka Wsparcia Taktycznego Pod 153.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is Weapon Support Pod 153.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163532Z" creationid="Syn Spawacza" creationdate="20200627T163516Z">
+        <seg>Tu Pod Wsparcia Bojowego 153.</seg>
       </tuv>
     </tu>
     <tu>
