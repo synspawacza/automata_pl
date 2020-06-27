@@ -63839,6 +63839,14 @@ znajomych androidów.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sorry... I have no clue...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165945Z" creationid="Syn Spawacza" creationdate="20200627T165945Z">
+        <seg>Przepraszam... Nie mam pojęcia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sort: Category</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211923Z" creationid="Syn Spawacza" creationdate="20200601T211902Z">
@@ -67237,6 +67245,14 @@ pospiesznie zbudowane okopu, gdzie zebrali się moi kompani z Ruchu Oporu.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204030Z" creationid="Syn Spawacza" creationdate="20200530T204030Z">
         <seg>Dziwne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>That's okay. Just stay here and wait for backup to arrive.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170052Z" creationid="Syn Spawacza" creationdate="20200627T170052Z">
+        <seg>Już dobrze. Zostań tutaj i poczekaj na wsparcie..</seg>
       </tuv>
     </tu>
     <tu>
