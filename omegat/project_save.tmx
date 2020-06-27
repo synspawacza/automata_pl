@@ -1312,8 +1312,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...That concludes our report on the events surrounding the alien wreckage.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105941Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105941Z">
-        <seg>...To podsumowuje nasz raport z wydarzeń dotyczących szczątków obcych.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105941Z">
+        <seg>...to podsumowuje nasz raport z wydarzeń dotyczących szczątków obcych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10699,16 +10699,16 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alien Cells</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190304Z" creationid="Syn Spawacza" creationdate="20200601T190304Z">
-        <seg>Komórki obcych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174507Z" creationid="Syn Spawacza" creationdate="20200601T190304Z">
+        <seg>Komórki kosmitów</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alien Heart</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T190310Z" creationid="Syn Spawacza" creationdate="20200601T190310Z">
-        <seg>Serce obcych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174517Z" creationid="Syn Spawacza" creationdate="20200601T190310Z">
+        <seg>Serce kosmity</seg>
       </tuv>
     </tu>
     <tu>
@@ -10731,8 +10731,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alien Ship</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175037Z" creationid="Syn Spawacza" creationdate="20200601T175037Z">
-        <seg>Statek obcych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174323Z" creationid="Syn Spawacza" creationdate="20200601T175037Z">
+        <seg>Statek kosmitów</seg>
       </tuv>
     </tu>
     <tu>
@@ -15413,8 +15413,8 @@ trudno zadać nimi efektywne obrażenia.</seg>
       <tuv lang="en-US">
         <seg>Battle in the Alien Ship</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T165441Z" creationid="Syn Spawacza" creationdate="20200615T165441Z">
-        <seg>Bitwa w statku obcych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174551Z" creationid="Syn Spawacza" creationdate="20200615T165441Z">
+        <seg>Bitwa w statku kosmitów</seg>
       </tuv>
     </tu>
     <tu>
@@ -19811,8 +19811,8 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
       <tuv lang="en-US">
         <seg>Copied City</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091519Z" creationid="Syn Spawacza" creationdate="20200601T175048Z">
-        <seg>Copied City </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174337Z" creationid="Syn Spawacza" creationdate="20200601T175048Z">
+        <seg>Skopiowane miasto</seg>
       </tuv>
     </tu>
     <tu>
@@ -40845,8 +40845,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Investigate the alien facility.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161454Z" creationid="Syn Spawacza" creationdate="20200608T161454Z">
-        <seg>Zbadaj obiekt obcych.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174535Z" creationid="Syn Spawacza" creationdate="20200608T161454Z">
+        <seg>Zbadaj obiekt kosmitów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40861,8 +40861,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Investigate the flooded area for alien readings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161418Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
-        <seg>Zbadaj zatopiony obszar pod kątem sygnałów obcych.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174529Z" creationid="Syn Spawacza" creationdate="20200608T161228Z">
+        <seg>Zbadaj zatopiony obszar pod kątem sygnałów kosmitów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68013,8 +68013,8 @@ Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>The Tower</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091525Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
-        <seg>The Tower </seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174435Z" creationid="Syn Spawacza" creationdate="20200601T174933Z">
+        <seg>Wieża</seg>
       </tuv>
     </tu>
     <tu>
@@ -85320,8 +85320,8 @@ Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</
       <tuv lang="en-US">
         <seg>[09/02/12422] I confirmed that the machine lifeforms released by the aliens have reconstructed their network. I've started to see units with gravity-controlling capabilities again as well.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T160726Z" creationid="Syn Spawacza" creationdate="20200617T160726Z">
-        <seg>[09/02/12422] Potwierdzam że mechaniczne formy życia, stworzone przez obcych, odbudowały ich sieć. Zacząłem też znów widzieć jednostki zdolne do kontroli grawitacji.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174602Z" creationid="Syn Spawacza" creationdate="20200617T160726Z">
+        <seg>[09/02/12422] Potwierdzam że mechaniczne formy życia, stworzone przez kosmitów, odbudowały ich sieć. Zacząłem też znów widzieć jednostki zdolne do kontroli grawitacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89752,6 +89752,26 @@ Relapses increasing...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164921Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164921Z">
         <seg>Co się dzieje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">r110_dd7422a2_scp.properties</prop>
+      <prop type="id">M6090_S0100_G0390_300_sele</prop>
+      <tuv lang="en-US">
+        <seg>Copied City</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174412Z" creationid="Syn Spawacza" creationdate="20200627T174412Z">
+        <seg>Copied City </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">r110_dd7422a2_scp.properties</prop>
+      <prop type="id">M6090_S0100_G0400_300_sele</prop>
+      <tuv lang="en-US">
+        <seg>The Tower</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174454Z" creationid="Syn Spawacza" creationdate="20200627T174454Z">
+        <seg>The Tower </seg>
       </tuv>
     </tu>
     <tu>
