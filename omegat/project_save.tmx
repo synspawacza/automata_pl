@@ -23096,6 +23096,14 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you really think it's a good idea to leave that tank behind?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164053Z" creationid="Syn Spawacza" creationdate="20200627T164053Z">
+        <seg>Myślisz że to dobry pomysł, zostawić tak ten czołg?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you remember when you spoke of "sin"?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122624Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122624Z">
@@ -23420,6 +23428,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T093417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T093417Z">
         <seg>Nie pozwólcie im zbliżyć się ani na centymetr!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't go to the village.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164148Z" creationid="Syn Spawacza" creationdate="20200627T164148Z">
+        <seg>Nie idź do wioski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27995,6 +28011,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171222Z" creationid="Syn Spawacza" creationdate="20200608T171222Z">
         <seg>Idź na najwyższe piętro Wieży.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to the village.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164141Z" creationid="Syn Spawacza" creationdate="20200627T164141Z">
+        <seg>Idź do wioski.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38723,6 +38747,14 @@ Jaaakiiiś sposób...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If they aren't hostile, fighting them is a waste of time.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164120Z" creationid="Syn Spawacza" creationdate="20200627T164120Z">
+        <seg>Jak nie jest wrogi, to walka z nim to strata czasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If they realize what they have, we're going to be in big trouble. You have to help me get 'em back!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152023Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152023Z">
@@ -41044,6 +41076,14 @@ may be made from scraps, but it gets the job done.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T134737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T134737Z">
         <seg>To może być pułapka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It does seem awfully suspicious...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164223Z" creationid="Syn Spawacza" creationdate="20200627T164223Z">
+        <seg>Wydaje się to okropnie podejrzane...</seg>
       </tuv>
     </tu>
     <tu>
