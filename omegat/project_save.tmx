@@ -19490,8 +19490,8 @@ W razie nagłego pogorszenia się stanu pacjenta, zostanie do niej przypisane do
       <tuv lang="en-US">
         <seg>Core</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201557Z" creationid="Syn Spawacza" creationdate="20200601T201557Z">
-        <seg>rdzeń</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T133523Z" creationid="Syn Spawacza" creationdate="20200601T201557Z">
+        <seg>Rdzeń</seg>
       </tuv>
     </tu>
     <tu>
@@ -40099,8 +40099,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Initializing Pod Connection</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T123937Z" creationid="Syn Spawacza" creationdate="20200530T123937Z">
-        <seg>Inicjalizacja połączania z podem</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T133659Z" creationid="Syn Spawacza" creationdate="20200530T123937Z">
+        <seg>Inicjalizacja połączania z Podem</seg>
       </tuv>
     </tu>
     <tu>
@@ -46516,7 +46516,7 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180646Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T133653Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
         <seg>Jednostki pamięci: w normie</seg>
       </tuv>
     </tu>
