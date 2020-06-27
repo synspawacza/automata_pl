@@ -9628,6 +9628,14 @@ Doceniono twoją pomoc.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Analysis: The fog is actually steam emitted by a large enemy structural unit.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052313Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052313Z">
+        <seg>Analiza: Mgła to aktualnie para emitowana przez dużą jednostkę strukturalną wroga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Analysis: The item in question is likely a "music box." It should be located in an area where music is playing.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145433Z">
@@ -19557,6 +19565,14 @@ inne losowe efekty.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Do you need anything? It's dangerous outside, so be on your guard.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052205Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052205Z">
+        <seg>Potrzebujesz czegoś? Na zewnątrz jest niebezpiecznie, więc bądź czujny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do you need something? ...No? All right then.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174307Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174307Z">
@@ -23156,6 +23172,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For what purpose?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052240Z">
+        <seg>Dlaczego?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Forest Access Key</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090806Z" creationid="Syn Spawacza" creationdate="20200601T090806Z">
@@ -26196,6 +26220,16 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hello! This is the Resource Recovery Unit.
+Now activating defense mode!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052324Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052324Z">
+        <seg>Witamy! Oto Jednostka Odzyskująca Zasoby.
+Aktywuje tryb obronny!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hello! You're an android, are you not?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091501Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091501Z">
@@ -28152,6 +28186,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh? Fog?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052253Z">
+        <seg>Hę? Mgła?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh? Hey, where am I?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133156Z">
@@ -28448,6 +28490,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T103900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T103900Z">
         <seg>Hipoteza: zostały zabite przez lokalne mechaniczne formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypothesis: This facility may be designed to transport some kind of resource.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052233Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052233Z">
+        <seg>Hipoteza: ten budynek mógł zostać zaprojektowany by transportować pewien rodzaj zasobów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32329,6 +32379,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm so glad you made it back safely.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052059Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052059Z">
+        <seg>Cieszę się, że wróciłeś cały.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm sorry to have put this on you. I truly am.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142733Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142733Z">
@@ -35033,6 +35091,14 @@ w temperaturze 2000 stopni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162122Z" creationid="Syn Spawacza" creationdate="20200530T162122Z">
         <seg>Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is that one of our large units?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052211Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052211Z">
+        <seg>Czy to jedna z naszych dużych jednostek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45934,6 +46000,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Outfitted with extra parts, this reverse-jointed, Goliath-class machine resembles a dinosaur more than ever. It uses energy stored in its dorsal fins to fire lasers from its mouth.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052358Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052358Z">
+        <seg>Ubrana w dodatkowe części, ta maszyna o odwróconych stawach klasy Goliat przypomina dinozaura. Używa energii zgromadzonej w grzbietowych płetwach by wystrzelić z paszczy laser.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Outsider!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091142Z">
@@ -51876,6 +51950,14 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Said unit appears to be delivering something to the giant facility.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052227Z">
+        <seg>Wygląda na to, że wspomniana jednostka dostarcza coś do wielkiej budowli.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Said units were marked as goals earlier. They are believed to be so-called "resource-recovery units".</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050352Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050352Z">
@@ -55536,6 +55618,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215852Z">
         <seg>Uwolnić funkcję ukrycia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Steam? For what purpose?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052314Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052314Z">
+        <seg>Para? W jakim celu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -69137,6 +69227,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's the resource it's transporting?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052236Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052236Z">
+        <seg>Co za zasoby transportuje?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What's this?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095210Z">
@@ -76753,6 +76851,16 @@ Zaiste, stało się tak, jakby narodziła się nowa forma egzystencji.”
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050413Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050413Z">
         <seg>Dobra..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p300_f29af5ee_scp.properties</prop>
+      <prop type="id">M3020_S0040_G0010_001_pod153</prop>
+      <tuv lang="en-US">
+        <seg>Affirmative.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052221Z">
+        <seg>Potwierdzam.</seg>
       </tuv>
     </tu>
     <tu>
