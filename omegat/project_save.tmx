@@ -3899,6 +3899,16 @@ Uśmiecha się, ale wydaje się być zaskoczona.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label_END&gt;
+&lt;BGM_BGM_M3060_S0910_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123958Z">
+        <seg>&lt;label_END&gt;
+&lt;BGM_BGM_M3060_S0910_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label_HOUTAI_END&gt;
 &lt;page&gt;
 “Sorry about this, Sis,” mutters Devola.&lt;bt_wait&gt;
@@ -3917,6 +3927,14 @@ Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie torturuje.&lt;b
 Delikatnie zmieniam bandaż, próbując nie okazać po sobie niepokoju.
 Zawiązuje go tak ciasno, jak tylko mogę, żeby nie dostał się do środka żaden piasek.
 To wszystko co mogę zrobić zanim zdobędę odpowiednie materiały.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label_NO&gt;&lt;STATEON_select_novel/stay&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123949Z">
+        <seg>&lt;label_NO&gt;&lt;STATEON_select_novel/stay&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3941,6 +3959,14 @@ Replacing it will require new connectors, as well as some tools.&lt;bt_wait&gt;<
 &lt;page&gt;
 Tak jak się spodziewałam, okablowanie obwodów nerwowych zostało uszkodzone.
 Wymiana będzie wymagała nowych złączek a także narzędzi.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label_YES&gt;&lt;STATEON_select_novel/go&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123930Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123930Z">
+        <seg>&lt;label_YES&gt;&lt;STATEON_select_novel/go&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4351,6 +4377,16 @@ Long ago, an old machine lifeform told me something:
         <seg>&lt;page&gt;
 Dawno temu, stara mechaniczna forma życia powiedziała mi:
 „Piękno jest tym, co wygrywa miłość.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Mustering all my strength, I force out the words...&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123923Z">
+        <seg>&lt;page&gt;
+Wysilając się ze wszystkich sił, wyrzucam z siebie słowa...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4768,6 +4804,22 @@ zostając z tyłu jako nasza tarcza, nawet jeśli będzie je
 to kosztować życie. Mimo to, zgodziły się bez wahania.&lt;bt_wait&gt;
 My w straży przedniej dołączymy do nich wystarczająco szybko.&lt;bt_wait&gt;
 Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I'll go with you.”&lt;color_d0d0d0&gt;&lt;bt_wait&gt;
+“We YoRHa have no right to remain in this world.”
+&lt;/page&gt;
+&lt;go_END&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123948Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123933Z">
+        <seg>&lt;page&gt;
+„Polecę z wami.”&lt;color_d0d0d0&gt;&lt;bt_wait&gt;
+„My z YoRHy nie mamy racji bytu na tym świecie.”
+&lt;/page&gt;
+&lt;go_END&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -84380,6 +84432,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>chil[D]hood's end</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124026Z">
+        <seg>Koniec [D]zieciństwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>collapsed</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T190950Z" creationid="Syn Spawacza" creationdate="20200608T190950Z">
@@ -85742,6 +85802,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>the [E]nd of YoRHa</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124308Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124308Z">
+        <seg>Koni[E]c YoRHy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>then destroy the Goliath-class unit by any means necessary and gather what data you can.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130408Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
@@ -86316,6 +86384,16 @@ Coś jest nie tak. Coś...
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075708Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075708Z">
         <seg>„Ja... cieszę się, że cię spotkałam.” mówi.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“I'm...”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123908Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123908Z">
+        <seg>„Jestem...”
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
