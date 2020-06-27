@@ -1336,6 +1336,16 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>.M3060_S0035_GM_N
+..Desert Part 1: Devola and Popola Reminiscing</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102917Z">
+        <seg>.M3060_S0035_GM_N
+..Desert Part 1: Devola and Popola Reminiscing</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>/</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204419Z" creationid="Syn Spawacza" creationdate="20200601T204419Z">
@@ -2978,6 +2988,22 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGLOAD_1_1&gt;
+&lt;BGON_1_1&gt;
+&lt;color_ffffff&gt;
+&lt;bgcolor_000000&gt;
+*Show desert image A (wide desert area)</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102918Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102918Z">
+        <seg>&lt;BGLOAD_1_1&gt;
+&lt;BGON_1_1&gt;
+&lt;color_ffffff&gt;
+&lt;bgcolor_000000&gt;
+*Show desert image A (wide desert area)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -3014,6 +3040,20 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M3060_S0035_N_start&gt;
+&lt;page&gt;
+"......"&lt;bt_wait&gt;
+A dusty wind kisses my cheeks.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102920Z">
+        <seg>&lt;BGM_BGM_M3060_S0035_N_start&gt;
+&lt;page&gt;
+"......"&lt;bt_wait&gt;
+Pylący wiatr całuje mnie w policzek.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M6010_S0050_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -3046,6 +3086,16 @@ Ale by tak się stało, musimy pracować razem.&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065825Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065825Z">
         <seg>&lt;BGM_BGM_M6010_S0250_N_start&gt;
 &lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;BGOFF_1_1&gt;
+The project commences.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102943Z">
+        <seg>&lt;BGOFF_1_1&gt;
+The project commences.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3536,6 +3586,14 @@ staje się wrogiem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184954Z" creationid="Syn Spawacza" creationdate="20200605T184954Z">
         <seg>&lt;WEAPON_NAME&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;i&gt;Function as observers of Project Gestalt.&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103018Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103018Z">
+        <seg>&lt;i&gt;Bądźcie obserwatorami Projektu Gestalt.&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4112,6 +4170,18 @@ Number 16, and Number 21.&lt;bt_wait&gt; They also aren't in a hurry to share mu
         <seg>&lt;page&gt;
 Dowiedziałyśmy się, że cztery androidy zwracają się do siebie Numer 2, Numer 4,
 Numer 16 i Numer 21.&lt;bt_wait&gt; Poza tym nie spieszyło im się, by zdradzić nic więcej.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+When first we woke, there were still people.&lt;bt_wait&gt;
+They had flesh. Egos. Emotions. Souls. And they issued us a single order:</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103009Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103009Z">
+        <seg>&lt;page&gt;
+Kiedy pierwszy raz się obudziłyśmy, wciąż byli ludzie.&lt;bt_wait&gt;
+Mieli ciało. Ego. Emocje. Dusze. I wydali nam jeden rozkaz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15125,6 +15195,20 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220310Z">
         <seg>Bunkra już nie ma... Nie ma... sensu robić już kopii zapasowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Buried in sand, we press forward one step at a time.
+We have nowhere else to go, after all.&lt;bt_wait&gt;
+Because our models—the Devola and Popola models—are defective.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102941Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102941Z">
+        <seg>Brodząc w piasku, przemy naprzód krok po kroku.
+W końcu nie mamy gdzie iść.&lt;bt_wait&gt;
+Bo nasze modele — modele Devola i Popola — są wadliwe.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -67320,6 +67404,18 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is the sole mission of the twin Devola and Popola models.&lt;bt_wait&gt;
+It is the only reason we exist at all.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103158Z">
+        <seg>To jedyne zadanie bliźniaczych modeli Devola i Popola.&lt;bt_wait&gt;
+To powód, dla którego w ogóle istniejemy.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is the target.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T182705Z" creationid="Syn Spawacza" creationdate="20200530T182705Z">
@@ -80142,6 +80238,14 @@ of pink. Common in the Far East.</seg>
         <seg>[Wygląd poda]
 Biało-niebieskie paski z nutą różowego.
 Popularne na Dalekim Wschodzie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Record: Transitions in the Project's Initial Phase]&lt;BGM_BGM_M3060_S0035_N_0010&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102954Z">
+        <seg>[Zapiski: Przejście w Początkowej Fazie Projektu]&lt;BGM_BGM_M3060_S0035_N_0010&gt;</seg>
       </tuv>
     </tu>
     <tu>
