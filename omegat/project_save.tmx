@@ -3463,6 +3463,18 @@ staje się wrogiem.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+After Shion speaks, all of us turn to Captain Rose. She looks us in the eyes
+and nods slowly before starting to speak.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061615Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061615Z">
+        <seg>&lt;page&gt;
+Po słowach Shion, wszystkie zwracamy się ku Kapitan Róży.
+Patrzy nam w oczy i powoli kiwa głową, zanim zaczyna mówić.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 An uneasy Sonia pulls Shion close and chews on a loose strand of hair.&lt;bt_wait&gt;
 “I don't like it,” she says. “What if it's some kind of machine trap?”&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3664,6 +3676,20 @@ evolutionary speed.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Jeśli chodzi o walkę, to maszyny wykazują niesamowite zachowania adaptacyjne i
 ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I want all of you to leave this trench and get to those explosives,” says Rose.&lt;bt_wait&gt;
+“We'll let the blast take out most of them, then clean up the stragglers.&lt;bt_wait&gt;
+Identifying our unknown mystery fighters can wait until we're done.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061706Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061706Z">
+        <seg>&lt;page&gt;
+„Chcę, byście wszystkie wyszły z okopu i poszły do tych ładunków wybuchowych.” powiedziała Róża.&lt;bt_wait&gt;
+„Pozwolimy, by wybuch zmiótł większość z nich, a wtedy zniszczymy maruderów.&lt;bt_wait&gt;
+Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż skończymy.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5397,6 +5423,18 @@ them don't make any sense.</seg>
         <seg>Kamienna tablica z zasadami
 starożytnego kraju. Wiele z nich
 wydaje się nie mieć sensu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A slight smile crosses Rose's face, yet she still seems perfectly composed.&lt;bt_wait&gt;
+“Good. Then if this goes well, we might be able to take them all out.”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061644Z">
+        <seg>Lekki uśmiech przebiega przez twarz Róży, ale wciąż pozostaje spokojna.&lt;bt_wait&gt;
+„Dobrze. Więc jeśli to potoczy się dobrze, może będziemy w stanie pozbyć się ich wszystkich.”
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -24046,6 +24084,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203942Z" creationid="Syn Spawacza" creationdate="20200601T203942Z">
         <seg>Geografische Daten: Ladevorgang gestartet</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gerbera thinks for a moment. “Now that you mention it, yeah. They are.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061631Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061631Z">
+        <seg>Gerbera zastanawia się przez chwilę. „Teraz, jak o tym wspomniałaś, to tak, Idą tam.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42998,6 +43044,16 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163304Z">
         <seg>Nikt nie walczy bez powodu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No one objects to the captain's decision. The moment she issues the order,
+we all leap from the trench as one and reenter the fray.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061732Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061732Z">
+        <seg>Nikt nie podważa decyzji kapitana. Po wydaniu przez nią rozkazu,
+wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70451,6 +70507,22 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When we reach the battle, we find what appears to be another set of androids
+dressed in strange black outfits. &lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0020&gt;Before they even know what's happening,
+we detonate the explosives, kill the remaining machines, and turn our guns
+in their direction.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061829Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061814Z">
+        <seg>Gdy docieramy do bitwy, znajdujemy coś, co wygląda na kolejną grupę androidów,
+ubranych w dziwne, czarne stroje. &lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0020&gt;Zanim orientują się co się dzieje,
+detonujemy ładunki wybuchowe, zabijamy pozostałe maszyny i zwracamy nasza broń
+w ich stronę.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>When you return, he will be stronger than ever!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T110754Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T110754Z">
@@ -77116,6 +77188,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060130Z">
         <seg>„Anemono! Wycofaj się na razie! To rozkaz!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Gerbera? The enemy is heading toward the explosives we set up earlier, yes?”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061626Z">
+        <seg>„Gerbera, wróg kieruje się w stronę wcześniej założonych przez nas ładunków wybuchowych, tak?”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
