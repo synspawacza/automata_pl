@@ -10715,16 +10715,16 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alien Mask</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T094753Z" creationid="Syn Spawacza" creationdate="20200601T094753Z">
-        <seg>Maska obcego</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174304Z" creationid="Syn Spawacza" creationdate="20200601T094753Z">
+        <seg>Maska kosmity</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alien Report</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T173453Z" creationid="Syn Spawacza" creationdate="20200601T173453Z">
-        <seg>Raport o obcych</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174317Z" creationid="Syn Spawacza" creationdate="20200601T173453Z">
+        <seg>Raport o kosmitach</seg>
       </tuv>
     </tu>
     <tu>
@@ -14115,6 +14115,14 @@ kiedy Numer 2 i Numer 4 ją przytrzymują. Trzymają ją, jak się zwija i...&lt
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T161610Z" creationid="Syn Spawacza" creationdate="20200608T161610Z">
         <seg>Zapytaj Pascala o zachowanie maszyn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ask about Pascal's pacifism.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174121Z" creationid="Syn Spawacza" creationdate="20200627T174121Z">
+        <seg>Zapytaj Pascala o jego pacyfizm.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85425,9 +85433,9 @@ Maska z podobizną Emila.</seg>
         <seg>[Accessory]
 A mask of an alien face.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T130635Z" creationid="Syn Spawacza" creationdate="20200601T130635Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174310Z" creationid="Syn Spawacza" creationdate="20200601T130635Z">
         <seg>[Dodatek]
-Maska twarzy obcego.</seg>
+Maska twarzy kosmity.</seg>
       </tuv>
     </tu>
     <tu>
