@@ -7588,6 +7588,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>ACCEPT OFFER?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124525Z">
+        <seg>ZAAKCEPTOWAĆ OFERTĘ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>ACCESS POINT</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142143Z" creationid="Syn Spawacza" creationdate="20200530T142143Z">
@@ -20170,6 +20178,30 @@ gdy znajdą się w zasięgu poda.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>DO YOU ACCEPT DEFEAT?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124540Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124540Z">
+        <seg>AKCEPTUJESZ PORAŻKĘ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DO YOU ADMIT THERE IS NO MEANING TO THIS WORLD?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124552Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124552Z">
+        <seg>PRZYZNAJESZ, ŻE TEN ŚWIAT NIE MA SENSU?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DO YOU THINK GAMES ARE SILLY LITTLE THINGS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124549Z">
+        <seg>MYŚLISZ, ŻE GRY TO GŁUPOTKI?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>DON'T MOVE AN INCH! I'm coming!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125736Z">
@@ -25184,8 +25216,8 @@ Poczekaj, musimy je wgrać.</seg>
       <tuv lang="en-US">
         <seg>Everything that lives is designed to end.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130148Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
-        <seg>Wszystko co żyje jest zaprojektowane, by kiedyś się skończyć.</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124629Z" creationid="Syn Spawacza" creationdate="20200530T173619Z">
+        <seg>Wszystko co żyje jest zaprojektowane, by się skończyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27020,8 +27052,8 @@ wielką siłą z względu na swoją masę.</seg>
       <tuv lang="en-US">
         <seg>GIVE UP HERE?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124504Z">
-        <seg>AKCEPTUJESZ PORAŻKĘ?</seg>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124542Z">
+        <seg>PODDAJESZ SIĘ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -31940,6 +31972,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050042Z">
         <seg>Jednakże...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>However...life is all about the struggle within this cycle.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124633Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124633Z">
+        <seg>Jednakże... życie polega właśnie na walce i staraniach w tym cyklu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37947,6 +37987,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T142130Z" creationid="Syn Spawacza" creationdate="20200530T142130Z">
         <seg>DANE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>IS IT ALL POINTLESS?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124546Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124546Z">
+        <seg>CZY TO WSZYSTKO NIE MA SENSU</seg>
       </tuv>
     </tu>
     <tu>
@@ -54221,6 +54269,14 @@ Pod 042: Nie umieraj.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153 to Pod 042. How is it going?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124921Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124921Z">
+        <seg>Pod 153 do Poda 042. Jak leci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153! I order you to halt all logical thought and speech!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T121744Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121744Z">
@@ -65701,6 +65757,14 @@ Doceniamy twoje dalsze wsparcie i nie możemy się doczekać ponownej współpra
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That is what "we" believe.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124636Z">
+        <seg>To jest to w co „my” wierzymy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That is why you, the YoRHa forces, exist:</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145340Z" creationid="Syn Spawacza" creationdate="20200530T195413Z">
@@ -69320,6 +69384,14 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121956Z">
         <seg>Mówili również unikalnym dla swego ludu językiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>They are perpetually trapped...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124615Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124615Z">
+        <seg>Są nieustannie uwięzieni...</seg>
       </tuv>
     </tu>
     <tu>
