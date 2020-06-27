@@ -3623,6 +3623,18 @@ Ale nie obchodziło mnie to.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+I've seen comrades infected before.&lt;bt_wait&gt;
+That's why I couldn't leave her to die alone.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075348Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075348Z">
+        <seg>&lt;page&gt;
+Widziałam już wcześniej zainfekowanych kompanów.&lt;bt_wait&gt;
+Dlatego nie mogłam pozwolić jej umrzeć samotnie.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 I...am 9S.
 That's all I can remember.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -4073,6 +4085,16 @@ więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”&lt;bt_wait
 „Uspokój się Lilly. Znajdziemy gdzieś rozłam.”&lt;bt_wait&gt;
 „Nie poszukujesz rozłamu! Sam go &lt;i&gt;tworzysz&lt;/i&gt;!”&lt;/i&gt;&lt;bt_wait&gt;
 „Dalio, poczekaj!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Wh-when the elevator...reaches the server,” begins Number 21 weakly.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075417Z">
+        <seg>&lt;page&gt;
+„K-kiedy winda... dotrze do serwera.” zaczyna Numer 21 słabo.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30996,6 +31018,14 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I look at her eyes and see the telltale red of a logic-virus infection.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075325Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075325Z">
+        <seg>Patrzę w jej oczy i widzę w nich zapowiedź czerwienie od infekcji wirusem logicznym.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I look forward to a fruitful working relationship in the future! Quite!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154656Z">
@@ -31652,6 +31682,16 @@ Wyostrzam wzrok i wstrzymuję oddech.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I sigh softly as I draw my weapon.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075336Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075336Z">
+        <seg>Wzdycham lekko, kiedy wyciągam broń.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I slipped on cliffs. I fell onto rocks. But eventually I claimed the jewel.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T133913Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T133913Z">
@@ -32160,6 +32200,14 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”&lt;b
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142436Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142436Z">
         <seg>Byłem wtedy częścią sieci maszyn, więc to pamiętam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I was right after all.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075331Z">
+        <seg>Miałam jednak rację.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -43580,6 +43628,16 @@ mechanicznej formy życia.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090515Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090515Z">
         <seg>Nikt nie „zrobił” pustyni. To po prostu obszar, który utracił całą roślinność w wyniku braku opadów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No one can save her now.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075410Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075410Z">
+        <seg>Nikt jej teraz nie uratuje.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -60570,6 +60628,20 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The elevator moves ever lower, creating a countdown on Number 21's life.&lt;bt_wait&gt;
+How much time has passed? How much can possibly be left?&lt;bt_wait&gt;
+Too long to wait, yet not long enough for regret.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075628Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075628Z">
+        <seg>Winda zjeżdża coraz niżej, tworząc odliczanie dla życia Numeru 21.&lt;bt_wait&gt;
+Ile czasu minęło? Ile mogło jeszcze zostać?&lt;bt_wait&gt;
+Za długo by czekać, za krótko by żałować.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The enemies are tough, and I'd lose a lot of good people if we tried to clear them out. But you two seem like you can handle yourselves, so...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122113Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122113Z">
@@ -61637,6 +61709,16 @@ momencie nie byłyby w stanie przebić się pięścią przez kartkę papieru.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142308Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142308Z">
         <seg>Jednostka, której szukacie ostatnio była widziana w ruinach parku rozrywki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The vaccine she gave Lilly is already ineffective. The enemy has evolved.&lt;bt_wait&gt;
+They studied Number 21's patterns and developed a new resistance.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075404Z">
+        <seg>Szczepionka, którą dała Lilly już jest nieefektywna. Wróg ewoluował.&lt;bt_wait&gt;
+Przestudiowały wzory pracy Numeru 21 i stworzyły odporność.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78123,6 +78205,14 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150057Z">
         <seg>„Im bardziej starasz się ją ukryć, tym bardziej ta ciemność rośnie.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Then I'll give you peace,” I reply.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075423Z">
+        <seg>„Wtedy ofiaruję ci pokój.” odpowiadam.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
