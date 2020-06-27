@@ -1884,6 +1884,14 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>256 Years Ago...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164532Z" creationid="Syn Spawacza" creationdate="20200627T164532Z">
+        <seg>256 lat temu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203712Z" creationid="Syn Spawacza" creationdate="20200601T203712Z">
@@ -32482,6 +32490,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh. This might be useful...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164740Z" creationid="Syn Spawacza" creationdate="20200627T164740Z">
+        <seg>Huh. To może się przydać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143831Z">
@@ -35225,6 +35241,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T151435Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T151435Z">
         <seg>Potrzebuję skanera, który wykryje słaby sygnał czarnej skrzynki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I need a scanner.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164619Z" creationid="Syn Spawacza" creationdate="20200627T164619Z">
+        <seg>Potrzebuję skanera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49259,6 +49283,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No, not really.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164709Z" creationid="Syn Spawacza" creationdate="20200627T164709Z">
+        <seg>Nie potrzebuję pomocy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No, not...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125912Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125912Z">
@@ -56899,6 +56931,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T162258Z" creationid="Syn Spawacza" creationdate="20200530T162258Z">
         <seg>Chroń 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Protect our king!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164549Z" creationid="Syn Spawacza" creationdate="20200627T164549Z">
+        <seg>Chronić naszego króla!</seg>
       </tuv>
     </tu>
     <tu>
@@ -77066,6 +77106,14 @@ zanim kradnie go chłodny, wieczorny wiatr.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094819Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094819Z">
         <seg>Musimy chronić naszego króla i królestwo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We must protect our king!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T164539Z" creationid="Syn Spawacza" creationdate="20200627T164539Z">
+        <seg>Musimy chronić naszego króla!</seg>
       </tuv>
     </tu>
     <tu>
