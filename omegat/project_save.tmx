@@ -15853,6 +15853,14 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Black-box signal ceased.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162828Z" creationid="Syn Spawacza" creationdate="20200627T162828Z">
+        <seg>Zanik sygnału czarnej skrzynki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Black-box signal for YoRHa unit 2B offline.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220627Z">
@@ -48655,6 +48663,14 @@ Koniec</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Nnngh....</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162937Z" creationid="Syn Spawacza" creationdate="20200627T162937Z">
+        <seg>Nnngh....</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nnnhh... Brother...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T134156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T133953Z">
@@ -72522,6 +72538,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Today... Yesterday... Hello...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162909Z" creationid="Syn Spawacza" creationdate="20200627T162909Z">
+        <seg>Dzisiaj... Wczoraj... Witaj...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Together</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T171701Z" creationid="Syn Spawacza" creationdate="20200605T171701Z">
@@ -74220,6 +74244,14 @@ głowy Emila.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Unit 9S death confirmed.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162840Z" creationid="Syn Spawacza" creationdate="20200627T162840Z">
+        <seg>Stwierdzono zgon jednostki 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Unit 9S should have Devola initiate repairs at the Resistance camp.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095458Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095458Z">
@@ -74535,6 +74567,14 @@ w Leśnym Królestwie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175422Z" creationid="Syn Spawacza" creationdate="20200601T175422Z">
         <seg>Sekcja górna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Urgent circuit repairs required.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162810Z" creationid="Syn Spawacza" creationdate="20200627T162810Z">
+        <seg>Wymagana natychmiastowa naprawa obwodów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80357,6 +80397,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115210Z">
         <seg>KIM jesteście?!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who IS this guy?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162931Z" creationid="Syn Spawacza" creationdate="20200627T162931Z">
+        <seg>Co TO za jeden?</seg>
       </tuv>
     </tu>
     <tu>
