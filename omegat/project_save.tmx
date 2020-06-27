@@ -6119,6 +6119,14 @@ w centrum handlowym.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A key, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143519Z" creationid="Syn Spawacza" creationdate="20200627T143519Z">
+        <seg>Klucz, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A king sits alone in his vast, vast office, drowning in affairs of state. All he wants is to see his family and hug his son, but he cannot. For his every waking moment must be spent in service of the people.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T154532Z" creationid="Syn Spawacza" creationdate="20200617T154532Z">
@@ -28232,6 +28240,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great. Useless crap.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143429Z" creationid="Syn Spawacza" creationdate="20200627T143429Z">
+        <seg>Świetnie. Więcej szajsu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Grimoire Weiss</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180014Z" creationid="Syn Spawacza" creationdate="20200605T180014Z">
@@ -32585,6 +32601,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115455Z">
         <seg>Hipoteza: system obrony wroga przeprowadza ewolucję własnej logiki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hypothesis: The key belongs to a door leading to what appears to be a library.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143631Z" creationid="Syn Spawacza" creationdate="20200627T143631Z">
+        <seg>Hipoteza: klucz należy do drzwi prowadzących do pomieszczenia wyglądającego na bibliotekę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45467,6 +45491,14 @@ Co tutaj robisz?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Makes sense.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143512Z" creationid="Syn Spawacza" creationdate="20200627T143512Z">
+        <seg>Za sens.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Makes this whole thing feel more romantic, don't you think?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085329Z">
@@ -55830,10 +55862,26 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: 9S should investigate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143351Z" creationid="Syn Spawacza" creationdate="20200627T143351Z">
+        <seg>Propozycja: 9S powinien to sprawdzić.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: A word of appreciation is appropriate.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222517Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222517Z">
         <seg>Propozycja: Słowa wdzięczności byłyby odpowiednie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: A2 should investigate.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143410Z" creationid="Syn Spawacza" creationdate="20200627T143410Z">
+        <seg>Propozycja: A2 powinna to sprawdzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62320,6 +62368,14 @@ for 30 seconds.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So it's just a bunch of junk?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143506Z" creationid="Syn Spawacza" creationdate="20200627T143506Z">
+        <seg>Czyli to zwykły śmieć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So it's okay to kill some animals, but not others?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T120114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T120114Z">
@@ -67972,6 +68028,14 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The hell was that all about?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143404Z" creationid="Syn Spawacza" creationdate="20200627T143404Z">
+        <seg>O co w tym do cholery chodziło?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The hell was that?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095752Z">
@@ -73585,6 +73649,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105830Z">
         <seg>Um, dzięki?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Um, what?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143333Z" creationid="Syn Spawacza" creationdate="20200627T143333Z">
+        <seg>Um, co?</seg>
       </tuv>
     </tu>
     <tu>
