@@ -3567,6 +3567,16 @@ Jak wiele bitew już było?&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+How many of us have been infected now?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065543Z">
+        <seg>&lt;page&gt;
+Ile z nas już było zainfekowanych?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 I need to show her mercy.&lt;bt_wait&gt; I need to set her free.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T064520Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T064520Z">
@@ -3882,6 +3892,16 @@ Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145736Z">
         <seg>&lt;page&gt;
 „Ja...”&lt;bt_wait&gt;&lt;BGM_BGM_M1070_S0060_N_0010&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Initiating reprogramming sequence!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065621Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065621Z">
+        <seg>&lt;page&gt;
+„Inicjuję sekwencję przeprogramowania!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -11792,6 +11812,16 @@ Proszę udaj się w to miejsce i sprawdź jak tylko będziesz mogła, okej? Dzi�
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>As my vision slowly clears, I see Number 21 inputting commands into her terminal
+while Number 2 and Number 4 hold her down. They hold her as she writhes and...&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065657Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065657Z">
+        <seg>Kiedy rozjaśnia się mój wzrok, widzę jak Numer 21 wpisuje komendy w swój terminal,
+kiedy Numer 2 i Numer 4 ją przytrzymują. Trzymają ją, jak się zwija i...&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>As promised, the hawk eventually returned—but with a human in tow. "Well done," said the human. "These feathers will sell for a great price at the market." Then he slew the songbird in one blow and plucked its carcass clean.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T151624Z" creationid="Syn Spawacza" creationdate="20200616T151624Z">
@@ -17776,6 +17806,18 @@ You're my closest friend in the world, after all!</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T120002Z" creationid="Syn Spawacza" creationdate="20200616T120002Z">
         <seg>Tato, jeżeli się boisz, mogę spać przy tobie.
 W końcu jesteś moim najbliższym przyjacielem na świecie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dahlia and Number 16 rush into the fray, trying to suppress their former friend,
+but she swats them away like flies.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065535Z">
+        <seg>Dalia i Numer 16 ruszają w bój, by wstrzymać byłą przyjaciółkę,
+ale odtrąca je na boki jak muchy.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -28588,6 +28630,14 @@ Przydałoby mi się więcej pomocy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How many friends have I been forced to put down?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065548Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065548Z">
+        <seg>Ile przyjaciółek musiałam zabić?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How much I can upgrade your weapons depends on how much money and materials you have. Some upgraded weapons also add effects that improve performance.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103110Z">
@@ -29839,6 +29889,16 @@ Muszę kontynuować aż jedna ze stron będzie martwa.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142947Z">
         <seg>Nie wiem, czy to wystarczająca zapłata za wszystko co zrobiliście, ale proszę, przyjmijcie ją.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don't know what to do.&lt;bt_wait&gt;
+I am lost.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065643Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065643Z">
+        <seg>Nie wiem, co zrobić.&lt;bt_wait&gt;
+Jestem zagubiona.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52740,6 +52800,19 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rose stares at me with surprise. &lt;bt_wait&gt;...Oh no. &lt;bt_wait&gt;I'm holding Lilly too.
+&lt;/page&gt;
+“Just hold on, Lilly!” cries Number 21. “I'm going to save you!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065739Z">
+        <seg>Róża patrzy na mnie z zaskoczeniem. &lt;bt_wait&gt;O nie... &lt;bt_wait&gt;Ja też trzymam Lilly.
+&lt;/page&gt;
+&lt;page&gt;
+“Just hold on, Lilly!” cries Number 21. “I'm going to save you!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140639Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
@@ -59140,6 +59213,14 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That voice. ...Number 21? She's screaming something about...reprogramming?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065626Z">
+        <seg>Ten głos... Numer 21? Krzyczy coś o... przeprogramowaniu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That was dangerous, ma'am.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T132204Z" creationid="Syn Spawacza" creationdate="20200530T175016Z">
@@ -60564,6 +60645,16 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103728Z" creationid="Syn Spawacza" creationdate="20200601T103728Z">
         <seg>Głowa mechanicznej formy życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The heart I'm not supposed to have aches with the thought. It aches as I
+remember all of the identification numbers that have been retired.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065557Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065557Z">
+        <seg>Serce, którego nie powinnam mieć, boli mnie na tę myśl. Boli, kiedy przypominam
+sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -70903,6 +70994,18 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T155529Z" creationid="Syn Spawacza" creationdate="20200616T155529Z">
         <seg>Krzywdziłam go jak był blisko. Ale krzywdziło go bardziej to, że byłam daleko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When did I start giving them names?&lt;bt_wait&gt;
+When did I decide I simply couldn't endure it any longer?
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065612Z">
+        <seg>Kiedy zaczęłam dawać im imiona?&lt;bt_wait&gt;
+Kiedy uznałam, że już nie jestem w stanie tego znieść?
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
