@@ -28897,6 +28897,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>HACKING COMPLETE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T185017Z" creationid="Syn Spawacza" creationdate="20200627T185017Z">
+        <seg>HAKOWANIE ZAKOŃCZONE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>HACKING GAME #01</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211322Z" creationid="Syn Spawacza" creationdate="20200601T211322Z">
@@ -36961,6 +36969,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133714Z" creationid="Syn Spawacza" creationdate="20200530T181955Z">
         <seg>Nie obstawiałabym na to.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I! I! I-I! I-I-I-I-I-I-I!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184815Z" creationid="Syn Spawacza" creationdate="20200627T184815Z">
+        <seg>Ja! Ja! Ja-ja! Ja-ja-ja-ja-ja-ja!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49799,6 +49815,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>NonononononNonoOOOnoonoNononoNNOOnonoOoo!!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184926Z" creationid="Syn Spawacza" creationdate="20200627T184926Z">
+        <seg>NienienienieNienieEEEnienieNienieNNNIIEEnienieEeee!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Nooo... S-scared....</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100044Z">
@@ -61837,6 +61861,14 @@ Odbiór.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Server</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184720Z" creationid="Syn Spawacza" creationdate="20200627T184720Z">
+        <seg>serwer</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Server Capacity</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171537Z" creationid="Syn Spawacza" creationdate="20200615T171537Z">
@@ -63953,6 +63985,14 @@ A dokładniej, dlaczego naśladują ich porażki?&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160000Z">
         <seg>Niech ktoś nam pomoże!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Somebody please help me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184934Z" creationid="Syn Spawacza" creationdate="20200627T184934Z">
+        <seg>Niech ktoś mi pomoże!</seg>
       </tuv>
     </tu>
     <tu>
@@ -82119,6 +82159,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122654Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122654Z">
         <seg>Łał... Po prostu wybrał śmierć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wow... It's even more complex than before.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184957Z" creationid="Syn Spawacza" creationdate="20200627T184957Z">
+        <seg>Łał... Jest nawet bardziej złożone niż poprzednio.</seg>
       </tuv>
     </tu>
     <tu>
