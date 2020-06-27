@@ -718,6 +718,30 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Desert Part 3.
+&lt;BGLOAD_1_3&gt;
+&lt;BGON_1_3&gt;
+&lt;page&gt;
+The wind rubs my cheeks. The sand grazes my skin.&lt;bt_wait&gt;
+It's grown cold out here.&lt;bt_wait&gt;&lt;BGM_BGM_M3060_S0035_N_0020&gt;
+We walk with renewed purpose, hoping to make up for lost time.
+Devola loses her balance every now and then. It gets bad after a while.&lt;bt_wait&gt;
+I slip myself under her arm so she won't fall again and we press on.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104442Z">
+        <seg>...Desert Part 3.
+&lt;BGLOAD_1_3&gt;
+&lt;BGON_1_3&gt;
+&lt;page&gt;
+Wiatr pociera moje policzki. Piasek obciera mi skórę.&lt;bt_wait&gt;
+Robi się tu zimno.&lt;bt_wait&gt;&lt;BGM_BGM_M3060_S0035_N_0020&gt;
+Idziemy z odnowionym celem, mając nadzieję, że nadrobimy stracony czas.
+Devola traci równowagę co jakiś czas. Po jakimś czasie jej się pogarsza.&lt;bt_wait&gt;
+Wsuwam się pod jej ramię, żeby znowu nie upadła i przemy dalej.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Destroy? What happened to detain?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101252Z">
@@ -3114,6 +3138,16 @@ The project commences.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGOFF_1_3&gt;
+Project Gestalt collapses</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104609Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104609Z">
+        <seg>&lt;BGOFF_1_3&gt;
+Project Gestalt collapses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -4005,6 +4039,20 @@ Ale nie obchodziło mnie to.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+I remember when our Resistance allies injured her leg.&lt;bt_wait&gt;
+I was furious. Beyond fury. I wanted to scream and cry and lose myself in it.
+But then she smiled, and all of that rage just...drifted away.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104528Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104528Z">
+        <seg>&lt;page&gt;
+Pamiętam, jak nasi sprzymierzeńcy z Ruchu Oporu zranili jej nogę.&lt;bt_wait&gt;
+Byłam wściekła. Bardziej niż wściekła. Chciałam krzyczeć i płakać i się w tym zatraciłam.
+Ale wtedy ona się uśmiechnęła i cała ta złość po prostu... odpłynęła..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 I scream at the top of my lungs and race down the hall.&lt;bt_wait&gt;
 I'll show you.&lt;bt_wait&gt; If you're going to push me, I'll show you.&lt;bt_wait&gt;
 You'll only be satisfied if it ends with more killing.&lt;bt_wait&gt;</seg>
@@ -4118,6 +4166,18 @@ One of the strangers—Number 16, I believe—draws a long knife from its sheath
         <seg>&lt;page&gt;
 Jedna z obcych — chyba Numer 16 — wyciąga długi nóż z pochwy.
 „Jeśli tej walki pragniecie.” mówi. „Z radością ją wam zapewnię.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Our role as observers ended on the day Project Gestalt collapsed.
+All due to the actions of Devola and Popola models from another town.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104846Z">
+        <seg>&lt;page&gt;
+Nasza rola jako obserwatorów zakończyła się w dniu,w którym rozpadł się Projekt Gestalt.
+Wszystko dzięki działaniom modeli Devola i Popola z innego miasta.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -15831,6 +15891,18 @@ przeczucia co do ostatniej fazy naszej misji.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151830Z">
         <seg>Ale wygląda na to, że jest pod ziemią. Głęboko pod ziemią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But it wasn't okay.&lt;bt_wait&gt; Nothing was okay.&lt;bt_wait&gt;
+All thanks to a pair of Devola and Popola models from another town.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104411Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104411Z">
+        <seg>Ale nie było dobrze.&lt;bt_wait&gt; Nic nie było dobrze.&lt;bt_wait&gt;
+Wszystko dzięki parze modeli Devola i Popola z innego miasta.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49532,6 +49604,19 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>One day, I realized how she reminded me of the martyrs I'd seen in old records.
+That was the day we decided to leave our town forever.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104608Z">
+        <seg>Pewnego dnia, zdałam sobie sprawę jak przypomina mi męczenników,
+których widziałam w starych zapiskach.
+To był dzień, w którym zdecydowałyśmy się na zawsze opuścić nasze miasto.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>One day, a hawk lost its way in the woods. Its proud wings soon grew weak as it tried in vain to find its way home. As death approached, a songbird took pity on the hawk and did its best to offer aid.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200616T150904Z" creationid="Syn Spawacza" creationdate="20200616T150904Z">
@@ -58434,6 +58519,18 @@ ma znaczenia — już widzę, jak zbliżamy się do grupy YoRHa.&lt;bt_wait&gt;<
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075735Z">
         <seg>Uśmiecha się, kiedy moje słowa docierają do jej uszu.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She smiles as she says this, but I can tell she doesn't have much left.
+And yet, she continues to smile—all so I won't worry.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104509Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104509Z">
+        <seg>Uśmiecha się, mówiąc to, ale jestem w stanie powiedzieć, że jest jej ciężko.
+A mimo to, wciąż się uśmiecha — po to, bym się nie martwiła.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -68748,6 +68845,14 @@ Square Enix PR</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174627Z" creationid="Syn Spawacza" creationdate="20200601T174627Z">
         <seg>W drodze na szczyt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To think we have the same face, yet such different smiles.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104534Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104534Z">
+        <seg>Pomyśleć, że mamy tę samą twarz, ale tak różne uśmiechy.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -80638,6 +80743,14 @@ Popularne na Dalekim Wschodzie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>[Record of Project Gestalt's End]</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104616Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104616Z">
+        <seg>[Zapiski z Zakończenia Projektu Gestalt]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>[Record: Transitions in the Project's Initial Phase]&lt;BGM_BGM_M3060_S0035_N_0010&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102954Z">
@@ -83038,6 +83151,16 @@ Coś jest nie tak. Coś...
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075708Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075708Z">
         <seg>„Ja... cieszę się, że cię spotkałam.” mówi.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Is your leg all right?”&lt;bt_wait&gt;
+“Well, I doubt I'll be dancing anytime soon, but yeah. It's fine.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104455Z">
+        <seg>„Czy z twoją nogą w porządku?”&lt;bt_wait&gt;
+„Cóż, wątpię, żebym mogła zatańczyć w najbliższym czasie, ale tak. Jest w porządku.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
