@@ -19535,6 +19535,14 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Continue fighting.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163017Z" creationid="Syn Spawacza" creationdate="20200627T163017Z">
+        <seg>Kontynuuj walkę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Continue to observe the situation, and dispatch...if necessary.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221430Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221430Z">
@@ -33010,6 +33018,14 @@ bezwartościowy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095303Z">
         <seg>Mam też oddzielny raport o 9S...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I also have an incoming message from the Commander.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163125Z" creationid="Syn Spawacza" creationdate="20200627T163125Z">
+        <seg>Mam też nadchodzącą wiadomość od Pani Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -49227,6 +49243,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No. We should keep fighting.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163033Z" creationid="Syn Spawacza" creationdate="20200627T163033Z">
+        <seg>Nie. Musimy walczyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T185253Z" creationid="Syn Spawacza" creationdate="20200530T185253Z">
@@ -52478,6 +52502,14 @@ Pora na twój zaplanowany kontakt...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151127Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151127Z">
         <seg>Operator do 9S. Mam dla was złe i dobre wieści.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Operator to 9S: Data upload complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163052Z" creationid="Syn Spawacza" creationdate="20200627T163052Z">
+        <seg>Operator to 9S: Zakończono wysyłanie danych..</seg>
       </tuv>
     </tu>
     <tu>
@@ -59156,6 +59188,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to the Resistance camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163008Z" creationid="Syn Spawacza" creationdate="20200627T163008Z">
+        <seg>Powróć do obozu Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Return to the children.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T170409Z" creationid="Syn Spawacza" creationdate="20200608T170409Z">
@@ -59472,6 +59512,14 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T145529Z" creationid="Syn Spawacza" creationdate="20200530T200640Z">
         <seg>Przyjąłem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Roger that. Just try not to overdo it, okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163231Z" creationid="Syn Spawacza" creationdate="20200627T163231Z">
+        <seg>Dobra. Tylko bez przesady, okej?</seg>
       </tuv>
     </tu>
     <tu>
