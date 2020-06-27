@@ -742,6 +742,24 @@ Wsuwam się pod jej ramię, żeby znowu nie upadła i przemy dalej.&lt;bt_wait&g
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Desert Part 4
+&lt;BGLOAD_1_4&gt;
+&lt;BGON_1_4&gt;
+&lt;page&gt;
+We lose the sun as dark clouds gather overhead.&lt;bt_wait&gt;
+We continue our march.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105418Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105418Z">
+        <seg>...Desert Part 4
+&lt;BGLOAD_1_4&gt;
+&lt;BGON_1_4&gt;
+&lt;page&gt;
+Straciłyśmy światło słoneczne, gdy przed nami zebrały się ciemne chmury.&lt;bt_wait&gt;
+Szłyśmy dalej.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Destroy? What happened to detain?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T101252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T101252Z">
@@ -3951,6 +3969,16 @@ Za nimi leży winda, a za nią... jest serwer.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Devola and I left town that same day.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105341Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105341Z">
+        <seg>&lt;page&gt;
+Razem z Devolą odeszłyśmy z miasta tego samego dnia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Each pair was given their own cities as observation areas.
 We were ordered to guide the Replicants with our own hands.
 All for the sake of the “promised time” that would one day arrive.&lt;bt_wait&gt;</seg>
@@ -4434,6 +4462,28 @@ evolutionary speed.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Jeśli chodzi o walkę, to maszyny wykazują niesamowite zachowania adaptacyjne i
 ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+Why must we suffer this persecution?&lt;bt_wait&gt;
+I know we're the same model as the androids who doomed humanity,
+so I understand that part.&lt;bt_wait&gt; At least a little, anyway.&lt;bt_wait&gt;
+But at the same time, we're &lt;i&gt;not&lt;/i&gt; them. We're &lt;i&gt;not&lt;/i&gt; the same.
+We are who &lt;i&gt;we&lt;/i&gt; are, and that Devola and Popola were who &lt;i&gt;they&lt;/i&gt; were.&lt;bt_wait&gt;
+That's how I felt when I saw Devola being hurt.
+I wanted to shout it at everyone. I wanted to scream.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105723Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105723Z">
+        <seg>&lt;page&gt;
+Dlaczego musimy cierpieć to prześladowanie?&lt;bt_wait&gt;
+Wiem, że jesteśmy tym samym modelem, który skazał ludzkość,
+więc to rozumiem.&lt;bt_wait&gt; W każdym razie, przynajmniej trochę.&lt;bt_wait&gt;
+Ale w tym samym czasie, &lt;i&gt;nie&lt;/i&gt; jesteśmy nimi. &lt;i&gt;Nie&lt;/i&gt; jesteśmy takie same.
+My jesteśmy &lt;i&gt;sobą&lt;/i&gt;, a tamta Devola i Popola były &lt;i&gt;sobą&lt;/i&gt;.&lt;bt_wait&gt;
+Tak się czułam, jak widziałam, jak Devola jest krzywdzona.
+Chciałam to wszystkim wykrzyczeć. Chciałam wrzeszczeć.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5325,6 +5375,18 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T113239Z" creationid="Syn Spawacza" creationdate="20200601T113239Z">
         <seg>Skupisko kryształów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A cold wind blasts us, stealing what little body heat we have left.&lt;bt_wait&gt;
+I smell rain in the air.&lt;bt_wait&gt;
+We continue our march.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105447Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105447Z">
+        <seg>Uderzył w nas silny wiatr, kradnąc ostatki ciepła, które w nas zostało.&lt;bt_wait&gt;
+Wyczuwam w powietrzu deszcz.&lt;bt_wait&gt;
+Idziemy dalej.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -59798,6 +59860,18 @@ Dobrze?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So rather than let them kill us, we ran.
+I guess it was the greatest resistance I could muster.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105404Z">
+        <seg>Więc zamiast pozwolić im nas zabić, uciekniemy.
+Domyślam się, ze to największy przejaw oporu, na jaki byłam zdolna się zdobyć.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So repair it already.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T083931Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T083931Z">
@@ -60372,6 +60446,22 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174200Z">
         <seg>Czasem ważne wiadomości czekają całymi tygodniami, bo odbiorca nie wie, jak je odczytać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sometimes we hear animals howling in the distance.&lt;bt_wait&gt;
+It makes us flinch every time.&lt;bt_wait&gt;
+But we continue our march, because even this is better than suffering at the
+hands of our fellow androids.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105541Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105541Z">
+        <seg>Czasem słyszymy zwierzęta wyjące w oddali.&lt;bt_wait&gt;
+To sprawia, że za każdym razem się wzdrygamy.&lt;bt_wait&gt;
+Ale idziemy dalej, bo nawet to jest lepsze niż cierpienie z rąk naszych
+znajomych androidów.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -71804,6 +71894,16 @@ nadmierną konsumpcją energii.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095044Z">
         <seg>Wykryto złamanie zasad. Jednakże, ze względu na śmierć jednostki, niemożliwe jest należne ukaranie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Violence like that wouldn't stop. It was going to happen again.&lt;bt_wait&gt;
+And it wouldn't be coming from just one person.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105357Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105357Z">
+        <seg>Przemoc taka jak ta nie ustanie. To się znów powtórzy.&lt;bt_wait&gt;
+I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
