@@ -51545,6 +51545,18 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 042: ...&lt;bt_wait&gt;
+Pod 042: ......&lt;bt_wait&gt;
+Pod 042: Whatever the case, we Tactical Support Units have a duty to see this through to the end.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100649Z">
+        <seg>Pod 042: ...&lt;bt_wait&gt;
+Pod 042: ......&lt;bt_wait&gt;
+Pod 042: Cokolwiek się nie wydarzy, my Taktyczne Jednostki Wsparcia mamy obowiązek trwać do końca na posterunku.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 042: Acknowledged. However, this Pod has a confidential transmission for Pod 153.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100355Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100355Z">
@@ -51557,6 +51569,26 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220727Z">
         <seg>Pod 042: Potwierdzam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042: After repeated information exchanges between multiple Pods, an unexpected phenomenon has occurred.&lt;bt_wait&gt;
+Pod 042: We Pods have developed unusually protective feelings toward support targets 2B, A2, and 9S.
+Pod 042: Query: Could this be...our “will”?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100535Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100535Z">
+        <seg>Pod 042: Po powtarzającej się wymianie informacji między wieloma Podami, doszło do niespodziewanego zjawiska.&lt;bt_wait&gt;
+Pod 042: My, Pody, wykształciłyśmy wyjątkowo opiekuńcze uczucia wobec wspieranych celów: 2B, A2 i 9S.
+Pod 042: Pytanie: czy może być to... nasza „wola”?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042: Agreed. But just as androids are influenced by humans, so are we tied to our creators.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100711Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100711Z">
+        <seg>Pod 042: Zgoda. Ale tak jak androidy są pod wpływem ludzi, tak my jesteśmy związani z naszymi twórcami.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51601,6 +51633,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 042: It may be so.&lt;bt_wait&gt; However, it may also not be so.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100452Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100452Z">
+        <seg>Pod 042: Może tak być.&lt;bt_wait&gt; Ale może też tak nie być.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 042: Likewise, this Pod will take care to see that unit A2 avoids contact with unit 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T093541Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093541Z">
@@ -51621,6 +51661,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220722Z">
         <seg>Pod 042: Proszę wybrać jednostkę do wspierania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 042: Will is the question of whether Pods are capable of their own self-determination.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100555Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100555Z">
+        <seg>Pod 042: Wola to pytanie, czy Pody są zdolne do samostanowienia.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -51653,6 +51701,18 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221533Z">
         <seg>Podzie 153. Rozpoczynam dzielenie się danymi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: ...&lt;bt_wait&gt;
+Pod 153: Even if it were possible, such actions cannot be abided.
+Pod 153: Successful mission fulfillment is all that matters.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100608Z">
+        <seg>Pod 153: ...&lt;bt_wait&gt;
+Pod 153: Nawet jeśli byłoby to możliwe, takie działania nie mogą być akceptowane.
+Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51697,6 +51757,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Duty? Heh. You sounded like an android just there.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100702Z">
+        <seg>Pod 153: Obowiązek? Ha. Zabrzmiałaś jak android.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: Hacking into factory system.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162356Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162356Z">
@@ -51721,6 +51789,14 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Hypothesis: Said error is fragmented data caused by deterioration of the transmission environment.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100432Z">
+        <seg>Pod 153: Hipoteza: wspomniany błąd to pofragmentowane dane spowodowane rozpadem środowiska transmisyjnego.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: Issue detected in your conversational functionality.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053121Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053121Z">
@@ -51729,10 +51805,26 @@ z leśnym skarbem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Message unclear. Clarification requested.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100459Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100459Z">
+        <seg>Pod 153: Wiadomość niejasna. Wymagane wyjaśnienie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: Numerous machine lifeforms whose network functions</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053132Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053132Z">
         <seg>Pod 153: Liczne mechaniczne formy życia, których funkcje sieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Perhaps.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100718Z">
+        <seg>Pod 153: Prawdopodobnie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51765,6 +51857,14 @@ z leśnym skarbem.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100401Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100401Z">
         <seg>Pod 153: Zrozumiano. Rozpocznij transmisję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Unknown. The definition of “will” is unclear.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100542Z">
+        <seg>Pod 153: Nie wiadomo. Definicja „woli” jest niejasna.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
