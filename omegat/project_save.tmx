@@ -3661,6 +3661,20 @@ Jedna z obcych — chyba Numer 16 — wyciąga długi nóż z pochwy.
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Ours is a solitary existence that has long since been abandoned by the moon.
+No matter how they cried, mourned, or struggled, the voices of our departed comrades
+went unanswered.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063245Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063245Z">
+        <seg>&lt;page&gt;
+Nasze istnienie jest samotne od kiedy porzucił nas księżyc. Niezależnie jak
+głośno krzyczeli, płakali i walczyli, głosy naszych odeszłych kompanów
+pozostały bez odpowiedzi.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Suddenly Captain Rose breaks out into a wide grin. “You know what?” she says.&lt;bt_wait&gt;
 “I think we should give all of you names as well!”&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3896,6 +3910,50 @@ więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”&lt;bt_wait
 „Uspokój się Lilly. Znajdziemy gdzieś rozłam.”&lt;bt_wait&gt;
 „Nie poszukujesz rozłamu! Sam go &lt;i&gt;tworzysz&lt;/i&gt;!”&lt;/i&gt;&lt;bt_wait&gt;
 „Dalio, poczekaj!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“What's wrong, Anemone?”&lt;bt_wait&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0150_N_0020&gt;
+I hear Lilly calling to me. She's likely concerned about me being apart from
+the rest of the group.&lt;bt_wait&gt;
+“Nothing,” I begin “I'm fi—”&lt;bt_wait&gt;
+Before I can complete my thought, Lilly suddenly opens her mouth and emits
+a terrible scream.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063355Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063318Z">
+        <seg>&lt;page&gt;
+„Coś nie tak, Anemono?”&lt;bt_wait&gt;&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0150_N_0020&gt;
+Słyszę, jak odzywa się do mnie Lilly. Jest bardzo zaniepokojona tym,
+że oddzielam się od reszty grupy.&lt;bt_wait&gt;
+„Nic takiego.” zaczęłam. „Myślę...”&lt;bt_wait&gt;
+Zanim jestem w stanie skończyć swoją myśl, Lilly nagle otwiera usta i
+wydaje z siebie potworny, przenikliwy krzyk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“You can name me when the mission is over,” she replies as a blush rises in her
+cheeks. I could tell her words also served as a wish for success.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063126Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063126Z">
+        <seg>&lt;page&gt;
+„Możesz mnie nazwać, jak skończy się nasza misja.” odpowiada, kiedy na jej policzkach
+pojawia się rumieniec. Widzę, że jej słowa są również życzeniem powodzenia.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“You're all being careless,” I state, much louder than I intend.&lt;bt_wait&gt;
+Luckily, the others either don't hear or decide to ignore it.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063208Z">
+        <seg>&lt;page&gt;
+„Jesteście nieostrożne.” stwierdzam, głośniej niż miałam zamiar.&lt;bt_wait&gt;
+Na szczęście reszta albo mnie nie słyszy, albo ignoruje.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -20223,6 +20281,18 @@ Nie zrobisz z maszyny swojego brata.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132258Z">
         <seg>Nie zrozum mnie źle — wiem ze ta cała walka nie jest dla ciebie łatwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't get me wrong—I'm not about to go against the captain's judgment.&lt;bt_wait&gt;
+But that doesn't mean I'm ready to just lie down and trust our new “friends.”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063221Z">
+        <seg>Nie zrozumcie mnie źle — nie mam zamiaru sprzeciwiać się rozkazom kapitana.&lt;bt_wait&gt;
+Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „przyjaciółkom”.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52582,6 +52652,16 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Rose eyes her warily. “Er, a waste?”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063113Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063113Z">
+        <seg>Róża patrzy na nią z uwagą „Strata?”
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Rotate</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140639Z" creationid="Syn Spawacza" creationdate="20200530T140538Z">
@@ -54334,6 +54414,16 @@ utrzymać swoich emocji na wodzy.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She knows this is a fleeting promise, as most such things are. But it doesn't
+matter—already I can see us growing closer to the YoRHa team.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063146Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063146Z">
+        <seg>Wie, że jest to krucha obietnica, jak większość. Ale to nie
+ma znaczenia — już widzę, jak zbliżamy się do grupy YoRHa.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She might get angry at me.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204425Z" creationid="Syn Spawacza" creationdate="20200530T204405Z">
@@ -55312,6 +55402,16 @@ for 30 seconds.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174214Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174214Z">
         <seg>Nie bądź tą osobą! Sprawdzaj pocztę regularnie w  terminalu transportowym, dobrze?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So how can you trust an entire squad of new models that you just met?
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063252Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063252Z">
+        <seg>Więc jak możesz zaufać pełnemu oddziałowi nowych, dopiero co poznanych modeli?
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -69641,6 +69741,16 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, my friends are growing closer to them, at least.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063153Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063153Z">
+        <seg>Cóż, przynajmniej moje przyjaciółki się do nich zbliżają.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, not to brag, but we ARE state-of-the-art units. Not like the A2 or those other old mode—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T125900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T125900Z">
@@ -77434,6 +77544,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“All right,” responds Rose. “I'll think of a name for you by then.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063134Z">
+        <seg>„Dobrze.” odpowiada Róża. „Pomyślę do tego czasu nad imionami dla was.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“Anemone! Retreat for now! That's an order!”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060130Z">
@@ -77488,6 +77606,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145818Z">
         <seg>” Do wszystkich... Androidów...”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“No,” says Number 2. “It would be a waste.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063105Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063105Z">
+        <seg>„Nie.” mówi Numer 2. „To byłaby strata.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
