@@ -3756,6 +3756,20 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;label_AME&gt;
+&lt;page&gt;
+The rain flows down her cheeks like tears. I reach over and gently wipe it away.
+She smiles, but seems surprised.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110124Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110124Z">
+        <seg>&lt;label_AME&gt;
+&lt;page&gt;
+Deszcz spływa po jej policzkach jak łzy. Sięgam i go ścieram.
+Uśmiecha się, ale wydaje się być zaskoczona.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;label_HOUTAI_END&gt;
 &lt;page&gt;
 “Sorry about this, Sis,” mutters Devola.&lt;bt_wait&gt;
@@ -3896,6 +3910,16 @@ An uneasy Sonia pulls Shion close and chews on a loose strand of hair.&lt;bt_wai
         <seg>&lt;page&gt;
 Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.&lt;bt_wait&gt;
 „Nie podoba mi się to.” mówi. „A co jeśli to jakaś pułapka maszyn?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+And yet, I wonder if there's anywhere on this planet that will take us.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105957Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105957Z">
+        <seg>&lt;page&gt;
+Ale i tak zastanawiam się, czy gdziekolwiek na tej planecie jest miejsce, które nas przyjmie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4326,6 +4350,18 @@ The only sounds we hear are distant explosions and the rasp of Number 21's breat
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075231Z">
         <seg>&lt;page&gt;
 Jedyny dźwięk, jaki do nas dociera, to oddalone wybuchy i charczenie w oddechu Numeru 21.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+The rain grows worse. It lashes at us without pause.&lt;bt_wait&gt;
+Is this our punishment?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110045Z">
+        <seg>&lt;page&gt;
+Deszcz robi się gorszy. Smaga nas bez ustanku.&lt;bt_wait&gt;
+Czy to nasza kara?&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -16317,6 +16353,20 @@ Wszystko dzięki parze modeli Devola i Popola z innego miasta.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But there is.&lt;bt_wait&gt;
+Because I swore to myself that I would stay with her forever.&lt;bt_wait&gt;
+&lt;/page&gt;
+&lt;go_SABAKU_END&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110147Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110147Z">
+        <seg>Ależ jest.&lt;bt_wait&gt;
+Ponieważ przyrzekłam sobie, że zostanę z nią na zawsze.&lt;bt_wait&gt;
+&lt;/page&gt;
+&lt;go_SABAKU_END&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But there's no way to—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T223900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T223900Z">
@@ -25643,6 +25693,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>For that is the fate &lt;bt_wait&gt;we twin androids have been assigned.&lt;BGM_BGM_M3060_S0035_N_0030&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110210Z">
+        <seg>Takie jest przeznaczenie,&lt;bt_wait&gt; jakie przypisano nam, bliźniaczym androidom.&lt;BGM_BGM_M3060_S0035_N_0030&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>For the Forest King!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133543Z">
@@ -32141,6 +32199,16 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I do what I can to suppress the anxiety in my chest and keep walking.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110030Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110030Z">
+        <seg>Robię wszystko co mogę, żeby stłumić niepokój w piersi i iść dalej.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I don't care about chain of command.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050441Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050441Z">
@@ -33780,6 +33848,20 @@ A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku woj
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T083359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T083359Z">
         <seg>Obiecuję, że odpłacę ci się za kłopot.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I reach out and...
+&lt;sele_AME&gt;・touch Devola's cheek.
+&lt;sele_KARADA&gt;・support Devola's body.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110055Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110055Z">
+        <seg>Sięgam i...
+&lt;sele_AME&gt;・touch Devola's cheek.
+&lt;sele_KARADA&gt;・support Devola's body.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -83413,6 +83495,16 @@ Coś jest nie tak. Coś...
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“Hey. What's wrong?”&lt;bt_wait&gt;
+“...It's nothing. Don't worry about it.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110020Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110020Z">
+        <seg>„Hej. Coś nie tak?”&lt;bt_wait&gt;
+„...Nic takiego. Nie przejmuj się tym.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“How am I wrong, boy?”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145959Z">
@@ -83561,6 +83653,14 @@ Zbyt szybko się roznosi.”&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075423Z">
         <seg>„Wtedy ofiaruję ci pokój.” odpowiadam.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“There's no point in doing that, you know,” she whispers.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110130Z">
+        <seg>„Robienie tego nie ma sensu, wiesz?” szepcze.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
