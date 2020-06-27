@@ -22864,6 +22864,14 @@ Wróćcie później.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Fire.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052742Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052742Z">
+        <seg>Strzelaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Fires a powerful laser in the
 direction that the Pod is facing.</seg>
       </tuv>
@@ -26374,6 +26382,14 @@ Aktywuje tryb obronny!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help me... I'm scared...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052717Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052717Z">
+        <seg>Pomóż... Boję się...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help me...heLp mE...hElP...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150518Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150518Z">
@@ -26386,6 +26402,14 @@ Aktywuje tryb obronny!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095512Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095512Z">
         <seg>Pomocy! Mamo! Maaamuuusiuuu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help... Please...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052715Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052715Z">
+        <seg>Pomóż... Proszę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -37238,6 +37262,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kill me, coward! Kill me! Kill me! Kill me! Kill me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052759Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052759Z">
+        <seg>Zabij mnie, tchórzu! Zabij mnie! Zabij mnie! Zabij mnie! Zabij mnie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kill the androids!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T104458Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T104458Z">
@@ -37282,6 +37314,22 @@ Może zostać sprzedany.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144255Z" creationid="Syn Spawacza" creationdate="20200606T103619Z">
         <seg>Zabić... Zabić... Zabić... Zabić...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill...me! Do it! Kill...me! Do it!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052756Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052756Z">
+        <seg>Zabij.. mnie! Zrób to! Zabij... mnie! Zrób to!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Kill...me... Kill...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052745Z">
+        <seg>Zabij... mnie... Zabij</seg>
       </tuv>
     </tu>
     <tu>
@@ -39419,6 +39467,14 @@ Co tutaj robisz?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Machine parts...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052700Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052700Z">
+        <seg>Części maszyn...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Machine sub-quests</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222410Z" creationid="Syn Spawacza" creationdate="20200601T075612Z">
@@ -39471,6 +39527,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T155844Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T155844Z">
         <seg>Maszyny atakujące wszystko...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Machines can't feel pain.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052653Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052653Z">
+        <seg>Maszyny nie czują bólu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43314,6 +43378,14 @@ W imię... NAUKI!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213416Z">
         <seg>A teraz przejdź do kolejnego!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now shut up...shut up, SHUT UP!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052656Z">
+        <seg>Teraz się zamknijcie... Zamknijcie się, ZAMKNIJCIE!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48160,6 +48232,14 @@ all ages.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Prepare energy. Close-range firing mode. Maximum output.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052739Z">
+        <seg>Naładuj energię. Tryb strzału z bliskiego dystansu. Maksymalna siła.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Prepare to die, my android child!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T113933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113933Z">
@@ -51934,6 +52014,14 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SHUT UUUUPPPP!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052658Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052658Z">
+        <seg>ZAMKNIJCIEE SIĘĘĘ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SKILLS</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T150119Z" creationid="Syn Spawacza" creationdate="20200530T142128Z">
@@ -55468,6 +55556,14 @@ twoim poległym ciałem.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203427Z" creationid="Syn Spawacza" creationdate="20200601T203427Z">
         <seg>Maszyna widz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speculation: Perhaps these are raw materials from the structure itself. Possibly useful for creating weapons.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052708Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052708Z">
+        <seg>Spekulacja: możliwe, że te surowe materiały pochodzą z samej struktury. Prawdopodobnie użyteczne w tworzeniu nowych broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -68211,6 +68307,14 @@ singular element.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T160532Z" creationid="Syn Spawacza" creationdate="20200601T160532Z">
         <seg>Broń w kształcie głowy Emila, wykonana z nieznanego pierwiastka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapons, eh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052711Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052711Z">
+        <seg>Broni, co?</seg>
       </tuv>
     </tu>
     <tu>
