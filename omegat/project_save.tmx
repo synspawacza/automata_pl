@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>!!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173723Z" creationid="Syn Spawacza" creationdate="20200627T173723Z">
+        <seg>!!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>"&lt;CHIP_NAME&gt;" Chip</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170442Z" creationid="Syn Spawacza" creationdate="20200530T170442Z">
@@ -56913,8 +56921,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Proceed toward the guide marker.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173659Z" creationid="Syn Spawacza" creationdate="20200627T173659Z">
-        <seg>Propozycja: Podążać w stronę znacznika.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173717Z" creationid="Syn Spawacza" creationdate="20200627T173659Z">
+        <seg>Propozycja: Podążyć w stronę znacznika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79963,6 +79971,14 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What in the world...?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173748Z" creationid="Syn Spawacza" creationdate="20200627T173748Z">
+        <seg>Co do...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is "night"?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095947Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095947Z">
@@ -80327,6 +80343,14 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T153116Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T153116Z">
         <seg>Co stanie się z 9S?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What's happening!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T173802Z" creationid="Syn Spawacza" creationdate="20200627T173802Z">
+        <seg>Co się dzieje?!</seg>
       </tuv>
     </tu>
     <tu>
