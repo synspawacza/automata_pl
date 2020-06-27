@@ -6053,8 +6053,9 @@ of a phoenix.</seg>
         <seg>A greatsword shaped after the
 king of beasts.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152229Z" creationid="Syn Spawacza" creationdate="20200601T161316Z">
-        <seg>Miecz wielki z wzorem króla zwierząt.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152249Z" creationid="Syn Spawacza" creationdate="20200601T161316Z">
+        <seg>Miecz wielki z motywem króla
+zwierząt.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7202,8 +7203,9 @@ attendant.</seg>
         <seg>A sword wielded by machine
 lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161004Z" creationid="Syn Spawacza" creationdate="20200601T161004Z">
-        <seg>Miecz dzierżony przez mechaniczne formy życia.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152240Z" creationid="Syn Spawacza" creationdate="20200601T161004Z">
+        <seg>Miecz dzierżony przez mechaniczne
+formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23167,8 +23169,8 @@ Nie zrobisz z maszyny swojego brata.</seg>
       <tuv lang="en-US">
         <seg>Dog tag of a member of the Resistance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T115842Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
-        <seg>Nieśmiertelnik członka ruchu oporu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152523Z" creationid="Syn Spawacza" creationdate="20200601T115842Z">
+        <seg>Nieśmiertelnik członka Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58697,8 +58699,8 @@ Instrukcja budowy:
       <tuv lang="en-US">
         <seg>Resistance Camp</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174940Z" creationid="Syn Spawacza" creationdate="20200601T174940Z">
-        <seg>Obóz ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152433Z" creationid="Syn Spawacza" creationdate="20200601T174940Z">
+        <seg>Obóz Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -58713,48 +58715,48 @@ Instrukcja budowy:
       <tuv lang="en-US">
         <seg>Resistance Member</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071903Z" creationid="Syn Spawacza" creationdate="20200601T071903Z">
-        <seg>Członek ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152438Z" creationid="Syn Spawacza" creationdate="20200601T071903Z">
+        <seg>Członek Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance Researcher</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T195316Z" creationid="Syn Spawacza" creationdate="20200601T195316Z">
-        <seg>Badacz z ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152457Z" creationid="Syn Spawacza" creationdate="20200601T195316Z">
+        <seg>Badacz z Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance Secretary</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T203232Z" creationid="Syn Spawacza" creationdate="20200601T203232Z">
-        <seg>Sekretarka ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152510Z" creationid="Syn Spawacza" creationdate="20200601T203232Z">
+        <seg>Sekretarka Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance Supply Trader</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T201616Z" creationid="Syn Spawacza" creationdate="20200601T201616Z">
-        <seg>Handlarz zaopatrzeniem z ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152504Z" creationid="Syn Spawacza" creationdate="20200601T201616Z">
+        <seg>Handlarz zaopatrzeniem z Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance: Anemone</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134745Z" creationid="Syn Spawacza" creationdate="20200605T172235Z">
-        <seg>Ruch oporu: Anemona</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152516Z" creationid="Syn Spawacza" creationdate="20200605T172235Z">
+        <seg>Ruch Oporu: Anemona</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Resistance: Rose</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T134741Z" creationid="Syn Spawacza" creationdate="20200605T172228Z">
-        <seg>Ruch oporu: Róża</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152514Z" creationid="Syn Spawacza" creationdate="20200605T172228Z">
+        <seg>Ruch Oporu: Róża</seg>
       </tuv>
     </tu>
     <tu>
@@ -64320,16 +64322,16 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>Strange Resistance Man</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071955Z" creationid="Syn Spawacza" creationdate="20200601T071955Z">
-        <seg>Dziwny mężczyzna z ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152447Z" creationid="Syn Spawacza" creationdate="20200601T071955Z">
+        <seg>Dziwny mężczyzna z Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Strange Resistance Woman</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T071944Z" creationid="Syn Spawacza" creationdate="20200601T071944Z">
-        <seg>Dziwna kobieta z ruchu oporu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152443Z" creationid="Syn Spawacza" creationdate="20200601T071944Z">
+        <seg>Dziwna kobieta z Ruchu Oporu</seg>
       </tuv>
     </tu>
     <tu>
@@ -74078,8 +74080,9 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
         <seg>Unique weapons shaped like 
 Emil's head.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161918Z" creationid="Syn Spawacza" creationdate="20200601T161918Z">
-        <seg>Unikatowa broń w kształcie głowy Emila.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152321Z" creationid="Syn Spawacza" creationdate="20200601T161918Z">
+        <seg>Unikatowa broń w kształcie
+głowy Emila.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78157,8 +78160,9 @@ formy życia.</seg>
         <seg>Weapons made of black armor
 from the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161739Z" creationid="Syn Spawacza" creationdate="20200601T161739Z">
-        <seg>Czarne rękawice wojownika z Wschodu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152311Z" creationid="Syn Spawacza" creationdate="20200601T161739Z">
+        <seg>Czarne rękawice wojownika
+z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78166,8 +78170,9 @@ from the East.</seg>
         <seg>Weapons made of white armor
 from the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161715Z" creationid="Syn Spawacza" creationdate="20200601T161715Z">
-        <seg>Białe rękawice samuraja z Wschodu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T152315Z" creationid="Syn Spawacza" creationdate="20200601T161715Z">
+        <seg>Białe rękawice samuraja
+z Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
