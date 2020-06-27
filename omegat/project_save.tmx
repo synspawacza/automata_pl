@@ -3625,6 +3625,18 @@ Ale po bliższym zbadaniu, zauważyłem, jak to wszystko się łączy.&lt;bt_wai
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Lilly's scream echoes throughout the entire camp.&lt;BGM_BGM_M6010_S0150_N_0030&gt;
+It's heartbreaking. It's agony. It's...&lt;bt_wait&gt;horrible.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063428Z">
+        <seg>&lt;page&gt;
+Krzyk Lilly rozbrzmiewa w całym obozie.&lt;BGM_BGM_M6010_S0150_N_0030&gt;
+Łamie serce. Jest agonalny. Jest... &lt;bt_wait&gt;koszmarny.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 Long ago, an old machine lifeform told me something:
 "Beauty is what wins love."&lt;bt_wait&gt;</seg>
       </tuv>
@@ -67460,6 +67472,16 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We all draw weapons out of instinct as much as anything else, pointing them
+at our comrade as she continues to scream and scream and scream.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T064127Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T064127Z">
+        <seg>Instynktownie wszystkie wyciągamy broń, kierując ją na naszą
+towarzyszkę, kiedy ona dalej krzyczy i krzyczy i krzyczy..&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We all understand her to be rather dangerous.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094029Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094029Z">
@@ -77544,6 +77566,16 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“AaaaaaAAAAAAAAAAAAAH!”
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063405Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063359Z">
+        <seg>“AaaaaaAAAAAAAAAAAAAA!”
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“All right,” responds Rose. “I'll think of a name for you by then.”&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063134Z">
@@ -77662,6 +77694,14 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061858Z">
         <seg>„Naprawdę?” mówię. „Nie słyszałyśmy nic o nowych modelach.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“She's infected!” screams Rose. “Lilly's infected!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063435Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063435Z">
+        <seg>„Ona jest zainfekowana!” krzyczy Róża. „Lilly jest zainfekowana!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
