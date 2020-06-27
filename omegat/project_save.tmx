@@ -984,6 +984,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...No enemies?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094056Z">
+        <seg>Nie ma wrogów...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...No.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153740Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153740Z">
@@ -27912,8 +27920,8 @@ strefy hazardowej.</seg>
         <seg>Hello! This is the Resource Recovery Unit.
 Now activating defense mode!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052324Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052324Z">
-        <seg>Witamy! Oto Jednostka Odzyskująca Zasoby.
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052324Z">
+        <seg>Witaj! Tutaj Jednostka Odzyskująca Zasoby.
 Aktywuje tryb obronny!</seg>
       </tuv>
     </tu>
@@ -30087,6 +30095,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh. So that's how it works.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094150Z">
+        <seg>Hm. Więc tak to działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh. That's actually a hard question, now that I think about it.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090543Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090543Z">
@@ -31904,6 +31920,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150842Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150842Z">
         <seg>Mam dzisiaj coś ważnego do przedyskutowania z tobą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I have to break the system protection before I can reach the core.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094147Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094147Z">
+        <seg>Muszę złamać zabezpieczenia sytemu zanim dotrę do rdzenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38312,6 +38336,14 @@ były otoczone troskliwą opieką.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052609Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052609Z">
         <seg>Jest tu napisane: „Pudełko z mięsem”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It reads "soul box."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094051Z">
+        <seg>Napisane jest tutaj „pudełko z duszą”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -47138,6 +47170,16 @@ na 30 sekund</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh my! Look at all the machine lifeforms you've murdered!
+Such dogged persistence is worthy of a special present!</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094259Z">
+        <seg>O, raju! Popatrz tylko na te wszystkie mechaniczne formy życia, które zamordowałeś!
+Taki zawzięty upór jest wart specjalnego prezentu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh my. This is valuable information indeed.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094437Z">
@@ -47350,6 +47392,14 @@ na 30 sekund</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152900Z">
         <seg>Och, tak wiele przyjemności mi to sprawia...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, I get it.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094101Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094101Z">
+        <seg>Och, rozumiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64862,6 +64912,14 @@ To wszystko.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>There's something written here, too...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094047Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094047Z">
+        <seg>Tutaj też jest coś zapisane...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>There's still a lot about machines that we don't understand.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T130550Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T130550Z">
@@ -82033,6 +82091,16 @@ informuje nas, że nie pojawią się żadne posiłki.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090808Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090808Z">
         <seg>Wszystko okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">p300_4ac43a7f_scp.properties</prop>
+      <prop type="id">M3020_S0024_G0180_001_a9s</prop>
+      <tuv lang="en-US">
+        <seg>Now they're just messing with us...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094223Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094223Z">
+        <seg>Teraz się z nami bawią...</seg>
       </tuv>
     </tu>
     <tu>
