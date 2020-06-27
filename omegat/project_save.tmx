@@ -2912,6 +2912,16 @@ Ale by tak się stało, musimy pracować razem.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M6010_S0250_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065825Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065825Z">
+        <seg>&lt;BGM_BGM_M6010_S0250_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -75035,6 +75045,16 @@ Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T161221Z" creationid="Syn Spawacza" creationdate="20200617T161221Z">
         <seg>[12/14/12422] Potwierdzam że 25-ty narodzony po mnie zakończył aktywność biologiczną. Choć techniczne jesteśmy nieśmiertelni — możemy odradzać się w nieskończoność — wciąż podlegamy śmierci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[14th Machine War — Pearl Harbor Descent]&lt;bt_wait&gt;
+The name of the mission entrusted to the YoRHa soldiers.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T070513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T070513Z">
+        <seg>[14. Wojna z Maszynami — Lądowanie na Pearl Harbor]&lt;bt_wait&gt;
+Nazwa misji powierzonej żołnierzom YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
