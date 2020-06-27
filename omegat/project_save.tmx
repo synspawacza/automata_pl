@@ -944,6 +944,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...M6010_S0150_N</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062749Z">
+        <seg>...M6010_S0150_N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Machines......!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160532Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160532Z">
@@ -2888,6 +2896,22 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M6010_S0150_N_start&gt;
+&lt;page&gt;
+According to the YoRHa team, there's an enemy server beneath Mt. Ka'ala.&lt;BGM_BGM_M6010_S0150_N_0010&gt;
+If we can take it out, we might finally gain some ground in this endless war.&lt;bt_wait&gt;
+But in order for that to happen, we need to work together.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062813Z">
+        <seg>&lt;BGM_BGM_M6010_S0150_N_start&gt;
+&lt;page&gt;
+Zgodnie z tym co twierdzi grupa YoRHa, w górze Ka'ala jest serwer nieprzyjaciela.&lt;BGM_BGM_M6010_S0150_N_0010&gt;
+Jeśli go zniszczymy, możemy wreszcie coś zyskać w taj niekończącej się wojnie.&lt;bt_wait&gt;
+Ale by tak się stało, musimy pracować razem.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -3637,6 +3661,18 @@ Jedna z obcych — chyba Numer 16 — wyciąga długi nóż z pochwy.
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Suddenly Captain Rose breaks out into a wide grin. “You know what?” she says.&lt;bt_wait&gt;
+“I think we should give all of you names as well!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063052Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063052Z">
+        <seg>&lt;page&gt;
+Nagle Kapitan Róża uśmiecha się szeroko. „Wiesz co?” mówi.&lt;bt_wait&gt;
+„Powinnyśmy wam również nadać imiona!”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 That's when I realized he cares not for jewels.
 Or songs or beauty or appearance or anything else.
 I cannot win his love.&lt;bt_wait&gt;</seg>
@@ -3670,6 +3706,30 @@ They drift back like missing letters filling out a word.&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 Program odzyskiwania zaczyna wypełniać dziury w mojej pamięci.&lt;bt_wait&gt;
 Wracają na swoje miejsca, jak brakujące w słowie litery.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+The rest of the group stares at the combatants and tries not to grin.&lt;bt_wait&gt;
+Dahlia and Number 16 seem to butt heads over the smallest little things.&lt;bt_wait&gt;
+Maybe it's because they're so much alike.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062956Z">
+        <seg>&lt;page&gt;
+Reszta z grupy patrzy się na walczące i próbuje się nie uśmiechać.&lt;bt_wait&gt;
+Dalia i Numer 16 próbują przebić się głową przez każdą najmniejszą rzecz.&lt;bt_wait&gt;
+Może to dlatego, że są takie podobne.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+The rest of us converse as Dahlia and 16 continue to spar.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063010Z">
+        <seg>&lt;page&gt;
+Reszta z nas rozmawia, kiedy Dalia i Numer 16 dalej się biją.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3732,6 +3792,20 @@ We're new models rolled out as part of something called Project YoRHa.”&lt;bt_
 „Dobra” mówię do obcych. „Zacznijcie gadać.”&lt;bt_wait&gt;
 „Spokojnie” mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
 Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“Er, what are you doing, Dahlia?”&lt;bt_wait&gt;
+“Just...showing this idiot...how weak she is!” replies a winded Dahlia.&lt;bt_wait&gt;
+“Ha!“ wheezes her opponent, Number 16. “You're obviously...outmatched!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062850Z">
+        <seg>&lt;page&gt;
+„Ee, co robisz Dalio?”&lt;bt_wait&gt;
+„Po prostu... pokazuję tej idiotce... jaka jest słaba!” odpowiada pozbawiona tchu Dalia.&lt;bt_wait&gt;
+„Ha!” sapie jej przeciwniczka, Numer 16. „Zdecydowanie jesteś... prześcignięta!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7694,6 +7768,18 @@ Jesteście marionetkami, którym brak nawet wolnej woli.”</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082602Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082602Z">
         <seg>Po zniszczeniu ciała YoRHy tylko dane zapisane w pamięci są przesyłane do nowego ciała.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After a bit of thought, Rose decides to throw in with the new models.&lt;bt_wait&gt;
+It's a relationship that changes as time goes on.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062828Z">
+        <seg>Po dłuższym zastanowieniu, Róża decyduje się przyjąć nowe modele.&lt;bt_wait&gt;
+To związek, który się zmienia w miarę upływu czasu.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -36544,6 +36630,16 @@ Nigdy wcześniej nie widziałem czegoś takiego.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's almost annoying how quickly muscleheads learn to like one another.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063003Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063003Z">
+        <seg>To prawie irytujące, jak mięśniaki szybko uczą cię nawzajem siebie lubić.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's almost as if the objective is &lt;i&gt;failure itself&lt;/i&gt;.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145707Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145707Z">
@@ -54246,6 +54342,16 @@ utrzymać swoich emocji na wodzy.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>She nods while she speaks, as though this all makes perfect sense.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063037Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063037Z">
+        <seg>Kiwa głową jak mówi, jakby to wszystko miało sens.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>She promised to protect me. It all seemed so romantic at the time...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095152Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095152Z">
@@ -61082,6 +61188,22 @@ I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt;
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152641Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152641Z">
         <seg>Prawda potrafi być taka bolesna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The two of them are taking turns hitting each other.&lt;bt_wait&gt;
+It seems friendly enough...as those things go.&lt;bt_wait&gt;
+Plus, they'd been doing it for so long now that both of them are out of
+energy. They likely couldn't punch through a piece of paper at this point.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062932Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062932Z">
+        <seg>Dwie z nich na zmianę wymierzają sobie ciosy.&lt;bt_wait&gt;
+Wygląda to wystarczająco przyjaźnie... jak to bywa.&lt;bt_wait&gt;
+Poza tym obie robią to tak długo, że zaczęła kończyć się im energia. W tym
+momencie nie byłyby w stanie przebić się pięścią przez kartkę papieru.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77432,6 +77554,16 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062607Z">
         <seg>„Poczekajcie.” mówi.
 &lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“We call each other by names that I gave us,” explains Rose.&lt;bt_wait&gt;
+“I see,” responds Number 4. “I thought it strange that you didn't use code numbers.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T063031Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T063031Z">
+        <seg>„Zwracamy się do siebie imionami, które ja nam nadałam.” wyjaśnia Róża.&lt;bt_wait&gt;
+„Rozumiem.” odpowiada Numer 4. „ Pomyślałam, że to dziwne, że nie używacie kodów.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
