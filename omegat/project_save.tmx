@@ -3539,6 +3539,18 @@ Niespokojna Sonia przyciąga do siebie Shion i zagryza zęby na puklu włosów.&
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+Dahlia and the others will buy us time to reach the gate at Ka'laa's peak.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0020&gt;
+Beyond that lies an elevator, and beyond that...is the server.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T073408Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T073408Z">
+        <seg>&lt;page&gt;
+Dalia i reszta kupią nam czas na dotarcie do bram szczytu Ka'ala.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0020&gt;
+Za nimi leży winda, a za nią... jest serwer.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
 He won't look my way.&lt;bt_wait&gt;
@@ -3904,6 +3916,27 @@ Identifying our unknown mystery fighters can wait until we're done.”&lt;bt_wai
 „Chcę, byście wszystkie wyszły z okopu i poszły do tych ładunków wybuchowych.” powiedziała Róża.&lt;bt_wait&gt;
 „Pozwolimy, by wybuch zmiótł większość z nich, a wtedy zniszczymy maruderów.&lt;bt_wait&gt;
 Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż skończymy.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“I'll do whatever is necessary,” says Lilly with a grim smile.&lt;bt_wait&gt; Dahlia and
+Margaret quickly nod in agreement, as does Number 16. They decided to join the
+rearguard, staying behind to be our shield, even though it comes at the cost
+of their own lives. Regardless, they all agreed without hesitation.&lt;bt_wait&gt;
+For we in the vanguard would be joining them in death soon enough.&lt;bt_wait&gt;
+Without another word, we turn our backs on each other and take up positions.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T073345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T073345Z">
+        <seg>&lt;page&gt;
+„Zrobię wszystko, co będzie niezbędne.” mówi Lilly z ponurym uśmiechem.&lt;bt_wait&gt;
+Dalia i Margaret szybko kiwają na zgodę, tak samo robi
+Numer 16. Zdecydowały dołączyć się do tylnej straży,
+zostając z tyłu jako nasza tarcza, nawet jeśli będzie je
+to kosztować życie. Mimo to, zgodziły się bez wahania.&lt;bt_wait&gt;
+My w straży przedniej dołączymy do nich wystarczająco szybko.&lt;bt_wait&gt;
+Bez słów odwracamy się do siebie tyłem i przyjmujemy pozycje.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -34107,6 +34140,16 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”&lt;b
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134325Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134325Z">
         <seg>Jeśli jednostka 2B byłaby w stanie dostarczyć odpowiedni obraz, mógłbym wysłać go do Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we can destroy it, we'll deal a devastating blow to machine lifeforms
+throughout the Pacific region.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075042Z">
+        <seg>Jeśli uda nam się je zniszczyć, zadamy druzgoczący cios mechanicznym
+formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -68140,6 +68183,16 @@ A skoro nie znamy lekarstwa...&lt;bt_wait&gt;jest to też wyrok śmierci.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095047Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095047Z">
         <seg>Chcemy po prostu znaleźć miejsce, gdzie będziemy mogli we dwójkę spokojnie sobie żyć. Czy to źle?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We know this is the end.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T073353Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T073353Z">
+        <seg>Wiemy, że to koniec.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
