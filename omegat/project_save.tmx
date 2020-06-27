@@ -10103,6 +10103,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Enemy provocation detected. Emotional turmoil rising.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171302Z" creationid="Syn Spawacza" creationdate="20200627T171302Z">
+        <seg>Uwaga: wykryto prowokację wroga. Zamęt emocjonalny wzrasta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Enemy reinforcements are infiltrating the facility.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T091002Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091002Z">
@@ -15335,6 +15343,14 @@ trudno zadać nimi efektywne obrażenia.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T193959Z" creationid="Syn Spawacza" creationdate="20200601T193959Z">
         <seg>Długoszpar maszyna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Bastard...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171207Z" creationid="Syn Spawacza" creationdate="20200627T171207Z">
+        <seg>Drań...</seg>
       </tuv>
     </tu>
     <tu>
@@ -29569,6 +29585,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hate me! Despise me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171140Z" creationid="Syn Spawacza" creationdate="20200627T171140Z">
+        <seg>Nienawidź mnie! Gardź mną!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hate.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143641Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143641Z">
@@ -34981,6 +35005,14 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I know!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171202Z" creationid="Syn Spawacza" creationdate="20200627T171202Z">
+        <seg>Wiem!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I know! I shall self-destruct for your convenience!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T140855Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T140855Z">
@@ -35025,6 +35057,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
         <seg>Wiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know. Let's move.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171050Z" creationid="Syn Spawacza" creationdate="20200627T171050Z">
+        <seg>Wiem. Chodźmy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40865,6 +40905,14 @@ w temperaturze 2000 stopni.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132205Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132136Z">
         <seg>Czy to wszyscy?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is that all you've got, little android!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171126Z" creationid="Syn Spawacza" creationdate="20200627T171126Z">
+        <seg>Tylko na tyle cię stać, androidku!?</seg>
       </tuv>
     </tu>
     <tu>
@@ -56755,6 +56803,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T095450Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095433Z">
         <seg>Propozycja: przejrzyj system w obozie Ruchu Oporu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Prioritize search for 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171019Z" creationid="Syn Spawacza" creationdate="20200627T171019Z">
+        <seg>Propozycja: potraktuj priorytetowo poszukiwanie 9S.</seg>
       </tuv>
     </tu>
     <tu>
