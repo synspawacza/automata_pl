@@ -16053,6 +16053,14 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Blow up target.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184409Z" creationid="Syn Spawacza" creationdate="20200627T184409Z">
+        <seg>Wysadź cel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Blowfish</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191854Z" creationid="Syn Spawacza" creationdate="20200601T191854Z">
@@ -22420,6 +22428,14 @@ What Are You Doing?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T161221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T161221Z">
         <seg>Wykryto: Magazyn zapisów jednostek YoRHa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detonate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184338Z" creationid="Syn Spawacza" creationdate="20200627T184338Z">
+        <seg>Detonuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -58762,6 +58778,14 @@ próchnicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remote Control</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184354Z" creationid="Syn Spawacza" creationdate="20200627T184354Z">
+        <seg>Zdalne sterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T211638Z" creationid="Syn Spawacza" creationdate="20200601T211638Z">
@@ -65297,6 +65321,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222425Z" creationid="Syn Spawacza" creationdate="20200608T175746Z">
         <seg>Zadania poboczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subjugate</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184347Z" creationid="Syn Spawacza" creationdate="20200627T184347Z">
+        <seg>Ujarzmij</seg>
       </tuv>
     </tu>
     <tu>
