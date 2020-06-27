@@ -3491,6 +3491,16 @@ Jego słowa płynęły przeze mnie, jakby były wlewane do mojego ucha.</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+How many battles is this now?&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060216Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060216Z">
+        <seg>&lt;page&gt;
+Jak wiele bitew już było?&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 I once heard tell of a precious jewel far to the east.
 It was said to be located on a terribly dangerous mountain.
 But I did not care.&lt;bt_wait&gt;</seg>
@@ -3587,6 +3597,18 @@ Nie zdobędę jego miłości.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+The machine lifeform attack lands far too close for comfort.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0010&gt;
+I smell an acrid odor and know that some of my hair has been singed off.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060124Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060124Z">
+        <seg>&lt;page&gt;
+Atak mechanicznych form życia trafia zbyt blisko, by się zrelaksować.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0010&gt;
+Wyczuwam drażniący smród i wiem, że część z moich włosów została spalona.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 The recovery program begins to fill in the blanks in my memory.&lt;bt_wait&gt;
 They drift back like missing letters filling out a word.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -3660,6 +3682,22 @@ ewolucyjną szybkość..&lt;bt_wait&gt;</seg>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
         <seg>&lt;page&gt;
 „Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“This looks bad, Shion. What should we do?”&lt;bt_wait&gt;
+“Calm down, Lilly. We'll find an opening somewhere.”&lt;bt_wait&gt;
+“You don't search for an opening! You &lt;i&gt;make&lt;/i&gt; one!”&lt;bt_wait&gt;
+“Dahlia, wait!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060359Z">
+        <seg>&lt;page&gt;
+„To wygląda źle, Shion. Co mamy zrobić?”&lt;bt_wait&gt;
+„Uspokój się Lilly. Znajdziemy gdzieś rozłam.”&lt;bt_wait&gt;
+„Nie poszukujesz rozłamu! Sam go &lt;i&gt;tworzysz&lt;/i&gt;!”&lt;/i&gt;&lt;bt_wait&gt;
+„Dalio, poczekaj!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -29376,6 +29414,20 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T151237Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T151237Z">
         <seg>Nie obchodzi mnie to. Muszę znać prawdę. Proszę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I don't even remember why we're fighting anymore,
+but I must continue regardless.&lt;bt_wait&gt;
+I must continue until one side or the other is dead.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060247Z">
+        <seg>Już nawet nie pamiętam dlaczego walczymy,
+ale mimo to muszę przeć dalej.&lt;bt_wait&gt;
+Muszę kontynuować aż jedna ze stron będzie martwa.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -58722,6 +58774,20 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That's my captain, Rose. I obey her without hesitation, running from the front
+as soon as I take out a few nearby enemies. Feet flying beneath me, I leap into
+the hastily built trench where my Resistance comrades are gathered.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060207Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060207Z">
+        <seg>To moja kapitan, Róża. Słucham się jej rozkazu bez wahania, uciekając z frontu,
+kiedy tylko zdejmę kilku najbliższych wrogów. Stopy mnie niosą, wskakuję do
+pospiesznie zbudowane okopu, gdzie zebrali się moi kompani z Ruchu Oporu.
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That's my line.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052438Z">
@@ -60486,6 +60552,16 @@ Kontynuować mimo to?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150959Z">
         <seg>Ten sam kolor, co włosy naszej klientki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The same sights and sounds. The same struggle of attrition.&lt;bt_wait&gt;
+My Resistance forces play the same war on repeat with no end in sight.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060227Z">
+        <seg>Te same widoki i dźwięki. Ta sama walka z wyczerpaniem.&lt;bt_wait&gt;
+Moje siły Ruchu Oporu odgrywają tę samą wojnę bez końca na horyzoncie.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76948,6 +77024,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150043Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150043Z">
         <seg>„Plugawa nienawiść ukrywa się w głębinach twego serca.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Anemone! Retreat for now! That's an order!”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060130Z">
+        <seg>„Anemono! Wycofaj się na razie! To rozkaz!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
