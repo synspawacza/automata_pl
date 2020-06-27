@@ -1174,6 +1174,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Proposal denied.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165256Z" creationid="Syn Spawacza" creationdate="20200627T165256Z">
+        <seg>Propozycja odrzucona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Really?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091532Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091530Z">
@@ -10621,6 +10629,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220050Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220050Z">
         <seg>Uwaga: Jednostka YoRHa 2B odniesie poważne obrażenia, jeśli nie wyeliminuje się wirusa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert: You are moving away from the last known position of unit 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165419Z" creationid="Syn Spawacza" creationdate="20200627T165335Z">
+        <seg>Uwaga: oddalasz do ostatniego znanego położenia 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56287,6 +56303,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: 2B should initiate conversation more frequently.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165241Z" creationid="Syn Spawacza" creationdate="20200627T165241Z">
+        <seg>Propozycja: 2B powinna częściej inicjować konwersacje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: 2B should investigate.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T121917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T121917Z">
@@ -81599,6 +81623,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090550Z" creationid="Syn Spawacza" creationdate="20200601T090550Z">
         <seg>Przyrząd do pisania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wrong route. Better go back and see if there's another one.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165358Z" creationid="Syn Spawacza" creationdate="20200627T165358Z">
+        <seg>Zła si</seg>
       </tuv>
     </tu>
     <tu>
