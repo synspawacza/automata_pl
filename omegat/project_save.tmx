@@ -3208,6 +3208,22 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>: Relinquish remote control</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184539Z" creationid="Syn Spawacza" creationdate="20200627T184539Z">
+        <seg>: Porzuć zdalne sterowanie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>: Relinquish remote control when hacking</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184546Z" creationid="Syn Spawacza" creationdate="20200627T184546Z">
+        <seg>: Porzuć zdalne sterowanie podczas hakowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T204214Z" creationid="Syn Spawacza" creationdate="20200601T204214Z">
@@ -15137,6 +15153,14 @@ Raport zostanie wysłany do ministra, by przekazać, że ukończenie Systemu rep
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>BEGIN HACKING</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184604Z" creationid="Syn Spawacza" creationdate="20200627T184604Z">
+        <seg>ROZPOCZNIJ HAKOWANIE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>BERSERK</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T212450Z" creationid="Syn Spawacza" creationdate="20200601T212450Z">
@@ -15721,6 +15745,14 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092743Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092743Z">
         <seg>Zniknij z tego świata na zawsze, wiedźmo!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Behavior System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184615Z" creationid="Syn Spawacza" creationdate="20200627T184615Z">
+        <seg>System zachowań</seg>
       </tuv>
     </tu>
     <tu>
@@ -31594,6 +31626,14 @@ formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hijack target and operate it remotely.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184511Z" creationid="Syn Spawacza" creationdate="20200627T184511Z">
+        <seg>Przejmij cel i steruj nim zdalnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>His Grace is a god!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T154844Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154844Z">
@@ -47180,6 +47220,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Memory System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184717Z" creationid="Syn Spawacza" creationdate="20200627T184717Z">
+        <seg>System pamięci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Memory Unit: Green</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T133653Z" creationid="Syn Spawacza" creationdate="20200530T123846Z">
@@ -60421,6 +60469,14 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>SYSTEM INTERFERENCE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184554Z" creationid="Syn Spawacza" creationdate="20200627T184554Z">
+        <seg>INTERFERENCJA SYSTEMU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>SYSTEM MESSAGE</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140348Z" creationid="Syn Spawacza" creationdate="20200530T140348Z">
@@ -65329,6 +65385,14 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184347Z" creationid="Syn Spawacza" creationdate="20200627T184347Z">
         <seg>Ujarzmij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Subjugate target and have it attack enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184436Z" creationid="Syn Spawacza" creationdate="20200627T184436Z">
+        <seg>Ujarzmij cel by atakował wrogów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76212,6 +76276,14 @@ I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Visual System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184649Z" creationid="Syn Spawacza" creationdate="20200627T184649Z">
+        <seg>System wizualny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Visual sensor diagnostics complete. No issues detected.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160859Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160859Z">
@@ -76232,6 +76304,14 @@ I nie będzie pochodzić tylko od jednej osoby.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180649Z" creationid="Syn Spawacza" creationdate="20200530T123859Z">
         <seg>Parametry życiowe: w normie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Vocal System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184656Z" creationid="Syn Spawacza" creationdate="20200627T184656Z">
+        <seg>System głosowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -78988,6 +79068,14 @@ W końcu byłyśmy obserwatorkami.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T143953Z" creationid="Syn Spawacza" creationdate="20200530T143953Z">
         <seg>Historie broni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weapon Switching System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184624Z" creationid="Syn Spawacza" creationdate="20200627T184624Z">
+        <seg>System zmiany broni</seg>
       </tuv>
     </tu>
     <tu>
@@ -82865,6 +82953,14 @@ Gdybym tylko miał materiały...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T140738Z" creationid="Syn Spawacza" creationdate="20200601T195028Z">
         <seg>YoRHa typu E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa Identification System</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T184711Z" creationid="Syn Spawacza" creationdate="20200627T184711Z">
+        <seg>System identyfikacji YoRHa</seg>
       </tuv>
     </tu>
     <tu>
