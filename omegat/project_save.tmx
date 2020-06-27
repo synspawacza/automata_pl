@@ -10248,8 +10248,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Signal code detected for missing plug-in chip.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153255Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
-        <seg>Uwaga: Wykryto sygnał dla zaginionego chipu.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144520Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
+        <seg>Uwaga: Wykryto sygnał dla zaginionego czipu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11878,8 +11878,8 @@ Doceniono twoją pomoc.</seg>
       <tuv lang="en-US">
         <seg>Analysis: This area is composed of crystallized silicon and carbon.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152438Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152438Z">
-        <seg>Analiza: Ten obszar jest stworzony ze skrystalizowanego silikonu i węgla.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144342Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152438Z">
+        <seg>Analiza: Ten obszar jest stworzony ze skrystalizowanego krzemu i węgla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18314,8 +18314,8 @@ i czekają na ciebie.</seg>
       <tuv lang="en-US">
         <seg>Chips with classified data, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153552Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153552Z">
-        <seg>Chipy z tajnymi danymi, co?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144530Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153552Z">
+        <seg>Czipy z tajnymi danymi, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -38838,8 +38838,8 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       <tuv lang="en-US">
         <seg>If you like, I can fuse plug-in chips for you.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T160136Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T160136Z">
-        <seg>Jeśli chcecie mogę dla was połączyć chipy.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144515Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T160136Z">
+        <seg>Jeśli chcecie mogę dla was połączyć czip rozszerzeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57340,10 +57340,10 @@ As a further note, the member in question had been killed by a machine lifeform.
  
 —The Commander</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104407Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104407Z">
         <seg>Ostatnio został wysłany nakaz poszukiwania członka YoRHY, który był w posiadaniu czipów z sekretnymi informacjami. Skoro konkretny osobnik został odnaleziony, rozkaz zostaje wycofany.
  
-Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne formy życia. Jednakże nasz zespół poszukiwawczy i tak dał radę odzyskać chipy z informacjami. Udało im się również zlokalizować ciało innego członka ruchu oporu w jego okolicy; prowadzimy dochodzenie, czy te dwa przypadki są ze sobą powiązane.
+Co warto zaznaczyć, członek o którym mowa został zabity przez mechaniczne formy życia. Jednakże nasz zespół poszukiwawczy i tak dał radę odzyskać czipy z informacjami. Udało im się również zlokalizować ciało innego członka ruchu oporu w jego okolicy; prowadzimy dochodzenie, czy te dwa przypadki są ze sobą powiązane.
  
 —Komandor</seg>
       </tuv>
@@ -69421,12 +69421,12 @@ That is all.
  
 —The Commander</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T093544Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T093535Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144458Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T093535Z">
         <seg>Jest coś, o czym zapomniałam ci wspomnieć przed wylotem. Zgodnie z naszym zespołem analityków, wyposażenie utracone w trakcie ataku na fabrykę, wciąż tam jest. Oznaczyłam na mapie jego lokalizacje, więc upewnij się, że je zbierzesz jak będziesz w okolicy.
 
 To wszystko.
 
-—Pani Komandor</seg>
+—Komandor</seg>
       </tuv>
     </tu>
     <tu>
@@ -71569,8 +71569,8 @@ jeszcze splamione nawet kroplą krwi.</seg>
       <tuv lang="en-US">
         <seg>This unit was in possession of several plug-in chips that contain classified information.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153348Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153348Z">
-        <seg>Jednostka ta była w posiadaniu paru chipów zawierających tajne informacje.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144526Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153348Z">
+        <seg>Jednostka ta była w posiadaniu paru czipów zawierających tajne informacje.</seg>
       </tuv>
     </tu>
     <tu>
