@@ -1040,6 +1040,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...SID_end</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062740Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062740Z">
+        <seg>...SID_end</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...She did? Really?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090409Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090409Z">
@@ -2842,6 +2850,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M6010_S0050_N_end&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062739Z">
+        <seg>&lt;/page&gt;
+&lt;BGM_BGM_M6010_S0050_N_end&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1030_S0310_N_start&gt;
 &lt;page&gt;</seg>
       </tuv>
@@ -3607,6 +3625,18 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     <tu>
       <tuv lang="en-US">
         <seg>&lt;page&gt;
+One of the strangers—Number 16, I believe—draws a long knife from its sheath.
+“If it's a fight you want,” she says, “I'm happy to give it to you.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062538Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062538Z">
+        <seg>&lt;page&gt;
+Jedna z obcych — chyba Numer 16 — wyciąga długi nóż z pochwy.
+„Jeśli tej walki pragniecie.” mówi. „Z radością ją wam zapewnię.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
 That's when I realized he cares not for jewels.
 Or songs or beauty or appearance or anything else.
 I cannot win his love.&lt;bt_wait&gt;</seg>
@@ -3746,6 +3776,22 @@ Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
         <seg>&lt;page&gt;
 „Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;page&gt;
+“There used to be sixteen of us,” says Number 2, “but the others died during the descent.&lt;bt_wait&gt;
+We're isolated and alone out here. Reinforcements aren't coming. And that means
+we have to finish this mission with the soldiers we have left. We don't need
+more enemies right now. What we need...is allies.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062704Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062704Z">
+        <seg>&lt;page&gt;
+„Było nas szesnaście.” mówi Numer 2. „Ale reszta zginęła w trakcie lądowania.”&lt;bt_wait&gt;
+Jesteśmy tutaj odizolowane. Posiłki się nie pojawią. A to oznacza, że musimy
+dokończyć tę misję z tymi żołnierzami, które mamy. Nie potrzebujemy
+więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -13094,6 +13140,18 @@ przeznaczony dla Sartre'a.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T191956Z" creationid="Syn Spawacza" creationdate="20200601T191956Z">
         <seg>Żukoryba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before I can respond, Dahlia leaps in front of me with her weapon at the ready.&lt;bt_wait&gt;
+This is it. We're going to fight.&lt;bt_wait&gt;
+But just before the battle can erupt, the android called Number 2 steps forward.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062600Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062600Z">
+        <seg>Zanim odpowiadam, Dalia wyskakuje przede mnie z bronią w gotowości.&lt;bt_wait&gt;
+To jest to. Będziemy walczyć.&lt;bt_wait&gt;
+Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -30427,6 +30485,16 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I know that sort of voice.&lt;BGM_BGM_M6010_S0050_N_0040&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062732Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062732Z">
+        <seg>Znam ten rodzaj głosu.&lt;BGM_BGM_M6010_S0050_N_0040&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I know the anguish it has caused you.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122637Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122637Z">
@@ -36923,6 +36991,14 @@ A co, jeśli tego nie chcą?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125304Z">
         <seg>Taka jest prawda. Powinna ją poznać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's the voice of someone who still has hope, despite all the odds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062737Z">
+        <seg>Jest to głos osoby, która wciąż ma nadzieję, niezależnie od okoliczności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54132,6 +54208,16 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051640Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051640Z">
         <seg>Uwielbia ten trunek. Robi go z pustynnej róży.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>She finishes this speech with a soft sigh, as if trying and failing to hold her
+emotions in check.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062722Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062722Z">
+        <seg>Kończy tę przemowę lekkim westchnięciem, jakby próbowała i nie dała rady
+utrzymać swoich emocji na wodzy.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -77336,6 +77422,16 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150057Z">
         <seg>„Im bardziej starasz się ją ukryć, tym bardziej ta ciemność rośnie.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“Wait,” she says.
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062607Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062607Z">
+        <seg>„Poczekajcie.” mówi.
+&lt;/page&gt;</seg>
       </tuv>
     </tu>
     <tu>
