@@ -3166,6 +3166,16 @@ Project Gestalt collapses</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;BGOFF_1_4&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110211Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110211Z">
+        <seg>&lt;BGOFF_1_4&gt;
+&lt;/page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;COMMENT&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095720Z" creationid="Syn Spawacza" creationdate="20200606T095720Z">
@@ -3788,6 +3798,16 @@ Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie torturuje.&lt;b
 Delikatnie zmieniam bandaż, próbując nie okazać po sobie niepokoju.
 Zawiązuje go tak ciasno, jak tylko mogę, żeby nie dostał się do środka żaden piasek.
 To wszystko co mogę zrobić zanim zdobędę odpowiednie materiały.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;label_SABAKU_END&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110212Z">
+        <seg>&lt;label_SABAKU_END&gt;
+&lt;page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52476,6 +52496,30 @@ Pod 042: Nie umieraj.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: "The failure to manage the area...</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110416Z">
+        <seg>Pod 153: „Porażka w zarządzaniu rejonem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: "resulted in the collapse of the Gestalt System,</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110428Z">
+        <seg>Pod 153: skończyła się upadkiem Systemu Gestalt,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: "which led to the decimation of the human race."</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110437Z">
+        <seg>Pod 153: co doprowadziło do zdziesiątkowania rasy ludzkiej.”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: ...&lt;bt_wait&gt;
 Pod 153: Even if it were possible, such actions cannot be abided.
 Pod 153: Successful mission fulfillment is all that matters.</seg>
@@ -52492,6 +52536,14 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T222422Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222422Z">
         <seg>Pod 153: Przyjąłem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Alert: Data records discovered for units Devola and Popola.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110343Z">
+        <seg>Pod 153: Uwaga: odkryto zapiski dla jednostek Devola i Popola.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52528,10 +52580,34 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: Do you wish to open this data now?</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110351Z">
+        <seg>Pod 153: Chcesz teraz odtworzyć te dane?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Due to the discovery of its instability,</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110443Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110443Z">
+        <seg>Pod 153: W związku z odkryciem jego chwiejności,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: Duty? Heh. You sounded like an android just there.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100702Z">
         <seg>Pod 153: Obowiązek? Ha. Zabrzmiałaś jak android.&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: Following the incident, the Devola and Popola models were not dismantled.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110503Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110503Z">
+        <seg>Pod 153: Po incydencie modele Devola i Popola nie zostały zdemontowane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52556,6 +52632,14 @@ Pod 153: Wszystko co się liczy to powodzenie w wypełnieniu misji.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053113Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053113Z">
         <seg>Pod 153: Poczekaj, Podzie 042.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: However, in order to prevent further unexpected behavior,</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110509Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110509Z">
+        <seg>Pod 153: Jednakże by zapobiec przyszłym nieprzewidywalnym zachowaniom,</seg>
       </tuv>
     </tu>
     <tu>
@@ -52662,10 +52746,26 @@ Pod 153: Ten protokół nie jest interfejsem służącym do konwersacji.&lt;bt_w
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pod 153: from future android production designs.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110456Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110456Z">
+        <seg>Pod 153:z wzorów produkcji przyszłych androidów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Pod 153: in the process.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T092540Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T092540Z">
         <seg>Pod 153: w trakcie tego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pod 153: the Twin System was removed</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110449Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110449Z">
+        <seg>Pod 153: System Bliźniąt został usunięty</seg>
       </tuv>
     </tu>
     <tu>
