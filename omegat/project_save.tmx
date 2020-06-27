@@ -936,6 +936,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...M6010_S0050_N</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T054317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T054317Z">
+        <seg>...M6010_S0050_N</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Machines......!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160532Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160532Z">
@@ -2848,6 +2856,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150335Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150335Z">
         <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;„Myślisz o tym, jak bardzo chcesz ***** 2B, czyż nie?”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;BGM_BGM_M6010_S0050_N_start&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T054318Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T054318Z">
+        <seg>&lt;BGM_BGM_M6010_S0050_N_start&gt;
+&lt;page&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41916,6 +41934,18 @@ Pascal
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>My name is Anemone, and I lead the android Resistance.&lt;bt_wait&gt;
+This is a record of the battles I've experienced—and my losses.&lt;bt_wait&gt;
+I leave it here as a warning to myself.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060100Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060100Z">
+        <seg>Nazywam się Anemona i przewodzę androidzkiemu Ruchowi Oporu.&lt;bt_wait&gt;
+Są to zapiski bitew, których doświadczyłam — oraz moich porażek.&lt;bt_wait&gt;
+Pozostawię to tutaj jako przypomnienie dla samej siebie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>My name is Anemone.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184112Z">
@@ -53334,6 +53364,14 @@ W świecie jest wiele punktów dostępu, ale musisz je najpierw odblokować by m
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T141526Z" creationid="Syn Spawacza" creationdate="20200601T072126Z">
         <seg>Wybierz poziom trudności. Może to zostać zmienione w trakcie gry.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a file.</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T054310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T054310Z">
+        <seg>Wybierz plik.</seg>
       </tuv>
     </tu>
     <tu>
