@@ -35567,6 +35567,28 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie czy nie.”&lt;b
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I was alone.&lt;bt_wait&gt;
+Tasked with infiltrating enemy territory to gather intelligence.&lt;bt_wait&gt;
+In the fog.&lt;bt_wait&gt;
+In the flames.&lt;bt_wait&gt;
+Alone.
+&lt;/page&gt;
+&lt;page&gt;
+“My name's 9S. I'm here to provide support.”&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123200Z">
+        <seg>Byłem sam.&lt;bt_wait&gt;
+Z zadaniem infiltracji terenów wroga w celu zbierania informacji.&lt;bt_wait&gt;
+We mgle.&lt;bt_wait&gt;
+W płomieniach.&lt;bt_wait&gt;
+Sam.
+&lt;/page&gt;
+&lt;page&gt;
+„Nazywam się 9S. Jestem tutaj, żeby stanowić wsparcie.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I was aware that humans used to live in groups...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T152246Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T152246Z">
@@ -86078,6 +86100,18 @@ Coś jest nie tak. Coś...
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>“I'm..."
+&lt;/page&gt;
+&lt;page&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122655Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122655Z">
+        <seg>“Jestem..."
+&lt;/page&gt;
+&lt;page&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>“I'm...glad I got to meet you,” she says.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075708Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075708Z">
@@ -86092,6 +86126,52 @@ Coś jest nie tak. Coś...
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T104455Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T104455Z">
         <seg>„Czy z twoją nogą w porządku?”&lt;bt_wait&gt;
 „Cóż, wątpię, żebym mogła zatańczyć w najbliższym czasie, ale tak. Jest w porządku.”&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>“My name is..."
+&lt;/page&gt;
+&lt;page&gt;
+“My name...is 9S.“&lt;bt_wait&gt;&lt;BGM_BGM_M3060_S0910_N_0010&gt;
+“A newly manufactured Scanner model.”&lt;bt_wait&gt;
+“January 30th, 11942.”&lt;bt_wait&gt;
+“Rolled out at 4:25 AM, Bunker time.”&lt;bt_wait&gt;
+“I will fight for humanity with all my strength.”&lt;bt_wait&gt;
+“The pleasure is mine, Commander.”
+&lt;/page&gt;
+&lt;page&gt;
+I lie collapsed in a space of blinding white.&lt;bt_wait&gt;
+The pain is...gone.&lt;bt_wait&gt;
+The light envelops me.&lt;bt_wait&gt; It's so &lt;i&gt;warm&lt;/i&gt;.
+&lt;/page&gt;
+&lt;page&gt;
+I was anxious.&lt;bt_wait&gt;
+A soldier from the moment I was born, thrown into the world alone.&lt;bt_wait&gt;
+Nothing to rely on.&lt;bt_wait&gt;
+No God to believe in.&lt;bt_wait&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122850Z">
+        <seg>„Nazywam się...”
+&lt;/page&gt;
+&lt;page&gt;
+„Nazywam się... 9S.“&lt;bt_wait&gt;&lt;BGM_BGM_M3060_S0910_N_0010&gt;
+„Jestem nowo wybudowanym modelem Skanera.”&lt;bt_wait&gt;
+„30 stycznia 11942.”&lt;bt_wait&gt;
+„Zszedłem z taśmy o 4:25 czasu Bunkra.”&lt;bt_wait&gt;
+„Będę walczył w imię ludzkości z całych moich sił.”&lt;bt_wait&gt;
+„Przyjemność po mojej stronie, Pani Komandor.”
+&lt;/page&gt;
+&lt;page&gt;
+Leżę w przestrzeni białego światła.&lt;bt_wait&gt;
+Ból... odszedł.&lt;bt_wait&gt;
+Światło mnie pochłania.&lt;bt_wait&gt; Jest takie &lt;i&gt;ciepłe&lt;/i&gt;.
+&lt;/page&gt;
+&lt;page&gt;
+Byłem niepewny.&lt;bt_wait&gt;
+Żołnierz od momentu narodzi, wrzucony samotnie do świata.&lt;bt_wait&gt;
+Nic na czym mógłbym się oprzeć.&lt;bt_wait&gt;
+Żadnego Boga, w którego mógłbym wierzyć.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
