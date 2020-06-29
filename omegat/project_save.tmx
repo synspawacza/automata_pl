@@ -41301,6 +41301,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you're going to inspect the camp, make sure you get permission first, okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130121Z" creationid="Syn Spawacza" creationdate="20200629T130121Z">
+        <seg>Jak chcesz zbadać obóz to musisz najpierw dostać pozwolenie, okej?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you're looking for &lt;SARU_JAN&gt;, you're too late.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110632Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110632Z">
@@ -77637,6 +77645,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213444Z">
         <seg>Ee, okej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Um, soooo...who are you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130009Z" creationid="Syn Spawacza" creationdate="20200629T130009Z">
+        <seg>Em, więc... kim jesteście?</seg>
       </tuv>
     </tu>
     <tu>
