@@ -27615,6 +27615,14 @@ Poczekaj, musimy je wgrać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Everyone sure seems nervous today.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145738Z" creationid="Syn Spawacza" creationdate="20200629T145738Z">
+        <seg>Wszyscy są dzisiaj tacy nerwowi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everyone. Dead.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T100538Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T100538Z">
@@ -33381,6 +33389,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085303Z">
         <seg>Hej, co to za ociąganie się? Pospiesz się i skop mu tyłek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, why is everyone acting so strange?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145610Z" creationid="Syn Spawacza" creationdate="20200629T145610Z">
+        <seg>Hej, dlaczego wszyscy się tak dziwnie zachowują?</seg>
       </tuv>
     </tu>
     <tu>
@@ -39997,6 +40013,14 @@ Sam.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm going to stay here for a while.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145725Z" creationid="Syn Spawacza" creationdate="20200629T145725Z">
+        <seg>Zostanę tutaj na chwilę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm going to stick around and investigate this place a little more. Don't tell the Commander, okay?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134225Z" creationid="Syn Spawacza" creationdate="20200629T134225Z">
@@ -40209,6 +40233,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220404Z">
         <seg>Nigdzie nie idę!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm not going near anything dangerous.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145536Z" creationid="Syn Spawacza" creationdate="20200629T145536Z">
+        <seg>Nie zbliżę się do niczego niebezpiecznego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40513,6 +40545,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095118Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095118Z">
         <seg>Jestem pewna, że 11B cieszyłaby się, gdyby to trafiło w dobre ręce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm sure everyone will calm down after a while.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145714Z" creationid="Syn Spawacza" creationdate="20200629T145714Z">
+        <seg>Jestem pewien, że wszyscy się zaraz uspokoją.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40965,6 +41005,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052432Z">
         <seg>Za... Zabiję cię!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I...I'll protect everyone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145553Z" creationid="Syn Spawacza" creationdate="20200629T145553Z">
+        <seg>Będę... Będę chronił wszystkich.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46945,6 +46993,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Let's get a grip on the situation before we start panicking.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145636Z" creationid="Syn Spawacza" creationdate="20200629T145636Z">
+        <seg>Musimy lepiej się zorientować w sytuacji zanim zaczniemy panikować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Let's get started.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200446Z" creationid="Syn Spawacza" creationdate="20200530T200446Z">
@@ -49552,6 +49608,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T105107Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T105107Z">
         <seg>Może powinniśmy wrócić do obozu Ruchu Oporu, odnowić zapasy i naprawić się?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe we should stop playing for the day.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145759Z" creationid="Syn Spawacza" creationdate="20200629T145759Z">
+        <seg>Może to koniec zabawy na dzisiaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67528,6 +67592,14 @@ twoim poległym ciałem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Something weird is going on...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145454Z" creationid="Syn Spawacza" creationdate="20200629T145454Z">
+        <seg>Coś dziwnego się dzieje...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Something wrong?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142647Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142647Z">
@@ -82051,6 +82123,14 @@ Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094042Z">
         <seg>Powinniśmy sprawdzić nasze dane świadomości i uzupełnić zapasy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We should stay out of danger.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145512Z" creationid="Syn Spawacza" creationdate="20200629T145512Z">
+        <seg>Powinniśmy unikać niebezpieczeństwa.</seg>
       </tuv>
     </tu>
     <tu>
