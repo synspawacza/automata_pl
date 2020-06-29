@@ -17895,12 +17895,12 @@ Piękno to wyglądanie najlepiej jak się da.&lt;bt_wait&gt;</seg>
 “Scanners like me mostly work alone. Scouting out enemy lines and all that?”&lt;bt_wait&gt;
 “I don't usually get a partner. It's kind of fun!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123332Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123332Z">
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T115345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123332Z">
         <seg>Ale... ja...
 &lt;/page&gt;
 &lt;page&gt;
-„My, Skanery zwykle pracujemy sami. Śledząc linię wroga i tak dalej?”&lt;bt_wait&gt;
-„Zwykle nie dostaję partnera. To całkiem fajne!”&lt;bt_wait&gt;</seg>
+„Skanery takie jak ja zwykle pracują samotnie. Zwiad na linii wroga i takie tam?”&lt;bt_wait&gt;
+„Zwykle nie dostaję partnera. A to dość miłe!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50432,8 +50432,8 @@ Pozostawię to tutaj jako przypomnienie dla samej siebie.</seg>
       <tuv lang="en-US">
         <seg>My name's 9S. I'm here to provide support.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T132220Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
-        <seg>Nazywam się 9S. Jestem tutaj, żeby pomóc.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T115408Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
+        <seg>Nazywam się 9S. Jestem tutaj, żeby stanowić wsparcie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67112,6 +67112,14 @@ wśród wrogów których dotknie.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213224Z" creationid="Syn Spawacza" creationdate="20200601T213224Z">
         <seg>Sprint</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sri Lanka</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T115136Z" creationid="Syn Spawacza" creationdate="20200629T115136Z">
+        <seg>Sri Lanka</seg>
       </tuv>
     </tu>
     <tu>
