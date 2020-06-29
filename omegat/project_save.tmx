@@ -10809,6 +10809,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All EXP lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110053Z" creationid="Syn Spawacza" creationdate="20200629T110053Z">
+        <seg>Utracono wszystkie PD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -10975,6 +10983,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T142848Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T142848Z">
         <seg>Wszystko co robi, to wylewa z siebie jakieś bzdury o czymś nazywanym „filozofią”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All items lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110056Z" creationid="Syn Spawacza" creationdate="20200629T110049Z">
+        <seg>Utracono wszystkie przedmioty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53583,6 +53599,14 @@ poniewiera się na powierzchni.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Overwrite the save in this slot?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110112Z" creationid="Syn Spawacza" creationdate="20200629T110112Z">
+        <seg>Nadpisać w tym slocie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overwrite this save?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165025Z" creationid="Syn Spawacza" creationdate="20200530T165025Z">
@@ -59821,6 +59845,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to the title screen without saving? All unsaved progress to this point will be lost.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110149Z" creationid="Syn Spawacza" creationdate="20200629T110149Z">
+        <seg>Powrócić do ekranu tytułowego bez zapisywania? Cały niezapisany postęp będzie utracony.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Return to the title screen.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T154224Z" creationid="Syn Spawacza" creationdate="20200530T144518Z">
@@ -60736,6 +60768,14 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T161043Z" creationid="Syn Spawacza" creationdate="20200530T161043Z">
         <seg>Zapisać zmiany i kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save complete.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110202Z" creationid="Syn Spawacza" creationdate="20200629T110202Z">
+        <seg>Zapisywanie zakończone.</seg>
       </tuv>
     </tu>
     <tu>
