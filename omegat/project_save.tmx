@@ -41549,6 +41549,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you've got nothing to do, why don't you try fishing? Everyone loves settling down for a round by the pond!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135851Z" creationid="Syn Spawacza" creationdate="20200629T135851Z">
+        <seg>Jak nie masz nic do roboty, to może powędkuj? Wszyscy lubią czasem odpocząć nad stawem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If your logic circuits are this advanced, why are you behaving like that?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153750Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153750Z">
@@ -49080,6 +49088,14 @@ of the forest.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104709Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104709Z">
         <seg>Może mogę ci pomóc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maybe I should look into it...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135928Z" creationid="Syn Spawacza" creationdate="20200629T135928Z">
+        <seg>Może warto to sprawdzić...</seg>
       </tuv>
     </tu>
     <tu>
@@ -86881,6 +86897,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You all in one piece? There weren't many casualties in this area, but we might not be so lucky next time!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140034Z" creationid="Syn Spawacza" creationdate="20200629T140034Z">
+        <seg>Jesteście cali? Nie było wielu ofiar na tym obszarze, ale następnym razem możecie nie mieć tyle szczęścia!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You all right!?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T183246Z" creationid="Syn Spawacza" creationdate="20200530T183246Z">
@@ -87641,6 +87665,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125843Z">
         <seg>Wiesz, wciąż nie jestem pewna, czy to dobry pomysł.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You know, I've been thinking about something lately.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135917Z" creationid="Syn Spawacza" creationdate="20200629T135917Z">
+        <seg>Wiesz, sporo nad czyś ostatnio myślałam.</seg>
       </tuv>
     </tu>
     <tu>
