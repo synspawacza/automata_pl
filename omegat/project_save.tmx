@@ -14031,6 +14031,14 @@ Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w któr
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you the new YoRHa soldiers? If so, you should go meet our leader.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131616Z" creationid="Syn Spawacza" creationdate="20200629T131616Z">
+        <seg>Jesteście żołnierzami YoRHa? Jak tak, to musicie poznać naszego przywódcę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you there?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200936Z" creationid="Syn Spawacza" creationdate="20200530T200936Z">
@@ -33077,6 +33085,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085303Z">
         <seg>Hej, co to za ociąganie się? Pospiesz się i skop mu tyłek!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, you can't loiter here without our leader's permission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131418Z" creationid="Syn Spawacza" creationdate="20200629T131418Z">
+        <seg>Hej, nie możesz się tu kręcić bez zgody przywódcy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53714,6 +53730,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, a newcomer? You should you talk to our leader, Anemone.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131508Z" creationid="Syn Spawacza" creationdate="20200629T131508Z">
+        <seg>Och, nowo przybyli? Musicie najpierw porozmawiać z Anemoną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, and I got the stupid transporter up and running too.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T105827Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T105827Z">
@@ -54238,6 +54262,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150832Z">
         <seg>Och, pewnie chodzi wam o Jackass, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Oh, you're a YoRHa soldier? You should talk to our leader Anemone first.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131541Z" creationid="Syn Spawacza" creationdate="20200629T131541Z">
+        <seg>Och, jesteś żołnierzem YoRHa? Musisz najpierw porozmawiać z Anemoną.</seg>
       </tuv>
     </tu>
     <tu>
