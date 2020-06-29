@@ -1112,8 +1112,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...M-Machines...where...wh-whe...re...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143023Z" creationid="Syn Spawacza" creationdate="20200629T143023Z">
-        <seg>Maszyny... gdzie... gdz... e...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143436Z" creationid="Syn Spawacza" creationdate="20200629T143023Z">
+        <seg>Maszyny... gdzie... gdzi... e...</seg>
       </tuv>
     </tu>
     <tu>
@@ -10239,6 +10239,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Current intel insufficient for Command. Suggest investigating machine lifeform settlement.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143711Z" creationid="Syn Spawacza" creationdate="20200629T143711Z">
+        <seg>Uwaga: dane wywiadowcze niewystarczające dla Dowództwa. Sugeruje się zbadanie osady mechanicznych form życia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Damage to data backup system.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220300Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220300Z">
@@ -11525,8 +11533,8 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
       <tuv lang="en-US">
         <seg>All...acting...strange!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143206Z" creationid="Syn Spawacza" creationdate="20200629T143206Z">
-        <seg>Wszyscy... dziwnie... się... zachowują...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143440Z" creationid="Syn Spawacza" creationdate="20200629T143206Z">
+        <seg>Wszyscy... dziwnie... się... zachowują!</seg>
       </tuv>
     </tu>
     <tu>
@@ -37265,6 +37273,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T180912Z" creationid="Syn Spawacza" creationdate="20200606T112637Z">
         <seg>Wiem, że dopiero co cię poskładali, ale mam dla ciebie kolejną misję.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know you're not thrilled about this, 2B, but why don't we hear what these machines have to say? I'm curious what their intentions are.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143604Z" creationid="Syn Spawacza" creationdate="20200629T143604Z">
+        <seg>Wiem, że nie jesteś tym zachwycona 2B, ale posłuchajmy chociaż co te maszyny mają do powiedzenia. Jestem ciekaw jakie są ich intencje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64354,6 +64370,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144447Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144447Z">
         <seg>Do zobaczyska!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See you later. Hang in there!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143417Z" creationid="Syn Spawacza" creationdate="20200629T143417Z">
+        <seg>Do zobaczenia później. Trzymaj się!</seg>
       </tuv>
     </tu>
     <tu>
