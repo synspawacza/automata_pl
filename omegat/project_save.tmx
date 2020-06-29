@@ -34531,6 +34531,14 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Huh? Hey, you can't come this far without our leader's permission.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131131Z" creationid="Syn Spawacza" creationdate="20200629T131131Z">
+        <seg>Hę? Hej, nie możesz wchodzić tak daleko bez zgody przywódcy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Huh? How so?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122659Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122659Z">
@@ -54018,6 +54026,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Oh, our leader isn't here?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131351Z" creationid="Syn Spawacza" creationdate="20200629T131351Z">
+        <seg>Och, nie ma tu naszej przywódczyni?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Oh, perfect. I have the materials you asked me to—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090354Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090354Z">
@@ -66920,6 +66936,14 @@ znajomych androidów.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sorry. You've got to talk to our leader first. Them's the rules.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131207Z" creationid="Syn Spawacza" creationdate="20200629T131207Z">
+        <seg>Przykro mi. Musisz najpierw pogadać z naszym przywódcą. Takie są zasady.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sorry... I have no clue...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165945Z" creationid="Syn Spawacza" creationdate="20200627T165945Z">
@@ -72560,6 +72584,14 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124433Z">
         <seg>Zasady są chronione niskopoziomowym systemem. Odzyskiwanie danych posiada nieakceptowalny poziom ryzyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The rules here are a lot stricter than the other camps. You have to get the leader's approval before you do anything.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131322Z" creationid="Syn Spawacza" creationdate="20200629T131322Z">
+        <seg>Mamy bardziej rygorystyczne przepisy niż w innych obozach. Musisz mieć zgodę przywódcy zanim cokolwiek zrobisz.</seg>
       </tuv>
     </tu>
     <tu>
