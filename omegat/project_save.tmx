@@ -3208,6 +3208,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>9S, kill my identification circuit. I can't attack them like this.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160749Z" creationid="Syn Spawacza" creationdate="20200629T160749Z">
+        <seg>9S, zniszcz moje obwody identyfikacyjne. Bez tego nie mogę atakować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>9S, let's go back and get some data from the machines.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143744Z" creationid="Syn Spawacza" creationdate="20200629T143744Z">
@@ -39989,6 +39997,14 @@ Sam.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'll remove the virus right now. Hold on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160604Z" creationid="Syn Spawacza" creationdate="20200629T160604Z">
+        <seg>Zaraz usunę tego wirusa. Poczekaj.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'll rest if I feel like it.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110026Z">
@@ -46621,6 +46637,14 @@ Może zostać sprzedany.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Kiiiiiiii...ll...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160821Z" creationid="Syn Spawacza" creationdate="20200629T160821Z">
+        <seg>Zbiiiiiij...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Kill me, coward! Kill me! Kill me! Kill me! Kill me!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052759Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052759Z">
@@ -52578,6 +52602,14 @@ Koniec</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160133Z">
         <seg>Jak mam teraz żyć...?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nnghn...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160527Z" creationid="Syn Spawacza" creationdate="20200629T160527Z">
+        <seg>Nnghn...</seg>
       </tuv>
     </tu>
     <tu>
