@@ -10575,6 +10575,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Alert: Machine lifeforms detected. Confirmed to be high-energy and equipped with dangerous weaponry.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153838Z" creationid="Syn Spawacza" creationdate="20200629T153838Z">
+        <seg>Uwaga: wykryto wrogie mechaniczne formy życia.  Stwierdza się wysoką energię i wyposażenie w niebezpieczną broń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Alert: Mail received from Command.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104554Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104554Z">
@@ -16359,8 +16367,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Big plants, too.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090840Z">
-        <seg>Wielkie rośliny też.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090840Z">
+        <seg>I to wielkie rośliny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82433,8 +82441,8 @@ Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
       <tuv lang="en-US">
         <seg>We probably shouldn't get near that guy's feet...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153454Z" creationid="Syn Spawacza" creationdate="20200629T153454Z">
-        <seg>Powinniśmy się trzymać z dala od jego nóg.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153501Z" creationid="Syn Spawacza" creationdate="20200629T153454Z">
+        <seg>Powinniśmy się trzymać z dala od jego nóg...</seg>
       </tuv>
     </tu>
     <tu>
@@ -87218,6 +87226,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150615Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150615Z">
         <seg>Tak, jest świetny. Właściwie, to chciałbym też taki mieć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yeah, no. Let's find another route.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153514Z" creationid="Syn Spawacza" creationdate="20200629T153459Z">
+        <seg>Jasne. Znajdźmy inną drogę.</seg>
       </tuv>
     </tu>
     <tu>
