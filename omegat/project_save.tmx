@@ -89339,6 +89339,14 @@ Przywrócić poprzednie wyposażenie?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You should be able to zap yourself here from other transporters now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154651Z" creationid="Syn Spawacza" creationdate="20200629T154651Z">
+        <seg>Możesz teraz przesłać się tu z dowolnego innego transportera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You should head there whenever you have the time.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132723Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132723Z">
@@ -89841,6 +89849,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095741Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095741Z">
         <seg>Obie jesteście poszukiwane przez Dowództwo za dezercję. Złóżcie broń i natychmiast się poddajcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're certainly...active in a lot of areas, aren't you?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154733Z" creationid="Syn Spawacza" creationdate="20200629T154733Z">
+        <seg>Jesteście dość... aktywni w wielu miejsca, prawda?</seg>
       </tuv>
     </tu>
     <tu>
