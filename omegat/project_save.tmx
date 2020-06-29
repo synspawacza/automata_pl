@@ -1350,6 +1350,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Very well.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112125Z" creationid="Syn Spawacza" creationdate="20200629T112125Z">
+        <seg>Dobrze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Well?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T104935Z" creationid="Syn Spawacza" creationdate="20200530T204709Z">
@@ -34835,6 +34843,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I have something I want to say.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112231Z" creationid="Syn Spawacza" creationdate="20200629T112231Z">
+        <seg>Mam coś do powiedzenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I have something important to discuss with you today.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150842Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150842Z">
@@ -49922,6 +49938,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T133222Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T133222Z">
         <seg>Nieeeeeeee!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Nope, nothing at all.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112252Z" creationid="Syn Spawacza" creationdate="20200629T112252Z">
+        <seg>Nie, nic nie mam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75113,6 +75137,14 @@ Poza tym, istnieje wielu członków, którzy pozapisywali duże pliki muzyczne i
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Understood. Returning to title screen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112320Z" creationid="Syn Spawacza" creationdate="20200629T112320Z">
+        <seg>Zrozumiano. Powrót do ekranu tytułowego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Understood. We'll join you there and lend a hand.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214144Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214144Z">
@@ -85259,8 +85291,8 @@ Och, nie martw się! To dobra reputacja!</seg>
       <tuv lang="en-US">
         <seg>You, &lt;player&gt;, faithful player of this title,</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T125115Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125115Z">
-        <seg>Ty, &lt;player&gt;, wierny graczu tego tytułu,</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112414Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125115Z">
+        <seg>Ty, wierny graczu &lt;player&gt;,</seg>
       </tuv>
     </tu>
     <tu>
@@ -87132,16 +87164,16 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       <tuv lang="en-US">
         <seg>have anything you would like to say to other players</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T125048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125048Z">
-        <seg>masz coś, co byś chciała przekazać innym graczom</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125048Z">
+        <seg>masz coś, co chcesz przekazać innym graczom</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>have lost your life multiple times to make it this far.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T125119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125119Z">
-        <seg>straciłaś swoje życie wiele razy na wiele sposobów, żeby dotrzeć tak daleko.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T112423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T125119Z">
+        <seg>tracąc swoje życie wiele razy na wiele sposobów, żeby dotrzeć tak daleko.</seg>
       </tuv>
     </tu>
     <tu>
