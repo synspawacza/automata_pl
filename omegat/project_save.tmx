@@ -766,6 +766,14 @@ wybrałyśmy, by tu być...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Cust...om...er...augh...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143135Z" creationid="Syn Spawacza" creationdate="20200629T143135Z">
+        <seg>Od...wie...dza...ją...cy...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Damn. That lock's stronger than I thought.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154958Z">
@@ -896,8 +904,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Guh...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T142915Z" creationid="Syn Spawacza" creationdate="20200629T142915Z">
-        <seg>...Gyy...</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143026Z" creationid="Syn Spawacza" creationdate="20200629T142915Z">
+        <seg>Gyy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1110,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...M-Machines...where...wh-whe...re...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143023Z" creationid="Syn Spawacza" creationdate="20200629T143023Z">
+        <seg>Maszyny... gdzie... gdz... e...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...M6010_S0050_N</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T054317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T054317Z">
@@ -1202,6 +1218,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154843Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154804Z">
         <seg>Słucham...? Oskarżasz mnie o cmokanie w twoją stronę? Koszmar! Nie mógłbym! NIGDY!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...Please...die...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143034Z" creationid="Syn Spawacza" creationdate="20200629T143034Z">
+        <seg>Proszę... giń...</seg>
       </tuv>
     </tu>
     <tu>
@@ -1474,6 +1498,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T084123Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T084123Z">
         <seg>Szukasz akcesoriów do zabawy dla dzieci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>...You...meat...vegetables...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143254Z" creationid="Syn Spawacza" creationdate="20200629T143254Z">
+        <seg>Ty... mięso... warzywa...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11491,6 +11523,14 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All...acting...strange!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143206Z" creationid="Syn Spawacza" creationdate="20200629T143206Z">
+        <seg>Wszyscy... dziwnie... się... zachowują...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Allies?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113130Z">
@@ -16695,8 +16735,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Break time!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T125911Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125911Z">
-        <seg>Przerwa!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T125911Z">
+        <seg>Czas na przerwę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -39789,6 +39829,14 @@ Sam.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm glad I rested.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143220Z" creationid="Syn Spawacza" creationdate="20200629T143220Z">
+        <seg>Cieszę się że odpocząłem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I'm glad you're okay...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165208Z">
@@ -45150,6 +45198,14 @@ Kolekcja, którą zebrałeś wymaga specjalnej nagrody!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It...hu...it...it...hurts...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143048Z" creationid="Syn Spawacza" creationdate="20200629T143048Z">
+        <seg>To... bo... li... to... boli...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It...talks?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T184021Z" creationid="Syn Spawacza" creationdate="20200530T184021Z">
@@ -45517,6 +45573,14 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T095459Z" creationid="Syn Spawacza" creationdate="20200606T095459Z">
         <seg>Uszkodzenia systemu skoku</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jun...k...bro...ken... I... I...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143329Z" creationid="Syn Spawacza" creationdate="20200629T143329Z">
+        <seg>Śmie...ci... Ze...psu..te... Ja... Ja...</seg>
       </tuv>
     </tu>
     <tu>
