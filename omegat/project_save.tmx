@@ -18553,6 +18553,14 @@ i czekają na ciebie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chapter Select can now be accessed from the title screen and access points.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T111150Z" creationid="Syn Spawacza" creationdate="20200629T111150Z">
+        <seg>Wybór rozdziału jest teraz dostępny z ekranu tytułowego i punktów dostępu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Character</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T075658Z" creationid="Syn Spawacza" creationdate="20200601T075658Z">
@@ -26739,6 +26747,14 @@ Wróćcie później.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T174638Z" creationid="Syn Spawacza" creationdate="20200601T174638Z">
         <seg>Ostateczna bitwa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Final Route Preview</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T111050Z" creationid="Syn Spawacza" creationdate="20200629T111050Z">
+        <seg>Prezentacja ostatniej ścieżki</seg>
       </tuv>
     </tu>
     <tu>
@@ -68735,6 +68751,18 @@ Mogą zostać sprzedane.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165114Z">
         <seg>Przesyłanie danych... Rezonują ze sobą...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The debug menu can now be accessed by pressing &lt;BTN_R2&gt;&lt;ICON_PLUS&gt;&lt;BTN_SELECT&gt;
+ 
+Activating the debug menu will disable all save functionality until you load any save data.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T111254Z" creationid="Syn Spawacza" creationdate="20200629T111254Z">
+        <seg>Menu debugowe dostępne po naciśnięciu &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
+
+Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześniejszego zapisu.</seg>
       </tuv>
     </tu>
     <tu>
