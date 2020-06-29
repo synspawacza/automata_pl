@@ -83591,6 +83591,20 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You can now use the Debug Room.
+It can be accessed from the Start Menu.
+ 
+At the Debug Room, you can use the debug menu to freely place enemies.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T111549Z" creationid="Syn Spawacza" creationdate="20200629T111549Z">
+        <seg>Możesz teraz użyć pokoju debugowego.
+Dostępny jest on w menu start.
+
+W pokoju debugowym użyj menu debugowego by swobodnie umieszczać przeciwników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You can obtain them from enemies at the big open area towards the left when you exit the camp.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T085830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T085830Z">
