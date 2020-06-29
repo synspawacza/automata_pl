@@ -71060,6 +71060,14 @@ Doceniamy twoje dalsze wsparcie i nie możemy się doczekać ponownej współpra
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks for the backup.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153150Z" creationid="Syn Spawacza" creationdate="20200629T153150Z">
+        <seg>Dziękuję za wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks for the help.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134931Z" creationid="Syn Spawacza" creationdate="20200629T134931Z">
@@ -71176,6 +71184,14 @@ Doceniamy twoje dalsze wsparcie i nie możemy się doczekać ponownej współpra
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T225442Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T225442Z">
         <seg>Dzięki. To OGROMNA pomoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks. We owe you one.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153243Z" creationid="Syn Spawacza" creationdate="20200629T153243Z">
+        <seg>Dziękujemy. Jesteśmy waszymi dłużnikami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82415,6 +82431,14 @@ Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We probably shouldn't get near that guy's feet...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153454Z" creationid="Syn Spawacza" creationdate="20200629T153454Z">
+        <seg>Powinniśmy się trzymać z dala od jego nóg.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We really need more info...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T122443Z" creationid="Syn Spawacza" creationdate="20200629T122443Z">
@@ -88139,6 +88163,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You beat that thing with surface-based gear? That's a surprise!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153416Z" creationid="Syn Spawacza" creationdate="20200629T153416Z">
+        <seg>Pokonaliście to ekwipunkiem naziemnym? A to niespodzianka!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You came here from Master &lt;SARU_JAN&gt;'s village, didn't you?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T091247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T091247Z">
@@ -88579,6 +88611,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221954Z">
         <seg>Zebrałaś dla mnie paczki? Och, dziękuję!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You guys are amazing...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T153159Z" creationid="Syn Spawacza" creationdate="20200629T153159Z">
+        <seg>Jesteście niesamowici...</seg>
       </tuv>
     </tu>
     <tu>
