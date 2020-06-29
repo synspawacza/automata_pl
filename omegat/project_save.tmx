@@ -3518,8 +3518,8 @@ Project Gestalt collapses</seg>
       <tuv lang="en-US">
         <seg>&lt;KC_ACTION_2&gt;: (Hold near water) Fish</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102056Z" creationid="Syn Spawacza" creationdate="20200629T102056Z">
-        <seg>&lt;KC_ACTION_2&gt;: (przytrzymaj w pobliżu wody) Wędkuj</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102145Z" creationid="Syn Spawacza" creationdate="20200629T102056Z">
+        <seg>&lt;KC_ACTION_2&gt;: (Przytrzymaj, w pobliżu wody) Wędkuj</seg>
       </tuv>
     </tu>
     <tu>
@@ -3614,8 +3614,16 @@ Project Gestalt collapses</seg>
       <tuv lang="en-US">
         <seg>&lt;KC_JIBAKU_2&gt;: (Hold) Berserk Mode (A2 only)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150519Z" creationid="Syn Spawacza" creationdate="20200617T150519Z">
-        <seg>&lt;KC_JIBAKU_2&gt;: (przytrzymaj) Tryb berserkera (tylko A2)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102237Z" creationid="Syn Spawacza" creationdate="20200617T150519Z">
+        <seg>&lt;KC_JIBAKU_2&gt;: (Przytrzymaj) Tryb berserkera (tylko A2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_JIBAKU_2&gt;: (Hold) Self-destruct</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102156Z" creationid="Syn Spawacza" creationdate="20200629T102156Z">
+        <seg>&lt;KC_JIBAKU_2&gt;: (Przytrzymaj) Autodestrukcja</seg>
       </tuv>
     </tu>
     <tu>
@@ -3624,6 +3632,14 @@ Project Gestalt collapses</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171108Z" creationid="Syn Spawacza" creationdate="20200530T171108Z">
         <seg>&lt;KC_JUMP_2&gt;: Skok</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>&lt;KC_LIGHT_2&gt;: (Mash) Taunt</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102209Z" creationid="Syn Spawacza" creationdate="20200629T102131Z">
+        <seg>&lt;KC_LIGHT_2&gt;: (Szybko naciskaj) Prowokacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -3742,8 +3758,8 @@ Project Gestalt collapses</seg>
       <tuv lang="en-US">
         <seg>&lt;KC_SPEED_ATK_2&gt;: (Hold) Taunt (A2 only)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150547Z" creationid="Syn Spawacza" creationdate="20200617T150547Z">
-        <seg>&lt;KC_SPEED_ATK_2&gt;: (przytrzymaj) Prowokacja (tylko A2)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102243Z" creationid="Syn Spawacza" creationdate="20200617T150547Z">
+        <seg>&lt;KC_SPEED_ATK_2&gt;: (Przytrzymaj) Prowokacja (tylko A2)</seg>
       </tuv>
     </tu>
     <tu>
@@ -15123,16 +15139,16 @@ Raport zostanie wysłany do ministra, by przekazać, że ukończenie Systemu rep
       <tuv lang="en-US">
         <seg>B Mode (Hold)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T140023Z" creationid="Syn Spawacza" creationdate="20200530T140023Z">
-        <seg>Tryb B (przytrzymaj)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102233Z" creationid="Syn Spawacza" creationdate="20200530T140023Z">
+        <seg>Tryb B (Przytrzymaj)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>B-Mode (Hold)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T134907Z" creationid="Syn Spawacza" creationdate="20200530T134907Z">
-        <seg>Tryb B (przytrzymaj)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102214Z" creationid="Syn Spawacza" creationdate="20200530T134907Z">
+        <seg>Tryb B (Przytrzymaj)</seg>
       </tuv>
     </tu>
     <tu>
@@ -66260,8 +66276,8 @@ To koniec.</seg>
       <tuv lang="en-US">
         <seg>Taunt (Hold)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T213033Z" creationid="Syn Spawacza" creationdate="20200601T213033Z">
-        <seg>Prowokacja (przytrzymaj)</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102256Z" creationid="Syn Spawacza" creationdate="20200601T213033Z">
+        <seg>Prowokacja (Przytrzymaj)</seg>
       </tuv>
     </tu>
     <tu>
