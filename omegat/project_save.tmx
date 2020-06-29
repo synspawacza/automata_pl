@@ -81959,6 +81959,14 @@ W końcu byłyśmy obserwatorkami.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We've got a squadmate waiting in a rocky stretch up ahead. Head on over.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132350Z" creationid="Syn Spawacza" creationdate="20200629T132350Z">
+        <seg>Ktoś od nas czeka na was przy skałach na pustyni. Musicie się z nią spotkać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We've got company. Looks like machines.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125931Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125931Z">
