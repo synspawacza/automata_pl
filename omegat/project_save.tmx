@@ -1126,6 +1126,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Never mind. Just be careful out there, yeah?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140256Z" creationid="Syn Spawacza" creationdate="20200629T140256Z">
+        <seg>Nieważne... Po prostu bądź ostrożna, jasne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...No enemies?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094056Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094056Z">
@@ -25324,6 +25332,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221338Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221338Z">
         <seg>Nie pouczaj mnie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't really feel like talking now.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140309Z" creationid="Syn Spawacza" creationdate="20200629T140309Z">
+        <seg>Nie mam ochoty na rozmowę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80625,6 +80641,14 @@ Jest to w pewien sposób zabawne. Taka trywialna pogadanka w takiej sytuacji?</s
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T143415Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T143415Z">
         <seg>Dostaniemy się do ruin miasta, jeśli przesuniemy to pudło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We can rest easy now, huh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140541Z" creationid="Syn Spawacza" creationdate="20200629T140541Z">
+        <seg>Teraz możemy odpocząć, co?</seg>
       </tuv>
     </tu>
     <tu>
