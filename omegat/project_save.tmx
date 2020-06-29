@@ -25172,6 +25172,14 @@ Nie zrobisz z maszyny swojego brata.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't come closer!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T142705Z" creationid="Syn Spawacza" creationdate="20200629T142705Z">
+        <seg>Nie podchodź!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't confirm that by yourself!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T082736Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082736Z">
@@ -25324,6 +25332,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094915Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094915Z">
         <seg>Nie słuchaj tego, co mówią, 2B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't look at me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T142652Z" creationid="Syn Spawacza" creationdate="20200629T142652Z">
+        <seg>Nie patrz na mnie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -64234,6 +64250,14 @@ zostali zniszczeni prze ruch oporu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121114Z">
         <seg>Do zobaczenia później... Hii! Hi hi hi hi hihihihih...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>See you! See you!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T142642Z" creationid="Syn Spawacza" creationdate="20200629T142642Z">
+        <seg>Do zobaczenia! Do zobaczenia!</seg>
       </tuv>
     </tu>
     <tu>
