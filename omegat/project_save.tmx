@@ -36755,6 +36755,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I hear you defeated the machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134615Z" creationid="Syn Spawacza" creationdate="20200629T134615Z">
+        <seg>Słyszałam, że pokonaliście maszyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hear you kicked some tin-can ass out in the desert.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132742Z" creationid="Syn Spawacza" creationdate="20200629T132742Z">
@@ -75151,6 +75159,14 @@ Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is a harsh environment for androids.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134436Z" creationid="Syn Spawacza" creationdate="20200629T134436Z">
+        <seg>To wrogie środowisko dla androidów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is a machine I've hacked into before!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214045Z">
@@ -83264,6 +83280,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Welp, nothing for it! Better just concentrate on the task at hand, right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134539Z" creationid="Syn Spawacza" creationdate="20200629T134539Z">
+        <seg>Cóź, nie to nie da! Lepiej się skoncentruj na przydzielonym zadaniu, dobra?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wh-what's going on!?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T181941Z" creationid="Syn Spawacza" creationdate="20200530T181941Z">
@@ -88381,6 +88405,14 @@ Pozwala ona na zagranie w wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142716Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142716Z">
         <seg>Ty żyjesz! Och, dzięki bogu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're amazing! I wish I was as strong as you...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134705Z" creationid="Syn Spawacza" creationdate="20200629T134705Z">
+        <seg>Jesteście niesamowici! Też chciałabym być tak silna jak wy...</seg>
       </tuv>
     </tu>
     <tu>
