@@ -3990,6 +3990,14 @@ staje się wrogiem.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;SARU_JAN&gt;'s right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150220Z" creationid="Syn Spawacza" creationdate="20200629T150220Z">
+        <seg>&lt;SARU_JAN&gt; ma rację.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;SEC&gt; second</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T100450Z" creationid="Syn Spawacza" creationdate="20200606T100450Z">
@@ -7682,6 +7690,14 @@ it is heavy.</seg>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T180815Z" creationid="Syn Spawacza" creationdate="20200605T180815Z">
         <seg>Ciężka, kamienna maska.
 Równie brudna, co ciężka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A while ago, I heard a terrible noise coming from the city ruins.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150252Z" creationid="Syn Spawacza" creationdate="20200629T150252Z">
+        <seg>Słyszałem niedawno straszny hałas od strony ruin miasta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17923,6 +17939,14 @@ Arkę, która wyśle te wspomnienia do nowego świata.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140302Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140302Z">
         <seg>Ale kiedyś wam oddamy. Obiecuję!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>But wh-whatever happens, I'll protect the village!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150316Z" creationid="Syn Spawacza" creationdate="20200629T150316Z">
+        <seg>Ale c-cokolwiek się stanie, będę chronił wioskę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35785,6 +35809,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I can't believe she's no longer functioning while I'm still here...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150158Z" creationid="Syn Spawacza" creationdate="20200629T150158Z">
+        <seg>Nie wierzę, że ona już nie funkcjonuje, a ja dalej tu jestem...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I can't believe that thing decided to end itself...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153723Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153723Z">
@@ -37069,8 +37101,8 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
       <tuv lang="en-US">
         <seg>I heard my sister was...found in the desert.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150037Z" creationid="Syn Spawacza" creationdate="20200629T150037Z">
-        <seg>Słyszałam że moja siostra... znalazła się na pustyni.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150118Z" creationid="Syn Spawacza" creationdate="20200629T150037Z">
+        <seg>Słyszałam że moja siostra... została znaleziona na pustyni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38079,6 +38111,14 @@ A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku woj
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144118Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T134831Z">
         <seg>Powtarzam, tutaj transportowiec Blue Ridge II.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I s-sure wish my shift would end already...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150422Z" creationid="Syn Spawacza" creationdate="20200629T150422Z">
+        <seg>J-jasne że chcę by moja warta się już skończyła...</seg>
       </tuv>
     </tu>
     <tu>
@@ -74177,6 +74217,14 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T144947Z" creationid="Syn Spawacza" creationdate="20200629T144918Z">
         <seg>Na świecie jest zarówno dobro, jak i zło, i to wszystko bez żadnej przyczyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>There is no meaning in war.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150212Z" creationid="Syn Spawacza" creationdate="20200629T150212Z">
+        <seg>Nie ma sensu w wojnie.</seg>
       </tuv>
     </tu>
     <tu>
