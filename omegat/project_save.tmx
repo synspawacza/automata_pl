@@ -24420,6 +24420,14 @@ Wkrótce przystajemy na odpoczynek w cieniu pobliskiej skały, kiedy ściągam b
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Devola? Popola?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160946Z" creationid="Syn Spawacza" creationdate="20200629T160946Z">
+        <seg>Devola? Popola?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Did I not festoon this area with the corpses of your friends?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T171508Z" creationid="Syn Spawacza" creationdate="20200627T171508Z">
@@ -60766,6 +60774,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Proposal: Hack into devices blocking elevator controls.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T161108Z" creationid="Syn Spawacza" creationdate="20200629T161108Z">
+        <seg>Propozycja: zhakuj urządzenia blokujące sterowanie windą.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proposal: Hack into self and eliminate virus.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T114917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114917Z">
@@ -84908,6 +84924,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What did...we ever do...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160842Z" creationid="Syn Spawacza" creationdate="20200629T160842Z">
+        <seg>Co ty... dlaczego zawsze...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What do I do?&lt;bt_wait&gt; What the hell do I DO!?
 &lt;/page&gt;</seg>
       </tuv>
@@ -88216,6 +88240,14 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
         <seg>YoRHa unit 9S... Activate.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112903Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112903Z">
+        <seg>Jednostka YoRHa 9S... Aktywacja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>YoRHa unit 9S... Engage.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160943Z" creationid="Syn Spawacza" creationdate="20200629T160943Z">
         <seg>Jednostka YoRHa 9S... Aktywacja.</seg>
       </tuv>
     </tu>
