@@ -33105,6 +33105,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey, you! You've got to speak to our leader Anemone before you do anything else. That's how things work around here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130735Z" creationid="Syn Spawacza" creationdate="20200629T130735Z">
+        <seg>Hej, ty! Zanim zrobisz tu cokolwiek innego, musisz pogadać z naszą przywódczynią, Anemoną. Tak to tutaj działa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey, you're back! So how did it go? Did you find him, or...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125310Z">
