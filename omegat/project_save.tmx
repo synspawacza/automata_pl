@@ -6140,6 +6140,14 @@ rafinacji paliwa.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A flock of birds came to rest their wings here. I wonder if they instinctively knew how to escape the storm?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135628Z" creationid="Syn Spawacza" creationdate="20200629T135628Z">
+        <seg>Stado ptaków wylądowało tu odpocząć. Ciekawe, czy wiedziały to instynktownie jak uciec przed burzą?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A foolish doll</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174821Z" creationid="Syn Spawacza" creationdate="20200608T174821Z">
@@ -43822,6 +43830,14 @@ prawdę tego świata.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T091612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T091612Z">
         <seg>Wyglądało to mniej na udawanie, a bardziej jak prawdziwe zwierzęce zachowanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It seems like time moves more slowly here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135640Z" creationid="Syn Spawacza" creationdate="20200629T135640Z">
+        <seg>Czas wydaje się tu płynąć wolniej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88983,8 +88999,8 @@ Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</
       <tuv lang="en-US">
         <seg>Your success has inspired me to work harder during my own missions!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135321Z" creationid="Syn Spawacza" creationdate="20200629T135321Z">
-        <seg>Twój sukces zainspirował mnie do cięższej pracy podczas moich misji!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135425Z" creationid="Syn Spawacza" creationdate="20200629T135321Z">
+        <seg>Twoje sukcesy zainspirowały mnie do cięższej pracy podczas moich misji!</seg>
       </tuv>
     </tu>
     <tu>
