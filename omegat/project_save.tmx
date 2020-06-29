@@ -2504,6 +2504,14 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2B... 2B...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121600Z" creationid="Syn Spawacza" creationdate="20200629T121600Z">
+        <seg>2B... 2B...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2B... 9S... Don't die on me...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142739Z">
@@ -7685,6 +7693,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A...2...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121718Z" creationid="Syn Spawacza" creationdate="20200629T121718Z">
+        <seg>A...2...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A...virus? What are you talking about?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215328Z">
@@ -7809,6 +7825,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090516Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090516Z">
         <seg>2 nagle poczuła potrzebę na przechadzkę. Mimo, że spacer dał jej poczucie spokoju i spełnienia, wioska Pascala do czasu jej powrotu została zrównana z ziemią.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A2!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121603Z" creationid="Syn Spawacza" creationdate="20200629T121603Z">
+        <seg>A2!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49636,6 +49660,22 @@ z skamieniałej żywicy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Monitor 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121639Z" creationid="Syn Spawacza" creationdate="20200629T121639Z">
+        <seg>Monitoruj 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Monitor A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121635Z" creationid="Syn Spawacza" creationdate="20200629T121635Z">
+        <seg>Monitoruj A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Monks carried this decorative spear, said to be
 made from phoenix feathers, on pilgrimages.</seg>
       </tuv>
@@ -68083,6 +68123,22 @@ potężne celowi uderzenie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Support 9S.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121626Z" creationid="Syn Spawacza" creationdate="20200629T121626Z">
+        <seg>Wesprzyj 9S.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Support A2.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121622Z" creationid="Syn Spawacza" creationdate="20200629T121622Z">
+        <seg>Wesprzyj A2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Support Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150936Z" creationid="Syn Spawacza" creationdate="20200530T150936Z">
@@ -84264,6 +84320,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Whoa. What's that?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121742Z" creationid="Syn Spawacza" creationdate="20200629T121742Z">
+        <seg>Ła. Co to jest?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why are some machines so aggressive, while others couldn't care less about us?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144524Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144524Z">
@@ -87869,6 +87933,14 @@ Och, nie martw się! To dobra reputacja!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213411Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213411Z">
         <seg>Zdecydowanie traktujesz mnie jak dziecko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're useless.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121756Z" creationid="Syn Spawacza" creationdate="20200629T121756Z">
+        <seg>Jesteś bezużyteczny.</seg>
       </tuv>
     </tu>
     <tu>
