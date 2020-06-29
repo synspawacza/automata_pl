@@ -54632,6 +54632,14 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Permit suspension requests from pods?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T113003Z" creationid="Syn Spawacza" creationdate="20200629T113003Z">
+        <seg>Zezwolić na wniosek o zawieszenie od podów?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Personal data deletion request denied.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124351Z">
