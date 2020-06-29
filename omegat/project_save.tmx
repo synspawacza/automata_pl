@@ -14503,6 +14503,22 @@ kiedy Numer 2 i Numer 4 ją przytrzymują. Trzymają ją, jak się zwija i...&lt
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ask about the aliens.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154759Z" creationid="Syn Spawacza" creationdate="20200629T154759Z">
+        <seg>Zapytaj o kosmitów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ask about the other machines.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154808Z" creationid="Syn Spawacza" creationdate="20200629T154808Z">
+        <seg>Zapytaj o inne maszyny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Ask me something! Anything! I'm omniscient, I'm omnipotent, fire a question at me!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152504Z">
@@ -25460,6 +25476,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T120346Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T120346Z">
         <seg>Nie pozwólcie intruzom się przedrzeć!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don't let them go any further!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T155015Z" creationid="Syn Spawacza" creationdate="20200629T155015Z">
+        <seg>Nie pozwólcie im przejść dalej!</seg>
       </tuv>
     </tu>
     <tu>
@@ -47121,6 +47145,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leave.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154815Z" creationid="Syn Spawacza" creationdate="20200629T154815Z">
+        <seg>Odejdź.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Leaving such a dangerous foe intact would be unwise.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144001Z">
@@ -47437,6 +47469,14 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST ICH O
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T094734Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T094734Z">
         <seg>Chodźmy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Let's hear them out. Maybe we'll learn more about the machine lifeforms.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154949Z" creationid="Syn Spawacza" creationdate="20200629T154949Z">
+        <seg>Spytajmy się. Może dowiemy się czegoś o mechanicznych formach życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55742,6 +55782,14 @@ Taki zawzięty upór jest wart specjalnego prezentu!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213848Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213848Z">
         <seg>Okej. Zajmę się tym, jak tylko tutaj skończę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Okay. Let me know if there's anything you want to talk about.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T154910Z" creationid="Syn Spawacza" creationdate="20200629T154910Z">
+        <seg>Okej. Daj mi znać jak będzie coś, o czym chcesz wiedzieć.</seg>
       </tuv>
     </tu>
     <tu>
