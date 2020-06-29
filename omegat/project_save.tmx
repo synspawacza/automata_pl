@@ -33699,6 +33699,14 @@ formy życia.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hmm? Oh, a new YoRHa unit, eh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131051Z" creationid="Syn Spawacza" creationdate="20200629T131051Z">
+        <seg>Hmm? Ach, nowa jednostka YoRHa, tak?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hmm? Oh, that. Well...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095840Z">
@@ -35461,6 +35469,14 @@ Ich śmiertelne zwodzenie stało się śpiewem mojego snu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090138Z">
         <seg>nie mogę nic na to poradzić i wszyscy mi dokuczają, ale moje myśli po prostu eksplodują i kiedy mówię, to wszystko wychodzi na raz w wielkim potoku słów, więc wtedy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I can't just tell any outsider that comes barging in here everything that's going on at this camp.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T131017Z" creationid="Syn Spawacza" creationdate="20200629T131017Z">
+        <seg>Nie mogę tak po prostu mówić o tym, co się dzieje w obozie byle przybłędzie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38099,6 +38115,14 @@ Zamiast tego płonie miłością silną i czystą.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T200310Z" creationid="Syn Spawacza" creationdate="20200530T200310Z">
         <seg>Powinno to reagować na jakieś sygnał wejściowy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I think our leader Anemone is in the tent at the square.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130824Z" creationid="Syn Spawacza" creationdate="20200629T130824Z">
+        <seg>Wydaje mi się że nasza przywódczyni, Anemona jest pod namiotem na placu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87391,6 +87415,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113341Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113341Z">
         <seg>Musisz otworzyć drzwi do Wieży!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You new here? Nice to meet you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130750Z" creationid="Syn Spawacza" creationdate="20200629T130750Z">
+        <seg>Jesteście tu nowi? Miło was poznać.</seg>
       </tuv>
     </tu>
     <tu>
