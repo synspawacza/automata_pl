@@ -3516,6 +3516,14 @@ Project Gestalt collapses</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;KC_ACTION_2&gt;: (Hold near water) Fish</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T102056Z" creationid="Syn Spawacza" creationdate="20200629T102056Z">
+        <seg>&lt;KC_ACTION_2&gt;: (przytrzymaj w pobliżu wody) Wędkuj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;KC_ACTION_2&gt;: Dismount</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T150752Z" creationid="Syn Spawacza" creationdate="20200617T150752Z">
@@ -29521,6 +29529,16 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hack machine lifeforms in high places.
+&lt;ENEMY_NUM&gt; / &lt;REQ_NUM&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T101733Z" creationid="Syn Spawacza" creationdate="20200629T101733Z">
+        <seg>Zhakuj mechaniczne formy życia na wysoko położonych miejscach.
+&lt;ENEMY_NUM&gt; / &lt;REQ_NUM&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hack yourself to remove the virus.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T171108Z" creationid="Syn Spawacza" creationdate="20200608T171108Z">
@@ -39581,8 +39599,8 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       <tuv lang="en-US">
         <seg>In A High Place</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214442Z" creationid="Syn Spawacza" creationdate="20200608T214442Z">
-        <seg>W wysokim miejscu</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T101604Z" creationid="Syn Spawacza" creationdate="20200608T214442Z">
+        <seg>Na wysokości</seg>
       </tuv>
     </tu>
     <tu>
@@ -59685,6 +59703,16 @@ przez ustalony czas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T214518Z" creationid="Syn Spawacza" creationdate="20200608T214518Z">
         <seg>Odzyskaj poufne dane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Retrieve upgrade chips from machine lifeforms.
+&lt;ENEMY_NUM&gt; / &lt;REQ_NUM&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T101815Z" creationid="Syn Spawacza" creationdate="20200629T101815Z">
+        <seg>Odzyskaj czipy ulepszeń z mechanicznych form życia.
+&lt;ENEMY_NUM&gt; / &lt;REQ_NUM&gt;</seg>
       </tuv>
     </tu>
     <tu>
