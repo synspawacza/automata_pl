@@ -22973,6 +22973,14 @@ ale odtrąca je na boki jak muchy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dear me... Where could it have gone?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151229Z" creationid="Syn Spawacza" creationdate="20200629T151229Z">
+        <seg>Ojejku... Gdzie mógł się podziać?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Death Rattle</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155517Z" creationid="Syn Spawacza" creationdate="20200601T185617Z">
@@ -32341,6 +32349,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Heh heh. How cool does this make me look!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151316Z" creationid="Syn Spawacza" creationdate="20200629T151316Z">
+        <seg>He he. I jak wyglądam?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Heh heh. Not too shabby. Not too shabby at all...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103139Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103139Z">
@@ -33357,6 +33373,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T140030Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T140030Z">
         <seg>Hej dzieciaku. Mam monetę, która jest warta malutko i taką, która jest warta dużo. Którą chcesz?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, look at this torso I found lying on the ground!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151252Z" creationid="Syn Spawacza" creationdate="20200629T151252Z">
+        <seg>O, popatrz na ten tułów leżący na ziemi!</seg>
       </tuv>
     </tu>
     <tu>
