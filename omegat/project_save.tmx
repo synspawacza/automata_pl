@@ -14119,6 +14119,14 @@ Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w któr
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you okay? 'Cause I'm okay! I don't go down that easily!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152038Z" creationid="Syn Spawacza" creationdate="20200629T152038Z">
+        <seg>U ciebie wszystko dobrze? Bo u mnie tak! Ja się tak łatwo nie daję!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you ready to go?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T154359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154359Z">
@@ -36435,6 +36443,14 @@ Jestem zagubiona.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I don't need a house.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152121Z" creationid="Syn Spawacza" creationdate="20200629T152121Z">
+        <seg>Nie potrzebuję domu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I don't need to hear about—</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T130728Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T130728Z">
@@ -37175,6 +37191,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092937Z">
         <seg>Słyszałam o tym z Bunkra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I heard an explosion in the distance. Are you okay?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152237Z" creationid="Syn Spawacza" creationdate="20200629T152237Z">
+        <seg>Słyszałem wybuch w oddali. U was wszystko dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -42213,6 +42237,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In my house, everything's within arm's reach.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152056Z" creationid="Syn Spawacza" creationdate="20200629T152056Z">
+        <seg>W moim domu wszystko jest na wyciągnięcie ręki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In order to provide optimal support, Pods must be supplied with data relating to the activities of supported units.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220846Z">
@@ -44783,6 +44815,14 @@ w każdej sytuacji, teraz błaga mnie o darowanie Lilly życia.&lt;bt_wait&gt;</
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133625Z" creationid="Syn Spawacza" creationdate="20200530T181738Z">
         <seg>To mała wycieczka, ale może powinniśmy to sprawdzić?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's a comfortable life. I have everything I need.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152115Z" creationid="Syn Spawacza" creationdate="20200629T152115Z">
+        <seg>To wygodne życie. Mam wszystko czego mi trzeba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69491,6 +69531,14 @@ potężne celowi uderzenie.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Sure, sometimes it would be nice to be warm and cozy, but out here I'm always free.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T152208Z" creationid="Syn Spawacza" creationdate="20200629T152125Z">
+        <seg>Pewnie, czasem dobrze mieć ciepłe i przytulne miejsce, ale tak jestem wolny.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sure, there are some side effects... Like a horrifying destabilizing effect on one's psyche.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T115840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T115840Z">
@@ -86674,6 +86722,14 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150651Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150651Z">
         <seg>Łał, okej. A TO się skąd wzięło?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wow, that was a HUGE earthquake!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151932Z" creationid="Syn Spawacza" creationdate="20200629T151932Z">
+        <seg>Łał, to było WIELKIE trzęsienie ziemi!</seg>
       </tuv>
     </tu>
     <tu>
