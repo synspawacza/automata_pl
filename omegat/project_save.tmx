@@ -33081,6 +33081,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hey, welcome back!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132529Z" creationid="Syn Spawacza" creationdate="20200629T132529Z">
+        <seg>Hej, witam ponownie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hey, what's the hold-up? Hurry up and start kicking some ass!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T085303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T085303Z">
@@ -41293,6 +41301,14 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you need anything, best to take care of it here while you can.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132517Z" creationid="Syn Spawacza" creationdate="20200629T132517Z">
+        <seg>Jak czegoś potrzebujesz, najlepiej zająć się tym tutaj, póki możesz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If you obtain any new chips or programs, make sure to try them out!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090529Z">
@@ -45319,6 +45335,14 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150858Z">
         <seg>Upewnijcie się, że nie wpadniecie na żadną jej eksplozję, słyszycie?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Just remember that there's nowhere to resupply out there.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132428Z" creationid="Syn Spawacza" creationdate="20200629T132428Z">
+        <seg>Pamiętaj, że na pustyni nie ma gdzie się zaopatrzyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -69816,6 +69840,16 @@ Możecie zacząć ode mnie.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T085206Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T085206Z">
         <seg>Dziękujemy za zbudowanie tego, siostro!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks for securing access to those desert resources.
+It's a huge help.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T132601Z" creationid="Syn Spawacza" creationdate="20200629T132601Z">
+        <seg>Dzięki za pomoc w zabezpieczeniu zasobów na pustyni.
+To ogromna pomoc.</seg>
       </tuv>
     </tu>
     <tu>
