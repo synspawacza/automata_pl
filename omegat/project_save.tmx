@@ -36059,6 +36059,14 @@ Ale on wciąż nie patrzył w moją stronę.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I expect you'll be dealing a lot with the weapons trader and the supply trader, so why don't you go say 'hi'?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125042Z" creationid="Syn Spawacza" creationdate="20200629T125042Z">
+        <seg>Podejrzewam, że będziecie prowadzić interesy z handlarzem broni i handlarzem zaopatrzenia. Może warto się z nimi przywitać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I fear for the children. Let us hurry to them!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T091129Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091129Z">
@@ -39175,8 +39183,8 @@ Sam.
       <tuv lang="en-US">
         <seg>I'll take care of everything...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122009Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122009Z">
-        <seg>Nie jesteś taki zły, Podzie. Wiesz o tym?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T124116Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122009Z">
+        <seg>Zajmę się wszystkim...</seg>
       </tuv>
     </tu>
     <tu>
