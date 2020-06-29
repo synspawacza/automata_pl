@@ -27711,6 +27711,14 @@ Poczekaj, musimy je wgrać.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Everything was shaking so much! It was so loud!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151850Z" creationid="Syn Spawacza" creationdate="20200629T151850Z">
+        <seg>Wszyscy się tak trzęsą! To było takie głośne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Everything will be fine.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151030Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151030Z">
@@ -37155,6 +37163,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I heard a really loud BOOOOOM! It was scary, but also kinda exciting.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151819Z" creationid="Syn Spawacza" creationdate="20200629T151819Z">
+        <seg>Słyszałem głośne BUUUUUUM! Bałem się, ale to było też trochę ekscytujące.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I heard about this from the Bunker.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092937Z">
@@ -37417,6 +37433,14 @@ do roboty, więc pomóż mi!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122637Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122637Z">
         <seg>Teraz wiem, ile cierpienia wam to sprawiło.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I know there's not much to do here, but consider yourself at home.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151749Z" creationid="Syn Spawacza" creationdate="20200629T151749Z">
+        <seg>Wiem że nie ma tu wiele do roboty, ale czujcie się jak u siebie w domu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38431,6 +38455,14 @@ Wyostrzam wzrok i wstrzymuję oddech.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T162044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162044Z">
         <seg>Powinienem ją zhakować i przejąć kontrolę nad nią teraz, kiedy się niczego nie spodziewa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I should probably be more careful while playing from now on.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151920Z" creationid="Syn Spawacza" creationdate="20200629T151920Z">
+        <seg>Może powinienem od teraz bardziej uważać podczas zabawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40081,6 +40113,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T143220Z" creationid="Syn Spawacza" creationdate="20200629T143220Z">
         <seg>Cieszę się że odpocząłem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm glad you and the villagers are all okay.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151715Z" creationid="Syn Spawacza" creationdate="20200629T151715Z">
+        <seg>Cieszę się że wam i mieszkańcom nic nie jest.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64444,6 +64484,14 @@ o świecie. Wyrzućcie te śmieci.”</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Say, are you all right? There was a huge earthquake, so I was worried.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151658Z" creationid="Syn Spawacza" creationdate="20200629T151658Z">
+        <seg>Wszystko w porządku? Było wielkie trzęsienie ziemi, więc się martwię.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Say, if you ever happen to run into her, say hello from me, all right?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103035Z">
@@ -84722,6 +84770,14 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T111144Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T111144Z">
         <seg>To co mnie przeraża, to to, że przyzwyczaiłem się do patrzenia jak moi bliscy umierają.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What should we play next?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T151828Z" creationid="Syn Spawacza" creationdate="20200629T151828Z">
+        <seg>W co się teraz pobawić?</seg>
       </tuv>
     </tu>
     <tu>
