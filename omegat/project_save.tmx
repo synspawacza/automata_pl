@@ -9603,6 +9603,14 @@ To związek, który się zmienia w miarę upływu czasu.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Agh!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140647Z" creationid="Syn Spawacza" creationdate="20200629T140647Z">
+        <seg>Aaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Agreed.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220714Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220714Z">
@@ -24356,6 +24364,14 @@ Nie byłabym w stanie samotnie znieść tego brzemienia.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Die!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140650Z" creationid="Syn Spawacza" creationdate="20200629T140650Z">
+        <seg>Giń!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Die, Romeo! Thou stupid asshole!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T092726Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T092726Z">
@@ -26627,6 +26643,14 @@ pieniędzy przez 60 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T160248Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T160248Z">
         <seg>Tarcza wroga zdezaktywowana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enemy silenced. Threat has been neutralized.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140850Z" creationid="Syn Spawacza" creationdate="20200629T140850Z">
+        <seg>Wróg uciszony. Zagrożenie zostało zneutralizowane.</seg>
       </tuv>
     </tu>
     <tu>
@@ -30569,6 +30593,14 @@ strefy hazardowej.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Guess it's just a statue.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140625Z" creationid="Syn Spawacza" creationdate="20200629T140625Z">
+        <seg>Chyba to tylko pomnik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Guess it's too bad I'm not a newer model.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221323Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221323Z">
@@ -32893,6 +32925,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090150Z">
         <seg>Hej! To NIE jest pora na opieprzanie się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey! Whaddya think yer doin' there!?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140751Z" creationid="Syn Spawacza" creationdate="20200629T140751Z">
+        <seg>Hej! Co ty sobie wyobrażasz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43783,6 +43823,14 @@ Jak wiatr.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It moved!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140637Z" creationid="Syn Spawacza" creationdate="20200629T140637Z">
+        <seg>Poruszył się!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It must be destroyed immediately.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T115618Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T115618Z">
@@ -44584,6 +44632,14 @@ it is heavy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It's just a statue.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140556Z" creationid="Syn Spawacza" creationdate="20200629T140556Z">
+        <seg>To tylko pomnik.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It's just accessing random nonsensical data from the old world.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133449Z" creationid="Syn Spawacza" creationdate="20200530T181345Z">
@@ -44732,6 +44788,14 @@ it is heavy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133655Z" creationid="Syn Spawacza" creationdate="20200606T103252Z">
         <seg>To nie w stylu Dowództwa, by pomylić lokalizację. Chyba ich wywiad też od czasu do czasu się myli, hm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It's not moving. Maybe just a statue?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140606Z" creationid="Syn Spawacza" creationdate="20200629T140606Z">
+        <seg>Nie rusza się. Może to tylko pomnik?</seg>
       </tuv>
     </tu>
     <tu>
@@ -52030,6 +52094,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T170422Z" creationid="Syn Spawacza" creationdate="20200627T170422Z">
         <seg>Brak odpowiedzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No response...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140616Z" creationid="Syn Spawacza" creationdate="20200629T140616Z">
+        <seg>Brak odpowiedzi...</seg>
       </tuv>
     </tu>
     <tu>
@@ -59578,6 +59650,14 @@ o połowę przez 30 sekund.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144119Z">
         <seg>Propozycja: Dane powinny być regularnie wymieniane między Podem 042 i Podem 153.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proposal: Defeat the giant machine lifeform.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140829Z" creationid="Syn Spawacza" creationdate="20200629T140829Z">
+        <seg>Propozycja: zniszczyć ogromną mechaniczną formę życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87769,6 +87849,14 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T163158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T163158Z">
         <seg>Zostawiłeś niezły ślad po wejściu do głównego serwera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You little...!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140655Z" creationid="Syn Spawacza" creationdate="20200629T140655Z">
+        <seg>Ty mały...!</seg>
       </tuv>
     </tu>
     <tu>
