@@ -8133,6 +8133,14 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Aaaaaaaah!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160357Z" creationid="Syn Spawacza" creationdate="20200629T160357Z">
+        <seg>Aaaaaaaaa!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Aaaaah!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090327Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090327Z">
@@ -11660,6 +11668,14 @@ stopniu kontrolę kierunku.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215124Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215124Z">
         <seg>Prawie! Jesteśmy na 92 procentach!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alpha Squad destroyed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160519Z" creationid="Syn Spawacza" creationdate="20200629T160519Z">
+        <seg>Oddział Alfa został zniszczony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23291,6 +23307,14 @@ i utworzyć nowy plik?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T181032Z" creationid="Syn Spawacza" creationdate="20200608T223232Z">
         <seg>Dostarcz gęsty smar Pascalowi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delta Squad destroyed</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160503Z" creationid="Syn Spawacza" creationdate="20200629T160503Z">
+        <seg>Oddział Delta został zniszczony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40585,6 +40609,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T145536Z" creationid="Syn Spawacza" creationdate="20200629T145536Z">
         <seg>Nie zbliżę się do niczego niebezpiecznego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I'm not interested in killing a bunch of sad-sacks.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160303Z" creationid="Syn Spawacza" creationdate="20200629T160303Z">
+        <seg>Nie interesuje mnie zabijanie bandy smutasów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83121,6 +83153,14 @@ W końcu byłyśmy obserwatorkami.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214440Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214440Z">
         <seg>Dołączymy do was i zapewnimy większe wsparcie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We'll join you, if that's all right.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160457Z" creationid="Syn Spawacza" creationdate="20200629T160457Z">
+        <seg>Dołączymy do was, jeżeli to nie problem.</seg>
       </tuv>
     </tu>
     <tu>
