@@ -1262,6 +1262,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Sorry. I had a friend back at the Bunker.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140230Z" creationid="Syn Spawacza" creationdate="20200629T140230Z">
+        <seg>Przepraszam... Miałam przyjaciółkę w Bunkrze.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Sounds good!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215109Z">
@@ -30051,6 +30059,14 @@ z dużej wysokości.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T223836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T223836Z">
         <seg>Do jasnej cholery! TUTAJ jesteś!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goddammit, White...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140146Z" creationid="Syn Spawacza" creationdate="20200629T140146Z">
+        <seg>Cholera, Biała...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60190,6 +60206,14 @@ o połowę przez 30 sekund.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pssst! Hey! Hey, buddy! You need some drugs?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140116Z" creationid="Syn Spawacza" creationdate="20200629T140116Z">
+        <seg>Psst! Hej! Hej, ty! Chcesz trochę narkotyków?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Psst... Oh, I see!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T150606Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T150606Z">
@@ -66446,10 +66470,26 @@ Domyślam się, ze to największy przejaw oporu, na jaki byłam zdolna się zdob
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So the Bunker's gone, eh?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140212Z" creationid="Syn Spawacza" creationdate="20200629T140212Z">
+        <seg>A więc Bunkra już nie ma, co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>So then! To business. What can I get you?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084344Z">
         <seg>Tak więc! Przejdźmy do rzeczy. Czym mogę służyć?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>So then! What can I do ya for?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140050Z" creationid="Syn Spawacza" creationdate="20200629T140050Z">
+        <seg>To jak? Co mogę dla was zrobić?</seg>
       </tuv>
     </tu>
     <tu>
@@ -88727,6 +88767,14 @@ Och, nie martw się! To dobra reputacja!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T184046Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T184046Z">
         <seg>Ty jesteś...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're...A2...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T140238Z" creationid="Syn Spawacza" creationdate="20200629T140238Z">
+        <seg>Ty jesteś... A2...</seg>
       </tuv>
     </tu>
     <tu>
