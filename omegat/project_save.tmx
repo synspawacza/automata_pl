@@ -37083,6 +37083,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I heard a loud noise in the distance.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150500Z" creationid="Syn Spawacza" creationdate="20200629T150500Z">
+        <seg>Słyszałem głośny hałas w oddali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I heard about this from the Bunker.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092937Z">
@@ -40801,6 +40809,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095200Z">
         <seg>Myślałam o przebudowaniu się w model bojowy, jakim była ona i jesteś ty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I've been told that providing is preventing. So buy whatever you like!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150718Z" creationid="Syn Spawacza" creationdate="20200629T150718Z">
+        <seg>Mówią że dostarczanie to zapobieganie. Więc kupuj co tylko chcesz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48936,6 +48952,14 @@ Co tutaj robisz?</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130553Z" creationid="Syn Spawacza" creationdate="20200629T130553Z">
         <seg>Uważajcie, by nie zabrali was do tego ambulatorium, dobra? Uważajcie na siebie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Make yourself at home!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150508Z" creationid="Syn Spawacza" creationdate="20200629T150508Z">
+        <seg>Czuj się jak u siebie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -71232,6 +71256,14 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That was some earthquake. Are you all right?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150529Z" creationid="Syn Spawacza" creationdate="20200629T150529Z">
+        <seg>To było trzęsienie ziemi. Jesteście cali?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That was surprisingly easy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132404Z">
@@ -82887,6 +82919,14 @@ W końcu byłyśmy obserwatorkami.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T145902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T145902Z">
         <seg>Dostajemy sygnał o obecności przeciwnika klasy Goliat w ruinach miasta!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We're safe here! I think. Maybe.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150442Z" creationid="Syn Spawacza" creationdate="20200629T150442Z">
+        <seg>Jesteśmy tu bezpieczni! Tak myślę. Chyba.</seg>
       </tuv>
     </tu>
     <tu>
