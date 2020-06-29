@@ -13959,6 +13959,14 @@ Otrzymaliśmy niepokojące raporty od wielu regionów administracyjnych, w któr
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Are you new here?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130148Z" creationid="Syn Spawacza" creationdate="20200629T130148Z">
+        <seg>Jesteście tu nowi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Are you okay?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214542Z">
@@ -48196,6 +48204,14 @@ Co tutaj robisz?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make sure you're never taken into this first-aid room, okay? Stay safe out there!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130553Z" creationid="Syn Spawacza" creationdate="20200629T130553Z">
+        <seg>Uważajcie, by nie zabrali was do tego ambulatorium, dobra? Uważajcie na siebie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Makes sense.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T143512Z" creationid="Syn Spawacza" creationdate="20200627T143512Z">
@@ -55627,6 +55643,14 @@ poniewiera się na powierzchni.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125659Z" creationid="Syn Spawacza" creationdate="20200629T125659Z">
         <seg>Anemona jest naszą przywódczynią, odpowiadającą za ten obóz. Przywitajcie się z nią jak znajdziecie chwilę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our leader's in the back.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T130141Z" creationid="Syn Spawacza" creationdate="20200629T130141Z">
+        <seg>Nasza przywódczyni wróciła.</seg>
       </tuv>
     </tu>
     <tu>
