@@ -59793,6 +59793,14 @@ przez ustalony czas.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Returning to the previous screen without saving any changes to this comment. Proceed?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T094433Z" creationid="Syn Spawacza" creationdate="20200629T094433Z">
+        <seg>Powrót do poprzedniego ekranu bez zapisywania zmian. Kontynuować?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Reunite with 9S.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T170224Z" creationid="Syn Spawacza" creationdate="20200530T170224Z">
