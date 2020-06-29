@@ -8373,6 +8373,14 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>According to the memory data of unit 2B,</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160133Z" creationid="Syn Spawacza" creationdate="20200629T160133Z">
+        <seg>Według danych pamięci 2B,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accounting Book</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T090037Z" creationid="Syn Spawacza" creationdate="20200601T090037Z">
@@ -53138,6 +53146,14 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No. Let's not go in here.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160120Z" creationid="Syn Spawacza" creationdate="20200629T160120Z">
+        <seg>Nie. Nie idziemy tam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No. Never mind.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T053739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T053739Z">
@@ -76861,6 +76877,14 @@ To powód, dla którego w ogóle istniejemy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This objective has been assigned top priority.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160027Z" creationid="Syn Spawacza" creationdate="20200629T160027Z">
+        <seg>Temu celowi przypisano najwyższy priorytet.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This order comes directly from the Council.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T110007Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T110007Z">
@@ -93214,6 +93238,14 @@ Engels Broń Klasy Goliat Pacyfikująca Lot
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T114723Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124308Z">
         <seg>koni[E]c YoRHy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the residents of this village have been determined to be safe.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160248Z" creationid="Syn Spawacza" creationdate="20200629T160248Z">
+        <seg>mieszkańcy tej wioski zostali uznani za niegroźnych.</seg>
       </tuv>
     </tu>
     <tu>
