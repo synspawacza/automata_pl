@@ -25152,6 +25152,14 @@ Ale to nie znaczy, że mam zamiar legnąć i po prostu zaufać naszym nowym „p
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't help her.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125324Z" creationid="Syn Spawacza" creationdate="20200629T125324Z">
+        <seg>Nie pomagaj jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Don't hurt my brothers!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100024Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100024Z">
@@ -32303,6 +32311,14 @@ Aktywuje tryb obronny!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help her.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125314Z" creationid="Syn Spawacza" creationdate="20200629T125314Z">
+        <seg>Pomóż jej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help me out, Pod.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113900Z">
@@ -37693,6 +37709,14 @@ Płonę by cię zobaczyć w prawdziwym życiu.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095210Z">
         <seg>Rozumiem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I see. Alright, let me know if you change your mind.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125349Z" creationid="Syn Spawacza" creationdate="20200629T125349Z">
+        <seg>Rozumiem. Dajcie znać jeśli zmienicie zdanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88061,6 +88085,14 @@ Och, nie martw się! To dobra reputacja!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051643Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051643Z">
         <seg>Proszę spróbuj go, jeśli będziesz miał ochotę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You're with YoRHa, right? Well, you still need to talk to our commanding officer first. Even you guys gotta follow the rules.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T125612Z" creationid="Syn Spawacza" creationdate="20200629T125612Z">
+        <seg>Jesteście z YoRHy, prawda? Cóż, musicie najpierw pogadać z dowódcą. Nawet wy musicie przestrzegać tu zasad.</seg>
       </tuv>
     </tu>
     <tu>
