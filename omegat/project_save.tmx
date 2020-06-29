@@ -1390,6 +1390,14 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>...Who, me? Oh, I'm just lost. Ha! Sorry if I startled you.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133853Z" creationid="Syn Spawacza" creationdate="20200629T133853Z">
+        <seg>Kto, ja? Och, zgubiłam się. Ha! Przepraszam że cię przestraszyłam.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>...Yeah, okay. We've got some readings around the abandoned factory. I'll put it on the map.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T130104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T130104Z">
@@ -29107,6 +29115,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Freak!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133545Z" creationid="Syn Spawacza" creationdate="20200629T133545Z">
+        <seg>Dziwadło!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Free Enemy Tracking</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T072224Z" creationid="Syn Spawacza" creationdate="20200530T132057Z">
@@ -33141,6 +33157,14 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144328Z">
         <seg>No i mnie masz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hey, you! What are you doing here? What happened to your mission?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133802Z" creationid="Syn Spawacza" creationdate="20200629T133802Z">
+        <seg>Hej, ty! Co tu robisz? Co z twoją misją?</seg>
       </tuv>
     </tu>
     <tu>
@@ -41061,6 +41085,14 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If we can minimize machine activity in the desert area, we'll be able to transport the oil safely.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133623Z" creationid="Syn Spawacza" creationdate="20200629T133623Z">
+        <seg>Jeśli zminimalizujemy aktywność maszyn na pustyni, to będziemy w stanie bezpiecznie transportować ropę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If we destroy this presiding unit, will it stop the rest?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T164709Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T164709Z">
@@ -43585,6 +43617,14 @@ były otoczone troskliwą opieką.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T085654Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T085654Z">
         <seg>To sprawia, że się zastawiam, ile tak naprawdę wiemy o naszym wrogu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It may be unexciting work, but if it can help save even a single ally, I'll do whatever it takes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133737Z" creationid="Syn Spawacza" creationdate="20200629T133737Z">
+        <seg>Nie jest ekscytująca robota, ale jeśli mogę pomóc choć jednemu sojusznikowi, zrobię co będzie trzeba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84822,6 +84862,14 @@ Jeśli zginiesz nim dotrzesz do ciała, te zniknie. Jeśli nie odzyskasz ciała,
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T051048Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T051048Z">
         <seg>Dlaczego ta dwójka jest zamieszana w takie niebezpieczne zadania?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why are you here?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T133535Z" creationid="Syn Spawacza" creationdate="20200629T133535Z">
+        <seg>Dlaczego tu jesteś?</seg>
       </tuv>
     </tu>
     <tu>
