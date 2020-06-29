@@ -32587,8 +32587,8 @@ Twój duch żyje w nas, o wielki królu. Błagamy cię, byś spoczywaj w spokoju
       <tuv lang="en-US">
         <seg>Here to do a little business?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134329Z" creationid="Syn Spawacza" creationdate="20200629T134329Z">
-        <seg>Robimy interes?</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134740Z" creationid="Syn Spawacza" creationdate="20200629T134329Z">
+        <seg>To jak, robimy interes?</seg>
       </tuv>
     </tu>
     <tu>
@@ -33913,6 +33913,14 @@ Przydałoby mi się więcej pomocy.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T121654Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T121654Z">
         <seg>Stój! Nie wolno ci przejść! To niewybaczalne!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Holler at me if you ever need anything.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135010Z" creationid="Syn Spawacza" creationdate="20200629T135010Z">
+        <seg>Zawołaj mnie jak będziesz czegoś potrzebować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38785,6 +38793,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213946Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213946Z">
         <seg>Będę... I dzięki.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I wish all the other areas were like this.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134845Z" creationid="Syn Spawacza" creationdate="20200629T134845Z">
+        <seg>Chciałabym by w innych obszarach też tak było.</seg>
       </tuv>
     </tu>
     <tu>
@@ -70034,6 +70050,14 @@ Doceniamy twoje dalsze wsparcie i nie możemy się doczekać ponownej współpra
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Thanks for the help.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134931Z" creationid="Syn Spawacza" creationdate="20200629T134931Z">
+        <seg>Dziękuję za pomoc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Thanks for your help the other day!</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T171624Z" creationid="Syn Spawacza" creationdate="20200615T171624Z">
@@ -70046,6 +70070,14 @@ Doceniamy twoje dalsze wsparcie i nie możemy się doczekać ponownej współpra
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221656Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221656Z">
         <seg>Dzięki wielkie! Mój przełożony to prawdziwy tyran, więc jeśli się z tym nie uporam, jestem trupem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Thanks to you, I have a decent lineup of products.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T135049Z" creationid="Syn Spawacza" creationdate="20200629T135049Z">
+        <seg>Dzięki tobie mam teraz szereg niezłych produktów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71016,6 +71048,14 @@ The last-resort missile strike...&lt;bt_wait&gt;</seg>
 Plan 2B...
 Gigantyczna mechaniczna forma życia...
 Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Commander ordered me to check out this area. There's not much going on—which is just fine by me!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134818Z" creationid="Syn Spawacza" creationdate="20200629T134818Z">
+        <seg>Komandor wyznaczyła mnie do sprawdzenia tego obszaru. Nie dzieje się tu wiele — jak dla mnie w porządku!</seg>
       </tuv>
     </tu>
     <tu>
@@ -80203,6 +80243,14 @@ Albo coś bardzo podobnego do...</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Wanna do business?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134722Z" creationid="Syn Spawacza" creationdate="20200629T134722Z">
+        <seg>Robimy interes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wanna try 'em out?</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T091238Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T091238Z">
@@ -86394,6 +86442,14 @@ Gdybym tylko miał materiały...</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153706Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153706Z">
         <seg>Ale bitwa wrze wiecznie!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yo. Thanks for helping out with my research.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T134925Z" creationid="Syn Spawacza" creationdate="20200629T134925Z">
+        <seg>Hej. Dzięki za pomoc w moich badaniach.</seg>
       </tuv>
     </tu>
     <tu>
