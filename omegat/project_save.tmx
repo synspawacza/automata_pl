@@ -20935,6 +20935,14 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Come see me again.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T084441Z" creationid="Syn Spawacza" creationdate="20200630T084430Z">
+        <seg>Do zobaczenia ponownie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Come see me any time.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T150805Z" creationid="Syn Spawacza" creationdate="20200629T150805Z">
@@ -48289,6 +48297,14 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141403Z" creationid="Syn Spawacza" creationdate="20200530T141403Z">
         <seg>Daleki dystans</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Look around as much as you like.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T084632Z" creationid="Syn Spawacza" creationdate="20200630T084632Z">
+        <seg>Możecie rozglądać się ile chcecie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95391,6 +95407,16 @@ Relapses increasing...</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T174454Z" creationid="Syn Spawacza" creationdate="20200627T174454Z">
         <seg>The Tower </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">r140_cd4fd96a_scp.properties</prop>
+      <prop type="id">M6050_S0010_G1930_300_ps</prop>
+      <tuv lang="en-US">
+        <seg>Come again!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T084636Z" creationid="Syn Spawacza" creationdate="20200630T084636Z">
+        <seg>Zapraszam ponownie!</seg>
       </tuv>
     </tu>
     <tu>
