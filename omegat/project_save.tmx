@@ -29315,6 +29315,14 @@ wielką siłą z względu na swoją masę.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Flying through the forest... Listening to the leaves rustle...</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093815Z" creationid="Syn Spawacza" creationdate="20200630T093815Z">
+        <seg>Latanie przez las... Słuchanie szumu liści...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Folks say you can find 'em over in the city ruins—although I also hear the place is crawling with incredibly aggressive machines.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084045Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084045Z">
@@ -37195,6 +37203,14 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I guess you'd only really understand if you could fly.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093835Z" creationid="Syn Spawacza" creationdate="20200630T093835Z">
+        <seg>Możesz to tylko zrozumieć jeśli potrafisz latać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I hacked into this machine from the Bunker. I'm controlling it!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T155052Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155052Z">
@@ -37981,6 +37997,14 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I like staying inside.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093722Z" creationid="Syn Spawacza" creationdate="20200630T093722Z">
+        <seg>Lubię zostawiać w domu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I located the unit that's jamming our comms.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215004Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215004Z">
@@ -38045,10 +38069,26 @@ do roboty, więc pomóż mi!</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I love being outside so much!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093759Z" creationid="Syn Spawacza" creationdate="20200630T093759Z">
+        <seg>Tak bardzo lubię być na zewnątrz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I love hearing about Earth, but the most important thing is seeing everyone come back safely.</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T181617Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T181617Z">
         <seg>Uwielbiam słuchać o Ziemi, jednak najważniejsze jest by wszyscy wrócili tutaj bezpiecznie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I love lazing about the house and enjoying the view.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093737Z" creationid="Syn Spawacza" creationdate="20200630T093737Z">
+        <seg>Lubię lenić się w domu i podziwiać widoki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -74962,6 +75002,14 @@ Przestudiowały wzory pracy Numeru 21 i stworzyły odporność.&lt;bt_wait&gt;</
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The view from the sky is awesome!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093845Z" creationid="Syn Spawacza" creationdate="20200630T093845Z">
+        <seg>Widok z nieba jest niesamowity!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The villagers are— Oh, no...!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T090403Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T090403Z">
@@ -85048,6 +85096,14 @@ Prawda?</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Well, if you reeeeeally want to, I guess I'll do you a favor. But just this once!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093708Z" creationid="Syn Spawacza" creationdate="20200630T093708Z">
+        <seg>Cóż, jeśli napraaaaawdę musisz, nie nie będę miał nic przeciwko. Ale tylko raz!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Well, if you say so.</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T204317Z" creationid="Syn Spawacza" creationdate="20200530T204317Z">
@@ -86318,6 +86374,14 @@ Och, cóż, więcej śmieci dla Operatorki!</seg>
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T173931Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T173931Z">
         <seg>Co?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What? Do you...want to play with me?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T093639Z" creationid="Syn Spawacza" creationdate="20200630T093639Z">
+        <seg>Co? Ty chcesz... pobawić się z mną?</seg>
       </tuv>
     </tu>
     <tu>
