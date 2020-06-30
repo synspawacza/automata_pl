@@ -11065,6 +11065,14 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All I do is fly through the sky all day. Sometimes I just want to try something else.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090409Z" creationid="Syn Spawacza" creationdate="20200630T090409Z">
+        <seg>Cały dzień tylko latam po niebie. Czasem chciałbym spróbować czegoś innego.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>All Items</seg>
       </tuv>
       <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T150912Z" creationid="Syn Spawacza" creationdate="20200530T150912Z">
@@ -38413,8 +38421,8 @@ A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku woj
       <tuv lang="en-US">
         <seg>I realize this village could never replace your home, but please know that you are always welcome here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T085714Z" creationid="Syn Spawacza" creationdate="20200630T085714Z">
-        <seg>Wiem że wioska nigdy nie zastąpi wam domu, ale wiedź proszę że jesteście tu zawsze miło widziani.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090303Z" creationid="Syn Spawacza" creationdate="20200630T085714Z">
+        <seg>Wiem że wioska nigdy nie zastąpi ci domu, ale wiedź proszę że jesteście tu zawsze mile widziana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41233,6 +41241,14 @@ Sam.
       </tuv>
       <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T150639Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T150639Z">
         <seg>Stoję tu od dawna, a on po prostu mi nie odpowiada!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I've been thinking about maybe getting a house.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090541Z" creationid="Syn Spawacza" creationdate="20200630T090541Z">
+        <seg>Zastanawiałem się, że może warto znaleźć dom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48383,8 +48399,8 @@ za pomocą tego miecza chcąc zyskać nieśmiertelność.</seg>
       <tuv lang="en-US">
         <seg>Look around as much as you like.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T084632Z" creationid="Syn Spawacza" creationdate="20200630T084632Z">
-        <seg>Możecie rozglądać się ile chcecie.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090221Z" creationid="Syn Spawacza" creationdate="20200630T084632Z">
+        <seg>Możesz rozglądać się ile chcesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58866,8 +58882,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Please make yourself at home.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T085722Z" creationid="Syn Spawacza" creationdate="20200630T085722Z">
-        <seg>Czujcie się jak u siebie!</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090310Z" creationid="Syn Spawacza" creationdate="20200630T085722Z">
+        <seg>Czuj się jak u siebie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -89195,8 +89211,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You have no idea how tough it is having to search for body parts.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T084907Z" creationid="Syn Spawacza" creationdate="20200630T084907Z">
-        <seg>Nie macie pojęcia jak ciężko jest gdy musisz szukać części ciała.</seg>
+      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T090232Z" creationid="Syn Spawacza" creationdate="20200630T084907Z">
+        <seg>Nie masz pojęcia jak ciężko jest gdy musisz szukać części ciała.</seg>
       </tuv>
     </tu>
     <tu>
