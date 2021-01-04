@@ -13,7 +13,7 @@ function put_strings() {
     
     if [[ ${EXT} == "txt" ]]; then
         mkdir -p output/novel
-        cp target/${NAME}.${EXT} output/novel/${NAME}.${EXT}
+        cat target/${NAME}.${EXT} | sed -e 's/<i>/߷\n<i>/g' -e 's/<\/i>/<\/i>߷\n/g' | sed -e '/<i>/y/ĄĆĘŁŃŚŹŻąćęłńśźż/ẠĊĖĿṄṠẒẎạċėŀṅṡẏẓ/' | perl -pe 's/߷\n//' > output/novel/${NAME}.${EXT}
     elif [[ ${EXT} == "mcd" ]]; then
         DTT_FILE=${DAT_FILE/.dat/.dtt}
         mkdir -p assembly/${DAT_FILE}/
