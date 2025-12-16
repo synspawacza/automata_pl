@@ -1,0 +1,11 @@
+assembly
+data
+omegat
+unpacked
+output
+target
+
+fonts/*/*.png
+tools/__pycache__
+tools/format/__pycache__
+*.tmx
