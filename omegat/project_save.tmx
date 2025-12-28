@@ -5805,8 +5805,8 @@ Ale ona nigdy nie powróciła.</seg>
       <tuv lang="en-US">
         <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;“You're thinking about how much you want to **** 2B, aren't you?”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150335Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150335Z">
-        <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;„Myślisz o tym, jak bardzo chcesz ***** 2B, czyż nie?”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T064304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150335Z">
+        <seg>&lt;BGM_BGM_M1070_S0100_N_0010&gt;„Cały czas myślisz o tym, jak ***** 2B, czyż nie?”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -139095,7 +139095,7 @@ informuje nas, że nie pojawią się żadne posiłki.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>“You&lt;bt_wait&gt; do not trust anything.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150249Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150249Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T064118Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150249Z">
         <seg>„Ty&lt;bt_wait&gt; nie ufasz niczemu.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
