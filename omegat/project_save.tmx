@@ -87268,8 +87268,8 @@ Pod 042: Pytanie: czy to może być... nasza „wola”?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Pod 042: Agreed. But just as androids are influenced by humans, so are we tied to our creators.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T100711Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100711Z">
-        <seg>Pod 042: Zgoda. Ale tak jak androidy są pod wpływem ludzi, tak my jesteśmy związani z naszymi twórcami.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T065636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100711Z">
+        <seg>Pod 042: Zgoda. Ale tak, jak androidy są pod wpływem ludzi, tak my jesteśmy związani z naszymi twórcami.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -87700,9 +87700,9 @@ Pod 153: Liczy się tylko pomyślne wypełnienie misji.</seg>
 Pod 153: However, your expression of concern is appreciated.&lt;bt_wait&gt;
 Pod 153: I also hope that you do not die, Pod 042.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100802Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T065833Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T100802Z">
         <seg>Pod 153: Koncepcja śmierci nie ma znaczenia dla Jednostek Wsparcia Taktycznego.
-Pod 153: Jednakże twój wyraz zmartwienia jest doceniony.&lt;bt_wait&gt;
+Pod 153: Jednakże, doceniam wyrażenie twojej troski.&lt;bt_wait&gt;
 Pod 153: Ja też mam nadzieję, że nie umrzesz, Podzie 042.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
