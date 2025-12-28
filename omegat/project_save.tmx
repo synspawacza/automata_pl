@@ -6617,8 +6617,8 @@ staje się wrogiem.</seg>
       <tuv lang="en-US">
         <seg>&lt;i&gt;You're wrong, damn it!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150407Z">
-        <seg>&lt;i&gt;Mylisz się, cholera!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T064557Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150407Z">
+        <seg>&lt;i&gt;Mylisz się, do jasnej cholery!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -8022,9 +8022,9 @@ porzucić rodziny, nie zanim nie spróbujesz wszystkiego!”&lt;bt_wait&gt;
         <seg>&lt;page&gt;
 “Reality stained by lies.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T064402Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150343Z">
         <seg>&lt;page&gt;
-„Rzeczywistość splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
+„Rzeczywistość została splamiona kłamstwami.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -138778,8 +138778,8 @@ Coś jest nie tak. Coś...
       <tuv lang="en-US">
         <seg>“Hatred pouring into you.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T150400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150400Z">
-        <seg>„Nienawiść się w ciebie wlewa.”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T064446Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T150400Z">
+        <seg>„Nienawiść wlewa się też w ciebie.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
