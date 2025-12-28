@@ -61532,8 +61532,8 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       <tuv lang="en-US">
         <seg>If you obtain any new chips or programs, make sure to try them out!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090529Z">
-        <seg>Jeśli zdobędziesz jakiekolwiek nowe czipy albo programy, upewnij się, że je przetestujesz!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T133831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090529Z">
+        <seg>Gdy zdobędziesz jakiekolwiek nowe czipy, albo programy, warto je przetestować!</seg>
       </tuv>
     </tu>
     <tu>
@@ -130286,8 +130286,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can greatly increase your combat abilities with just a few tweaks here and there.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T090521Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090521Z">
-        <seg>Możesz znacznie ulepszyć swoje umiejętności walki, dzięki małemu podrasowaniu tu i tam.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T133725Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T090521Z">
+        <seg>Możesz znacznie ulepszyć swoje umiejętności walki, jeśli odpowiednio "podrasujesz" się tu i tam.</seg>
       </tuv>
     </tu>
     <tu>
