@@ -29491,8 +29491,8 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
       <tuv lang="en-US">
         <seg>Come back and ask me something if you're on your own. It gets so lonely!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T090924Z" creationid="Syn Spawacza" creationdate="20200723T185735Z">
-        <seg>Wróć i spytaj mnie o coś, gdy będziesz sam. Robi się samotnie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T132440Z" creationid="Syn Spawacza" creationdate="20200723T185735Z">
+        <seg>Wróć i spytaj mnie o coś, gdy będziesz miał chwilę. Bywam tu bardzo samotny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -131834,8 +131834,8 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You need a fuel filter? Sorry, but I'm all out!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T193239Z" creationid="Syn Spawacza" creationdate="20200721T193239Z">
-        <seg>Potrzebujesz filtra paliwa? Przepraszam, ale się skończyły!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T132556Z" creationid="Syn Spawacza" creationdate="20200721T193239Z">
+        <seg>Potrzebujesz filtra paliwa? Wybacz, ale nie mam aktualnie żadnego!</seg>
       </tuv>
     </tu>
     <tu>
