@@ -7019,11 +7019,11 @@ If you do, you will lose any unsaved data.
 &lt;sele_A&gt; - No
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T234902Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T074533Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
         <seg>&lt;label_Z&gt;
 &lt;page&gt;
 Gra jest obecnie instalowana.
-Nie można kontynuować grania, dopóki instalacja nie zostanie ukończona.
+Nie można kontynuować gry, dopóki instalacja nie zostanie ukończona.
 Czy chcesz porzucić wszystko i powrócić do ekranu tytułowego?
 Jeśli tak zrobisz, stracisz wszelkie niezapisane dane.
 &lt;sele_Y&gt; - Tak
@@ -39759,8 +39759,8 @@ Daj mi znać, jak go znajdziesz.</seg>
       <tuv lang="en-US">
         <seg>Exit Game</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T130714Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
-        <seg>Wyjdź z gry</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T074415Z" creationid="Syn Spawacza" creationdate="20200530T130714Z">
+        <seg>Wyjście z gry</seg>
       </tuv>
     </tu>
     <tu>
@@ -92958,8 +92958,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Return to Title Screen</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T141730Z" creationid="Syn Spawacza" creationdate="20200530T141730Z">
-        <seg>Powrót do ekranu tytułowego</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T074600Z" creationid="Syn Spawacza" creationdate="20200530T141730Z">
+        <seg>Ekran tytułowy</seg>
       </tuv>
     </tu>
     <tu>
