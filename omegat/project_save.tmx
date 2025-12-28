@@ -54173,8 +54173,8 @@ do roboty, więc pomóż mi!</seg>
       <tuv lang="en-US">
         <seg>I know you're in a hurry, but it'd be terrible if something happened to you. Make sure you're well prepared before setting out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T215204Z" creationid="Syn Spawacza" creationdate="20200720T215204Z">
-        <seg>Wiem, ze się spieszysz, ale to byłoby straszne jakby ci się coś stało. Zawsze się dobrze przygotuj przed wyruszeniem w drogę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T140239Z" creationid="Syn Spawacza" creationdate="20200720T215204Z">
+        <seg>Wiem, że się spieszysz, ale byłoby bardzo źle, gdyby coś ci się stało... Zawsze się dobrze przygotuj przed wyruszeniem w drogę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61636,8 +61636,8 @@ Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji �
       <tuv lang="en-US">
         <seg>If you want, you can rest here. It's nothing fancy, but it's all we have.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T214831Z" creationid="Syn Spawacza" creationdate="20200720T214831Z">
-        <seg>Jeśli chcesz, możesz tu odpocząć. Nic specjalnego, ale to wszystko co mamy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T140001Z" creationid="Syn Spawacza" creationdate="20200720T214831Z">
+        <seg>Jeśli chcesz, możesz tu odpocząć. Wprawdzie nie mamy tutaj niczego specjalnego, ale to co mamy, jest wystarczające.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121780,8 +121780,8 @@ Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
       <tuv lang="en-US">
         <seg>We set up a search party, but we can't get to the more dangerous areas, so the rescue mission isn't faring well.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T215109Z" creationid="Syn Spawacza" creationdate="20200720T215109Z">
-        <seg>Zorganizowaliśmy ekipę poszukiwawczą, ale nie możemy dostać się do niebezpieczniejszych rejonów i nie wróży to zbyt dobrze.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251228T140115Z" creationid="Syn Spawacza" creationdate="20200720T215109Z">
+        <seg>Zorganizowaliśmy ekipę poszukiwawczą, ale nie możemy dostać się do niebezpieczniejszych rejonów, więc misja ratunkowa nie przebiega pomyślnie.</seg>
       </tuv>
     </tu>
     <tu>
