@@ -35045,8 +35045,8 @@ Nie byłabym w stanie samotnie znieść tego brzemienia.
       <tuv lang="en-US">
         <seg>Display the EXP gauge and amount of EXP earned.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155955Z" creationid="Syn Spawacza" creationdate="20200608T155955Z">
-        <seg>Wyświetla wskaźnik PD i ilość dostawanych PD.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170753Z" creationid="Syn Spawacza" creationdate="20200608T155955Z">
+        <seg>Wyświetla wskaźnik, oraz ilość zdobywanych PD.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84638,8 +84638,8 @@ Jackass</seg>
       <tuv lang="en-US">
         <seg>Overwrite save in this slot?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T165622Z" creationid="Syn Spawacza" creationdate="20200530T165622Z">
-        <seg>Nadpisać w tym slocie?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170816Z" creationid="Syn Spawacza" creationdate="20200530T165622Z">
+        <seg>Nadpisać na tym slocie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -95022,8 +95022,8 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       <tuv lang="en-US">
         <seg>Save to this slot?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T164939Z" creationid="Syn Spawacza" creationdate="20200530T164939Z">
-        <seg>Zapisać w tym slocie?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170812Z" creationid="Syn Spawacza" creationdate="20200530T164939Z">
+        <seg>Zapisać na tym slocie?</seg>
       </tuv>
     </tu>
     <tu>
