@@ -130334,8 +130334,8 @@ W pokoju debugowym użyj menu debugowego, by swobodnie umieszczać przeciwników
  
 Activating the debug menu will disable all save functionality until you load any save data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222932Z" creationid="Syn Spawacza" creationdate="20200608T222932Z">
-        <seg>Możesz otworzyć menu debugowe naciskając &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T173446Z" creationid="Syn Spawacza" creationdate="20200608T222932Z">
+        <seg>Można otworzyć menu debugowe naciskając &lt;BTN_R2_2&gt;&lt;ICON_PLUS_2&gt;&lt;BTN_SELECT_2&gt;
 
 Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześniejszego zapisu.</seg>
       </tuv>
@@ -133815,9 +133815,9 @@ Trzeba jak najprędzej je pojmać.
         <seg>Your sub-quest has been updated.
 You can check your progress on the Quests tab in the System Menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222837Z" creationid="Syn Spawacza" creationdate="20200608T222837Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T173437Z" creationid="Syn Spawacza" creationdate="20200608T222837Z">
         <seg>Zaktualizowano postęp zadania pobocznego.
-Postęp zadań możesz sprawdzić w zakładce „Zadania” w menu systemowym.</seg>
+Postęp zadań można sprawdzić w zakładce „Zadania” w menu systemowym.</seg>
       </tuv>
     </tu>
     <tu>
