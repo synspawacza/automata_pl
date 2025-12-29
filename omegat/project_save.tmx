@@ -12473,16 +12473,16 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>Access Point: Arcade</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T212858Z" creationid="Syn Spawacza" creationdate="20200608T175644Z">
-        <seg>Punkt dostępu: salon gier</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172218Z" creationid="Syn Spawacza" creationdate="20200608T175644Z">
+        <seg>Punkt dostępu: Salon Gier</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Access Point: Unavailable</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170141Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
-        <seg>Punkt dostępu: niedostępne</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172153Z" creationid="Syn Spawacza" creationdate="20200608T175612Z">
+        <seg>Punkt dostępu: Niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -12513,16 +12513,16 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>Access Points: Mailbox</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170146Z" creationid="Syn Spawacza" creationdate="20200608T175631Z">
-        <seg>Punkty dostępu: poczta</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172212Z" creationid="Syn Spawacza" creationdate="20200608T175631Z">
+        <seg>Punkty dostępu: Skrzynka pocztowa</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Access Points: Teleport</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170139Z" creationid="Syn Spawacza" creationdate="20200608T175604Z">
-        <seg>Punkty dostępu: teleport</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172151Z" creationid="Syn Spawacza" creationdate="20200608T175604Z">
+        <seg>Punkty dostępu: Teleport</seg>
       </tuv>
     </tu>
     <tu>
@@ -91834,8 +91834,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Reliquary System: Upload</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170158Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
-        <seg>System relikwiarza: wysyłanie</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172225Z" creationid="Syn Spawacza" creationdate="20200608T175732Z">
+        <seg>System relikwiarza: Wysyłanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -109982,13 +109982,13 @@ by rozważyli swoją misję niezależnie od sytuacji.&lt;bt_wait&gt;</seg>
  
 If you find an access point under attack by enemies, destroy them all to reactivate the terminal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T192715Z" creationid="Syn Spawacza" creationdate="20200608T220229Z">
-        <seg>W świecie znajdziesz wiele sprytnie zamaskowanych punktów dostępu &lt;MAP_EVENT&gt;, których można użyć aby:
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172648Z" creationid="Syn Spawacza" creationdate="20200608T220229Z">
+        <seg>Po całym świecie poukrywane zostały zamaskowane punkty dostępu &lt;MAP_EVENT&gt;, których można użyć, aby:
 
-- Odblokować informacje na mapie
-- Odblokować obszar zapisu (biały obszar na mapie), który pozwala na zapis gry w menu systemowym, o ile jesteś wystarczająco blisko punktu dostępu.
+- Odblokować informacje na mapie,
+- Odblokować obszar zapisu (biały obszar na mapie), który pozwala na zapis gry w menu systemowym, będąc wystarczająco blisko punktu dostępu.
 
-Jeśli punkt dostępu jest atakowany przez wrogów, zniszcz ich, by reaktywować terminal.</seg>
+Jeśli punkt dostępu jest atakowany przez wrogów, należy ich zniszczyć, aby reaktywować terminal.</seg>
       </tuv>
     </tu>
     <tu>
