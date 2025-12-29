@@ -84662,8 +84662,8 @@ Jackass</seg>
       <tuv lang="en-US">
         <seg>Overwrite this save? (The game will resume from the nearest access point.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184825Z" creationid="Syn Spawacza" creationdate="20200605T184825Z">
-        <seg>Nadpisać ten zapis? (Gra ponownie rozpocznie się od najbliższego punktu dostępu).</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T161833Z" creationid="Syn Spawacza" creationdate="20200605T184825Z">
+        <seg>Nadpisać ten zapis? (Gra zostanie wznowiona od najbliższego punktu dostępu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -95030,8 +95030,8 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       <tuv lang="en-US">
         <seg>Save to this slot? (The game will resume from the nearest access point.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T184822Z" creationid="Syn Spawacza" creationdate="20200605T184822Z">
-        <seg>Zapisać w tym slocie? (Gra ponownie rozpocznie się od najbliższego punktu dostępu).</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T161812Z" creationid="Syn Spawacza" creationdate="20200605T184822Z">
+        <seg>Zapisać na tym slocie? (Gra zostanie wznowiona od najbliższego punktu dostępu).</seg>
       </tuv>
     </tu>
     <tu>
@@ -108741,8 +108741,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The mini-map shows the geography around your current location at the bottom right of the screen. The &lt;MAP_GOAL&gt; icon shows your objective, so make sure to follow it if you get lost.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T210933Z" creationid="Syn Spawacza" creationdate="20200601T210933Z">
-        <seg>Minimapa w prawym dolnym rogu pokazuje teren w pobliżu twojej aktualnej pozycji. Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim jeśli się zgubisz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T161535Z" creationid="Syn Spawacza" creationdate="20200601T210933Z">
+        <seg>Minimapa w prawym dolnym rogu pokazuje teren w pobliżu twojej aktualnej pozycji. Ikona &lt;MAP_GOAL&gt; pokazuje cel misji. Idź za nim, jeśli się zgubisz.</seg>
       </tuv>
     </tu>
     <tu>
