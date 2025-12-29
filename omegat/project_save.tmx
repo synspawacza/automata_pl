@@ -114966,8 +114966,8 @@ Zainteresowane strony mogą uzyskać dostęp do tej biblioteki z serwerowni Bunk
       <tuv lang="en-US">
         <seg>Toggle whether the mini-map rotates or remains static.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T160201Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
-        <seg>Wybierz ustawienie minimapy: obrotowa, czy statyczna.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162858Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
+        <seg>Wybierz ustawienie minimapy: WŁ: obrotowa, WYŁ: statyczna.</seg>
       </tuv>
     </tu>
     <tu>
