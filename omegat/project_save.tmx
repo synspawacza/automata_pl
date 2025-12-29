@@ -62510,8 +62510,9 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>Increase enemy item drop rate by 10%.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T125517Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
-        <seg>Zwiększa ilość przedm. upuszczanych przez wrogów o 10%.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T164054Z" creationid="Syn Spawacza" creationdate="20200608T151112Z">
+        <seg>Zwiększa ilość przedm. upuszczanych przez wrogów o 10%.
+10</seg>
       </tuv>
     </tu>
     <tu>
