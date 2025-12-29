@@ -14090,48 +14090,48 @@ z wspomnieniami Platona 1728.</seg>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 0.6% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073109Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 0,6% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162042Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 0,6% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 1.2% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073112Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 1,2% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162049Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 1,2% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 2.4% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073115Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 2,4% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162055Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 2,4% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 3.6% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073119Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 3,6% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162105Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 3,6% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 4.8% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073122Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 4,8% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162115Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 4,8% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>After 6 seconds of not taking damage, restore 7.2% HP/sec.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073126Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
-        <seg>Po 6 s bez odnoszenia obrażeń, przywróć 7,2% PŻ/s.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T162121Z" creationid="Syn Spawacza" creationdate="20200608T150742Z">
+        <seg>Po 6 s bez odnoszenia obrażeń, przywraca 7,2% PŻ/s.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112443,9 +112443,9 @@ wszystkim jednostkom YoRHa.</seg>
         <seg>This game uses online functionality for its message-sharing features. 
 Connect to the network? (This can be changed from the System Menu at any time.)</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T212718Z" creationid="Syn Spawacza" creationdate="20200605T184918Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T161933Z" creationid="Syn Spawacza" creationdate="20200605T184918Z">
         <seg>Gra używa funkcji sieciowych do dzielenia się wiadomościami.
-Połączyć się z siecią? (Może zostać zmienione w dowolnym momencie w menu systemowym).</seg>
+Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu systemowym).</seg>
       </tuv>
     </tu>
     <tu>
