@@ -2797,8 +2797,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>10% chance that 20% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152546Z">
-        <seg>10% szansa, że 20% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165437Z" creationid="Syn Spawacza" creationdate="20200608T152546Z">
+        <seg>10% szans, że 20% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2933,8 +2933,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>15% chance that 30% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152618Z">
-        <seg>15% szansa, że 30% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165440Z" creationid="Syn Spawacza" creationdate="20200608T152618Z">
+        <seg>15% szans, że 30% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3063,8 +3063,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>20% chance that 40% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152644Z">
-        <seg>20% szansa, że 40% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165442Z" creationid="Syn Spawacza" creationdate="20200608T152644Z">
+        <seg>20% szans, że 40% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3127,8 +3127,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>25% chance that 50% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152648Z">
-        <seg>25% szansa, że 50% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165357Z" creationid="Syn Spawacza" creationdate="20200608T152648Z">
+        <seg>25% szansa, że 50% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4379,8 +4379,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>30% chance that 80% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152652Z">
-        <seg>30% szansa, że 80% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165402Z" creationid="Syn Spawacza" creationdate="20200608T152652Z">
+        <seg>30% szansa, że 80% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,16 +4403,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>35% chance that all damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152708Z">
-        <seg>35% szansa, że wszystkie obrażenia zostaną oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165409Z" creationid="Syn Spawacza" creationdate="20200608T152708Z">
+        <seg>35% szansa, że wszystkie otrzymane obrażenia zostaną oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>35% chance to restore all damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152450Z" creationid="Syn Spawacza" creationdate="20200608T152450Z">
-        <seg>35% szansa na odzyskanie wszystkich obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165203Z" creationid="Syn Spawacza" creationdate="20200608T152450Z">
+        <seg>35% szans na odzyskanie wszystkich otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4467,16 +4467,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>40% chance that 150% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152716Z">
-        <seg>40% szansa, że 150% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165416Z" creationid="Syn Spawacza" creationdate="20200608T152716Z">
+        <seg>40% szansa, że 150% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>40% chance to restore 150% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152456Z" creationid="Syn Spawacza" creationdate="20200608T152456Z">
-        <seg>40% szansa na odzyskanie 150% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165220Z" creationid="Syn Spawacza" creationdate="20200608T152456Z">
+        <seg>40% szans na odzyskanie 150% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4557,8 +4557,8 @@ Jest bardzo wdzięczny to, że dane wywiadowcze udało się zebrać szybciej ni�
       <tuv lang="en-US">
         <seg>5% chance that 10% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200649Z" creationid="Syn Spawacza" creationdate="20200608T152539Z">
-        <seg>5% szansa, że 10% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165330Z" creationid="Syn Spawacza" creationdate="20200608T152539Z">
+        <seg>5% szans, że 10% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4597,16 +4597,16 @@ Jest bardzo wdzięczny to, że dane wywiadowcze udało się zebrać szybciej ni�
       <tuv lang="en-US">
         <seg>50% chance that 200% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200622Z" creationid="Syn Spawacza" creationdate="20200608T152722Z">
-        <seg>50% szansa, że 200% obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165430Z" creationid="Syn Spawacza" creationdate="20200608T152722Z">
+        <seg>50% szans, że 200% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>50% chance to restore 200% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152501Z" creationid="Syn Spawacza" creationdate="20200608T152501Z">
-        <seg>50% szansa na odzyskanie 200% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165231Z" creationid="Syn Spawacza" creationdate="20200608T152501Z">
+        <seg>50% szans na odzyskanie 200% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
