@@ -2789,8 +2789,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>10% chance of reviving with 20% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152822Z" creationid="Syn Spawacza" creationdate="20200608T152822Z">
-        <seg>10% szansa na odrodzenie z 20% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165530Z" creationid="Syn Spawacza" creationdate="20200608T152822Z">
+        <seg>10% szans na odrodzenie z 20% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2925,8 +2925,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>15% chance of reviving with 30% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152826Z" creationid="Syn Spawacza" creationdate="20200608T152826Z">
-        <seg>15% szansa na odrodzenie z 30% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165533Z" creationid="Syn Spawacza" creationdate="20200608T152826Z">
+        <seg>15% szans na odrodzenie z 30% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3055,8 +3055,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>20% chance of reviving with 40% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152830Z" creationid="Syn Spawacza" creationdate="20200608T152830Z">
-        <seg>20% szansa na odrodzenie z 40% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165536Z" creationid="Syn Spawacza" creationdate="20200608T152830Z">
+        <seg>20% szans na odrodzenie z 40% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3119,16 +3119,16 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>25% chance of reviving with 50% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152834Z" creationid="Syn Spawacza" creationdate="20200608T152834Z">
-        <seg>25% szansa na odrodzenie z 50% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165539Z" creationid="Syn Spawacza" creationdate="20200608T152834Z">
+        <seg>25% szans na odrodzenie z 50% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>25% chance that 50% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165357Z" creationid="Syn Spawacza" creationdate="20200608T152648Z">
-        <seg>25% szansa, że 50% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165446Z" creationid="Syn Spawacza" creationdate="20200608T152648Z">
+        <seg>25% szans, że 50% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4371,16 +4371,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>30% chance of reviving with 60% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152839Z" creationid="Syn Spawacza" creationdate="20200608T152839Z">
-        <seg>30% szansa na odrodzenie z 60% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165542Z" creationid="Syn Spawacza" creationdate="20200608T152839Z">
+        <seg>30% szans na odrodzenie z 60% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>30% chance that 80% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165402Z" creationid="Syn Spawacza" creationdate="20200608T152652Z">
-        <seg>30% szansa, że 80% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165449Z" creationid="Syn Spawacza" creationdate="20200608T152652Z">
+        <seg>30% szans, że 80% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4403,8 +4403,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>35% chance that all damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165409Z" creationid="Syn Spawacza" creationdate="20200608T152708Z">
-        <seg>35% szansa, że wszystkie otrzymane obrażenia zostaną oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165451Z" creationid="Syn Spawacza" creationdate="20200608T152708Z">
+        <seg>35% szans, że wszystkie otrzymane obrażenia zostaną oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4459,16 +4459,16 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>40% chance of reviving with 70% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152843Z" creationid="Syn Spawacza" creationdate="20200608T152843Z">
-        <seg>40% szansa na odrodzenie z 70% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165545Z" creationid="Syn Spawacza" creationdate="20200608T152843Z">
+        <seg>40% szans na odrodzenie z 70% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>40% chance that 150% of damage taken is dealt back to the enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165416Z" creationid="Syn Spawacza" creationdate="20200608T152716Z">
-        <seg>40% szansa, że 150% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165454Z" creationid="Syn Spawacza" creationdate="20200608T152716Z">
+        <seg>40% szans, że 150% otrzymanych obrażeń zostanie oddane wrogowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4541,16 +4541,16 @@ Jest bardzo wdzięczny to, że dane wywiadowcze udało się zebrać szybciej ni�
       <tuv lang="en-US">
         <seg>5% chance of reviving with 10% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152811Z" creationid="Syn Spawacza" creationdate="20200608T152811Z">
-        <seg>5% szansa na odrodzenie z 10% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165522Z" creationid="Syn Spawacza" creationdate="20200608T152811Z">
+        <seg>5% szans na odrodzenie z 10% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>5% chance of reviving with 20% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152817Z" creationid="Syn Spawacza" creationdate="20200608T152817Z">
-        <seg>5% szansa na odrodzenie z 20% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165527Z" creationid="Syn Spawacza" creationdate="20200608T152817Z">
+        <seg>5% szans na odrodzenie z 20% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4589,8 +4589,8 @@ Jest bardzo wdzięczny to, że dane wywiadowcze udało się zebrać szybciej ni�
       <tuv lang="en-US">
         <seg>50% chance of reviving with 80% HP upon death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152851Z" creationid="Syn Spawacza" creationdate="20200608T152851Z">
-        <seg>50% szansa na odrodzenie z 80% PŻ po śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165548Z" creationid="Syn Spawacza" creationdate="20200608T152851Z">
+        <seg>50% szans na odrodzenie z 80% PŻ po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98208,24 +98208,24 @@ for 30 seconds.</seg>
       <tuv lang="en-US">
         <seg>Slow time for 0.8 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152950Z" creationid="Syn Spawacza" creationdate="20200608T152950Z">
-        <seg>Spowalnia czas na 0,8 s po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165720Z" creationid="Syn Spawacza" creationdate="20200608T152950Z">
+        <seg>Spowolnienie czasu na 0,8s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 1.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152955Z" creationid="Syn Spawacza" creationdate="20200608T152955Z">
-        <seg>Spowalnia czas na 1,5 s po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165736Z" creationid="Syn Spawacza" creationdate="20200608T152955Z">
+        <seg>Spowolnienie czasu na 1,5s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 2 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152958Z" creationid="Syn Spawacza" creationdate="20200608T152958Z">
-        <seg>Spowalnia czas na 2 s po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165745Z" creationid="Syn Spawacza" creationdate="20200608T152958Z">
+        <seg>Spowolnienie czasu na 2s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
