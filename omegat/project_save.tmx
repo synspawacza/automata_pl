@@ -664,8 +664,8 @@ zawierać spoilery</seg>
       <tuv lang="en-US">
         <seg>* This game does not support auto-save. Play the game to find out how to save.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T192552Z" creationid="Syn Spawacza" creationdate="20200608T144624Z">
-        <seg>* Ta gra nie wspiera autozapisu. Zagraj, by dowiedzieć się jak zapisywać grę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T171023Z" creationid="Syn Spawacza" creationdate="20200608T144624Z">
+        <seg>* Ta gra nie posiada funkcji autozapisu. Aby dowiedzieć się jak zapisywać grę, należy w nią zagrać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46111,8 +46111,8 @@ Rozejrzyjmy się.</seg>
       <tuv lang="en-US">
         <seg>Head to the surface from the hangar.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T160413Z" creationid="Syn Spawacza" creationdate="20200608T160413Z">
-        <seg>Dostań się z hangaru na powierzchnię.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T171157Z" creationid="Syn Spawacza" creationdate="20200608T160413Z">
+        <seg>Z hangaru dostań się na powierzchnię.</seg>
       </tuv>
     </tu>
     <tu>
