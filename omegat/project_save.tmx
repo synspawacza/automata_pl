@@ -12497,16 +12497,16 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>Access Points: Arcade</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170134Z" creationid="Syn Spawacza" creationdate="20200615T170134Z">
-        <seg>Punkty dostępu: salon gier</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174248Z" creationid="Syn Spawacza" creationdate="20200615T170134Z">
+        <seg>Punkty dostępu: Salon Gier</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Access Points: Inbox</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170126Z" creationid="Syn Spawacza" creationdate="20200615T170111Z">
-        <seg>Punkty dostępu: poczta</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174243Z" creationid="Syn Spawacza" creationdate="20200615T170111Z">
+        <seg>Punkty dostępu: Poczta</seg>
       </tuv>
     </tu>
     <tu>
@@ -12529,16 +12529,16 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>Access Points: Transport</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170118Z" creationid="Syn Spawacza" creationdate="20200615T170026Z">
-        <seg>Punkty dostępu: transport</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174232Z" creationid="Syn Spawacza" creationdate="20200615T170026Z">
+        <seg>Punkty dostępu: Transport</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Access Points: Unavailable</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170120Z" creationid="Syn Spawacza" creationdate="20200615T170039Z">
-        <seg>Punkty dostępu: niedostępne</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174236Z" creationid="Syn Spawacza" creationdate="20200615T170039Z">
+        <seg>Punkty dostępu: Niedostępne</seg>
       </tuv>
     </tu>
     <tu>
@@ -32783,8 +32783,8 @@ Po prostu, wiesz, bądź jak 9S!</seg>
       <tuv lang="en-US">
         <seg>Death and Recovery</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170219Z" creationid="Syn Spawacza" creationdate="20200615T170219Z">
-        <seg>Śmierć i odzyskiwanie</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174254Z" creationid="Syn Spawacza" creationdate="20200615T170219Z">
+        <seg>Śmierć i Odzyskiwanie</seg>
       </tuv>
     </tu>
     <tu>
@@ -117840,8 +117840,8 @@ Przepraszam, ale nie wolno tam wchodzić.</seg>
       <tuv lang="en-US">
         <seg>Uploading upon Death</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T170229Z" creationid="Syn Spawacza" creationdate="20200615T170229Z">
-        <seg>Wysyłanie po śmierci</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T174259Z" creationid="Syn Spawacza" creationdate="20200615T170229Z">
+        <seg>Wysyłanie po Śmierci</seg>
       </tuv>
     </tu>
     <tu>
