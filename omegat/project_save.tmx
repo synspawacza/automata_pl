@@ -2805,8 +2805,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>10% chance to restore 20% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152417Z" creationid="Syn Spawacza" creationdate="20200608T152417Z">
-        <seg>10% szansa na odzyskanie 20% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165034Z" creationid="Syn Spawacza" creationdate="20200608T152417Z">
+        <seg>10% szans na odzyskanie 20% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2941,8 +2941,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>15% chance to restore 30% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152422Z" creationid="Syn Spawacza" creationdate="20200608T152422Z">
-        <seg>15% szansa na odzyskanie 30% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165058Z" creationid="Syn Spawacza" creationdate="20200608T152422Z">
+        <seg>15% szans na odzyskanie 30% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3071,8 +3071,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>20% chance to restore 40% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152425Z" creationid="Syn Spawacza" creationdate="20200608T152425Z">
-        <seg>20% szansa na odzyskanie 40% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165111Z" creationid="Syn Spawacza" creationdate="20200608T152425Z">
+        <seg>20% szans na odzyskanie 40% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3135,8 +3135,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>25% chance to restore 50% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152430Z" creationid="Syn Spawacza" creationdate="20200608T152430Z">
-        <seg>25% szansa na odzyskanie 50% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165133Z" creationid="Syn Spawacza" creationdate="20200608T152430Z">
+        <seg>25% szans na odzyskanie 50% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,8 +4387,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>30% chance to restore 80% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152434Z" creationid="Syn Spawacza" creationdate="20200608T152434Z">
-        <seg>30% szansa na odzyskanie 80% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165145Z" creationid="Syn Spawacza" creationdate="20200608T152434Z">
+        <seg>30% szans na odzyskanie 80% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4565,8 +4565,8 @@ Jest bardzo wdzięczny to, że dane wywiadowcze udało się zebrać szybciej ni�
       <tuv lang="en-US">
         <seg>5% chance to restore 10% of damage taken.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T152408Z" creationid="Syn Spawacza" creationdate="20200608T152408Z">
-        <seg>5% szansa na odzyskanie 10% obrażeń jako zdrowie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T165020Z" creationid="Syn Spawacza" creationdate="20200608T152408Z">
+        <seg>5% szans na odzyskanie 10% otrzymanych obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42373,8 +42373,8 @@ wielką siłą ze względu na swoją masę.</seg>
       <tuv lang="en-US">
         <seg>Gain 100% more EXP from defeated enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T073414Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
-        <seg>Dostajesz 100% PD więcej za pokonanych wrogów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T164849Z" creationid="Syn Spawacza" creationdate="20200608T151230Z">
+        <seg>Zwiększa ilość PD za pokonanych wrogów o 100%.</seg>
       </tuv>
     </tu>
     <tu>
