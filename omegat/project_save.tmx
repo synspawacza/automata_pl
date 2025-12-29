@@ -68514,8 +68514,8 @@ Może zostać sprzedany.</seg>
       <tuv lang="en-US">
         <seg>Keys are overlapping.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T205910Z" creationid="Syn Spawacza" creationdate="20200530T134615Z">
-        <seg>Konflikt przypisań klawiszy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T160534Z" creationid="Syn Spawacza" creationdate="20200530T134615Z">
+        <seg>Konflikt przypisanych klawiszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79226,8 +79226,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Normal</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200605T142700Z" creationid="Syn Spawacza" creationdate="20200530T131938Z">
-        <seg>Normalnie</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T160500Z" creationid="Syn Spawacza" creationdate="20200530T131938Z">
+        <seg>Normalne</seg>
       </tuv>
     </tu>
     <tu>
