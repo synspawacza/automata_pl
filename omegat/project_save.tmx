@@ -29387,8 +29387,8 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane d
       <tuv lang="en-US">
         <seg>Combos continue while evading.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T155808Z" creationid="Syn Spawacza" creationdate="20200608T155808Z">
-        <seg>Unik nie przerywa kombo.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170647Z" creationid="Syn Spawacza" creationdate="20200608T155808Z">
+        <seg>Unik pozwala kontynuować kombo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98216,64 +98216,64 @@ for 30 seconds.</seg>
       <tuv lang="en-US">
         <seg>Slow time for 1.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165736Z" creationid="Syn Spawacza" creationdate="20200608T152955Z">
-        <seg>Spowolnienie czasu na 1,5s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170354Z" creationid="Syn Spawacza" creationdate="20200608T152955Z">
+        <seg>Spowolnienie czasu na 1,5 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 2 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165745Z" creationid="Syn Spawacza" creationdate="20200608T152958Z">
-        <seg>Spowolnienie czasu na 2s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170357Z" creationid="Syn Spawacza" creationdate="20200608T152958Z">
+        <seg>Spowolnienie czasu na 2 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 2.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165757Z" creationid="Syn Spawacza" creationdate="20200608T153004Z">
-        <seg>Spowolnienie czasu na 2,5s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170400Z" creationid="Syn Spawacza" creationdate="20200608T153004Z">
+        <seg>Spowolnienie czasu na 2,5 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 3 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165808Z" creationid="Syn Spawacza" creationdate="20200608T153008Z">
-        <seg>Spowolnienie czasu na 3s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170402Z" creationid="Syn Spawacza" creationdate="20200608T153008Z">
+        <seg>Spowolnienie czasu na 3 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 3.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165820Z" creationid="Syn Spawacza" creationdate="20200608T153014Z">
-        <seg>Spowolnienie czasu na 3,5s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170404Z" creationid="Syn Spawacza" creationdate="20200608T153014Z">
+        <seg>Spowolnienie czasu na 3,5 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 4 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165827Z" creationid="Syn Spawacza" creationdate="20200608T153017Z">
-        <seg>Spowolnienie czasu na 4s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170407Z" creationid="Syn Spawacza" creationdate="20200608T153017Z">
+        <seg>Spowolnienie czasu na 4 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 4.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165836Z" creationid="Syn Spawacza" creationdate="20200608T153022Z">
-        <seg>Spowolnienie czasu na 4,5s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170409Z" creationid="Syn Spawacza" creationdate="20200608T153022Z">
+        <seg>Spowolnienie czasu na 4,5 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Slow time for 5.5 seconds after a Perfect Evade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T165844Z" creationid="Syn Spawacza" creationdate="20200608T153029Z">
-        <seg>Spowolnienie czasu na 5,5s. po perfekcyjnym uniku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170412Z" creationid="Syn Spawacza" creationdate="20200608T153029Z">
+        <seg>Spowolnienie czasu na 5,5 s. po perfekcyjnym uniku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103391,8 +103391,8 @@ filtru paliwa.</seg>
       <tuv lang="en-US">
         <seg>Taking bullet damage creates an explosion.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251229T142211Z" creationid="Syn Spawacza" creationdate="20210716T200029Z">
-        <seg>Otrzymanie obrażeń zadanych przez pocisk wroga wywołuje eksplozję.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T170711Z" creationid="Syn Spawacza" creationdate="20210716T200029Z">
+        <seg>Otrzymanie obrażeń zadanych pociskiem wywołuje eksplozję.</seg>
       </tuv>
     </tu>
     <tu>
