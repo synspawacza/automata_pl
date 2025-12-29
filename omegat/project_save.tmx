@@ -103391,8 +103391,8 @@ filtru paliwa.</seg>
       <tuv lang="en-US">
         <seg>Taking bullet damage creates an explosion.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T200042Z" creationid="Syn Spawacza" creationdate="20210716T200029Z">
-        <seg>Uderzenie przez pocisk wroga wywołuje eksplozję.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T142211Z" creationid="Syn Spawacza" creationdate="20210716T200029Z">
+        <seg>Otrzymanie obrażeń zadanych przez pocisk wroga wywołuje eksplozję.</seg>
       </tuv>
     </tu>
     <tu>
