@@ -26675,8 +26675,8 @@ Will their battle ever come to an end?</seg>
       <tuv lang="en-US">
         <seg>Can be changed on the Title Menu and the Start Menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251222T173010Z" creationid="Syn Spawacza" creationdate="20200530T131357Z">
-        <seg>Ustawienie można zmienić w menu tytułowym i start.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T155849Z" creationid="Syn Spawacza" creationdate="20200530T131357Z">
+        <seg>Ustawienie można zmienić w menu tytułowym i menu start.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114966,8 +114966,8 @@ Zainteresowane strony mogą uzyskać dostęp do tej biblioteki z serwerowni Bunk
       <tuv lang="en-US">
         <seg>Toggle whether the mini-map rotates or remains static.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T131642Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
-        <seg>Ustaw czy minimapa powinna się obracać czy pozostać statyczna.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T160201Z" creationid="Syn Spawacza" creationdate="20200530T131642Z">
+        <seg>Wybierz ustawienie minimapy: obrotowa, czy statyczna.</seg>
       </tuv>
     </tu>
     <tu>
