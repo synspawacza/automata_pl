@@ -95876,8 +95876,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>Select "Inbox" at an access point to check your mail.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T190052Z" creationid="Syn Spawacza" creationdate="20200608T220630Z">
-        <seg>Wybierz „Poczta” w punkcie dostępu, by zobaczyć przychodzące wiadomości.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172821Z" creationid="Syn Spawacza" creationdate="20200608T220630Z">
+        <seg>Wybierz „Poczta” w punkcie dostępu, aby zobaczyć przychodzące wiadomości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126251,10 +126251,10 @@ w ich stronę.
  
 If you die again before reaching your previous body, it will disappear. If you keep playing for an extended period of time without retrieving your body, it will disappear.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T192732Z" creationid="Syn Spawacza" creationdate="20200608T221143Z">
-        <seg>Kiedy twoja postać umiera, jej ciało zostaje na mapie jako &lt;MAP_CORPSE&gt;. Powróć do ciała, by odzyskać swoje rzeczy.
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T173010Z" creationid="Syn Spawacza" creationdate="20200608T221143Z">
+        <seg>Kiedy postać umrze, jej ciało zostaje na mapie jako &lt;MAP_CORPSE&gt;. Należy powrócić do ciała, aby odzyskać swoje rzeczy.
 
-Jeśli zginiesz nim dotrzesz do ciała, zdąży zniknąć. Jeśli nie odzyskasz ciała, to zniknie ono po pewnym czasie.</seg>
+Jeśli postać zginie ponownie, zanim dotrze do ciała, zdąży ono zniknąć. Jeśli nie uda się odzyskać ciała, zniknie ono po pewnym czasie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132501,8 +132501,8 @@ Klaun był uradowany sukcesem parady, ale wydawał się też trochę smutny, bo 
         <seg>You unlocked the "Arcade" feature for access points.
 This lets you replay any hacking games you completed during the game.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T080209Z" creationid="Syn Spawacza" creationdate="20200608T220734Z">
-        <seg>Odblokowano opcję „Salon gier” w punkcie dostępu.
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T172845Z" creationid="Syn Spawacza" creationdate="20200608T220734Z">
+        <seg>Odblokowano opcję „Salon Gier” w punkcie dostępu.
 Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       </tuv>
     </tu>
