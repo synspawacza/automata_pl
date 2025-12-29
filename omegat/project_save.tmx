@@ -61423,11 +61423,11 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
 - Retrieve: You'll temporarily gain 3 random effects based on the chips the player had equipped.
 - Repair: The body will follow you around and aid you in combat (one max).</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T222024Z" creationid="Syn Spawacza" creationdate="20200608T222024Z">
-        <seg>Jeśli funkcje sieciowe są włączone, będziesz w stanie zobaczyć martwe ciała innych graczy. Podchodząc do nich, możesz wykonać jedno z poniższych:
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T173422Z" creationid="Syn Spawacza" creationdate="20200608T222024Z">
+        <seg>Jeśli funkcje sieciowe są włączone, będzie można zobaczyć martwe ciała innych graczy. Podchodząc do nich, można wykonać jedną z dwóch dostępnych możliwości:
 
-- Odzyskaj: Zyskasz tymczasowo 3 losowe efekty, zależne od czipów używanych przez gracza.
-- Naprawa: Ciało (maksymalnie jedno) będzie podążać za tobą i pomagać w walce.</seg>
+- Odzyskaj: Można uzyskać tymczasowo 3 losowe efekty, zależne od czipów używanych przez gracza.
+- Naprawa: Ciało (maksymalnie jedno) będzie podążało za główną postacią, żeby pomagać jej w walce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61435,9 +61435,9 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
         <seg>If you have the Network Features option turned on, your body will be uploaded online upon death.
 You can create a death message for your body within the Network tab, under Edit Death Message within the System Menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T221425Z" creationid="Syn Spawacza" creationdate="20200608T221425Z">
-        <seg>Jeśli funkcje sieciowe są włączone, twoje ciało po śmierci zostanie wysłane do sieci.
-Wiadomość pozostawianą po śmierci możesz w zakładce „Sieć”, w opcji „Edytuj wiadomość po śmierci” w menu systemowym.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251229T173150Z" creationid="Syn Spawacza" creationdate="20200608T221425Z">
+        <seg>Jeśli funkcje sieciowe są włączone, ciało po śmierci zostanie wysłane do sieci.
+Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, w opcji „Edytuj wiadomość po śmierci” w menu systemowym.</seg>
       </tuv>
     </tu>
     <tu>
