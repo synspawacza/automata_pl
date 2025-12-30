@@ -11608,8 +11608,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>A woman at the Resistance camp claims that one of her friends is missing. Investigate the materials storage site and search for clues.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T164327Z" creationid="Syn Spawacza" creationdate="20200717T164214Z">
-        <seg>Kobieta w obozie Ruchu Oporu twierdzi, że zaginął jeden z jej przyjaciół. Zbadaj magazyn z materiałami w poszukiwaniu wskazówek.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120629Z" creationid="Syn Spawacza" creationdate="20200717T164214Z">
+        <seg>Kobieta w obozie Ruchu Oporu twierdzi, że zaginął jej przyjaciel. Zbadaj magazyn z materiałami w poszukiwaniu wskazówek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19066,8 +19066,8 @@ Przykro mi, Platonie 1728...</seg>
       <tuv lang="en-US">
         <seg>Anemone has asked for help reclaiming the forest. Destroy the enemies at the intended camp site.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T162933Z" creationid="Syn Spawacza" creationdate="20200717T162933Z">
-        <seg>Anemona poprosiła o pomoc przy odzyskaniu lasu. Zniszcz wrogów na miejscu w którym ma być założony obóz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120438Z" creationid="Syn Spawacza" creationdate="20200717T162933Z">
+        <seg>Anemona poprosiła o pomoc przy odzyskaniu lasu. Zniszcz wrogów na miejscu, w którym ma być założony obóz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67194,8 +67194,8 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       <tuv lang="en-US">
         <seg>Judging from the data found on the man and the machine, both tricked the other into coming here in order to exact revenge. Report your findings to the client.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210110T094619Z" creationid="Syn Spawacza" creationdate="20200717T164359Z">
-        <seg>Sądząc, na podstawie danych znalezionych przy mężczyźnie i maszynie, oboje zmusili drugiego do przyjścia z zamiarem zemsty. Zdaj swoje ustalenia klientce.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120900Z" creationid="Syn Spawacza" creationdate="20200717T164359Z">
+        <seg>Na podstawie danych znalezionych przy mężczyźnie i maszynie, można sądzić, że obaj podstępem nakłonili się nawzajem do przybycia tutaj z zamiarem zemsty. Przekaż swoje ustalenia klientce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117880,8 +117880,8 @@ Przepraszam, ale nie wolno tam wchodzić.</seg>
       <tuv lang="en-US">
         <seg>Upon looking at the data, Anemone was sure that A2 was the android she knew. It turns out they fought together in the past, but the squad under A2's command was wiped out. When told that Command wanted A2 executed for desertion, Anemone was shocked beyond words.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T220248Z" creationid="Syn Spawacza" creationdate="20200717T163950Z">
-        <seg>Po sprawdzeniu danych, Anemona jest pewna, że A2 jest androidem którego znała. Okazało się, że kiedyś walczyły razem, ale oddział któremu dowodziła A2 został zniszczony. To, że Dowództwo wydało wyrok śmierci na A2 za dezercję niezmiernie zaszokowało Anemonę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120546Z" creationid="Syn Spawacza" creationdate="20200717T163950Z">
+        <seg>Po sprawdzeniu danych, Anemona jest pewna, że A2 jest androidem którego znała. Okazało się, że kiedyś walczyły razem, ale oddział któremu dowodziła A2, został zniszczony. To, że Dowództwo wydało wyrok śmierci na A2 za dezercję, niezmiernie zszokowało Anemonę.</seg>
       </tuv>
     </tu>
     <tu>
