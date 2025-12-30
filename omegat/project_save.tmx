@@ -62148,8 +62148,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In the capital of a distant Eastern land, there lived a poet who was devoted to his art. But his words failed to touch the hearts of the people, and he could make no profit from them. Soon, his life became unbearably hard.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210110T093531Z" creationid="Syn Spawacza" creationdate="20200616T114728Z">
-        <seg>W stolicy kraju na Dalekim Wschodzie, żył poeta, który całe życie poświęcił sztuce. Jego słowa nie były w stanie dotrzeć do ludzkich serc i nie był w stanie na nich zarabiać. Jego życie z czasem stało się nie do zniesienia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T061236Z" creationid="Syn Spawacza" creationdate="20200616T114728Z">
+        <seg>W stolicy kraju na Dalekim Wschodzie, żył poeta, który całe życie poświęcił sztuce. Jego słowa nie były w stanie dotrzeć do ludzkich serc, przez co nie był w stanie na nich zarabiać. Jego życie z czasem stało się nie do zniesienia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112160,8 +112160,8 @@ przedmiot w sklepie.</seg>
       <tuv lang="en-US">
         <seg>This cannot be equipped to this spot.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200615T181317Z" creationid="Syn Spawacza" creationdate="20200615T181317Z">
-        <seg>Nie może być wyekwipowane w tym miejscu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T061130Z" creationid="Syn Spawacza" creationdate="20200615T181317Z">
+        <seg>Tego nie da się wyekwipować w tym miejscu.</seg>
       </tuv>
     </tu>
     <tu>
