@@ -106425,8 +106425,8 @@ Porozmawiaj z nią w obozie Ruchu Oporu, by dowiedzieć się o co chodzi!</seg>
       <tuv lang="en-US">
         <seg>The A-model is a YoRHa prototype that specializes in close-quarter combat. Though not presently in use, it was originally created to speed along the implementation of other official models such as 2B and 9S. This particular unit—whose official title is Class A, Number 2—was wanted by Command for desertion and ordered to be destroyed on sight. She first appeared in the Forest Castle, where she slew the Forest King. 2B and 9S engaged her in combat, but she managed to escape.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193255Z" creationid="Syn Spawacza" creationdate="20200715T215523Z">
-        <seg>Model A to prototyp YoRHa specjalizujący się w walce w zwarciu. Choć nie jest obecnie w użyciu, został początkowo stworzony, by przyspieszyć implementację innych oficjalnych modeli, takich jak 2B i 9S. Ta konkretna jednostka — oficjalnie tytułowana Klasa A, Numer 2 — była poszukiwana przez Dowództwo za dezercję z rozkazem zniszczenia na miejscu. Pojawiła się po raz pierwszy w Leśnym Zamku, gdzie zarżnęła Króla Lasu. 2B i 9S wdali się w walkę z nią, ale udało się jej uciec.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T105936Z" creationid="Syn Spawacza" creationdate="20200715T215523Z">
+        <seg>Model A to prototyp YoRHa specjalizujący się w walce w zwarciu. Choć nie jest obecnie w użyciu, został stworzony, by przyspieszyć implementację innych oficjalnych modeli, takich jak 2B i 9S. Ta konkretna jednostka — oficjalnie tytułowana Klasa A, Numer 2 — była poszukiwana przez Dowództwo za dezercję, z rozkazem zniszczenia jej na miejscu. Pojawiła się po raz pierwszy w Leśnym Zamku, gdzie zarżnęła w kołysce Króla Lasu. 2B i 9S wdali się z nią w walkę, ale ostatecznie uciekła.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111039,8 +111039,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>These copies of the YoRHa B-model—created by the Tower—attacked 9S after being infected by a virus. Though 9S was eventually able to defeat them, the timed detonation of their bodies blew off his left arm.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200715T215013Z" creationid="Syn Spawacza" creationdate="20200715T215013Z">
-        <seg>Te kopie jednostki YoRHa model B — stworzone przez Wieżę — zaatakowały 9S po zainfekowaniu przez wirusa. Choć 9S był w stanie pokonać je, czasowa detonacja ich ciał oderwała jego lewą rękę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T105708Z" creationid="Syn Spawacza" creationdate="20200715T215013Z">
+        <seg>Te kopie jednostki YoRHa model B — stworzone przez Wieżę — zaatakowały 9S po zainfekowaniu przez wirusa. Choć 9S był w stanie je pokonać, czasowa detonacja ich ciał pozbawiła go lewej ręki.</seg>
       </tuv>
     </tu>
     <tu>
