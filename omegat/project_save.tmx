@@ -9226,8 +9226,8 @@ rafinacji paliwa.</seg>
       <tuv lang="en-US">
         <seg>A flying, Goliath-class machine lifeform with a tank-like machine attached to its bottom section. During combat, the center portion functions as a hanger that can release numerous small flying machines, while the main body is capable of firing large quantities of energy rounds.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200715T191940Z" creationid="Syn Spawacza" creationdate="20200715T191940Z">
-        <seg>Latająca mechaniczna forma życia klasy Goliat z przypominającą czołg maszyną przymocowaną w dolnej sekcji. Podczas walki, środkowa część funkcjonuje jako hangar, mogący wypuścić wiele małych maszyn latających, podczas gdy główny korpus jest w stanie wystrzelić dużą ilość pocisków energetycznych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T103836Z" creationid="Syn Spawacza" creationdate="20200715T191940Z">
+        <seg>Latająca mechaniczna forma życia klasy Goliat, z przypominającą czołg maszyną przymocowaną w dolnej sekcji. Podczas walki, środkowa część funkcjonuje jako hangar, mogący wypuścić wiele małych maszyn latających, podczas gdy główny korpus jest w stanie wystrzelić dużą ilość pocisków energetycznych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10271,16 +10271,16 @@ Zabiła zarażoną jednostkę — Numer 21 — w pomieszczeniu windy w serwerown
       <tuv lang="en-US">
         <seg>A multi-legged, Goliath-class machine lifeform. Equipped with an offensive firearm unit, this long-range menace can also emit electricity from the tips of its legs, turning nearby water-covered surfaces into danger zones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210131T142055Z" creationid="Syn Spawacza" creationdate="20200715T192935Z">
-        <seg>Wielonoga mechaniczna forma życia klasy Goliat. Wyposażona w ofensywną jednostkę strzelającą, ta działająca na daleki dystans zmora jest w stanie emitować elektryczność z czubków odnóży, zmieniając pokryte wodą powierzchnie w niebezpieczne strefy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T103928Z" creationid="Syn Spawacza" creationdate="20200715T192935Z">
+        <seg>Wielonoga mechaniczna forma życia klasy Goliat. Wyposażona w ofensywną jednostkę strzelającą, ta działająca na daleki dystans zmora, jest w stanie emitować elektryczność z czubków odnóży, zmieniając pokryte wodą powierzchnie w niebezpieczne strefy.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A multi-legged, Goliath-class machine lifeform. This unit is equipped with a firearm unit for long-range combat, while its white body is covered in mysterious black symbols.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200715T193502Z" creationid="Syn Spawacza" creationdate="20200715T193502Z">
-        <seg>Wielonoga mechaniczna forma życia klasy Goliat. Jednostka wyposażona w jednostkę strzelającą do ataków na dystans i biały korpus pokryty tajemniczymi czarnymi symbolami.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104033Z" creationid="Syn Spawacza" creationdate="20200715T193502Z">
+        <seg>Wielonoga mechaniczna forma życia klasy Goliat. Jest wyposażona w jednostkę strzelającą atakami dystansowymi i biały korpus pokryty tajemniczymi czarnymi symbolami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11293,8 +11293,8 @@ as its motif.</seg>
       <tuv lang="en-US">
         <seg>A tank-like, Goliath-class machine lifeform found at the abandoned factory. It requires a number of smaller units to function, including a commander in the top section of the turret, an operator in the front chamber, and various other machines scattered throughout. The top-mounted cannon is capable of firing energy rounds and powerful lasers, while the front contains an arm-like structure that can strike and cleave foes with ease. Finally, the rear section boasts both an attacking hammer on a crane and a cargo unit that can carry additional machines into battle.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T215122Z" creationid="Syn Spawacza" creationdate="20200715T191649Z">
-        <seg>Przypominająca czołg mechaniczna forma życia klasy Goliat znaleziona w opuszczonej fabryce. Wymaga do działania wielu mniejszych jednostek, włączając w to dowódcę na wieżyczce, operatora na przedzie oraz wielu innych maszyn rozsianych po całej jednostce. Zamocowane na szczycie działo jest w stanie strzelać pociskami energetycznymi i potężnymi laserami, zaś zamocowana na przedzie struktura przypominająca ramię zdolna jest do zadawania uderzeń. Tylna sekcja szczyci się młotem bojowym na żurawiu oraz ładownią zdolną mogącą pomieścić dodatkowe maszyny.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T103817Z" creationid="Syn Spawacza" creationdate="20200715T191649Z">
+        <seg>Przypominająca czołg, mechaniczna forma życia klasy Goliat, znaleziona w opuszczonej fabryce. Wymaga do działania wielu mniejszych jednostek, włączając w to dowódcę na wieżyczce, operatora na przedzie, oraz wielu innych maszyn rozsianych po całej jednostce. Zamocowane na szczycie działo jest w stanie strzelać pociskami energetycznymi i potężnymi laserami, zaś zamocowana na przedzie struktura przypominająca ramię zdolna jest do wyprowadzania uderzeń. Tylna sekcja szczyci się młotem bojowym na żurawiu, oraz ładownią zdolną pomieścić dodatkowe maszyny.</seg>
       </tuv>
     </tu>
     <tu>
