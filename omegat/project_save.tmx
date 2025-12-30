@@ -10211,16 +10211,16 @@ w rodzinie królewskiej.</seg>
       <tuv lang="en-US">
         <seg>A medium-sized machine lifeform outfitted with four flight devices. Armed with guns atop the devices and wire cutters on its sides, it's capable of taking on enemies in both close- and long-range combat. The wires on the bottom of the flight devices allow them to transport other machine lifeforms when necessary.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210109T095800Z" creationid="Syn Spawacza" creationdate="20200715T174757Z">
-        <seg>Średnia mechaniczna forma życia wyposażona w cztery urządzenia latające. Wyposażona w działka w górnej części urządzeń i przecinaki na bokach, co pozwala jej atakować wrogów zarówno na krótkim, jak i długim dystansie. Linki na spodzie urządzeń pozwalają na transport innych mechanicznych forma życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T102827Z" creationid="Syn Spawacza" creationdate="20200715T174757Z">
+        <seg>Średnia mechaniczna forma życia wyposażona w cztery urządzenia latające. Wyposażona w działka, w górnej części urządzeń i przecinaki na bokach, pozwalające jej atakować wrogów, zarówno na krótkim, jak i długim dystansie. Linki na spodzie urządzeń pozwalają na transport innych mechanicznych forma życia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A medium-sized machine lifeform that has multiple legs, much like an insect. By emitting energy from the tips of its legs, it can move about as though gliding across the ground.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T214828Z" creationid="Syn Spawacza" creationdate="20200715T174517Z">
-        <seg>Mechaniczna forma życia średniej wielkości z wieloma owadopodonymi nogami. Emituje energię z czubków odnóży, dzięki czemu jest w stanie z łatwością sunąć po ziemi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T102633Z" creationid="Syn Spawacza" creationdate="20200715T174517Z">
+        <seg>Mechaniczna forma życia średniej wielkości, z wieloma owadopodonymi nogami. Emituje energię z czubków odnóży, dzięki czemu jest w stanie z łatwością sunąć po ziemi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,8 +10758,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>A self-destruct device equipped with a medium bipedal unit. Such simple construction means it is technically not classified as a machine lifeform. Its only function is to approach enemies and engage the self-destruct—a task made easier by a layer of thick armor.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210131T141442Z" creationid="Syn Spawacza" creationdate="20200715T173817Z">
-        <seg>Urządzenie autodestrukcyjne wyposażone w średnią jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji — w czym pomaga warstwa grubego pancerza.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T102620Z" creationid="Syn Spawacza" creationdate="20200715T173817Z">
+        <seg>Urządzenie autodestrukcyjne wyposażone w średnią jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji — w czym pomaga jej warstwa grubego pancerza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72636,8 +72636,8 @@ Co tutaj robisz?</seg>
       <tuv lang="en-US">
         <seg>Machine lifeforms that are part of the colony at Pascal's village. Despite their machine origins, they despise conflict in all forms, and willingly cut themselves off from the network as a result. They now live a peaceful existence deep in the forest along with other machines who share their pacifistic beliefs.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T214658Z" creationid="Syn Spawacza" creationdate="20200715T172405Z">
-        <seg>Mechaniczne formy życia będące częścią koloni w wiosce Pascala. Mimo ich mechanicznego pochodzenia, gardzą konfliktem w każdej postaci i w rezultacie dobrowolnie odcięły się od sieci. Obecnie żyją pokojowo w głębi lasu, razem z innymi maszynami dzielącymi te pacyfistyczne przekonania.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T102515Z" creationid="Syn Spawacza" creationdate="20200715T172405Z">
+        <seg>Mechaniczne formy życia będące częścią koloni w wiosce Pascala. Mimo ich mechanicznego pochodzenia, gardzą konfliktem w każdej postaci i w rezultacie dobrowolnie odcięły się od sieci. Obecnie żyją pokojowo w głębi lasu, razem z innymi maszynami dzielącymi pacyfistyczne przekonania.</seg>
       </tuv>
     </tu>
     <tu>
