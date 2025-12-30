@@ -8417,8 +8417,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A Resistance camp manager has been having some personal problems lately, so she can't concentrate on her work. Find a "box that makes music when you open it" to help her out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193501Z" creationid="Syn Spawacza" creationdate="20200717T162415Z">
-        <seg>Zarządca w obozie Ruchu Oporu ma ostatnio problemy osobiste i nie może się skupić na pracy. Znajdź „pudełko, które gra muzykę jak je otworzysz”, by jej pomóc.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120310Z" creationid="Syn Spawacza" creationdate="20200717T162415Z">
+        <seg>Zarządca w Obozie Ruchu Oporu ma ostatnio problemy osobiste i nie może się skupić na pracy. Znajdź „pudełko, które gra muzykę jak je otworzysz”, by jej pomóc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,8 +8537,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A battery used by the Resistance. Many such batteries mysteriously disappear after being discarded—it's believed that they are secretly being carried off by machine lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T220836Z" creationid="Syn Spawacza" creationdate="20200718T220836Z">
-        <seg>Bateria używana przez Ruch Oporu. Wiele takich baterii tajemniczo znika po wyrzuceniu — sądzi się, że są w tajemnicy zabierane przez mechaniczne formy życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120142Z" creationid="Syn Spawacza" creationdate="20200718T220836Z">
+        <seg>Bateria używana przez Ruch Oporu. Wiele takich baterii tajemniczo znika po wyczerpaniu — sądzi się, że są w tajemnicy zabierane przez mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10519,8 +10519,8 @@ information.</seg>
       <tuv lang="en-US">
         <seg>A portable anti-machine rocket launcher. This device was created to combat machine lifeforms, and even has considerable effects on Goliath-class units. Machine lifeforms often refer to it as "that owie thing."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T221213Z" creationid="Syn Spawacza" creationdate="20200718T221213Z">
-        <seg>Przenośna wyrzutnia rakiet antymaszynowych. To urządzenie zostało stworzone do walki z mechanicznymi formami życia i ma nawet istotny efekt na jednostki klasy Goliat. Mechaniczne formy życia nazywają ją często „to-co-robi-kuku”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120204Z" creationid="Syn Spawacza" creationdate="20200718T221213Z">
+        <seg>Przenośna wyrzutnia rakiet antymaszynowych. To urządzenie zostało stworzone do walki z mechanicznymi formami życia i ma nawet istotny efekt na jednostki klasy Goliat. Mechaniczne formy życia nazywają ją często „to-co-robi-kuku”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106768,8 +106768,8 @@ Zdobądź poniższe materiały, by poprawić komunikację z obozem Ruchu Oporu.<
       <tuv lang="en-US">
         <seg>The Resistance camp tool shop can't make plug-in chips due to machine failure. As the owner has a bad leg, he needs someone to gather the necessary materials to fix his equipment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T161953Z" creationid="Syn Spawacza" creationdate="20200717T161953Z">
-        <seg>Sklep z narzędziami w obozie Ruchu Oporu nie jest w stanie produkować czipów rozszerzeń przez awarię maszyny. Ponieważ właściciel kuleje, potrzebuje kogoś kto zbierze dla niego materiały potrzebne do naprawy sprzętu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120224Z" creationid="Syn Spawacza" creationdate="20200717T161953Z">
+        <seg>Sklep z narzędziami w obozie Ruchu Oporu nie jest w stanie produkować czipów rozszerzeń przez awarię maszyny. Ponieważ właściciel kuleje, potrzebuje kogoś, kto zbierze dla niego materiały potrzebne do naprawy sprzętu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108845,8 +108845,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The music box has been delivered to the manager. It seems she knew the android that used to own it, as all she could do was silently clutch it in her arms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T220226Z" creationid="Syn Spawacza" creationdate="20200717T162614Z">
-        <seg>Pozytywka została dostarczona zarządcy. Wygląda na to, że znała jej poprzednią właścicielkę, gdyż mogła jedynie cicho ściskać pozytywkę w rękach.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T120429Z" creationid="Syn Spawacza" creationdate="20200717T162614Z">
+        <seg>Pozytywka została dostarczona zarządcy. Wygląda na to, że znała jej poprzednią właścicielkę, gdyż po tym, jak ją otrzymała, cicho ściskała pozytywkę w rękach.</seg>
       </tuv>
     </tu>
     <tu>
