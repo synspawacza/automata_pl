@@ -8313,8 +8313,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A "little brother" machine lifeform that desperately poured oil into a machine he called his sibling.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200728T200426Z" creationid="Syn Spawacza" creationdate="20200715T210727Z">
-        <seg>Mechaniczna forma życia „młodszy brat”, rozpaczliwie polewający olejem maszynę którą nazywa swoim rodzeństwem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104211Z" creationid="Syn Spawacza" creationdate="20200715T210727Z">
+        <seg>Mechaniczna forma życia „młodszy brat”, rozpaczliwie polewający olejem maszynę, którą nazywa swoim rodzeństwem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8345,8 +8345,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A Goliath-class machine lifeform modeled after an opera singer, this unit attacked foes using the repurposed bodies of living androids. Obsessed with a certain other machine lifeform, she put great thought into her appearance—even going so far as to cannibalize her own kind. Alas, such garish decorations only ended up being a spectacular display of poor taste. Her search for beauty eventually led to her demise when she attacked 2B and 9S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200715T211501Z" creationid="Syn Spawacza" creationdate="20200715T211501Z">
-        <seg>Mechaniczna forma życia klasy Goliat wzorowana na śpiewaczce operowej, jednostka atakująca wrogów za pomocą zmodyfikowanych ciał żywych androidów. Opętana obsesją na punkcie pewnej innej mechanicznej formy życia, włożyła wiele wysiłku w swój wygląd — kanibalizując nawet swoich pobratymców. Niestety, te krzykliwe dekoracje okazały się jedynie spektakularnym pokazem złego gustu. Jej poszukiwania piękna doprowadziły ją w końcu do zguby gdy zaatakowała 2B i 9S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104328Z" creationid="Syn Spawacza" creationdate="20200715T211501Z">
+        <seg>Mechaniczna forma życia klasy Goliat wzorowana na śpiewaczce operowej. Jednostka atakująca wrogów za pomocą zmodyfikowanych ciał żywych androidów. Opętana obsesją na punkcie pewnej innej mechanicznej formy życia, włożyła wiele wysiłku w swój wygląd — kanibalizując nawet swoich pobratymców. Niestety, te krzykliwe dekoracje okazały się jedynie spektakularnym pokazem złego gustu. Jej poszukiwania piękna doprowadziły ją w końcu do zguby, gdy zaatakowała 2B i 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9895,8 +9895,8 @@ do Ruchu Oporu.</seg>
       <tuv lang="en-US">
         <seg>A machine lifeform formed by combining two multi-legged, Goliath-class units. Former leg sections of its combined units have been repurposed into a pair of powerful arms making it capable of rolling out powerful attacks from both close and long range.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200715T193732Z" creationid="Syn Spawacza" creationdate="20200715T193519Z">
-        <seg>Mechaniczna forma życia złożona z dwóch wielonogich jednostek klasy Goliat. Wcześniejsze sekcje odnóży połączyły się, przemieniając się w parę potężnych ramion, czyniąc ją zdolną do wykonywania potężnych ataków zarówno na krótki, jak i długi dystans.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104049Z" creationid="Syn Spawacza" creationdate="20200715T193519Z">
+        <seg>Mechaniczna forma życia złożona z dwóch wielonogich jednostek klasy Goliat. Wcześniejsze sekcje odnóży połączyły się, przemieniając się w parę potężnych ramion, czyniąc ją zdolną do wykonywania potężnych ataków, zarówno na krótki, jak i długi dystans.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10089,8 +10089,8 @@ Jednakże, środowisko czekają jeszcze większe zmiany. Ponieważ nie są tworz
       <tuv lang="en-US">
         <seg>A machine lifeform that plays the role of older brother to countless followers. It has the appearance of a standard medium-sized biped save for its arms—which are formed from a number of linked-sphere type machines. Be wary when approaching, for it has been known to display tremendous anger when its brothers are harmed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T200136Z" creationid="Syn Spawacza" creationdate="20210716T200136Z">
-        <seg>Mechaniczna forma życia odgrywająca rolę starszego brata przed niezliczonymi sojusznikami. Posiada wygląd standardowego dwunoga średniej wielkości, za wyjątkiem ramion — te są zbudowane z wielu połączonych kulistych maszyn. Należy podchodzić do niego z rozwagą, ponieważ okazuje on wielki gniew gdy jego bracia są krzywdzeni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104203Z" creationid="Syn Spawacza" creationdate="20210716T200136Z">
+        <seg>Mechaniczna forma życia odgrywająca rolę starszego brata przed niezliczonymi sojusznikami. Posiada wygląd standardowego dwunoga średniej wielkości, za wyjątkiem ramion — te są zbudowane z wielu połączonych kulistych maszyn. Należy podchodzić do niego z rozwagą, ponieważ okazuje wielki gniew, gdy jego bracia są krzywdzeni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62207,16 +62207,16 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>In the heat of battle, this unit begged for his brother's life to be spared—a requests A2 granted for unknown reasons.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193243Z" creationid="Syn Spawacza" creationdate="20200715T211002Z">
-        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie swojego brata — z nieznanych powodów, A2 spełniła tę prośbę</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104257Z" creationid="Syn Spawacza" creationdate="20200715T211002Z">
+        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie jej brata — z nieznanych powodów, A2 spełniła tę prośbę.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In the heat of battle, this unit begged for his brother's life to be spared—only to see him cut down without mercy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193235Z" creationid="Syn Spawacza" creationdate="20200715T210917Z">
-        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie swojego brata — tylko po to, by zobaczyć jak zostaje on bezlitośnie zarżnięty.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251230T104238Z" creationid="Syn Spawacza" creationdate="20200715T210917Z">
+        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie jej brata — tylko po to, by zobaczyć jak zostaje on bezlitośnie zarżnięty.</seg>
       </tuv>
     </tu>
     <tu>
