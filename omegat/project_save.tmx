@@ -107362,8 +107362,8 @@ zostali zniszczeni przez Ruch Oporu.</seg>
       <tuv lang="en-US">
         <seg>The camp leader is confused about the supposed rogue YoRHa units, as there haven't been any reports about recent raids. When attempting to notify the Commander of this, you find that access to the case has been restricted at the highest levels.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T091847Z" creationid="Syn Spawacza" creationdate="20200718T091542Z">
-        <seg>Przywódczyni obozu jest zaskoczona wieścią o rzekomych zbuntowanych jednostkach YoRHa, jako że nie było ostatnio żadnych zgłoszeń o napadach. Próbujesz poinformować o tym Komandor, ale dowiadujesz się, że dostęp do tej sprawy został zastrzeżony na najwyższych poziomach.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T083234Z" creationid="Syn Spawacza" creationdate="20200718T091542Z">
+        <seg>Przywódczyni obozu jest zaskoczona informacją o rzekomych zbuntowanych jednostkach YoRHa, ponieważ nie było ostatnio żadnych zgłoszeń o napadach. Próbujesz poinformować o tym Komandor, ale dowiadujesz się, że dostęp do tej sprawy został zastrzeżony na najwyższych poziomach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108434,8 +108434,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The machine lifeform at the amusement park reception area gave you a stamp card and challenged you to fill it. Though the prospect doesn't sound particularly thrilling, there's apparently a magnificent prize awaiting anyone who collects every stamp. Take the challenge, visit each part of the amusement park, and fill that card!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T094255Z" creationid="Syn Spawacza" creationdate="20200718T092852Z">
-        <seg>Mechaniczna forma życia z recepcji w parku rozrywki dała ci kartę na pieczątki do wypełnienia. Choć perspektywa zbierania pieczątek nie jest specjalnie ekscytująca, jest jakaś wspaniała nagroda czekająca dla tego, kto zbierze wszystkie pieczątki. Podejmij wyzwanie, odwiedź wszystkie części parku rozrywki i wypełnij kartę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T083434Z" creationid="Syn Spawacza" creationdate="20200718T092852Z">
+        <seg>Mechaniczna forma życia z recepcji w parku rozrywki daje ci kartę na pieczątki do wypełnienia. Chociaż perspektywa zbierania pieczątek nie jest specjalnie ekscytująca, podobno jest przewidziana jakaś wspaniała nagroda dla osoby, która zbierze wszystkie pieczątki. Podejmij wyzwanie, odwiedź wszystkie części parku rozrywki i wypełnij tę kartę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109499,8 +109499,8 @@ Ruch oporu i YoRHa powoli osiągają wspólne zrozumienie. Jedna z członkiń ru
       <tuv lang="en-US">
         <seg>The stamp card is full. Head to the amusement park reception to collect your fabulous prize!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193537Z" creationid="Syn Spawacza" creationdate="20200718T094334Z">
-        <seg>Karta na pieczątki jest pełna. Idź do recepcji parku rozrywki, by odebrać cudowną nagrodę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T083614Z" creationid="Syn Spawacza" creationdate="20200718T094334Z">
+        <seg>Karta na pieczątki została wypełniona. Idź do recepcji parku rozrywki, aby odebrać tę wspaniałą nagrodę.</seg>
       </tuv>
     </tu>
     <tu>
