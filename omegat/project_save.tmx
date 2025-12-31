@@ -106800,8 +106800,8 @@ Zdobądź poniższe materiały, by poprawić komunikację z obozem Ruchu Oporu.<
       <tuv lang="en-US">
         <seg>The Resistance member in the amusement park called out for help, but it was too late. He was already dead by the time you arrived.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T182002Z" creationid="Syn Spawacza" creationdate="20200717T182002Z">
-        <seg>Członek Ruchu Oporu z parku rozrywki wołał o pomoc, ale było za późno. Był już martwy do czasu twojego przybycia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T064520Z" creationid="Syn Spawacza" creationdate="20200717T182002Z">
+        <seg>Członek Ruchu Oporu z parku rozrywki wołał o pomoc, ale było za późno. Zmarł przed twoim przybyciem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106816,8 +106816,8 @@ Zdobądź poniższe materiały, by poprawić komunikację z obozem Ruchu Oporu.<
       <tuv lang="en-US">
         <seg>The Resistance member who sent the distress signal from the abandoned factory didn't make it. He was already dead when you arrived.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T181914Z" creationid="Syn Spawacza" creationdate="20200717T181914Z">
-        <seg>Członek Ruchu Oporu który wysłał sygnał ratunkowy z opuszczonej fabryki nie przetrwał. Był już martwy przed twoim przybyciem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T064327Z" creationid="Syn Spawacza" creationdate="20200717T181914Z">
+        <seg>Członek Ruchu Oporu, który wysłał sygnał ratunkowy z opuszczonej fabryki nie przeżył. Zginął przed twoim przybyciem.</seg>
       </tuv>
     </tu>
     <tu>
