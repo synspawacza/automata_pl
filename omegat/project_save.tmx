@@ -10171,8 +10171,8 @@ w rodzinie królewskiej.</seg>
       <tuv lang="en-US">
         <seg>A man at the Resistance camp has lost contact with his comrades and asked you to find them. All members of the group wield dual weapons. Head to the source of their last known communication in the flooded city.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T181313Z" creationid="Syn Spawacza" creationdate="20200717T181153Z">
-        <seg>Mężczyzna z obozu Ruchu Oporu stracił kontakt z swoimi towarzyszami i prosi cię o ich odnalezienie. Wszyscy członkowie grupy nosili podwójną broń. Skieruj się do źródła ich ostatniej łączności w zalanym mieście.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T064017Z" creationid="Syn Spawacza" creationdate="20200717T181153Z">
+        <seg>Mężczyzna z obozu Ruchu Oporu stracił kontakt ze swoimi towarzyszami i prosi cię o ich odnalezienie. Wszyscy członkowie grupy nosili podwójną broń. Skieruj się do źródła ich ostatniej łączności, która miała miejsce w zalanym mieście.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109143,8 +109143,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
       <tuv lang="en-US">
         <seg>The person in charge of the storage area was stuck...in a storage facility. His supervisor had torn through the place like a tornado and ended up boxing him in. After he was rescued from his package predicament, the supervisor arrived and began teaching him how to organize packages more efficiently through the art of wanton destruction.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T220416Z" creationid="Syn Spawacza" creationdate="20200717T173138Z">
-        <seg>Mężczyzna odpowiedzialny za magazyn utknął... w magazynie. Jego przełożona przeleciała przez to miejsce jak tornado, co skończyło się jego zamknięciem. Po uwolnieniu z tej skrzynkowej sytuacji, przybyła jego przełożona i zaczęła pouczać go, jak efektywniej porządkować paczki za pomocą sztuki swawolnej destrukcji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T063846Z" creationid="Syn Spawacza" creationdate="20200717T173138Z">
+        <seg>Mężczyzna odpowiedzialny za magazyn utknął... w magazynie. Jego przełożona przeleciała przez to miejsce jak tornado, co skończyło się tym, że został zamknięty w środku. Po uwolnieniu z tej skrzynkowej sytuacji, przybyła jego przełożona i zaczęła pouczać go, jak efektywniej porządkować paczki za pomocą sztuki swawolnej destrukcji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130955,9 +130955,9 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
         <seg>You found the Resistance member's corpse in the flooded city. It looks like he came here in an attempt to escape a battle. You collected the dog tag from his fallen body.
 You've received Resistance distress signals coming from the amusement park and the abandoned factory. Go investigate.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T182419Z" creationid="Syn Spawacza" creationdate="20200717T181637Z">
-        <seg>Znaleziono zwłoki członka Ruchu Oporu w zalanym mieście. Wygląda na to, że przyszedł tu próbując uciec z bitwy. Udało ci się zebrać nieśmiertelnik z jego martwego ciała.
-Odbierasz sygnał ratunkowy od Ruchu Oporu z parku rozrywki i opuszczonej fabryki. Idź to sprawdzić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T064251Z" creationid="Syn Spawacza" creationdate="20200717T181637Z">
+        <seg>Znaleziono zwłoki członka Ruchu Oporu w zalanym mieście. Wygląda na to, że przybył tu, próbując uciec z pola bitwy. Udało ci się zebrać nieśmiertelnik z jego ciała.
+Odbierasz sygnał ratunkowy od Ruchu Oporu dochodzący z parku rozrywki, oraz z opuszczonej fabryki. Udaj się w te miejsca i sprawdź je.</seg>
       </tuv>
     </tu>
     <tu>
