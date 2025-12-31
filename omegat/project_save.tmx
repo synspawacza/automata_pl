@@ -108466,8 +108466,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The machine lifeform felt at ease knowing that the herd has disappeared. When you inform him that you had to destroy one of his kind, he seems unfazed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T195451Z" creationid="Syn Spawacza" creationdate="20200713T195451Z">
-        <seg>Mechaniczna forma życia odczuła ulgę na wieść o zniknięciu stada. Wydaje się niewzruszony gdy informujesz go o tym, że zabiliście też jednego z jego gatunku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070409Z" creationid="Syn Spawacza" creationdate="20200713T195451Z">
+        <seg>Mechaniczna forma życia odczuła ulgę na wieść o zniknięciu stada. Wydaje się niewzruszona, gdy informujesz ją o tym, że zabiliście też jednego z jego gatunku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109151,8 +109151,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
       <tuv lang="en-US">
         <seg>The person you found says the red hood was a present from a Resistance woman who's stationed in the desert. Go to the desert garrison and find where the red hood came from.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T185721Z" creationid="Syn Spawacza" creationdate="20200717T185721Z">
-        <seg>Znaleziona przez ciebie osoba twierdzi, że czerwony kaptur był prezentem od kobiety z Ruchu Oporu, stacjonującej na pustyni. Pójdź do garnizonu na pustyni i dowiedź się skąd wziął się czerwony kaptur.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070520Z" creationid="Syn Spawacza" creationdate="20200717T185721Z">
+        <seg>Znaleziona przez ciebie osoba twierdzi, że czerwony kaptur był prezentem od kobiety z Ruchu Oporu, która stacjonuje na pustyni. Udaj się do garnizonu na pustyni i dowiedz się, skąd wziął się czerwony kaptur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130938,8 +130938,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You found an exhausted Resistance woman in the city ruins who claimed to have been caught in a huge explosion. She has no memory of events before or after the shock, but does possess a broken Pod with her friend's final moments recorded inside. Hack into the Pod and recover the life log.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T220512Z" creationid="Syn Spawacza" creationdate="20200717T185303Z">
-        <seg>Znajdujesz wyczerpaną kobietę z Ruchu Oporu w ruinach miasta, która twierdzi, że została trafiona przez dużą eksplozję. Nie pamięta wydarzeń przed i po wybuchu, ale ma zniszczony Pod swojej przyjaciółki z zapisem jej ostatnich chwil. Włam się do Poda i odzyskaj zapiski.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070433Z" creationid="Syn Spawacza" creationdate="20200717T185303Z">
+        <seg>Znajdujesz wyczerpaną kobietę z Ruchu Oporu w ruinach miasta, która twierdzi, że została trafiona przez dużą eksplozję. Nie pamięta wydarzeń sprzed i po wybuchu, ale ma zniszczony Pod swojej przyjaciółki z zapisem jej ostatnich chwil. Włam się do Poda i odzyskaj zapiski.</seg>
       </tuv>
     </tu>
     <tu>
