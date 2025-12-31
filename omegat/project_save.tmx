@@ -109913,8 +109913,8 @@ by rozważyli swoją misję niezależnie od sytuacji.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>The weapons trader at the Resistance camp can't perform repairs because of a broken maintenance device. It can be fixed with materials found in the center of the city ruins, but machine lifeforms in the area viciously attack anyone who comes near. Go secure the necessary materials by any means necessary.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210110T100443Z" creationid="Syn Spawacza" creationdate="20200717T183208Z">
-        <seg>Handlarz bronią w obozie Ruchu Oporu nie może wykonać napraw, ponieważ zepsuło się urządzenie serwisowe. Można je naprawić za pomocą materiałów z centrum ruin miasta, ale mechaniczne formy życia w okolicy atakują każdego kto się zbliży. Zabezpiecz potrzebne materiały wszelkimi koniecznymi środkami.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T065159Z" creationid="Syn Spawacza" creationdate="20200717T183208Z">
+        <seg>Handlarz bronią w obozie Ruchu Oporu nie może wykonać napraw, ponieważ zepsuło się jego urządzenie serwisowe. Można je naprawić za pomocą materiałów z centrum ruin miasta, ale mechaniczne formy życia w tamtej okolicy atakują każdego kto się zbliży. Zabezpiecz potrzebne materiały wszelkimi środkami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127743,8 +127743,8 @@ To taka mordęga.</seg>
       <tuv lang="en-US">
         <seg>With repairs complete, the weapons trader's weapons can be repaired. And while he's glad to return to work, he can't shake the feeling that the weapons he makes to protect his friends might actually hasten their deaths. Regardless, talk to the trader again to see if he's ready to start selling again.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193518Z" creationid="Syn Spawacza" creationdate="20200717T183830Z">
-        <seg>Po ukończonych naprawach, bronie handlarza mogą zostać naprawione. I choć cieszy się, że może wrócić do pracy, nie może oprzeć się wrażeniu, że bronie robione przez niego, które mają chronić jego przyjaciół, tylko przyspieszają ich śmierć. W każdym razie, porozmawiaj ponownie z handlarzem, by zobaczyć, czy jest w stanie znów zacząć sprzedawać broń.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T065427Z" creationid="Syn Spawacza" creationdate="20200717T183830Z">
+        <seg>Po ukończonych naprawach, bronie handlarza mogą zostać naprawione. I choć cieszy się, że może wrócić do pracy, nie może oprzeć się wrażeniu, że bronie którymi handluje, zamiast chronić jego przyjaciół, tylko przyspieszają ich śmierć. W każdym razie, porozmawiaj ponownie z handlarzem, aby przekonać się, czy jest w stanie znów sprzedawać broń.</seg>
       </tuv>
     </tu>
     <tu>
