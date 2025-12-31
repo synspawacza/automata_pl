@@ -12660,8 +12660,8 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>According to the woman in the cave, who turned out to be Jackass, she bought the red hood from a red-haired Resistance woman—a description that sounded an awful lot like the amnesiac woman you met in the ruins. Go back to her and get the real story.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T190018Z" creationid="Syn Spawacza" creationdate="20200717T190018Z">
-        <seg>Według kobiety w jaskini, którą okazała się być Jackass, kupiła ona czerwony kaptur od rudowłosej kobiety z Ruchu Oporu — opis, który wydaje się podejrzanie pasować do spotkanej w ruinach kobiety z amnezją. Wróć tam i dowiedz się prawdziwej historii.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070946Z" creationid="Syn Spawacza" creationdate="20200717T190018Z">
+        <seg>Według kobiety w jaskini, którą okazała się być Jackass, kupiła ona czerwony kaptur od rudowłosej kobiety z Ruchu Oporu. Opis wydaje ci się podejrzanie pasować do spotkanej w ruinach kobiety z amnezją. Wróć do niej, żeby dowiedzieć się całej prawdy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109151,8 +109151,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
       <tuv lang="en-US">
         <seg>The person you found says the red hood was a present from a Resistance woman who's stationed in the desert. Go to the desert garrison and find where the red hood came from.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251231T070520Z" creationid="Syn Spawacza" creationdate="20200717T185721Z">
-        <seg>Znaleziona przez ciebie osoba twierdzi, że czerwony kaptur był prezentem od kobiety z Ruchu Oporu, która stacjonuje na pustyni. Udaj się do garnizonu na pustyni i dowiedz się, skąd wziął się czerwony kaptur.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070541Z" creationid="Syn Spawacza" creationdate="20200717T185721Z">
+        <seg>Znaleziona przez ciebie osoba twierdzi, że czerwony kaptur był prezentem od kobiety z Ruchu Oporu, która stacjonuje na pustyni. Udaj się do garnizonu na pustyni i dowiedz się, skąd pochodzi czerwony kaptur.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130528,8 +130528,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You couldn't find the Resistance woman you were looking for in the desert garrison. According to a man there, she was last seen in the desert caves. Go there and search her out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T185828Z" creationid="Syn Spawacza" creationdate="20200717T185828Z">
-        <seg>Nie udało ci się znaleźć szukanej kobiety w garnizonie na pustyni. Według tamtejszego mężczyzny, widziano ją ostatnio w jaskiniach na pustyni. Idź tam i znajdź ją.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T070629Z" creationid="Syn Spawacza" creationdate="20200717T185828Z">
+        <seg>Nie udało ci się znaleźć szukanej kobiety w garnizonie na pustyni. Według przebywającego tam mężczyzny, ostatnio widziano ją w jaskiniach na pustyni. Udaj się tam i znajdź ją.</seg>
       </tuv>
     </tu>
     <tu>
