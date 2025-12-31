@@ -20686,8 +20686,8 @@ Nikt nie może zająć miejsca tej drugiej.
       <tuv lang="en-US">
         <seg>As it turns out, the boar-riding machine lifeform acts as caretaker and steward to the animals of the forest. Though an animal-loving machine lifeform is indeed strange, it seems harmless. It should be safe to leave this shack behind.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T195224Z" creationid="Syn Spawacza" creationdate="20200713T195224Z">
-        <seg>Jak się okazało, mechaniczna forma życia z dzika jest opiekunem i reprezentantem zwierząt lasu. Choć kochająca zwierzęta mechaniczna forma życia jest doprawdy dziwna, wydaje się niegroźna. Zostawienie szopy w spokoju powinno być bezpieczne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T065949Z" creationid="Syn Spawacza" creationdate="20200713T195224Z">
+        <seg>Jak się okazało po walce, mechaniczna forma życia ujeżdżająca dzika, jest opiekunem i reprezentantem zwierząt lasu. Choć kochająca zwierzęta mechaniczna forma życia jest doprawdy dziwna, wydaje się być niegroźna. Zostawienie szopy w spokoju powinno być bezpieczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92090,8 +92090,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Replicated and sent into battle again and again, Emil knows all too well the pain of war without end. Unfortunately, no copy is a perfect duplicate—so some Emils eventually snapped and ran wild. His cherished memories brought him back to his senses, however.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251231T065646Z" creationid="Syn Spawacza" creationdate="20200718T093627Z">
-        <seg>Wielokrotnie powielany i wysyłany do boju Emil zna ból niekończącej się wojny aż za dobrze. Niestety, żadna kopia nie jest identycznym duplikatem. W koi tak, w Emilach w końcu coś pękło i doprowadziło do szaleństwa. Na szczęście, jego radosne wspomnienia przywróciły mu zmysły.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T065743Z" creationid="Syn Spawacza" creationdate="20200718T093627Z">
+        <seg>Wielokrotnie powielany i wysyłany do boju Emil zna ból niekończącej się wojny aż za dobrze. Niestety, żadna kopia nie jest identycznym duplikatem. W Emilach w końcu coś pękło, doprowadzając go do szaleństwa. Na szczęście, jego radosne wspomnienia przywróciły mu zmysły.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130914,8 +130914,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You found a shack deep in the woods where animals are being cared for. When a machine lifeform riding a wild boar suddenly attacked, you had no choice but to fight back.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T195201Z" creationid="Syn Spawacza" creationdate="20200713T195201Z">
-        <seg>Znajdujesz szopę w głębi lasu, gdzie zwierzęta są otoczone opieką. Kiedy nagle atakuje się mechaniczna forma życia ujeżdżająca dzika, nie masz innego wyboru niż walczyć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T065834Z" creationid="Syn Spawacza" creationdate="20200713T195201Z">
+        <seg>Znajdujesz szopę w głębi lasu, gdzie zwierzęta są otoczone opieką. Kiedy z nienacka atakuje cię mechaniczna forma życia ujeżdżająca dzika, nie masz innego wyboru, jak z nią walczyć.</seg>
       </tuv>
     </tu>
     <tu>
