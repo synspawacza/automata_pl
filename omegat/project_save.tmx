@@ -10598,8 +10598,8 @@ włóczni, po czym spotkał go taki sam los.</seg>
       <tuv lang="en-US">
         <seg>A rampaging machine has appeared. It looks like there's something ahead...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T205135Z" creationid="Syn Spawacza" creationdate="20200717T205135Z">
-        <seg>Pojawiła się szalejąca maszyna. Wygląda na to, że dalej coś jest...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T082333Z" creationid="Syn Spawacza" creationdate="20200717T205135Z">
+        <seg>Pojawiła się szalejąca maszyna. Wygląda na to, że przed tobą coś się znajduje...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14307,9 +14307,9 @@ Zbierz dane wywiadowcze o nowych wrogach i przekaż je 4S w Leśnym Zamku.</seg>
 Even though the YoRHa squad has been destroyed, he's still trying to gather data on the enemy, and since there's only so much he can do on his own, he has asked 9S for help.
 Gather new enemy intel, and give it to 4S at the Forest Castle.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T200422Z" creationid="Syn Spawacza" creationdate="20210716T200422Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T082645Z" creationid="Syn Spawacza" creationdate="20210716T200422Z">
         <seg>Po upadku Bunkra, 4S, model androida podobny do 9S, znalazł schronienie w Leśnym Zamku.
-Choć oddział YoRHa został zniszczony, wciąż stara się zbierać dane o wrogu, a jako że niewiele jest w stanie na własną rękę, poprosił 9S o pomoc.
+Chociaż oddział YoRHa został zniszczony, 4S wciąż stara się zbierać dane o wrogu, ale jako że niewiele jest w stanie osiągnąć na własną rękę, poprosił 9S o pomoc.
 Zbierz dane wywiadowcze o nowych wrogach i przekaż je 4S w Leśnym Zamku.</seg>
       </tuv>
     </tu>
@@ -108218,8 +108218,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The hidden treasure turned out to be storage media containing the forest kingdom's history, made by its machine lifeforms as a show of gratitude to the original Forest King. When you told this to the villager, he recalled a time long ago when he had been shunned by the kingdom's denizens for his strange speech. He was filled with delight that the grave's guardian had been destroyed, and he wished death upon the entire forest kingdom.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200717T205948Z" creationid="Syn Spawacza" creationdate="20200717T205948Z">
-        <seg>Ukryty skarb okazał się być nośnikiem z danymi, zawierającym historię leśnego królestwa, stworzonym przez mechaniczne formy życia jako demonstracja wdzięczności do oryginalnego Króla Lasu. Kiedy mówisz o tym mieszkańcowi wioski, ten przypomina sobie, że dawno temu został odrzucony przez mieszkańców królestwa za jego dziwną mowę. Napełnia go radością to, że strażnik grobu został zniszczony i życzy śmierci całemu leśnemu królestwu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20251231T082508Z" creationid="Syn Spawacza" creationdate="20200717T205948Z">
+        <seg>Ukryty skarb okazał się być nośnikiem danych, zawierającym historię Leśnego Królestwa, stworzonym przez mechaniczne formy życia jako demonstracja wdzięczności dla oryginalnego Króla Lasu. Kiedy mówisz o tym mieszkańcowi wioski, ten przypomina sobie, że dawno temu został odrzucony przez mieszkańców królestwa za jego dziwną mowę. Napełnił go radością fakt, że strażnik grobu został zniszczony i życzył śmierci całemu Leśnemu Królestwu.</seg>
       </tuv>
     </tu>
     <tu>
