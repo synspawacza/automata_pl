@@ -13108,8 +13108,8 @@ Mimo, że pierwotnie miał stanowić fortecę w konflikcie watażków z „kośc
       <tuv lang="en-US">
         <seg>Acquire the below materials to improve communications with the Resistance camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193545Z" creationid="Syn Spawacza" creationdate="20200718T100638Z">
-        <seg>Zdobądź poniższe materiały, by poprawić komunikację z obozem Ruchu Oporu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T064153Z" creationid="Syn Spawacza" creationdate="20200718T100638Z">
+        <seg>Zdobądź poniższe materiały, aby poprawić komunikację z obozem Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132028,9 +132028,9 @@ To zawodowy wojownik.</seg>
         <seg>You received a reward from Anemone for completing the task. 
 The reward was surprisingly significant, leaving you with complicated feelings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T100741Z" creationid="Syn Spawacza" creationdate="20200718T100741Z">
-        <seg>Obierasz nagrodę o Anemony za ukończenie zadania.
-Nagroda jest zaskakująco znacząca, zostawiając cię z mieszanymi uczuciami.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T064419Z" creationid="Syn Spawacza" creationdate="20200718T100741Z">
+        <seg>Obierasz nagrodę od Anemony za ukończenie zadania.
+Jest zaskakująco wartościowa, co wywołuje u ciebie mieszane uczucia.</seg>
       </tuv>
     </tu>
     <tu>
