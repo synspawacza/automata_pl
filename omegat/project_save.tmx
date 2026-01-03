@@ -21444,8 +21444,8 @@ Ci, którzy byli moimi przyjaciółmi mnie schwytali.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Attacks on allies prohibited</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T171753Z" creationid="Syn Spawacza" creationdate="20200530T171753Z">
-        <seg>Nie można atakować sojusznika.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122805Z" creationid="Syn Spawacza" creationdate="20200530T171753Z">
+        <seg>Nie można atakować sojusznika</seg>
       </tuv>
     </tu>
     <tu>
@@ -109386,8 +109386,8 @@ Pozostawić ustawienia?</seg>
         <seg>The selected chip is currently equipped to a chip set. If you fuse it, it will be removed from its chip set. 
 Do you wish to fuse this chip?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092715Z" creationid="Syn Spawacza" creationdate="20200606T092715Z">
-        <seg>Wybrany czip jest wyekwipowany jako część zestawu. Jeśli go połączysz, to zostanie on usunięty z zestawu.
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122743Z" creationid="Syn Spawacza" creationdate="20200606T092715Z">
+        <seg>Wybrany czip jest wyekwipowany jako część zestawu. Jeśli go połączysz, zostanie usunięty z zestawu.
 Czy chcesz połączyć ten czip?</seg>
       </tuv>
     </tu>
@@ -114462,8 +114462,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Time Until Missile Impact:</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T172151Z" creationid="Syn Spawacza" creationdate="20200530T172151Z">
-        <seg>Czas od uderzenia rakiety:</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122913Z" creationid="Syn Spawacza" creationdate="20200530T172151Z">
+        <seg>Czas do uderzenia rakiety:</seg>
       </tuv>
     </tu>
     <tu>
