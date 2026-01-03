@@ -8916,8 +8916,8 @@ Może zostać sprzedany.</seg>
       <tuv lang="en-US">
         <seg>A clown at the city ruins wants to hold a parade as a sign of peace towards androids. However, some machines are...less than fond of this idea, so the clown needs protection. Make sure the machines holding a parade in front of the Resistance camp don't get hurt!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T202338Z" creationid="Syn Spawacza" creationdate="20200718T202338Z">
-        <seg>Klaun w ruinach miasta chce odbyć paradę na znak pokoju do androidów. Jednakże, niektóre maszyny są... nie do końca zadowolone z tego pomysłu, więc klaun potrzebuje ochrony. Upewnij się, że maszyny uczestniczące w paradzie przed obozem Ruchu oporu nie zostaną skrzywdzone!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120225Z" creationid="Syn Spawacza" creationdate="20200718T202338Z">
+        <seg>Klaun w ruinach miasta chce odbyć paradę na znak pokoju z androidami. Jednakże, niektóre maszyny nie są do końca zadowolone z tego pomysłu, więc klaun potrzebuje ochrony. Upewnij się, że maszyny uczestniczące w paradzie przed obozem Ruchu Oporu nie zostaną skrzywdzone!</seg>
       </tuv>
     </tu>
     <tu>
@@ -33057,8 +33057,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Deliver the items to the female android in order to repair her.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193847Z" creationid="Syn Spawacza" creationdate="20200718T201945Z">
-        <seg>Dostarcz przedmioty żeńskiemu androidowi, by ją naprawić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120042Z" creationid="Syn Spawacza" creationdate="20200718T201945Z">
+        <seg>Dostarcz przedmioty żeńskiemu androidowi, aby ją naprawić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107826,8 +107826,8 @@ Za długo, by czekać, za krótko, by żałować.
       <tuv lang="en-US">
         <seg>The experience with the female android who wanted to modify her partner has taught Pascal that women can be scary.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T232838Z" creationid="Syn Spawacza" creationdate="20200718T202053Z">
-        <seg>Doświadczenie z żeńskim androidem, który chciał modyfikować swojego partnera nauczyło Pascala, że kobiety mogą być straszne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120104Z" creationid="Syn Spawacza" creationdate="20200718T202053Z">
+        <seg>Doświadczenie z żeńskim androidem, który chciał modyfikować swojego partnera, nauczyło Pascala, że kobiety mogą być straszne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132546,8 +132546,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You went to check on the clown and discovered a different machine lifeform who wants out of the dangerous parade business. Apparently, the parade you protected before disappeared in the desert while moving to their next venue...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T202920Z" creationid="Syn Spawacza" creationdate="20200718T202552Z">
-        <seg>Idziesz sprawdzić co u klauna i znajdujesz inną mechaniczną formę życia, która nie chce uczestniczyć w niebezpiecznych paradach. Wygląda na to, że chroniona wcześniej przez ciebie parada zniknęła na pustyni, kiedy szła do nowego miejsca...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120345Z" creationid="Syn Spawacza" creationdate="20200718T202552Z">
+        <seg>Idziesz sprawdzić co u klauna i znajdujesz inną mechaniczną formę życia, która nie chce uczestniczyć w niebezpiecznych paradach. Wygląda na to, że chroniona wcześniej przez ciebie parada zniknęła na pustyni, udając się w nowe miejsce...</seg>
       </tuv>
     </tu>
     <tu>
