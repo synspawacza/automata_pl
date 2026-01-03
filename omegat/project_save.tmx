@@ -72650,8 +72650,8 @@ Co tutaj robisz?</seg>
       <tuv lang="en-US">
         <seg>Machine lifeforms were hanging around the access point, and their jamming signals were interfering with communications. Interact with the access point to restore it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193822Z" creationid="Syn Spawacza" creationdate="20200718T195509Z">
-        <seg>Spotykasz mechaniczne formy życia w pobliżu punktu dostępu, których sygnały zakłócające interferowały z łącznością. Użyj punktu dostępu, by go naprawić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T113755Z" creationid="Syn Spawacza" creationdate="20200718T195509Z">
+        <seg>Spotykasz mechaniczne formy życia w pobliżu punktu dostępu, których sygnały zakłócające interferowały z łącznością. Użyj punktu dostępu, aby go naprawić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106716,9 +106716,9 @@ Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
         <seg>The Operator has provided info on some materials. The required items can be obtained in the city ruins.
 Acquire the below materials to improve communications with the Resistance camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193818Z" creationid="Syn Spawacza" creationdate="20200718T195312Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T113745Z" creationid="Syn Spawacza" creationdate="20200718T195312Z">
         <seg>Operatorka podała ci informacje o pewnych materiałach. Potrzebne przedmioty można zdobyć w ruinach miasta.
-Zdobądź poniższe materiały, by poprawić komunikację z obozem Ruchu Oporu.</seg>
+Zdobądź poniższe materiały, aby poprawić komunikację z obozem Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108634,8 +108634,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The mail contained a new request for intel gathering. Head to the apartment complex in the desert to find traces of humans' daily lives.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193834Z" creationid="Syn Spawacza" creationdate="20200718T195649Z">
-        <seg>Wiadomość zawierała nową prośbę o zbieranie danych. Udaj się do kompleksu mieszkalnego na pustyni, by znaleźć ślady życia codziennego ludzi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T113816Z" creationid="Syn Spawacza" creationdate="20200718T195649Z">
+        <seg>Wiadomość zawierała nową prośbę o zbieranie danych. Udaj się do kompleksu mieszkalnego na pustyni, aby znaleźć ślady codziennego życia ludzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130582,8 +130582,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You defeated the YoRHa fugitives. Talk to Anemone to find out what's really going on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193813Z" creationid="Syn Spawacza" creationdate="20200718T195202Z">
-        <seg>Udało ci się pokonać uciekinierów z YoRHy. Porozmawiaj z Anemoną, by odkryć co się tak naprawdę dzieje.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T113737Z" creationid="Syn Spawacza" creationdate="20200718T195202Z">
+        <seg>Udało ci się pokonać uciekinierów z YoRHy. Porozmawiaj z Anemoną, aby odkryć co się tak naprawdę dzieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131710,8 +131710,8 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You met an android couple who fled from the Resistance to hide at Pascal's village. They abhor violence, and only wish to live in peace. Go to the abandoned factory to collect the following item in order to perform maintenance on the male android:</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193839Z" creationid="Syn Spawacza" creationdate="20200718T195834Z">
-        <seg>Spotykasz parę androidów która uciekła z Ruchu Oporu i ukrywała się w wiosce Pascala. Brzydzą się przemocą i chcą tylko żyć w pokoju. Idź do opuszczonej fabryki, by zebrać następujące przedmioty, aby wykonać naprawy na męskim androidzie:</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T113914Z" creationid="Syn Spawacza" creationdate="20200718T195834Z">
+        <seg>Spotykasz parę androidów, która uciekła z Ruchu Oporu i ukrywała się w wiosce Pascala. Brzydzą się przemocą i chcą tylko żyć w pokoju. Idź do opuszczonej fabryki, aby zebrać przedmioty niezbędne do wykonania napraw na męskim androidzie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -131998,9 +131998,9 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You ran into the android couple again at the flooded city, and learned they are trying to flee beyond the sea. Give them 50,000 G so they can pay a man called "The Emancipator."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201218T180921Z" creationid="Syn Spawacza" creationdate="20200718T200147Z">
-        <seg>Spotykasz znowu parę androidów w zalanym mieście i dowiadujesz się, że próbują uciec za morze. Daj im
-50 000 G, aby byli w stanie opłacić człowieka znanego jako „Oswobodziciel”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T114004Z" creationid="Syn Spawacza" creationdate="20200718T200147Z">
+        <seg>Ponownie spotykasz parę androidów w zalanym mieście i dowiadujesz się, że próbują uciec za morze. Daj im
+50 000 G, aby byli w stanie opłacić człowieka znanego jako „Oswobodziciel”.</seg>
       </tuv>
     </tu>
     <tu>
