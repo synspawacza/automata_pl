@@ -2957,8 +2957,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>16D has a request. Her instructor, 11B, died in battle at the abandoned factory, and her body was never recovered. Go to the abandoned factory and return with any mementos you can find.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200724T170706Z" creationid="Syn Spawacza" creationdate="20200718T184227Z">
-        <seg>16D ma do ciebie prośbę. Jej instruktorka, 11B, zginęła w bitwie przy opuszczonej fabryce i jej ciało nie zostało nigdy odzyskane. Idź do opuszczonej fabryki i wróć z pamiątkami jakie tam znajdziesz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T105259Z" creationid="Syn Spawacza" creationdate="20200718T184227Z">
+        <seg>16D ma do ciebie prośbę. Jej instruktorka, 11B, zginęła w bitwie przy opuszczonej fabryce, ale jej ciało nie zostało nigdy odzyskane. Udaj się do opuszczonej fabryki, aby zebrać wszelkie pamiątkami, jakie uda ci się tam znaleźć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -33026,8 +33026,8 @@ i utworzyć nowy plik?</seg>
       <tuv lang="en-US">
         <seg>Deliver a toy to the supply trader in Pascal's village.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T184606Z" creationid="Syn Spawacza" creationdate="20200718T184606Z">
-        <seg>Dostarcz zabawkę materiały handlarzowi zaopatrzenia w wiosce Pascala.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T105500Z" creationid="Syn Spawacza" creationdate="20200718T184606Z">
+        <seg>Dostarcz zabawkę handlarzowi zaopatrzenia w wiosce Pascala.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130880,8 +130880,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You found 11B's body. Bring her belongings to 16D.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T225610Z" creationid="Syn Spawacza" creationdate="20200718T184357Z">
-        <seg>Znaleziono ciało 11B. Przynieś jej własność 16D.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T105345Z" creationid="Syn Spawacza" creationdate="20200718T184357Z">
+        <seg>Znaleziono ciało 11B. Zanieś jej rzeczy do 16D.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132078,8 +132078,8 @@ Przywrócić poprzednie wyposażenie?</seg>
       <tuv lang="en-US">
         <seg>You reported the restoration of communications in the target area. The Commander was shocked that machine lifeforms would lay a trap for androids in such a fashion.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T184547Z" creationid="Syn Spawacza" creationdate="20200718T184547Z">
-        <seg>Raportujesz przywrócenie łączności na zadanym obszarze. Komandor jest zaszokowana tym, że mechaniczne formy życia są w stanie zastawiać takie zasadzki na androidy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T105437Z" creationid="Syn Spawacza" creationdate="20200718T184547Z">
+        <seg>Raportujesz przywrócenie łączności na obszarze docelowym. Komandor jest zaszokowana tym, że mechaniczne formy życia są w stanie zastawiać takie zasadzki na androidy.</seg>
       </tuv>
     </tu>
     <tu>
