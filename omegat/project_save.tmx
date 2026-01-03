@@ -83654,8 +83654,8 @@ To był dzień, w którym zdecydowałyśmy się na zawsze opuścić nasze miasto
       <tuv lang="en-US">
         <seg>Operator 21O informed you that the data you delivered contained ancient human diaries—and then ended communications in her usual curt manner. Make sure to claim the reward she sent via mail.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200724T170703Z" creationid="Syn Spawacza" creationdate="20200718T171817Z">
-        <seg>Operator 21O poinformowała cię o tym, że dostarczone dane zawierał starożytny ludzki pamiętnik — po czym przerwała połączenie w jej typowym aroganckim stylu. Odbierz nagrodę wysłaną w wiadomości.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070417Z" creationid="Syn Spawacza" creationdate="20200718T171817Z">
+        <seg>Operator 21O poinformowała cię, że dostarczone przez ciebie dane, zawierały starożytny ludzki pamiętnik, po czym przerwała połączenie w swoim typowo aroganckim stylu. Odbierz nagrodę wysłaną w wiadomości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132088,8 +132088,8 @@ Przywrócić poprzednie wyposażenie?</seg>
       <tuv lang="en-US">
         <seg>You retrieved the data from the terminal. Go outside so you can make a proper connection, then upload your findings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T171726Z" creationid="Syn Spawacza" creationdate="20200718T171726Z">
-        <seg>Odzyskujesz dane z terminala. Idź na zewnątrz, gdzie możesz nawiązać dobrą łączność i wyślij zebrane dane.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070259Z" creationid="Syn Spawacza" creationdate="20200718T171726Z">
+        <seg>Odzyskujesz dane z terminala. Wyjdź na zewnątrz, aby nawiązać dobrą łączność i wyślij zebrane dane.</seg>
       </tuv>
     </tu>
     <tu>
