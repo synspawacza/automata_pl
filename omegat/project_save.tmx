@@ -22930,8 +22930,8 @@ trudno zadać nimi efektywne obrażenia.</seg>
       <tuv lang="en-US">
         <seg>Base Chip</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092352Z" creationid="Syn Spawacza" creationdate="20200606T092352Z">
-        <seg>Czip bazowy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122630Z" creationid="Syn Spawacza" creationdate="20200606T092352Z">
+        <seg>Czip bazowy</seg>
       </tuv>
     </tu>
     <tu>
@@ -95907,8 +95907,8 @@ W świecie znajduje się wiele punktów dostępu, ale należy je najpierw odblok
       <tuv lang="en-US">
         <seg>Select Pod to upgrade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092342Z" creationid="Syn Spawacza" creationdate="20200606T092342Z">
-        <seg>Wybierz pod do ulepszenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122620Z" creationid="Syn Spawacza" creationdate="20200606T092342Z">
+        <seg>Wybierz poda do ulepszenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96043,16 +96043,16 @@ W świecie znajduje się wiele punktów dostępu, ale należy je najpierw odblok
       <tuv lang="en-US">
         <seg>Select a weapon to purchase.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092056Z" creationid="Syn Spawacza" creationdate="20200606T092056Z">
-        <seg>Wybierz broń do kupienia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122502Z" creationid="Syn Spawacza" creationdate="20200606T092056Z">
+        <seg>Wybierz broń, którą chcesz kupić.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select a weapon to upgrade.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092107Z" creationid="Syn Spawacza" creationdate="20200606T092107Z">
-        <seg>Wybierz broń do ulepszenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122513Z" creationid="Syn Spawacza" creationdate="20200606T092107Z">
+        <seg>Wybierz broń, którą chcesz ulepszyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96099,16 +96099,16 @@ W świecie znajduje się wiele punktów dostępu, ale należy je najpierw odblok
       <tuv lang="en-US">
         <seg>Select items to purchase.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092028Z" creationid="Syn Spawacza" creationdate="20200606T092028Z">
-        <seg>Wybierz przedmioty do kupienia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122435Z" creationid="Syn Spawacza" creationdate="20200606T092028Z">
+        <seg>Wybierz przedmioty, które chcesz kupić.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Select items to sell.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092030Z" creationid="Syn Spawacza" creationdate="20200606T092030Z">
-        <seg>Wybierz przedmioty do sprzedania.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122449Z" creationid="Syn Spawacza" creationdate="20200606T092030Z">
+        <seg>Wybierz przedmioty, które chcesz sprzedać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96195,8 +96195,8 @@ W świecie znajduje się wiele punktów dostępu, ale należy je najpierw odblok
       <tuv lang="en-US">
         <seg>Select the plug-in chip to be fused with the base chip.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092335Z" creationid="Syn Spawacza" creationdate="20200606T092335Z">
-        <seg>Wybierz czip rozszerzeń który połączyć z czipem bazowym.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122609Z" creationid="Syn Spawacza" creationdate="20200606T092335Z">
+        <seg>Wybierz, który czip rozszerzeń chcesz połączyć z czipem bazowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96299,8 +96299,8 @@ W świecie znajduje się wiele punktów dostępu, ale należy je najpierw odblok
       <tuv lang="en-US">
         <seg>Sell items in your inventory.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200606T092012Z" creationid="Syn Spawacza" creationdate="20200606T092012Z">
-        <seg>Sprzedaj przedmioty z twojego ekwipunku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T122407Z" creationid="Syn Spawacza" creationdate="20200606T092012Z">
+        <seg>Sprzedaj przedmioty z ekwipunku.</seg>
       </tuv>
     </tu>
     <tu>
