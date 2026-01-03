@@ -66800,8 +66800,8 @@ zatytułowana „Pensées”.</seg>
         <seg>Jackass seemed very surprised that a YoRHa type, being specialized in combat, was capable of regular thought. According to her, normal thoughts only get in the way when you're trying to destroy things.
 Jackass is already considering what to do next...</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210109T125104Z" creationid="Syn Spawacza" creationdate="20200718T203138Z">
-        <seg>Jackass wydała się zaskoczona, że typ YoRHa wyspecjalizowany w walce jest zdolny do normalnego myślenia. Według niej, normalne myśli tylko przeszkadzają gdy próbuje się niszczyć rzeczy.
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120443Z" creationid="Syn Spawacza" creationdate="20200718T203138Z">
+        <seg>Jackass wydała się zaskoczona, że typ YoRHa wyspecjalizowany w walce, jest zdolny do normalnego myślenia. Według niej, normalne myśli tylko przeszkadzają, gdy próbuje się niszczyć rzeczy.
 Jackass już zastanawia się, co zrobić dalej.</seg>
       </tuv>
     </tu>
@@ -109277,9 +109277,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
         <seg>The results of the research indicate that androids generate some kind of comforting element in their circuits during combat. 
 Jackass is going to use these results to create a new drug for expanding android functionality. Give her some time and go meet her again in a while.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T203912Z" creationid="Syn Spawacza" creationdate="20200718T203650Z">
-        <seg>Wyniki badań wskazują, że androidy produkują jakąś dającą przyjemność substancję w ich obwodach podczas walki.
-Jackass zamierza użyć tych wyników do stworzenia nowego narkotyku, rozszerzającego funkcje androidów. Daj jej trochę czasu i spotkaj się z nią później.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120619Z" creationid="Syn Spawacza" creationdate="20200718T203650Z">
+        <seg>Wyniki badań wskazują, że androidy podczas walki produkują w swoich obwodach jakąś dającą im przyjemność substancję. Jackass zamierza użyć tych wyników do stworzenia nowego narkotyku, rozszerzającego funkcje androidów. Daj jej trochę czasu i spotkaj się z nią później.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130862,8 +130861,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You failed to collect the data. Go back to Jackass to accept her request again.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193851Z" creationid="Syn Spawacza" creationdate="20200718T202937Z">
-        <seg>Nie udało ci się zebrać danych. Wróć do Jackass, by ponownie zaakceptować jej prośbę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120410Z" creationid="Syn Spawacza" creationdate="20200718T202937Z">
+        <seg>Nie udało ci się zebrać danych. Wróć do Jackass, aby ponownie zaakceptować jej prośbę.</seg>
       </tuv>
     </tu>
     <tu>
