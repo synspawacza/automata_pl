@@ -62197,8 +62197,8 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>In the flooded city, you met a Resistance trooper researching the local ecosystem in anticipation of humanity's eventual return. Find some white animals and bring them back for examination.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260103T120851Z" creationid="Syn Spawacza" creationdate="20200718T204459Z">
-        <seg>W zalanym mieście spotykasz żołnierza Ruchu Oporu, który w oczekiwaniu na ostateczny powrót ludzkości, bada lokalny ekosystem. Znajdź jakieś białe zwierzęta i przyprowadź je żołnierzowi do badań.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120949Z" creationid="Syn Spawacza" creationdate="20200718T204459Z">
+        <seg>W zalanym mieście spotykasz żołnierza Ruchu Oporu, który w oczekiwaniu na ostateczny powrót ludzkości, bada lokalny ekosystem. Znajdź jakieś białe zwierzęta i przyprowadź je, w celu przeprowadzenia na nich badań.</seg>
       </tuv>
     </tu>
     <tu>
@@ -106821,8 +106821,8 @@ Zdobądź poniższe materiały, aby poprawić komunikację z obozem Ruchu Oporu.
       <tuv lang="en-US">
         <seg>The Resistance researcher still needs more mutated white animal specimens to examine. Go find another species with this abnormality and bring it back.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T204549Z" creationid="Syn Spawacza" creationdate="20200718T204549Z">
-        <seg>Badacz Ruchu Oporu wciąż potrzebuje zmutowanych białych okazów zwierząt do badań. Znajdź kolejny okaz z tą mutacją i przyprowadź go.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T121156Z" creationid="Syn Spawacza" creationdate="20200718T204549Z">
+        <seg>Badacz Ruchu Oporu wciąż potrzebuje zmutowanych okazów białych zwierząt. Znajdź kolejne zwierzę z taką mutacją i przyprowadź.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108850,8 +108850,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The mutated specimens you recovered proved that the state of the environment is actually far better than previously believed. Considering that humanity's return might undo all of these gains, the researcher expressed doubt about what is truly best for the planet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200724T170318Z" creationid="Syn Spawacza" creationdate="20200718T204744Z">
-        <seg>Znalezione prze ciebie zmutowane okazy udowadniają, że stan środowiska jest o wiele lepszy niż się oczekiwano. Biorąc pod uwagę to, że ludzkość może cofnąć te zyski, badacz wyraża wątpliwość co do tego, co jest naprawdę najlepsze dla planety.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T121450Z" creationid="Syn Spawacza" creationdate="20200718T204744Z">
+        <seg>Znalezione przez ciebie zmutowane okazy udowadniają, że stan środowiska jest w o wiele lepszym stanie, niż się oczekiwano. Biorąc pod uwagę, że ewentualny powrót ludzkości może odwrócić ten trend, badacz wyraża wątpliwość odnośnie tego, co jest naprawdę najlepsze dla planety.</seg>
       </tuv>
     </tu>
     <tu>
