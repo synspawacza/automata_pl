@@ -2595,12 +2595,12 @@ Made up of 256 strata, it can filter and compress information with a turbidity o
  
 * The allowed diversity-learning error rate is 7.21%</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T200959Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T093314Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
         <seg>022 port 0642423 Zarys systemu Wieży
  
 Wieża przetwarza i komputeryzuje zasoby wysłane przez jednostki odzyskujące zasoby do użytku w jej urządzeniu startowym.
  
-Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętności mniejszej niż 2300 oraz zapisać dane do ładunku w ciągu 27 minut i 32 sekund*. Detale dotyczące wymaganych ścieżek wymaganych do przetrawienia androidów są zapisywane oddzielnie.
+Stworzona z 256 warstw, może przefiltrowywać i kompresować informacje o mętności mniejszej niż 2300, oraz zapisać dane do ładunku w ciągu 27 minut i 32 sekund*. Detale dotyczące wymaganych ścieżek wymaganych do przetrawienia androidów są zapisywane oddzielnie.
  
 * Dozwolony próg błędu dywersyfikacji uczenia wynosi 7,21%</seg>
       </tuv>
@@ -29065,7 +29065,7 @@ The patient's condition makes further treatment impossible. A report will be sub
  
 As back-up in the event of a sudden worsening in the patient's condition, she is to be assigned five additional doctors. [Identification required]</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T222110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114616Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T093432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114616Z">
         <seg>Pacjent Klasy 1: „Yonah”
  
 Prześwietlenie klatki piersiowej: brak nieprawidłowości.
@@ -29075,9 +29075,9 @@ C2   Napady drgawkowe w przeponie
 C3   Brak wymiotów &lt;- 4mg lucyferazy
  
 &lt;Plan utrzymania&gt;
-Stan zdrowia pacjentki uniemożliwia dalsze leczenie. Zostanie wysłany raport do Komitetu Zarządzającego, opisujący przebieg choroby w razie śmierci pacjentki, skupiający się głównie na tym, jak te informacje można wykorzystać w związku z Oryginałem.
+Stan zdrowia pacjentki uniemożliwia dalsze leczenie. W razie śmierci pacjentki, zostanie wysłany raport do Komitetu Zarządzającego opisujący przebieg choroby, skupiający się głównie na tym, jak te informacje można wykorzystać w związku z Oryginałem.
  
-W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisane dodatkowych pięciu lekarzy [Wymagana identyfikacja].</seg>
+W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisanych dodatkowych pięciu lekarzy [Wymagana identyfikacja].</seg>
       </tuv>
     </tu>
     <tu>
@@ -88860,26 +88860,26 @@ The first stage of the project was spreading the word among Resistance groups th
  
 Through the dramatic alteration of the Next Generation Combat Unit Project that had been proposed at the time, new "YoRHa" models began to be manufactured. Official models were created following the implementation of data acquired from an experimental squadron, and were then deployed to all regions. Certain members of the YoRHa operations staff, however, were informed of the full scope of the project—these units were tasked to operate and protect the server on the moon.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T201229Z" creationid="Syn Spawacza" creationdate="20210716T201229Z">
-        <seg>Projekt YoRHa to złożony projekt informacyjny, który ma na celu wzbogacić morale androidów. Ten wpis opisuje okoliczności, które doprowadziły do tej propozycji, jak również informację związane z operacjami przeprowadzanymi podczas pojedynczych faz.
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T094045Z" creationid="Syn Spawacza" creationdate="20210716T201229Z">
+        <seg>Projekt YoRHa to złożony projekt informacyjny, który ma na celu wzbogacić morale androidów. Ten wpis opisuje okoliczności, które doprowadziły do tej propozycji, jak również informacje związane z operacjami przeprowadzanymi podczas pojedynczych faz.
  
-(Należy zauważyć, że ten dokument jest oznakowany poziomem poufności S i nie powinien być ujawniany personelowi YoRHy poza Komandor)
+(Należy zauważyć, że ten dokument jest oznakowany poziomem poufności S i nie powinien być ujawniany personelowi YoRHy, oprócz Komandor)
  
 [Wyginięcie ludzi]
  
-Po upadku Projektu Gestalt około 3400 roku naszej ery, pozostałe androidy zaczęły poszukiwać sposobu na odnowienie ludzkości. Ale nie były w stanie znaleźć odpowiedzi i ludzie wyginęli w okolicach 4200 roku naszej ery. Po tym geny Gestaltów oraz informacje strukturalne pozostałych Replikantów zostały spisane i wysłane do przechowalni na Księżycu.
+Po upadku Projektu Gestalt, około 3400 roku naszej ery, pozostałe androidy zaczęły poszukiwać sposobu na odnowienie ludzkości. Ale nie były w stanie znaleźć odpowiedzi, których szukały. Ludzie wyginęli w okolicach 4200 roku naszej ery. Geny wymarłych Gestaltów, oraz informacje strukturalne pozostałych Replikantów, zostały spisane i wysłane do przechowalni na Księżycu.
  
 [Upadek morale wśród androidów]
  
-Wiadomość o wyginięciu ludzi miała być pilnie strzeżoną tajemnicą, ale wkrótce zaczęły rozprzestrzeniać się plotki. Kiedy utraciły jedyną rzecz, do której ochrony były zaprogramowane, morale androidów zaczęło gwałtownie spadać. Dowództwo zaniepokojone takim obrotem spraw stworzyło Projekt YoRHa, by utrzymać ducha walki androidów.
+Wiadomość o wyginięciu ludzi miała być pilnie strzeżoną tajemnicą, ale wkrótce zaczęły rozprzestrzeniać się plotki. Kiedy androidy utraciły jedyną rzecz, do której ochrony były zaprogramowane, ich morale zaczęło gwałtownie spadać. Dowództwo, zaniepokojone takim obrotem spraw, stworzyło Projekt YoRHa, którego zadaniem było utrzymanie ducha walki androidów.
  
 [Projekt 01-03: Serwer księżycowy]
  
-Pierwszym etapem projektu było rozgłoszenie wśród grup Ruchu Oporu, że ludzkość tak właściwie nie wyginęła — a jej ostałe osobniki zdołały uciec na Księżyc. To twierdzenie zostało poparte przez zainstalowanie serwera komunikacyjnego na powierzchni księżyca, który miał wysyłać regularne transmisje. Wspomniany serwer został zaprojektowany tak, by jego utrzymanie wymagało zaangażowania jak najmniejszej ilości personelu.
+Pierwszym etapem projektu było rozgłoszenie wśród grup Ruchu Oporu, że ludzkość tak właściwie nie wyginęła — a jej ostatnie, żyjące osobniki, zdołały uciec na Księżyc. To twierdzenie zostało poparte przez zainstalowanie serwera komunikacyjnego na powierzchni księżyca, który miał wysyłać regularne transmisje. Wspomniany serwer został zaprojektowany tak, aby jego utrzymanie wymagało zaangażowania jak najmniejszej ilości personelu.
  
 [Projekt 02-01: Założenie szwadronu YoRHa]
  
-Po zaproponowanych wówczas dramatycznych zmianach w Projekcie Jednostek Bojowych Nowej Generacji, nowe modele „YoRHa” weszły do produkcji. Oficjalne modele zostały stworzone dzięki implementacji danych zebranych od eksperymentalnego szwadronu i zostały zrzucone we wszystkich regionach. Niektórzy z członków YoRHy zostali poinformowani o całości projektu — tym jednostkom zlecono operowanie i ochronę serwera na Księżycu.</seg>
+Po zaproponowanych wówczas dramatycznych zmianach w Projekcie Jednostek Bojowych Nowej Generacji, nowe modele „YoRHa” weszły do produkcji. Oficjalne modele zostały stworzone dzięki implementacji danych zebranych od eksperymentalnego szwadronu i zostały zrzucone we wszystkich regionach. Niektórzy z członków YoRHy zostali poinformowani o prawdziwym celu projektu — tym jednostkom zlecono operowanie i ochronę serwera na Księżycu.</seg>
       </tuv>
     </tu>
     <tu>
