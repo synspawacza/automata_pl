@@ -84643,8 +84643,8 @@ Jackass</seg>
       <tuv lang="en-US">
         <seg>Overwrite the save in this slot?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110112Z" creationid="Syn Spawacza" creationdate="20200629T110112Z">
-        <seg>Nadpisać w tym slocie?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T124104Z" creationid="Syn Spawacza" creationdate="20200629T110112Z">
+        <seg>Nadpisać na tym slocie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -93003,8 +93003,8 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Return to the title screen without saving? All unsaved progress to this point will be lost.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T110149Z" creationid="Syn Spawacza" creationdate="20200629T110149Z">
-        <seg>Powrócić do ekranu tytułowego bez zapisywania? Cały niezapisany postęp będzie utracony.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T124058Z" creationid="Syn Spawacza" creationdate="20200629T110149Z">
+        <seg>Powrócić do ekranu tytułowego bez zapisywania? Cały niezapisany postęp zostanie utracony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114609,15 +114609,15 @@ Sincerely,
  
 Square Enix PR</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T171028Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T171028Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T124426Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T171028Z">
         <seg>Do wszystkich graczy,
  
 Dziękujemy serdecznie za zagranie w „NieR:Automata”.
  
 Mamy dla Was specjalną wiadomość!
-Ta gra posiada kilka ścieżek fabularnych, które zmieniają się za każdym razem, jak grasz. Doświadczyliście właśnie „ścieżki A”, ale wciąż istnieje wiele elementów historii i zmian w gameplayu, których nie widzieliście. Zalecamy rozegranie gry ponownie, by doświadczyć pełnego „NieR:Automata”.
+Ta gra posiada kilka ścieżek fabularnych, które podczas gry, za każdym razem się zmieniają. Doświadczyliście właśnie „ścieżki A”, ale wciąż istnieje wiele elementów historii i zmian w gameplayu, których jeszcze nie widzieliście. Zalecamy rozegranie gry ponownie, aby doświadczyć pełnego „NieR:Automata”.
  
-Mamy nadzieję, że reszta gry Wam się spodoba!
+Mamy nadzieję, że reszta gry również Wam się spodoba!
  
 Z pozdrowieniami,
  
