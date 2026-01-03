@@ -36959,8 +36959,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>ENEMY TAKES NO DAMAGE</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T211524Z" creationid="Syn Spawacza" creationdate="20200723T211524Z">
-        <seg>WRÓG NIE PRZYJMUJE OBRAŻEŃ</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T124656Z" creationid="Syn Spawacza" creationdate="20200723T211524Z">
+        <seg>WRÓG NIE DOZNAJE OBRAŻEŃ</seg>
       </tuv>
     </tu>
     <tu>
@@ -130308,11 +130308,11 @@ It can be accessed from the Start Menu.
  
 At the Debug Room, you can use the debug menu to freely place enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194025Z" creationid="Syn Spawacza" creationdate="20200629T111549Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T124528Z" creationid="Syn Spawacza" creationdate="20200629T111549Z">
         <seg>Możesz teraz użyć pokoju debugowego.
-Dostępny jest on w menu start.
+Dostępny jest w Menu Start.
 
-W pokoju debugowym użyj menu debugowego, by swobodnie umieszczać przeciwników.</seg>
+W pokoju debugowym użyj menu debugowego, aby swobodnie umieszczać przeciwników.</seg>
       </tuv>
     </tu>
     <tu>
