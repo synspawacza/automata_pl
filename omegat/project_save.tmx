@@ -108511,8 +108511,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The machine wants a rematch. Reach the goal before he does!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T201832Z" creationid="Syn Spawacza" creationdate="20200718T201832Z">
-        <seg>Maszyna chce rewanżu. Dotrzyj do celu przed nim!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115901Z" creationid="Syn Spawacza" creationdate="20200718T201832Z">
+        <seg>Maszyna chce rewanżu. Dotrzyj do celu przed nią!</seg>
       </tuv>
     </tu>
     <tu>
@@ -132666,8 +132666,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You won the second race. But the machine is still not done with you!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T201848Z" creationid="Syn Spawacza" creationdate="20200718T201848Z">
-        <seg>Wygrywasz drugi wyścig. Ale maszyna dalej z tobą nie skończyła.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T120027Z" creationid="Syn Spawacza" creationdate="20200718T201848Z">
+        <seg>Wygrywasz drugi wyścig. Ale maszyna dalej uważa, że to jeszcze nie koniec.</seg>
       </tuv>
     </tu>
     <tu>
