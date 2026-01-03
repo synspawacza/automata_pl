@@ -9757,8 +9757,8 @@ Nie powinieneś go czytać.</seg>
       <tuv lang="en-US">
         <seg>A lone machine lifeform dwells in a gloomy canyon. She doesn't seem hostile, and was even willing to share information on machines that are rampaging nearby. Head further into the canyon and take them out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T172740Z" creationid="Syn Spawacza" creationdate="20200718T172740Z">
-        <seg>Samotna mechaniczna forma życia zamieszkuje ponury kanion. Nie wydaje się wrogo nastawiona, a nawet jest skłonna podzielić się informacjami o maszynach szalejących w pobliżu. Skieruj się w głąb kanionu i zajmij się maszynami.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070730Z" creationid="Syn Spawacza" creationdate="20200718T172740Z">
+        <seg>Samotna mechaniczna forma życia zamieszkująca ponury kanion. Nie wydaje się być wrogo nastawiona, a nawet jest skłonna podzielić się z tobą informacjami o pobliskich maszynach siejących spustoszenie. Skieruj się w głąb kanionu i zajmij się nimi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -83670,8 +83670,8 @@ To był dzień, w którym zdecydowałyśmy się na zawsze opuścić nasze miasto
       <tuv lang="en-US">
         <seg>Operator 21O talked...and talked...and talked some more...before suddenly ending communications. Make sure to claim the reward she sent via mail.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200724T165958Z" creationid="Syn Spawacza" creationdate="20200718T172355Z">
-        <seg>Operator 21O mówiła... i mówiła... i jeszcze mówiła... po czym nagle przerwała połączenie. Odbierz nagrodę wysłaną w wiadomości.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070540Z" creationid="Syn Spawacza" creationdate="20200718T172355Z">
+        <seg>Operatorka 21O mówiła... i mówiła... ciągle mówiła... po czym, nagle, przerwała połączenie. Odbierz nagrodę wysłaną w wiadomości.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107615,8 +107615,8 @@ Mogą zostać sprzedane.</seg>
       <tuv lang="en-US">
         <seg>The data-loving Operator 21O has forced another request on you. Check your mail for further details.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193559Z" creationid="Syn Spawacza" creationdate="20200718T172146Z">
-        <seg>Kochająca dane Operatorka 21O zmusiła się do wykonania kolejnego zadania. Przeczytaj wiadomość, by poznać więcej szczegółów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070425Z" creationid="Syn Spawacza" creationdate="20200718T172146Z">
+        <seg>Kochająca dane Operatorka 21O zmusiła cię do wykonania kolejnego zadania. Przeczytaj wiadomość, aby poznać więcej szczegółów.</seg>
       </tuv>
     </tu>
     <tu>
