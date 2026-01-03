@@ -10057,8 +10057,8 @@ Jednakże, środowisko czekają jeszcze większe zmiany. Ponieważ nie są tworz
       <tuv lang="en-US">
         <seg>A machine lifeform that has become violent after infection by Eve. Will attempt to attack androids as if they were prey. The armor-plating on its head has been removed, revealing teeth-like metal pipes that nevertheless have no functionality as a mouth. It is theorized that either this modification was implemented due to self-optimization, or that possibly some alien race created them in likeness to themselves, though neither of these are proven.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T221048Z" creationid="Syn Spawacza" creationdate="20200717T214204Z">
-        <seg>Mechaniczna forma życia, która stała się agresywna po wyłonieniu się wieży. Będzie próbować pożreć inne pobliskie mechaniczne formy życia i się z nimi połączyć. Z jego głowy została usunięta osłona, przez co odsłonięte zostały metalowe rury przypominające zęby, a otwór w którym tkwią nie służy jako usta. Istnieją teorie, że ta modyfikacja albo została wprowadzona jako samo-optymalizacja, albo jakaś obca rasa stworzyła je na swoje podobieństwo. Jednakże, żadna z tych teorii nie została potwierdzona.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T082509Z" creationid="Syn Spawacza" creationdate="20200717T214204Z">
+        <seg>Mechaniczna forma życia, która stała się agresywna po zainfekowaniu przez Ewę. Będzie próbowała pożreć inne pobliskie mechaniczne formy życia, aby się z nimi połączyć. Z jego głowy została usunięta osłona, przez co odsłonięte zostały metalowe rury przypominające zęby, ale otwór w którym tkwią, raczej nie służy jako usta. Istnieją teorie, że ta modyfikacja, albo została wprowadzona jako samo-optymalizacja, albo jakaś obca rasa stworzyła je na swoje podobieństwo. Jednakże, żadna z tych teorii nie została potwierdzona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14253,8 +14253,8 @@ To związek, który się zmienia w miarę upływu czasu.
       <tuv lang="en-US">
         <seg>After handing over the plug-in chips, the Resistance member seems happy, saying he'll introduce his family the next time you meet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251220T114534Z" creationid="Syn Spawacza" creationdate="20200718T181703Z">
-        <seg>Po przekazaniu czipów rozszerzeń, członek Ruchu Oporu wydaje się szczęśliwy i mówi, że chce przedstawić cię swojej rodzinie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T082149Z" creationid="Syn Spawacza" creationdate="20200718T181703Z">
+        <seg>Po przekazaniu czipów rozszerzeń, członek Ruchu Oporu wydaje się być szczęśliwy. Mówi, że chce przedstawić cię swojej rodzinie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130594,8 +130594,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You defeated the menacing machines. Go check on the clown machine.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T221026Z" creationid="Syn Spawacza" creationdate="20200718T181738Z">
-        <seg>Udało ci się pokonać przerażające maszyny. Sprawdź, co u klauna maszyny.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T082238Z" creationid="Syn Spawacza" creationdate="20200718T181738Z">
+        <seg>Udało ci się pokonać przerażające maszyny. Sprawdź, co z maszyną-klaunem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131022,8 +131022,8 @@ Zaprowadź ją z powrotem do wioski Pascala.</seg>
       <tuv lang="en-US">
         <seg>You gave the ingredients to the trader, who has learned that meat is delicious when roasted over a charcoal fire after applying salt. The trader is going to continue his research so that he can prepare a feast when the humans return.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251224T112459Z" creationid="Syn Spawacza" creationdate="20200718T180928Z">
-        <seg>Dajesz składniki handlarzowi, który odkrył, że mięso jest pyszne, gdy po posoleniu upiecze się je nad ogniem z węgla drzewnego. Handlarz będzie prowadził dalsze badania, aby móc przygotować ucztę na powrót ludzi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T082123Z" creationid="Syn Spawacza" creationdate="20200718T180928Z">
+        <seg>Dajesz składniki handlarzowi, który odkrył, że mięso będzie przpyszne, gdy po posoleniu upiecze się je nad ogniem z węgla drzewnego. Handlarz będzie prowadził dalsze badania, aby móc przygotować prawdziwą ucztę na powrót ludzi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132331,9 +132331,9 @@ Tylko nie ukradnij mi go przede mną!</seg>
         <seg>You successfully guarded the machine lifeforms. Apparently, they want to hold another parade somewhere else.
 The clown was exhilarated at the parade's success, but he also seemed a bit sad that his efforts were not recognized by his peers.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T183808Z" creationid="Syn Spawacza" creationdate="20200718T183808Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T082257Z" creationid="Syn Spawacza" creationdate="20200718T183808Z">
         <seg>Udało ci się z sukcesem ochronić mechaniczne formy życia. Najwyraźniej chcą zorganizować paradę w innym miejscu.
-Klaun był uradowany sukcesem parady, ale wydawał się też trochę smutny, bo jego wysiłki nie zostały dostrzeżone przez innych.</seg>
+Klaun był uradowany sukcesem parady, ale wydawał się też trochę smutny, gdyż jego wysiłki nie zostały dostrzeżone przez innych.</seg>
       </tuv>
     </tu>
     <tu>
