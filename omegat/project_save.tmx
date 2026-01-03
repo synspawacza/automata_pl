@@ -113016,8 +113016,8 @@ Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu s
       <tuv lang="en-US">
         <seg>This is scheduled correspondence for YoRHa members. If you have an issue, please respond. Even if you do not have an issue, we would not particularly mind if you sent a response, as it is possible we might be able to use whatever bit of information you have—no matter how small—for future missions. Of course it's also possible we might not be able to use it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T232513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T140836Z">
-        <seg>Jest to zaplanowana korespondencja z członkami YoRHy. Jeśli masz jakiś problem, proszę odpowiedz. Nawet jeśli go nie masz, nieistotne jest, czy nam odpowiesz, ale jeśli to nie problem, każda informacja — nawet najmniejsza — przyda nam się na przyszłość misji. Oczywiście możliwe też jest, że nam się nie przyda.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T110419Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T140836Z">
+        <seg>Jest to zaplanowana korespondencja z członkami YoRHy. Jeśli masz jakiś problem, proszę odpowiedz. Nawet jeśli go nie masz, nieistotne jest, czy nam odpowiesz, ale jeśli to nie problem, każda informacja — nawet najmniejsza — może nam się przydać w przyszłych zadaniach. Oczywiście możliwe też jest, że nam się nie przyda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133758,14 +133758,14 @@ They are to be taken into custody as soon as possible.
  
 * Note that this is a direct order from the Commander. Forwarding it is forbidden.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T190812Z" creationid="Syn Spawacza" creationdate="20200713T190812Z">
-        <seg>Twoja nowa misja polega na schwytaniu zbuntowanych jednostek YoRHa. Nie tylko zdezerterowały, ale potwierdzono, że zajęły się bezprawnym rozbojem, między innymi okradaniem Ruchu Oporu z zapasów.
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T110306Z" creationid="Syn Spawacza" creationdate="20200713T190812Z">
+        <seg>Twoja nowa misja polega na schwytaniu zbuntowanych jednostek YoRHa, które nie tylko zdezerterowały, ale potwierdzono, że zajęły się bezprawnym rozbojem. Między innymi, okradaniem Ruchu Oporu z zapasów.
  
-Trzeba jak najprędzej je pojmać.
+Trzeba się nimi zająć, i to jak najprędzej.
  
 —Operator 6O
  
-* Powyższa wiadomość jest bezpośrednim rozkazem od Komandor. Przekazywanie jej dalej jest zakazane.</seg>
+* Powyższa wiadomość jest bezpośrednim rozkazem od Komandor. Dalsze jej przekazywanie jest zakazane.</seg>
       </tuv>
     </tu>
     <tu>
