@@ -85604,9 +85604,9 @@ Jedno z dzieci maszyn miało wybór między monetami o małej i dużej wartości
         <seg>Pascal is relieved.
 You protected the children and the pacifistic machines in the village. Unfortunately, you also gained a lot of affection in the process.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T173715Z" creationid="Syn Spawacza" creationdate="20200718T173537Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T071237Z" creationid="Syn Spawacza" creationdate="20200718T173537Z">
         <seg>Pascal odetchnął z ulgą.
-Udało ci się ochronić dzieci i pacyfistyczne maszyny z wioski. Niestety, zyskujesz też wielu wielbicieli.</seg>
+Udało ci się ochronić dzieci, oraz pacyfistyczne maszyny z wioski. Niestety, po wykoniu zadania, zyskałeś nie tylko wdzięczność Pascala, ale też wielu nowych "wielbicieli".</seg>
       </tuv>
     </tu>
     <tu>
@@ -130610,8 +130610,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You destroyed the violent machine lifeforms. Go back to the machine lifeform who first told you about them.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T172812Z" creationid="Syn Spawacza" creationdate="20200718T172812Z">
-        <seg>Udało ci się zniszczyć wrogie mechaniczne formy życia. Wróć do mechanicznej formy życia która ci o nich powiedziała.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070750Z" creationid="Syn Spawacza" creationdate="20200718T172812Z">
+        <seg>Udało ci się zniszczyć wrogie mechaniczne formy życia. Wróć do mechanicznej formy życia, która ci o nich powiedziała.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131312,8 +131312,8 @@ Gdy wymienią go na kolejnego wroga, spróbuj ponownie.</seg>
       <tuv lang="en-US">
         <seg>You informed the machine of your success. She has decided to remain behind and pray for the souls of her comrades.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T172845Z" creationid="Syn Spawacza" creationdate="20200718T172845Z">
-        <seg>Informujesz maszynę o swoim sukcesie. Decyduje się ona pozostać i pomodlić się za dusze swoich towarzyszy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T070848Z" creationid="Syn Spawacza" creationdate="20200718T172845Z">
+        <seg>Informujesz maszynę o swoim sukcesie. Decyduje się pozostać w tym miejscu, aby pomodlić się za dusze swoich poległych towarzyszy.</seg>
       </tuv>
     </tu>
     <tu>
