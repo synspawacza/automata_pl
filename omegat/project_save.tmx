@@ -3447,8 +3447,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>2B and crew fly from the bunker to the City Ruins. Landing at the Resistance Camp, they soon make contact with the Resistance leader, Anemone.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200811T182112Z" creationid="Syn Spawacza" creationdate="20200811T182112Z">
-        <seg>2B i 9S opuszczają Bunkier, kierując się do ruin miasta. Lądują w pobliżu obozu Ruchu Oporu, gdzie kontaktują się z Anemoną, przywódczynią Ruchu Oporu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T174644Z" creationid="Syn Spawacza" creationdate="20200811T182112Z">
+        <seg>2B i 9S opuszczają Bunkier, kierując się do ruin miasta. Lądują w pobliżu obozu Ruchu Oporu, aby następnie skontaktować się z przywódczynią Ruchu Oporu — Anemoną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5215,8 +5215,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S heads to 2B's room to help with her reboot setup process.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260103T174135Z" creationid="Syn Spawacza" creationdate="20200811T181816Z">
-        <seg>9S kieruje się do pokoju 2B, aby pomóc jej w procesie konfiguracji po ponownym uruchomieniu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T174202Z" creationid="Syn Spawacza" creationdate="20200811T181816Z">
+        <seg>9S kieruje się do pokoju 2B, aby pomóc jej przeprowadzić proces konfiguracji po ponownym uruchomieniu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62165,8 +62165,8 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>In the command room, the YoRHa commander gives the order to make contact with and gather information on the Resistance on the ground.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200811T181905Z" creationid="Syn Spawacza" creationdate="20200811T181905Z">
-        <seg>W pokoju dowodzenia, komandor YoRHa daje rozkaz nawiązaniu kontaktu i zebrania informacji o Ruchu Oporu na powierzchni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T174237Z" creationid="Syn Spawacza" creationdate="20200811T181905Z">
+        <seg>W pokoju dowodzenia, komandor YoRHa wydaje rozkaz nawiązania kontaktu i zebrania informacji o Ruchu Oporu, znajdującego się na powierzchni.</seg>
       </tuv>
     </tu>
     <tu>
