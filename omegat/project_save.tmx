@@ -96806,8 +96806,8 @@ W ramach wspomnianego wyżej zarządzania, wszelkie uprawnienia dotyczące plan�
       <tuv lang="en-US">
         <seg>Several machines were hanging out near the malfunctioning access point. It seems their jamming signals were interfering with the device's functionality. Interact with the access point to make sure it still works.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193553Z" creationid="Syn Spawacza" creationdate="20200718T101201Z">
-        <seg>Spotykasz kilka maszyn w pobliżu uszkodzonego punktu dostępu. Wygląda na to, że ich sygnały zakłócające interferowały z funkcjami urządzenia. Użyj punktu dostępu, by sprawdzić, czy dalej działa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T064750Z" creationid="Syn Spawacza" creationdate="20200718T101201Z">
+        <seg>W pobliżu uszkodzonego punktu dostępu kręciło się kilka maszyn. Wygląda na to, że ich sygnały zakłócające interferowały z funkcjami urządzenia. Użyj punktu dostępu, aby sprawdzić, czy już działa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131280,8 +131280,8 @@ Gdy wymienią go na kolejnego wroga, spróbuj ponownie.</seg>
       <tuv lang="en-US">
         <seg>You heard from Operator 6O that an access point in the city ruins is malfunctioning. She'll send an email with further details. Read it, then repair the damaged access point.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T200443Z" creationid="Syn Spawacza" creationdate="20210716T200443Z">
-        <seg>Dowiadujesz się od Operator 6O, że punkt dostępu w ruinach miasta nie działa. Wyśle ci wiadomość z dokładniejszymi szczegółami. Przeczytaj ją i napraw zepsuty punkt dostępu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T064547Z" creationid="Syn Spawacza" creationdate="20210716T200443Z">
+        <seg>Dowiadujesz się od Operator 6O, że punkt dostępu w ruinach miasta nie działa prawidłowo. Wyśle ci wiadomość z dokładniejszymi szczegółami. Przeczytaj ją i napraw zepsuty punkt dostępu.</seg>
       </tuv>
     </tu>
     <tu>
