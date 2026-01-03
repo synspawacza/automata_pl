@@ -4975,8 +4975,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S Self-repairs</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T214021Z" creationid="Syn Spawacza" creationdate="20200727T214021Z">
-        <seg>9S się naprawia</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T125329Z" creationid="Syn Spawacza" creationdate="20200727T214021Z">
+        <seg>9S naprawia się</seg>
       </tuv>
     </tu>
     <tu>
@@ -23508,8 +23508,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Begin [&lt;CHAPTER_NAME&gt;]? All unsaved quest progress will be lost.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T214143Z" creationid="Syn Spawacza" creationdate="20200727T214143Z">
-        <seg>Rozpocząć [&lt;CHAPTER_NAME&gt;]? Cały niezapisany postęp będzie utracony.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T125413Z" creationid="Syn Spawacza" creationdate="20200727T214143Z">
+        <seg>Rozpocząć [&lt;CHAPTER_NAME&gt;]? Cały niezapisany postęp zostanie utracony.</seg>
       </tuv>
     </tu>
     <tu>
