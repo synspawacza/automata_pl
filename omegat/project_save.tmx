@@ -9855,8 +9855,8 @@ do Ruchu Oporu.</seg>
       <tuv lang="en-US">
         <seg>A machine in the city ruins has challenged you to a race. Reach the goal before he does!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T201754Z" creationid="Syn Spawacza" creationdate="20200718T201754Z">
-        <seg>Maszyna w ruinach miasta chce się z tobą ścigać. Dotrzyj do celu przed nim!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115634Z" creationid="Syn Spawacza" creationdate="20200718T201754Z">
+        <seg>Maszyna w ruinach miasta chce się z tobą ścigać. Dotrzyj do celu przed nią!</seg>
       </tuv>
     </tu>
     <tu>
@@ -10874,8 +10874,8 @@ wydaje się nie mieć sensu.</seg>
       <tuv lang="en-US">
         <seg>A small child ran away from Pascal's village after an argument with his mother, who is now desperate for your help. Go to the city ruins and bring the child back in one piece.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210110T095501Z" creationid="Syn Spawacza" creationdate="20200713T195634Z">
-        <seg>Małe dziecko ucieka z wioski Pascala po kłótni ze swoją matką, która zdesperowana szuka u ciebie pomocy. Idź do ruin miasta i przyprowadź dziecko w jednym kawałku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115441Z" creationid="Syn Spawacza" creationdate="20200713T195634Z">
+        <seg>Małe dziecko ucieka z wioski Pascala po kłótni ze swoją matką. Zdesperowana, szuka u ciebie pomocy. Udaj się do ruin miasta i przyprowadź dziecko w jednym kawałku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108834,8 +108834,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The mother machine lifeform is devastated at her loss.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T195714Z" creationid="Syn Spawacza" creationdate="20200713T195714Z">
-        <seg>Maszyna matka jest zdruzgotana swoją stratą.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115616Z" creationid="Syn Spawacza" creationdate="20200713T195714Z">
+        <seg>Maszyna matka jest zdruzgotana stratą swojego dziecka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130960,8 +130960,8 @@ Odbierasz sygnał ratunkowy od Ruchu Oporu dochodzący z parku rozrywki, oraz z 
       <tuv lang="en-US">
         <seg>You found the child, but failed to prevent it from being destroyed. Go tell Mom what happened.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200713T195705Z" creationid="Syn Spawacza" creationdate="20200713T195705Z">
-        <seg>Znajdujesz dziecko, ale nie udało ci się zapobiec jego zniszczeniu. Idź powiedzieć jego mamie co się stało.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115506Z" creationid="Syn Spawacza" creationdate="20200713T195705Z">
+        <seg>Znajdujesz dziecko, ale nie udało ci się zapobiec jego zniszczeniu. Idź powiedzieć jego mamie o tym, co zaszło.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132658,8 +132658,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You won the race, but the machine is not done with you yet.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T201815Z" creationid="Syn Spawacza" creationdate="20200718T201815Z">
-        <seg>Wygrywasz wyścig, ale maszyna jeszcze z tobą nie skończyła.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T115856Z" creationid="Syn Spawacza" creationdate="20200718T201815Z">
+        <seg>Wygrywasz wyścig, ale maszyna uważa, że to jeszcze nie koniec.</seg>
       </tuv>
     </tu>
     <tu>
