@@ -4192,11 +4192,11 @@ I'd love to do the repairs myself, but Operator models aren't allowed to go to E
  
 —Operator 6O</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T134153Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134153Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T112716Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T134153Z">
         <seg>2B.
  
 Dzięki wielkie za naprawę urządzenia transportowego!
-Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane na Ziemię... Jest tak wiele rzeczy, które bym chciała wiedzieć o tej planecie! Jak będziesz miała chwilę, to z chęcią posłucham Twoich opowieści!
+Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane na Ziemię... Jest tak wiele rzeczy, których chciałabym się dowiedzieć o tej planecie... Jak będziesz miała chwilę, to z chęcią posłucham twoich opowieści!
  
 —Operator 6O</seg>
       </tuv>
@@ -5183,8 +5183,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S found the bugs in the hacking game. The thrilled creator happily handed over the prize.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T185755Z" creationid="Syn Spawacza" creationdate="20200718T185755Z">
-        <seg>9S znalazł błędy w grze hakerskiej. Zachwycony twórca z radością daje ci nagrodę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T112753Z" creationid="Syn Spawacza" creationdate="20200718T185755Z">
+        <seg>9S znalazł błędy w grze hakerskiej. Zachwycony tym faktem twórca z radością wręcza ci za to nagrodę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36753,10 +36753,10 @@ That is all.
  
 —The Commander</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260103T112612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154209Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T112626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T154209Z">
         <seg>W związku ze zniszczeniem maszyny o nazwie kodowej  „Adam”, udało nam się wymierzyć znaczący cios w sieć wroga. Potwierdziliśmy też, że w rezultacie tego ataku, liczne mechaniczne formy życia zostały odcięte od sieci. Jednakże, fakt, że nie są już do niej podłączone, nie oznacza, że nie stanowią zagrożenia. Wielce prawdopodobne jest, że nadal będą przeszkadzać w naszych operacjach.
  
-2B, chciałabym, żebyś zebrała informacje o mechanicznych formach życia. Zgłoś się, gdy spotkasz jakieś dziwnie zachowujące się maszyny i informuj mnie o ich aktywności.
+2B, chciałabym, żebyś zebrała informacje o mechanicznych formach życia. Zgłoś się, gdy spotkasz jakieś dziwnie zachowujące się maszyny, informując mnie o ich aktywności.
  
 To wszystko.
  
@@ -108037,8 +108037,8 @@ Tylna furtka Bunkra zostanie ustawiona na otwarcie, gdy zostanie zebrana wystarc
       <tuv lang="en-US">
         <seg>The game-creating machine at the amusement park needs more materials in order to make a more difficult game. Go to the abandoned factory and acquire a four-color cable from the soldier machines there.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T193803Z" creationid="Syn Spawacza" creationdate="20200718T185907Z">
-        <seg>Maszyna tworząca gry w parku rozrywki potrzebuje więcej materiałów, by stworzyć trudniejszą grę. Idź do opuszczonej fabryki i zdobądź czterokolorowy kabel z tamtejszych maszyn żołnierzy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260103T112819Z" creationid="Syn Spawacza" creationdate="20200718T185907Z">
+        <seg>Maszyna tworząca gry w parku rozrywki potrzebuje więcej materiałów, aby stworzyć trudniejszą wersję swojej gry. Udaj się do opuszczonej fabryki i zdobądź czterokolorowy kabel z tamtejszych maszyn-żołnierzy.</seg>
       </tuv>
     </tu>
     <tu>
