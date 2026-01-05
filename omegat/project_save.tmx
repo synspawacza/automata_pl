@@ -62357,8 +62357,8 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>Incoming enemy fighters detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144648Z">
-        <seg>Wykryto nadchodzących wojowników wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T161837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144648Z">
+        <seg>Wykryto zbliżających się wojowników wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95857,8 +95857,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>Seizing the control system!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144811Z" creationid="Syn Spawacza" creationdate="20200530T184757Z">
-        <seg>Przejmuję jego system sterowania.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T161934Z" creationid="Syn Spawacza" creationdate="20200530T184757Z">
+        <seg>Przejęcie systemu sterowania wroga!</seg>
       </tuv>
     </tu>
     <tu>
@@ -117827,8 +117827,8 @@ Przepraszam, ale nie wolno tam wchodzić.</seg>
       <tuv lang="en-US">
         <seg>Upload 2B's memory data package.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144836Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144836Z">
-        <seg>Załaduj paczkę z danymi pamięci 2B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T162042Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144836Z">
+        <seg>Przesyłanie pakietu danych pamięci jednostki 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123245,8 +123245,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>Weaknesses found in enemy units.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T144653Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144653Z">
-        <seg>Odnaleziono słabość w jednostkach wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T161858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T144653Z">
+        <seg>Odnaleziono słabe punkty w jednostkach wroga.</seg>
       </tuv>
     </tu>
     <tu>
