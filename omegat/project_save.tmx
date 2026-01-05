@@ -5127,8 +5127,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S data system damaged. Access impaired.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143955Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143955Z">
-        <seg>System danych 9S uszkodzony. Ograniczony dostęp.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T160738Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143955Z">
+        <seg>System danych 9S został uszkodzony. Aktywowano tryb ograniczonego dostępu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -91398,8 +91398,8 @@ za silniejsze od miecza.</seg>
       <tuv lang="en-US">
         <seg>Redeploying in offline mode.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T143958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143958Z">
-        <seg>Przestawianie na tryb offline.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T160831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T143958Z">
+        <seg>Przestawienie w tryb offline.</seg>
       </tuv>
     </tu>
     <tu>
