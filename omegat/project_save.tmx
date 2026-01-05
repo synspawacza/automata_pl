@@ -4325,8 +4325,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>2B? Uh, ma'am?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141634Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
-        <seg>2B? Em, tak właściwie, to jak mam się do ciebie zwracać? Może "Proszę pani"?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143022Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
+        <seg>2B? Em, proszę pani?</seg>
       </tuv>
     </tu>
     <tu>
@@ -52550,8 +52550,8 @@ Jestem zagubiona.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I don't usually get a partner. It's kind of fun!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T142500Z" creationid="Syn Spawacza" creationdate="20200606T102753Z">
-        <seg>Zwykle nie dostaję partnera. A to dość miła odmiana!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143130Z" creationid="Syn Spawacza" creationdate="20200606T102753Z">
+        <seg>Zwykle nie dostaję partnera. A to miła odmiana!</seg>
       </tuv>
     </tu>
     <tu>
@@ -53018,8 +53018,8 @@ Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
       <tuv lang="en-US">
         <seg>I guess humans used to use it as a weapons factory.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T142700Z" creationid="Syn Spawacza" creationdate="20200530T180942Z">
-        <seg>Wydaje mi się, że ludzie stworzyli go jako fabrykę broni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143203Z" creationid="Syn Spawacza" creationdate="20200530T180942Z">
+        <seg>Wydaje mi się, że ludzie stworzyli to miejsce jako fabrykę broni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95325,8 +95325,8 @@ zostali zniszczeni prze ruch oporu.</seg>
       <tuv lang="en-US">
         <seg>Scanners like me mostly work alone. Scouting out enemy lines and all that?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T142435Z" creationid="Syn Spawacza" creationdate="20200606T102623Z">
-        <seg>Skanery takie jak ja, zwykle pracują samotnie. Prowadzimy zwiad na linii wroga i takie tam...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143120Z" creationid="Syn Spawacza" creationdate="20200606T102623Z">
+        <seg>Skanery takie jak ja, zwykle pracują samotnie. Prowadzimy zwiad na linii wroga i inne takie...</seg>
       </tuv>
     </tu>
     <tu>
@@ -125034,8 +125034,8 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>What is it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141656Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
-        <seg>Bez przesady, OK? Czego chcesz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143026Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
+        <seg>Czego chcesz?</seg>
       </tuv>
     </tu>
     <tu>
