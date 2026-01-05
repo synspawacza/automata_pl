@@ -5103,8 +5103,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S boards the Resource Recovery Unit in the Flooded City. He isn't able to confirm any enemies inside it. This unit's system protections must be hacked to reach the core.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194311Z" creationid="Syn Spawacza" creationdate="20210716T201900Z">
-        <seg>9S wchodzi do Jednostki Odzyskującej Zasoby w zalanym mieście. Nie zauważa jednak w środku żadnych wrogów. Zabezpieczenia systemu jednostki muszą zostać zhakowane, by dostać się do rdzenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T090524Z" creationid="Syn Spawacza" creationdate="20210716T201900Z">
+        <seg>9S wchodzi do Jednostki Odzyskującej Zasoby w zalanym mieście. Nie zauważa jednak w środku żadnych wrogów. Chcąc dostać się do rdzenia, musi zhakować zabezpieczenia systemu jednostki.</seg>
       </tuv>
     </tu>
     <tu>
