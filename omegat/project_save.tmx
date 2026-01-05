@@ -12586,8 +12586,8 @@ Mimo, że pierwotnie miał stanowić fortecę podczas konfliktu watażków z „
       <tuv lang="en-US">
         <seg>According to our intel, none of the machines in this area are hostile.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182807Z" creationid="Syn Spawacza" creationdate="20200610T175514Z">
-        <seg>Zgodnie z naszymi informacjami, żadne z maszyn w tym rejonie nie są agresywne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T172411Z" creationid="Syn Spawacza" creationdate="20200610T175514Z">
+        <seg>Zgodnie z naszymi danymi wywiadowczymi, żadne z maszyn znajdujących się w tym rejonie nie są agresywne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100185,8 +100185,8 @@ znajomych androidów.
       <tuv lang="en-US">
         <seg>Sorry for the trouble, but we can't risk the enemy discovering their position.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182632Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T182632Z">
-        <seg>Przepraszam za kłopot, ale nie możemy ryzykować, że wróg odkryje ich pozycję.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T172259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T182632Z">
+        <seg>Przepraszam za ten kłopot, ale nie możemy ryzykować, że wróg odkryje pozycję waszych jednostek latających.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111308,8 +111308,8 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       <tuv lang="en-US">
         <seg>They just stand there and stare into space. It's pretty weird.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182826Z" creationid="Syn Spawacza" creationdate="20200610T175713Z">
-        <seg>Po prostu tak stoją i patrzą się w przestrzeń. To dość dziwne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T172507Z" creationid="Syn Spawacza" creationdate="20200610T175713Z">
+        <seg>Po prostu tak stoją, wpatrując się w pustą przestrzeń. To dość dziwne.</seg>
       </tuv>
     </tu>
     <tu>
