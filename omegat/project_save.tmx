@@ -3383,8 +3383,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>2B and 9S, acting as a guerilla force, assist the front line troops in claiming each territory.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200811T211243Z" creationid="Syn Spawacza" creationdate="20200811T211243Z">
-        <seg>2B i 9S, działający jako siła partyzancka, pomagają żołnierzom z linii fontu przejąć każde terytorium.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T083215Z" creationid="Syn Spawacza" creationdate="20200811T211243Z">
+        <seg>2B i 9S, działając jako siły partyzanckie, pomagają żołnierzom na linii fontu przejąć kolejne terytoria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115635,8 +115635,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Triggered by an enemy EMP attack, YoRHa units are corroded by the virus. 2B and 9S are forced to turn their weapons on their own comrades to survive.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194247Z" creationid="Syn Spawacza" creationdate="20200811T211436Z">
-        <seg>Jednostki YoRHa ogrania wirus uruchomiony przez wrogi atak EMP. 2B i 9S są zmuszeni obrócić bronie przeciwko swym własnym towarzyszom, by przetrwać.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T083612Z" creationid="Syn Spawacza" creationdate="20200811T211436Z">
+        <seg>Jednostki YoRHa zostają skażone wirusem uruchomionym przez wrogi atak EMP. Jeśli chcą przetrwać, 2B i 9S muszą użyć broni przeciwko swym niedawnym towarzyszom.</seg>
       </tuv>
     </tu>
     <tu>
