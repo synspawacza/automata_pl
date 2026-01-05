@@ -89435,8 +89435,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Proceed to target location.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T201436Z" creationid="Syn Spawacza" creationdate="20200610T180538Z">
-        <seg>Propozycja: podążyć w stronę lokalizacji celu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T172959Z" creationid="Syn Spawacza" creationdate="20200610T180538Z">
+        <seg>Propozycja: udać się do wskazanej lokalizacji celu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103622,8 +103622,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target location acquired. Marking on map.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182742Z" creationid="Syn Spawacza" creationdate="20200610T180356Z">
-        <seg>Zdobyto lokalizację celu. Oznaczam na mapie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T172900Z" creationid="Syn Spawacza" creationdate="20200610T180356Z">
+        <seg>Zdobyto lokalizację celu. Oznaczam go na mapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113406,8 +113406,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This must have been quite a city once upon a time. Too bad vegetation's claimed most of it now...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T190247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T190247Z">
-        <seg>Dawno temu to musiało być całkiem niezłe miasto. Szkoda, że większość przejęła roślinność...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T173119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T190247Z">
+        <seg>Dawno temu to musiało być całkiem imponujące miasto. Trochę szkoda, że roślinność przejęła teraz większość jego terenu…</seg>
       </tuv>
     </tu>
     <tu>
