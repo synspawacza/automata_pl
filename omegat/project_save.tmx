@@ -13244,8 +13244,8 @@ Mimo, że pierwotnie miał stanowić fortecę podczas konfliktu watażków z „
       <tuv lang="en-US">
         <seg>Activating short-range attack gear.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130821Z" creationid="Syn Spawacza" creationdate="20200530T174224Z">
-        <seg>Aktywacja ekwipunku do walki na krótki dystans.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T111243Z" creationid="Syn Spawacza" creationdate="20200530T174224Z">
+        <seg>Aktywacja ekwipunku do walki na krótkim dystansie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -37910,8 +37910,8 @@ poszukiwaniu ukrytych obiektów.</seg>
       <tuv lang="en-US">
         <seg>Enemies destroyed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174340Z" creationid="Syn Spawacza" creationdate="20200530T174340Z">
-        <seg>Wrogowie zniszczeni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T111314Z" creationid="Syn Spawacza" creationdate="20200530T174340Z">
+        <seg>Wrogowie zostali zniszczeni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63379,8 +63379,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Initiating 2B vitals recheck sequence.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T174215Z" creationid="Syn Spawacza" creationdate="20200530T174215Z">
-        <seg>Ponowne sprawdzenie sygnałów życiowych 2B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T111215Z" creationid="Syn Spawacza" creationdate="20200530T174215Z">
+        <seg>Rozpoczynanie sekwencji ponownej kontroli parametrów życiowych 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -77577,8 +77577,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Negative. This enemy is unrelated.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T210543Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
-        <seg>Zaprzeczam. Ten przeciwnik jest niepowiązany.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T111854Z" creationid="Syn Spawacza" creationdate="20200606T101745Z">
+        <seg>Zaprzeczam. Ten przeciwnik nie jest niepowiązany z aktualnym zadaniem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -79433,8 +79433,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Not quite.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130851Z" creationid="Syn Spawacza" creationdate="20200530T174405Z">
-        <seg>Nie do końca.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T111329Z" creationid="Syn Spawacza" creationdate="20200530T174405Z">
+        <seg>Nie do końca...</seg>
       </tuv>
     </tu>
     <tu>
