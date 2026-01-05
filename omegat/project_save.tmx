@@ -117411,8 +117411,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211213T203232Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
-        <seg>Zrozumiano. Gdy dotrzecie do ich obrony przeciwpowietrznej, przejdźcie w formację manualnego ataku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T103042Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
+        <seg>Zrozumiano. Gdy dotrzecie do ich obrony przeciwpowietrznej, przejdźcie w formację manualnego ataku...</seg>
       </tuv>
     </tu>
     <tu>
@@ -123085,8 +123085,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We've passed the 50-kilometer threshold and are proceeding toward the target.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130307Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
-        <seg>Przekroczyliśmy pułap 50 kilometrów i zbliżamy się w kierunku celu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T103017Z" creationid="Syn Spawacza" creationdate="20200530T173730Z">
+        <seg>Przekroczyliśmy pułap 50 kilometrów i zmierzamy w stronę celu.</seg>
       </tuv>
     </tu>
     <tu>
