@@ -76348,9 +76348,9 @@ przez 30 sekund.</seg>
         <seg>Multiple surrounding enemy air units confirmed.
 Requesting permission to assume mobile configuration.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130536Z" creationid="Syn Spawacza" creationdate="20200606T101340Z">
-        <seg>Wykryto wiele jednostek wroga otaczających nas w powietrzu.
-Prośba o pozwolenie na przyjęcie mobilnej konfiguracji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T110542Z" creationid="Syn Spawacza" creationdate="20200606T101340Z">
+        <seg>Wykryto obecność wielu wrogich jednostek powietrznych.
+Proszę o pozwolenie na przyjęcie konfiguracji mobilnej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86145,8 +86145,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Permission granted!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130509Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
-        <seg>Pozwalam.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T105726Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
+        <seg>Udzielam zezwolenia!</seg>
       </tuv>
     </tu>
     <tu>
