@@ -5175,8 +5175,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S flies in during the fight with the multi-legged weapon, dropping from his flight unit for a direct attack. The weapon is silenced, but from its husk appears Eve.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200811T202223Z" creationid="Syn Spawacza" creationdate="20200811T202223Z">
-        <seg>9S przylatuje podczas walki z wielonożną bronią, wykorzystując swoją jednostkę latającą do zadania bezpośredniego uderzenia. Broń zostaje uciszona, ale z jej skorupy wyłania się Ewa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T081427Z" creationid="Syn Spawacza" creationdate="20200811T202223Z">
+        <seg>Podczas walki z wielonożną bronią, 9S dolatuje na plac boju i wykorzystując swoją jednostkę latającą, zadaje bezpośrednie uderzenie przeciwnikowi. Wprawdzie broń zostaje unieszkodliwiona, ale z jej skorupy wyłania się Ewa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120083,8 +120083,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>Waiting in the City Ruins was a large multi-legged weapon that attacks with electrical discharges.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200811T201938Z" creationid="Syn Spawacza" creationdate="20200811T201938Z">
-        <seg>W ruinach miasta czeka wielka, wielonożna broń atakująca za pomocą wyładowań elektrycznych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T081048Z" creationid="Syn Spawacza" creationdate="20200811T201938Z">
+        <seg>W ruinach miasta czeka wielka, wielonożna broń, atakująca za pomocą wyładowań elektrycznych.</seg>
       </tuv>
     </tu>
     <tu>
