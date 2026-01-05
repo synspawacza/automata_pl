@@ -15769,8 +15769,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Proceed with mission operations immediately.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T162444Z" creationid="Syn Spawacza" creationdate="20200627T162444Z">
-        <seg>Uwaga: powróć do wykonywania misji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T124508Z" creationid="Syn Spawacza" creationdate="20200627T162444Z">
+        <seg>Uwaga: niezwłocznie powrócić do wykonywania misji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122405,8 +122405,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We'll need you to take down the enemy's defense systems to give our attack squadron a chance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211213T203416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135226Z">
-        <seg>Potrzebujemy, żebyś zdjął systemy obronne wroga, by dać naszemu atakującemu szwadronowi szansę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T124828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T135226Z">
+        <seg>Chcemy żebyś unieszkodliwił systemy obronne wroga, aby dać szansę naszemu szwadronowi atakującemu.</seg>
       </tuv>
     </tu>
     <tu>
