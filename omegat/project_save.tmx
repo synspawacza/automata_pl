@@ -4333,8 +4333,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>2B? Wh-what's going on!?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133804Z" creationid="Syn Spawacza" creationdate="20200606T103315Z">
-        <seg>2B? C-Co się dzieje?!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143859Z" creationid="Syn Spawacza" creationdate="20200606T103315Z">
+        <seg>2B? Co... Co się dzieje?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -78565,8 +78565,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>No response from long-range communications.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211213T203846Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
-        <seg>Brak odpowiedzi z komunikacji na daleki dystans.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T144046Z" creationid="Syn Spawacza" creationdate="20200530T182339Z">
+        <seg>Brak odpowiedzi z komunikacji dalekiego zasięgu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -96883,8 +96883,8 @@ W ramach wspomnianego wyżej zarządzenia, wszelkie uprawnienia dotyczące plan�
       <tuv lang="en-US">
         <seg>She appears to be engaging the target enemy.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T133812Z" creationid="Syn Spawacza" creationdate="20200530T182118Z">
-        <seg>Wygląda na to, że starła się z wrogim celem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T143947Z" creationid="Syn Spawacza" creationdate="20200530T182118Z">
+        <seg>Wygląda na to, że podjęła walkę z wrogim celem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103614,8 +103614,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target enemy detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T135749Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
-        <seg>Wykryto cel.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T144107Z" creationid="Syn Spawacza" creationdate="20200530T182540Z">
+        <seg>Wykryto wrogi cel.</seg>
       </tuv>
     </tu>
     <tu>
