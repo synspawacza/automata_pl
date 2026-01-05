@@ -12008,8 +12008,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>A2, having suffered an overload during the battle with the machine, reboots. She goes to the Resistance camp to change her fuel filter, and Anemone refers her to Pascal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T085431Z" creationid="Syn Spawacza" creationdate="20200812T170643Z">
-        <seg>A2 restartuje się po przeciążeniu spowodowanym bitwą z maszyną. Chcąc wymienić uszkodzony filtr paliwa, udaje się do obozu Ruchu Oporu. Zostaje jednak skierowana przez w którym Anemona kieruje ją do Pascala.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T085453Z" creationid="Syn Spawacza" creationdate="20200812T170643Z">
+        <seg>A2 restartuje się po przeciążeniu spowodowanym bitwą z maszyną. Chcąc wymienić uszkodzony filtr paliwa, udaje się do obozu Ruchu Oporu. Zostaje jednak skierowana przez Anemonę do wioski, w której znajduje się Pascal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85634,8 +85634,8 @@ Udało ci się ochronić dzieci, oraz pacyfistyczne maszyny z wioski. Niestety, 
       <tuv lang="en-US">
         <seg>Pascal spent uneventful days tending to the children... Until suddenly, a strange sound blared out from afar, threatening to shatter his peaceful life.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T171323Z" creationid="Syn Spawacza" creationdate="20200812T171323Z">
-        <seg>Pascalowi dni mijają na opiece nad dziećmi... Do czasu gdy rozbrzmiał z daleka dziwny dźwięk, zapowiadający zagrożenie dla jego spokojnego życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T085832Z" creationid="Syn Spawacza" creationdate="20200812T171323Z">
+        <seg>Pascal spędzał spokojne dni na opiece nad dziećmi... Do chwili, w której rozbrzmiał w oddali dziwny dźwięk, zapowiadający zagrożenie dla tego spokojnego życia.</seg>
       </tuv>
     </tu>
     <tu>
