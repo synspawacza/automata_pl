@@ -4325,8 +4325,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>2B? Uh, ma'am?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141216Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
-        <seg>2B? Em, tak właściwie, to jak mam się do ciebie zwracać? Może "Proszę pani?"</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141634Z" creationid="Syn Spawacza" creationdate="20200606T102249Z">
+        <seg>2B? Em, tak właściwie, to jak mam się do ciebie zwracać? Może "Proszę pani"?</seg>
       </tuv>
     </tu>
     <tu>
@@ -15257,8 +15257,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Bulletproof apparatus detected on enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T201418Z" creationid="Syn Spawacza" creationdate="20200530T180011Z">
-        <seg>Uwaga: odkryto urządzenia kuloodporne na przeciwnikach.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141802Z" creationid="Syn Spawacza" creationdate="20200530T180011Z">
+        <seg>Uwaga: wykryto urządzenia kuloodporne zamontowane na przeciwnikach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54260,8 +54260,8 @@ do roboty, więc pomóż mi!</seg>
       <tuv lang="en-US">
         <seg>I know.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T180014Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
-        <seg>Wiem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141814Z" creationid="Syn Spawacza" creationdate="20200530T180014Z">
+        <seg>Tak, wiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56633,8 +56633,8 @@ Sam.
       <tuv lang="en-US">
         <seg>I was going to send you the map data I collected earlier.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141330Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
-        <seg>Chcę wysłać ci dane, które udało mi się zebrać za pomocą mapy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141710Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
+        <seg>Chcę ci wysłać dane, które udało mi się zebrać za pomocą mapy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125034,8 +125034,8 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>What is it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141243Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
-        <seg>Nie przesadzaj, dobrze? Czego chcesz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141656Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
+        <seg>Bez przesady, OK? Czego chcesz?</seg>
       </tuv>
     </tu>
     <tu>
