@@ -15425,8 +15425,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemy units sighted ahead.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T131101Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
-        <seg>Uwaga: dostrzeżono na czele jednostki wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T105233Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
+        <seg>Uwaga: Dostrzeżono wrogie jednostki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16900,8 +16900,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>Already engaged. Free movement unlocked.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130430Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
-        <seg>Wprowadzono. Odblokowano swobodny ruch.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T104953Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
+        <seg>Przyjęto! Odblokowano swobodny ruch.</seg>
       </tuv>
     </tu>
     <tu>
@@ -84159,8 +84159,8 @@ Powodzenia. Żegnaj.</seg>
       <tuv lang="en-US">
         <seg>Our Ho229 cancellers are ineffective.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211213T203310Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
-        <seg>Zagłuszacze naszych Ho229 są nieefektywne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T105052Z" creationid="Syn Spawacza" creationdate="20200530T173928Z">
+        <seg>Nasze zagłuszacze Ho229 są nieefektywne.</seg>
       </tuv>
     </tu>
     <tu>
