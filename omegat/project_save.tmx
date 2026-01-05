@@ -35216,8 +35216,8 @@ inne losowe efekty.</seg>
       <tuv lang="en-US">
         <seg>Do it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141119Z" creationid="Syn Spawacza" creationdate="20200530T180000Z">
-        <seg>To na co czekasz? Zrób to jak najszybciej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141340Z" creationid="Syn Spawacza" creationdate="20200530T180000Z">
+        <seg>No to na co czekasz? Zrób to jak najszybciej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56633,8 +56633,8 @@ Sam.
       <tuv lang="en-US">
         <seg>I was going to send you the map data I collected earlier.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T141052Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
-        <seg>Zamierzam wysłać ci dane, które zebrałem z mapy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141330Z" creationid="Syn Spawacza" creationdate="20200530T175902Z">
+        <seg>Chcę wysłać ci dane, które udało mi się zebrać za pomocą mapy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -76885,8 +76885,8 @@ Pozostawię to tutaj jako przypomnienie dla samej siebie.</seg>
       <tuv lang="en-US">
         <seg>My name's 9S. I'm here to provide support.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T131721Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
-        <seg>Nazywam się 9S. Zostałem tutaj wysłany, aby zapewnić wsparcie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141448Z" creationid="Syn Spawacza" creationdate="20200606T102125Z">
+        <seg>Nazywam się 9S. Jestem tutaj, aby zapewnić ci wsparcie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125034,8 +125034,8 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>What is it?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T212615Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
-        <seg>O co chodzi?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260105T141243Z" creationid="Syn Spawacza" creationdate="20200530T175810Z">
+        <seg>Nie przesadzaj, dobrze? Czego chcesz?</seg>
       </tuv>
     </tu>
     <tu>
