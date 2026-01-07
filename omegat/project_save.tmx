@@ -103606,8 +103606,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target enemies offline. That should do it for the Goliaths.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151606Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151606Z">
-        <seg>Wrogie cele rozłączone. Tyle z Goliatów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260107T224201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151606Z">
+        <seg>Wrogie cele zostały wyłączone. To byłoby na tyle, odnośnie tych Goliatów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138367,8 +138367,8 @@ e5bea9e8ae90
       <tuv lang="en-US">
         <seg>were hiding underground!?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T151636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151636Z">
-        <seg>chowali się pod ziemią?!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260107T224250Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T151636Z">
+        <seg>ukrywali się pod ziemią?!</seg>
       </tuv>
     </tu>
     <tu>
