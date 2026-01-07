@@ -4317,8 +4317,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>2B? 9S? We've lost contact with several YoRHa units that were on their way to the surface.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T124128Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124128Z">
-        <seg>2B, 9S? Straciliśmy kontakt z kilkoma jednostkami YoRHa, które były w drodze na powierzchnię.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260107T190109Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124128Z">
+        <seg>2B, 9S? Straciliśmy kontakt z kilkoma jednostkami YoRHa, które zmierzały na powierzchnię.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51190,8 +51190,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>I also have an incoming message from the Commander.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T163125Z" creationid="Syn Spawacza" creationdate="20200627T163125Z">
-        <seg>Mam też nadchodzącą wiadomość od Pani Komandor.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260107T190038Z" creationid="Syn Spawacza" creationdate="20200627T163125Z">
+        <seg>Mam też nadchodzącą wiadomość od Komandor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137767,8 +137767,8 @@ e5bea9e8ae90
       <tuv lang="en-US">
         <seg>so I need all YoRHa units on the surface to head over and investigate.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194523Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124141Z">
-        <seg>potrzebujemy więc od wszystkich jednostek YoRHa, by to zbadały.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260107T190316Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T124141Z">
+        <seg>potrzebujemy zatem, aby wszystkie jednostki YoRHa znajdujące się aktualnie na powierzchni, zbadały tę sprawę.</seg>
       </tuv>
     </tu>
     <tu>
