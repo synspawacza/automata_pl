@@ -5327,8 +5327,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S should have landed around here...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T152311Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152311Z">
-        <seg>9S powinien był wylądować gdzieś tutaj...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260112T164901Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T152311Z">
+        <seg>9S powinien wylądować gdzieś tutaj...</seg>
       </tuv>
     </tu>
     <tu>
@@ -16003,8 +16003,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: You are moving away from the last known position of unit 9S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165419Z" creationid="Syn Spawacza" creationdate="20200627T165335Z">
-        <seg>Uwaga: oddalasz do ostatniego znanego położenia 9S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260112T164946Z" creationid="Syn Spawacza" creationdate="20200627T165335Z">
+        <seg>Uwaga: oddalono się od ostatniego znanego położenia 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -128210,8 +128210,8 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       <tuv lang="en-US">
         <seg>Wrong route. Better go back and see if there's another one.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T165547Z" creationid="Syn Spawacza" creationdate="20200627T165358Z">
-        <seg>Źle idę. Lepiej zawróćmy i poszukajmy innej drogi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260112T165055Z" creationid="Syn Spawacza" creationdate="20200627T165358Z">
+        <seg>Zdaje się, że źle idę. Lepiej zawrócę i poszukam innej drogi.</seg>
       </tuv>
     </tu>
     <tu>
