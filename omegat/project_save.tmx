@@ -103638,8 +103638,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Target location data obtained. Marking on map.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092549Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
-        <seg>Otrzymano dane o lokalizacji celu. Zaznaczam na mapie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260112T165653Z" creationid="Syn Spawacza" creationdate="20200610T182514Z">
+        <seg>Otrzymano dane o lokalizacji celu. Oznaczam cel na mapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122973,8 +122973,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We've got a number of broken-down access points on the field.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T143513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143513Z">
-        <seg>Mamy wiele zepsutych punktów dostępu w terenie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260112T165743Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T143513Z">
+        <seg>Wykryliśmy wiele zepsutych punktów dostępu w terenie.</seg>
       </tuv>
     </tu>
     <tu>
