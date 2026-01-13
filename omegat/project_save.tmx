@@ -15385,8 +15385,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemy deception detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T172635Z" creationid="Syn Spawacza" creationdate="20200627T172635Z">
-        <seg>Uwaga: wykryto podstęp wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260113T093533Z" creationid="Syn Spawacza" creationdate="20200627T172635Z">
+        <seg>Uwaga: wykryto wrogi podstęp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -25140,8 +25140,8 @@ Ponieważ moje serce też zostało przez coś pożarte.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>But alas, it was all in vain.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260113T093437Z" creationid="Syn Spawacza" creationdate="20200627T172539Z">
-        <seg>Lecz niestety, to wszystko jest daremne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260113T093611Z" creationid="Syn Spawacza" creationdate="20200627T172539Z">
+        <seg>Lecz niestety, teraz to wszystko jest już daremne.</seg>
       </tuv>
     </tu>
     <tu>
