@@ -14943,8 +14943,8 @@ Proszę, weźcie to.</seg>
       <tuv lang="en-US">
         <seg>Ahh... Why did this happen?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T112330Z" creationid="Syn Spawacza" creationdate="20200630T112330Z">
-        <seg>Aaa... Dlaczego to się stało?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260114T170309Z" creationid="Syn Spawacza" creationdate="20200630T112330Z">
+        <seg>Aaa... Dlaczego tak się stało?</seg>
       </tuv>
     </tu>
     <tu>
@@ -107455,8 +107455,8 @@ zostali zniszczeni przez Ruch Oporu.</seg>
       <tuv lang="en-US">
         <seg>The connection's too unstable to use the transporter.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260114T090724Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155211Z">
-        <seg>Aby użyć transportera, połączenie musi być bardziej stabilne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260114T165909Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155211Z">
+        <seg>Aby użyć transportera, połączenie musi być stabilniejsze.</seg>
       </tuv>
     </tu>
     <tu>
