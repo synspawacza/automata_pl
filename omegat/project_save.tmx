@@ -15481,8 +15481,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: FFCS destroyed. Ranged combat no longer operable.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170638Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170638Z">
-        <seg>Uwaga: FFCS zniszczone. Walka dystansowa nie jest już możliwa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T094512Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170638Z">
+        <seg>Uwaga: FFCS zostało zniszczone. Walka dystansowa nie jest już możliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15713,8 +15713,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: NFCS destroyed. Close-range combat no longer operable.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165032Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165032Z">
-        <seg>Uwaga: NFCS zniszczone. Walka wręcz nie jest już możliwa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T094506Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165032Z">
+        <seg>Uwaga: NFCS zostało zniszczone. Walka wręcz nie jest już możliwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46368,8 +46368,8 @@ Proszę odebrać tę specjalny prezent jako nagrodę!</seg>
       <tuv lang="en-US">
         <seg>Heh heh... I really screwed up...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T165039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165039Z">
-        <seg>He he... Naprawdę schrzaniłem...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T094556Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T165039Z">
+        <seg>Heh... Naprawdę spieprzyłem...</seg>
       </tuv>
     </tu>
     <tu>
@@ -60543,8 +60543,8 @@ Co o tym sądzisz?</seg>
       <tuv lang="en-US">
         <seg>If 9S says he can do it, then he will!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T170620Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170620Z">
-        <seg>Jeśli 9S mówi, że może to zrobić, to to zrobi!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T094417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T170620Z">
+        <seg>Jeśli 9S mówi, że może to zrobić, to zrobi to!</seg>
       </tuv>
     </tu>
     <tu>
