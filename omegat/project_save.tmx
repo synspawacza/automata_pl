@@ -92231,8 +92231,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Request granted. You may now use the device in this room.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210128T191342Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162014Z">
-        <seg>Uznano prośbę. Od teraz możesz używać urządzenia w tym pokoju.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T075243Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162014Z">
+        <seg>Przyznano dostęp. Od teraz można korzystać z urządzenia w tym pokoju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118051,8 +118051,8 @@ Przepraszam, ale nie wolno tam wchodzić.</seg>
       <tuv lang="en-US">
         <seg>Use of server administration room requested.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260117T075108Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162015Z">
-        <seg>Zgłoszono prośbę o wykorzystanie pokoju administracji serwera.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T075213Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162015Z">
+        <seg>Zgłoszono prośbę o dostęp do pokoju administracji serwera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121743,8 +121743,8 @@ Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
       <tuv lang="en-US">
         <seg>We received a support request from 2B soon thereafter, but have been unable to respond due to poor reception.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210128T191423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162001Z">
-        <seg>Otrzymaliśmy prośbę wsparcia od 2B niedługo po tym, ale nie byliśmy w stanie odpowiedzieć, z powodu kiepskiego zasięgu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260117T075516Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T162001Z">
+        <seg>Niedługo potem otrzymaliśmy prośbę o wsparcie od 2B, ale z powodu słabej jakości sygnału, nie byliśmy w stanie odpowiedzieć.</seg>
       </tuv>
     </tu>
     <tu>
