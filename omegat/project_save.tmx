@@ -17706,8 +17706,8 @@ Doceniamy twoją pomoc.</seg>
       <tuv lang="en-US">
         <seg>Analysis: It is not possible to hack directly into the target Goliath-class machine lifeform.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202613Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213733Z">
-        <seg>Analiza: nie jest możliwe zhakowanie bezpośrednie mechanicznej formy życia klasy Goliat.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260119T085758Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213733Z">
+        <seg>Analiza: nie jest możliwe bezpośrednie zhakowanie mechanicznej formy życia klasy Goliat.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100867,8 +100867,8 @@ Nie możesz mnie wybrać!</seg>
       <tuv lang="en-US">
         <seg>Special software protection detected. Enemy is refusing access from anything other than machine lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213737Z">
-        <seg>Wykryto specjalne oprogramowanie ochronne. Przeciwnik odmawia dostępu wszystkiemu poza innym mechaniczny formom życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260119T090101Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213737Z">
+        <seg>Wykryto specjalne oprogramowanie ochronne. Wroga jednostka blokuje dostęp wszystkimu, co nie jest inną mechaniczną formą życia.</seg>
       </tuv>
     </tu>
     <tu>
