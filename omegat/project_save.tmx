@@ -23098,8 +23098,8 @@ trudno zadać nimi efektywne obrażenia.</seg>
       <tuv lang="en-US">
         <seg>Be advised, the target's appearance is identical to that of a standard enemy. Once you approach, however, a marker will appear.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T070404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213306Z">
-        <seg>Pamiętaj, że wygląd celu jest identyczny jak standardowego przeciwnika. Jednakże, kiedy do niego się zbliżysz, pojawi się znacznik.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260119T083157Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213306Z">
+        <seg>Pamiętaj, że wygląd celów będzie identyczny jak standardowych jednostek wroga. Jednak, gdy się do nich zbliżysz, zostaną w odpowiedni sposób oznaczone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78381,8 +78381,8 @@ Koniec</seg>
       <tuv lang="en-US">
         <seg>No killing the target. Got it.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213236Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213236Z">
-        <seg>Żadnego zabijania celu. Przyjąłem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260119T082900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213236Z">
+        <seg>Żadnego niszczenia celów. Przyjąłem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127054,8 +127054,8 @@ O nie! Muszę natychmiast dostarczyć zaopatrzenie!</seg>
       <tuv lang="en-US">
         <seg>Why are you talking to me like I'm a child?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T213126Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213126Z">
-        <seg>Dlaczego mówisz do mnie, jakbym był dzieckiem?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260119T082914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T213126Z">
+        <seg>Dlaczego mówisz do mnie w taki sposób, jakbym był dzieckiem?</seg>
       </tuv>
     </tu>
     <tu>
