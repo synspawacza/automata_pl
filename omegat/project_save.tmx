@@ -5569,8 +5569,8 @@ Ale ona nigdy nie powróciła.</seg>
       <tuv lang="en-US">
         <seg>9S, kill my identification circuit. I can't attack them like this.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T160749Z" creationid="Syn Spawacza" creationdate="20200629T160749Z">
-        <seg>9S, zniszcz moje obwody identyfikacyjne. Bez tego nie mogę atakować.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102929Z" creationid="Syn Spawacza" creationdate="20200629T160749Z">
+        <seg>9S, zniszcz moje obwody identyfikacyjne. Jeśli tego nie zrobisz, nie będę mógł atakować.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43828,8 +43828,8 @@ To zasługuje na specjalny prezent!</seg>
       <tuv lang="en-US">
         <seg>Got it!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T095734Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095734Z">
-        <seg>Się robi!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T103006Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T095734Z">
+        <seg>Zrozumiano!</seg>
       </tuv>
     </tu>
     <tu>
@@ -57837,8 +57837,8 @@ Muszę napisać Mistrzowi &lt;SARU_JAN&gt;owi list, i to zaraz!</seg>
       <tuv lang="en-US">
         <seg>I'll remove the virus right now. Hold on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260121T102636Z" creationid="Syn Spawacza" creationdate="20200629T160604Z">
-        <seg>Zaraz usunę tego wirusa. Chwileczkę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102744Z" creationid="Syn Spawacza" creationdate="20200629T160604Z">
+        <seg>Zaraz usunę tego wirusa. Jeszcze chwileczkę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -105919,8 +105919,8 @@ Powinniśmy zgłosić się z powrotem do handlarza.</seg>
       <tuv lang="en-US">
         <seg>That's because of their YoRHa IDs!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214925Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214925Z">
-        <seg>Jest tak przez ich ID YoRHy!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T103128Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214925Z">
+        <seg>Przyczyną są ich identyfikatory YoRHa!</seg>
       </tuv>
     </tu>
     <tu>
@@ -111794,8 +111794,8 @@ A mogę...</seg>
       <tuv lang="en-US">
         <seg>They've been infected and taken over!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260121T102735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214916Z">
-        <seg>Jednostki wroga zostały zainfekowane i przejęte!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214916Z">
+        <seg>Jednostki wroga zostały zainfekowane wiruem i przez niego przejęte!</seg>
       </tuv>
     </tu>
     <tu>
@@ -119955,8 +119955,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>Wait, what!?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214919Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214919Z">
-        <seg>Chwila, co?!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214919Z">
+        <seg>Chwila... Co?!</seg>
       </tuv>
     </tu>
     <tu>
