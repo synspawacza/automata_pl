@@ -107770,8 +107770,8 @@ Za długo, by czekać, za krótko, by żałować.
       <tuv lang="en-US">
         <seg>The enemy machines are multiplying in front of us. We can't hold this position!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214227Z">
-        <seg>Wrogie maszyny mnożą się na naszych oczach. Nie utrzymamy tej pozycji!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T095638Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214227Z">
+        <seg>Wrogie jednostki dosłownie mnożą się na naszych oczach. Nie utrzymamy tej pozycji!</seg>
       </tuv>
     </tu>
     <tu>
@@ -122621,16 +122621,16 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We're heading out to support the next squad.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214138Z">
-        <seg>Wyruszamy wesprzeć kolejny oddział.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T095716Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214138Z">
+        <seg>Wyruszamy, celem wsparcia kolejnego oddziału.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>We're heading over now to provide support.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214114Z">
-        <seg>Nadchodzimy ze wsparciem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T095542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214114Z">
+        <seg>Kierujemy się na miejsce, celem udzielenia wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
