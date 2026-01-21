@@ -4237,8 +4237,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>2B... 9S... You're being detained under suspicion of virus contamination.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215354Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215354Z">
-        <seg>2B... 9S... Zostaniecie pojmani ze względu na podejrzenie zarażenia wirusem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T105918Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215354Z">
+        <seg>2B... 9S... Zostajecie zatrzymani pod zarzutem podejrzenia zainfekowania wirusem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29909,8 +29909,8 @@ Chcę zobaczyć jak śruby latają!</seg>
       <tuv lang="en-US">
         <seg>Commander? We have to go.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215403Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215403Z">
-        <seg>Pani Komandor? Musimy iść.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T110039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215403Z">
+        <seg>Pani Komandor? Musimy uciekać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111786,8 +111786,8 @@ A mogę...</seg>
       <tuv lang="en-US">
         <seg>They're...infected!?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215400Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215400Z">
-        <seg>One są... zainfekowane?!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T105959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215400Z">
+        <seg>One zostały... zainfekowane?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -119793,8 +119793,8 @@ ODESZŁA W WIECZNOŚĆ</seg>
       <tuv lang="en-US">
         <seg>Wait a minute!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215356Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215356Z">
-        <seg>Poczekajcie chwilę!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T105943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215356Z">
+        <seg>Chwila!</seg>
       </tuv>
     </tu>
     <tu>
