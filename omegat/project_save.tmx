@@ -15273,8 +15273,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Connection lost. Unable to reach Command.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202632Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215020Z">
-        <seg>Uwaga: utracono połączenie. Nie można połączyć się z Dowództwem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T103840Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215020Z">
+        <seg>Uwaga: utracono połączenie. Nie jest możliwe nawiązanie kontaktu z Dowództwem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32237,8 +32237,8 @@ ale odtrąca je na boki jak muchy.
       <tuv lang="en-US">
         <seg>Damn it, they're STILL jamming us?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215022Z">
-        <seg>Cholera, WCIĄŻ nas zakłócają?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T103924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215022Z">
+        <seg>Cholera, NADAL zakłócają nam łączność?</seg>
       </tuv>
     </tu>
     <tu>
@@ -77561,8 +77561,8 @@ mechanicznej formy życia.</seg>
       <tuv lang="en-US">
         <seg>Negative. Signal reception is clear.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T210611Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215025Z">
-        <seg>Zaprzeczam. Odbiór sygnału jest czysty.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T104000Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215025Z">
+        <seg>Zaprzeczam. Odbiór sygnału jest wyraźny.</seg>
       </tuv>
     </tu>
     <tu>
