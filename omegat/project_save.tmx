@@ -5665,8 +5665,8 @@ Ale ona nigdy nie powróciła.</seg>
       <tuv lang="en-US">
         <seg>9S? Scan the area to see if any reinforcements are on the way.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260121T102207Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214527Z">
-        <seg>9S? Zeskanuj teren, w celu zbadania, czy nie nadchodzą jakieś wrogie posiłki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102328Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214527Z">
+        <seg>9S? Zeskanuj teren. W celu zbadania, czy nie nadchodzą jakieś wrogie posiłki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32173,8 +32173,8 @@ ale odtrąca je na boki jak muchy.
       <tuv lang="en-US">
         <seg>Damn it! There's no end to them!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T214633Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214633Z">
-        <seg>Cholera! Ciągle przybywają nowi!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T102426Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T214633Z">
+        <seg>Do jasnej cholery! One się nie koCiągle przybywają nowi!</seg>
       </tuv>
     </tu>
     <tu>
