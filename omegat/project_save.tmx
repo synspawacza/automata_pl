@@ -30351,8 +30351,8 @@ Mój tata to tylko sędzia, ale jest twoim wielkim fanem!</seg>
       <tuv lang="en-US">
         <seg>Connection lost due to server-side authentication failure.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215030Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215030Z">
-        <seg>Utracono połączenie w związku z porażka autoryzacji ze strony serwera.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T104111Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215030Z">
+        <seg>Utracono łączność z powodu awarii uwierzytelnienia ze strony serwera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -78597,8 +78597,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>No responses coming from Command on any channel.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215033Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215033Z">
-        <seg>Żadne odpowiedzi nie docierają z żadnego kanału Dowództwa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T104202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215033Z">
+        <seg>Dowództwo nie odpowiada na żadnym kanale łączności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97429,8 +97429,8 @@ Jest obwinięta białym bandażem.
       <tuv lang="en-US">
         <seg>Shit. What happened to the Bunker?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215035Z">
-        <seg>Cholera. Co stało się w Bunkrze?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260121T104247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215035Z">
+        <seg>Cholera. Coś się musiało stać w Bunkrze!</seg>
       </tuv>
     </tu>
     <tu>
