@@ -15473,8 +15473,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: FFCS and NFCS systems unresponsive.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202658Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215920Z">
-        <seg>Uwaga: systemy FFCS i NFCS nie odpowiadają.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T170857Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215920Z">
+        <seg>Uwaga: systemy FFCS i NFCS przestały odpowiadać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15777,8 +15777,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Reactor core temperature rising.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202653Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215917Z">
-        <seg>Uwaga: wzrasta temperatura rdzenia reaktora.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T170832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215917Z">
+        <seg>Uwaga: wykryto wzrost temperatury rdzenia reaktora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43892,8 +43892,8 @@ To zasługuje na specjalny prezent!</seg>
       <tuv lang="en-US">
         <seg>Gotta find a way to land this thing...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215914Z">
-        <seg>Muszę znaleźć sposób, żeby tym wylądować...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T170801Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215914Z">
+        <seg>Muszę wymyśleć sposób, jak tym wylądować...</seg>
       </tuv>
     </tu>
     <tu>
