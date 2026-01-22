@@ -15923,16 +15923,16 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate up to 16 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220014Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 16 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220014Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 16 procent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate up to 21 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202752Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220133Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 21 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173305Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220133Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 21 procent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24836,8 +24836,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Bunker's gone... There's...no point in backing up anyway.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220310Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220310Z">
-        <seg>Bunkra już nie ma... Nie ma... sensu robić już kopii zapasowej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173203Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220310Z">
+        <seg>Bunkier przepadł... Już go nie ma... Nie ma... Nie ma sensu robić kopii zapasowej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94660,8 +94660,8 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
       <tuv lang="en-US">
         <seg>Said damage will make it difficult to retain self-consciousness upon backup.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220307Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220307Z">
-        <seg>Wspomniane obrażenia znacznie utrudnią zapisanie samoświadomości przy kopii zapasowej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173113Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220307Z">
+        <seg>Wykryte uszkodzenia znacznie utrudnią zachowanie świadomości podczas tworzenia kopii zapasowej.</seg>
       </tuv>
     </tu>
     <tu>
