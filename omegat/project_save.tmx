@@ -15939,16 +15939,16 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate up to 32 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202754Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220103Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 32 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173729Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220103Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 32 procent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate up to 57 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202758Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220227Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 57 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173747Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220227Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 57 procent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15995,8 +15995,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: YoRHa unit 2B will sustain serious damage unless the virus is eliminated.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202822Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220050Z">
-        <seg>Uwaga: jednostka YoRHa 2B odniesie poważne obrażenia, jeśli nie wyeliminuje się wirusa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173702Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220050Z">
+        <seg>Uwaga: jednostka YoRHa 2B odniesie poważne uszkodzenia, jeśli wirus nie zostanie usunięty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113920,8 +113920,8 @@ Kontynuować?</seg>
       <tuv lang="en-US">
         <seg>This will enable us to deal a powerful blow to......enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220210Z">
-        <seg>To pozwoli nam zadać potężny cios... wrogom.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T173825Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220210Z">
+        <seg>To pozwoli zadać potężny cios... naszym wrogom.</seg>
       </tuv>
     </tu>
     <tu>
