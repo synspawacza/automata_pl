@@ -25576,8 +25576,8 @@ Wszystko dzięki parze modeli Devola i Popola z innego miasta.
       <tuv lang="en-US">
         <seg>But tell me—why weren't you two infected?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215531Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215531Z">
-        <seg>Ale powiedz mi — czemu wy nie zostaliście zainfekowani?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T163155Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215531Z">
+        <seg>Ale powiedz mi... Czemu wy nie zostaliście zainfekowani?</seg>
       </tuv>
     </tu>
     <tu>
@@ -29853,8 +29853,8 @@ Chcę zobaczyć jak śruby latają!</seg>
       <tuv lang="en-US">
         <seg>Commander, the Bunker is lost.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215525Z">
-        <seg>Pani Komandor, Bunkier jest stracony.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T163142Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215525Z">
+        <seg>Pani Komandor, Bunkier został stracony.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46288,8 +46288,8 @@ Proszę odebrać tę specjalny prezent jako nagrodę!</seg>
       <tuv lang="en-US">
         <seg>Hee hee! When does the war end? End?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260122T162948Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215502Z">
-        <seg>Hi hi! Kiedy skończy się ta wojna? Czy skokiedykolwiek się skończy?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T163009Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215502Z">
+        <seg>Hi hi! Kiedy skończy się ta wojna? Czy skończy się kiedykolwiek?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55012,8 +55012,8 @@ do roboty, więc pomóż mi!</seg>
       <tuv lang="en-US">
         <seg>I noticed some weird noise in the Bunker's server data, so I paused the upload.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215539Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215539Z">
-        <seg>Zauważyłem dziwne zakłócenia w danych serwera Bunkra, więc zatrzymałem wysyłanie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T163454Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215539Z">
+        <seg>Zauważyłem dziwne zakłócenia w danych znajdujących się na serwerze Bunkra, więc zatrzymałem wysyłanie swoich danych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109727,8 +109727,8 @@ I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt; I ponownie.&lt;bt_wait&gt;
       <tuv lang="en-US">
         <seg>The transport terminal is corrupted. We need to get to the hangar and get some flight units!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T215618Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215618Z">
-        <seg>Terminal transportowy jest zepsuty. Musimy iść do hangaru i zdobyć jednostki latające!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T163110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T215618Z">
+        <seg>Terminal transportowy uległ uszkodzeniu. Musimy iść do hangaru, aby zdobyć jednostki latające!</seg>
       </tuv>
     </tu>
     <tu>
