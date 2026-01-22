@@ -15899,24 +15899,24 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Unusual heat generation in central nervous system. Internal combustion imminent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202725Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220253Z">
-        <seg>Uwaga: nietypowe wytwarzanie ciepła w centralnym układzie nerwowym. Nadciąga wewnętrzny zapłon.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T171856Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220253Z">
+        <seg>Uwaga: wykryto nietypowe wytwarzanie ciepła w centralnym układzie nerwowym. Nadciąga wewnętrzny zapłon.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate 70 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202717Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220237Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 70 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T172016Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220237Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 70 procent.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Alert: Virus contamination rate 90 percent.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T202720Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220243Z">
-        <seg>Uwaga: poziom skażenia wirusem wzrósł do 90 procent.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T172047Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220243Z">
+        <seg>Uwaga: wykryto skażenie wirusem na poziomie 90 procent.</seg>
       </tuv>
     </tu>
     <tu>
@@ -63299,8 +63299,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Infiltrating system-protected region.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260122T171809Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220240Z">
-        <seg>Nastąpiła infiltracja chronionych obszarów systemu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260122T171905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220240Z">
+        <seg>Wykryto infiltrację chronionych obszarów systemu.</seg>
       </tuv>
     </tu>
     <tu>
