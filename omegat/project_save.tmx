@@ -14027,8 +14027,8 @@ z wspomnieniami Platona 1728.</seg>
       <tuv lang="en-US">
         <seg>Affirmative. No request was received from unit A2.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220818Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220818Z">
-        <seg>Potwierdzam. Nie padła żadna prośba ze strony jednostki A2.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T102022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220818Z">
+        <seg>Potwierdzam. Nie otrzymano żadnego żądania ze strony jednostki A2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -90852,8 +90852,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Rather, it was the final order from this Pod's previous support assignment, unit 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220823Z">
-        <seg>Był to raczej ostatni rozkaz od poprzedniego celu wsparcia ze strony Poda, jednostki 2B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T102445Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220823Z">
+        <seg>Właściwie, ten przydział, to ostatni rozkaz od poprzedniego obiektu wsparcia Poda — jednostki 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -103050,8 +103050,8 @@ a starym smokiem.</seg>
       <tuv lang="en-US">
         <seg>Tactical Support Unit Pod 042.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260123T101920Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
-        <seg>Pod 042: Jednostka Wsparcia Taktycznego.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T101938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
+        <seg>Pod 042 - Jednostka Wsparcia Taktycznego.</seg>
       </tuv>
     </tu>
     <tu>
