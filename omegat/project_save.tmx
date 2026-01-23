@@ -100859,8 +100859,8 @@ Nie możesz mnie wybrać!</seg>
       <tuv lang="en-US">
         <seg>Special authorization keys are required to access Tower sub-units.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050036Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050036Z">
-        <seg>By dostać się do podjednostek Wieży wymagane są specjalne klucze autoryzacyjne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T132706Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050036Z">
+        <seg>W celu uzyskania dostępu do podjednostek Wieży, wymagane są specjalne klucze autoryzacyjne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135689,8 +135689,8 @@ Z niecierpliwością czekamy na waszą wizytę i jeszcze raz dziękujemy za wasz
       <tuv lang="en-US">
         <seg>but locks on each sub-unit must be deactivated before accessing the main Tower.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050020Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050020Z">
-        <seg>ale zamki na każdej podjednostce muszą zostać zdezaktywowane zanim będzie dostęp do głównej Wieży.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T132519Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050020Z">
+        <seg>ale zamki w każdej podjednostce muszą zostać zdezaktywowane przed uzyskaniem dostępu do głównej Wieży.</seg>
       </tuv>
     </tu>
     <tu>
