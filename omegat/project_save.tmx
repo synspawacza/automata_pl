@@ -75713,16 +75713,16 @@ ze skamieniałej żywicy.</seg>
       <tuv lang="en-US">
         <seg>Monitor 9S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121639Z" creationid="Syn Spawacza" creationdate="20200629T121639Z">
-        <seg>Monitoruj 9S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T092855Z" creationid="Syn Spawacza" creationdate="20200629T121639Z">
+        <seg>Kontroluj jednostkę 9S.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Monitor A2.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121635Z" creationid="Syn Spawacza" creationdate="20200629T121635Z">
-        <seg>Monitoruj A2.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T092838Z" creationid="Syn Spawacza" creationdate="20200629T121635Z">
+        <seg>Kontroluj jednostkę A2.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87687,8 +87687,8 @@ Pod 153: Liczy się tylko pomyślne wypełnienie misji.</seg>
       <tuv lang="en-US">
         <seg>Pod 153: Select unit to monitor.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260123T092333Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222242Z">
-        <seg>Pod 153: Proszę wybrać jednostkę do monitorowania.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T093318Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T222242Z">
+        <seg>Pod 153: Proszę wybrać jednostkę przeznaczoną do kontrolowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102416,8 +102416,8 @@ celowi potężne uderzenie.</seg>
       <tuv lang="en-US">
         <seg>Support 9S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T121626Z" creationid="Syn Spawacza" creationdate="20200629T121626Z">
-        <seg>Wesprzyj 9S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T092718Z" creationid="Syn Spawacza" creationdate="20200629T121626Z">
+        <seg>Wspieraj jednostkę 9S.</seg>
       </tuv>
     </tu>
     <tu>
