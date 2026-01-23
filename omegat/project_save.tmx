@@ -103050,8 +103050,8 @@ a starym smokiem.</seg>
       <tuv lang="en-US">
         <seg>Tactical Support Unit Pod 042.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T161035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
-        <seg>Jednostka Wsparcia Taktycznego Pod 042.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T101920Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220809Z">
+        <seg>Pod 042: Jednostka Wsparcia Taktycznego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111970,8 +111970,8 @@ A mogę...</seg>
       <tuv lang="en-US">
         <seg>This Pod has been tasked with providing firing support for YoRHa unit A2.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220812Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220812Z">
-        <seg>Ten Pod został skierowany do wspierania ogniem jednostki YoRHa A2.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T101830Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220812Z">
+        <seg>Ten Pod został przydzielony do wsparcia ogniowego jednostce YoRHa A2.</seg>
       </tuv>
     </tu>
     <tu>
