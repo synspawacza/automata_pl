@@ -15241,8 +15241,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Allied signal detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113122Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113122Z">
-        <seg>Uwaga: wykryto sygnał sprzymierzeńca.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T135831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113122Z">
+        <seg>Uwaga: wykryto sojuszniczy sygnał.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16823,8 +16823,8 @@ Nie mam dziś nic do zgłoszenia!</seg>
       <tuv lang="en-US">
         <seg>Allies?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113130Z">
-        <seg>Sprzymierzeńcy?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T135841Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113130Z">
+        <seg>Sojusznicy?</seg>
       </tuv>
     </tu>
     <tu>
