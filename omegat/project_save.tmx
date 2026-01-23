@@ -9242,8 +9242,8 @@ rafinacji paliwa.</seg>
       <tuv lang="en-US">
         <seg>A forced message from the enemy system.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050156Z">
-        <seg>Wymuszona wiadomość od systemu wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T133531Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050156Z">
+        <seg>Uzyskano wymuszoną wiadomość z systemu wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94684,9 +94684,8 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA MOŻLIWOŚĆ.</seg>
       <tuv lang="en-US">
         <seg>Said message relays the locations of objects known as "resource-recovery units".</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201218T184213Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050207Z">
-        <seg>Powyższa wiadomość przekazuje lokalizacje obiektów znanych jako
-„jednostki odzyskujące zasoby”.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T133754Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050207Z">
+        <seg>Wiadomość ujawnia lokalizacje obiektów znanych jako "jednostki odzysku zasobów".</seg>
       </tuv>
     </tu>
     <tu>
@@ -108167,8 +108166,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The heck was that?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T050153Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050153Z">
-        <seg>Co to do cholery było?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T133429Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T050153Z">
+        <seg>Co to, do cholery, było?</seg>
       </tuv>
     </tu>
     <tu>
