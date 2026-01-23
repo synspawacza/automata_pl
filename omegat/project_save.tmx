@@ -15867,8 +15867,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: The use of B-Mode to increase nuclear fusion output carries unacceptable levels of risk.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194756Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221312Z">
-        <seg>Uwaga: użycie Trybu B, by zwiększyć produkcję fuzji nuklearnej niesie za sobą nieakceptowalne ryzyko.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T110628Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221312Z">
+        <seg>Uwaga: użycie Trybu B w celu zwiększenia mocy fuzji nuklearnej wiąże się z nieakceptowalnym poziomem ryzyka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19450,8 +19450,8 @@ Przykro mi, Platonie 1728...</seg>
       <tuv lang="en-US">
         <seg>Any offensive boost is offset by lowered defense and increased maintenance costs.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T221317Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221317Z">
-        <seg>Każde użycie ofensywnego dopalacza skutkuje zmniejszeniem obrony i zwiększeniem kosztów naprawy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T110829Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221317Z">
+        <seg>Każde zwiększenie siły ofensywnej poskutkuje obniżeniem obrony i zwiększeniem kosztów późniejszej naprawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -114518,8 +114518,8 @@ wybuchowych przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Time to bust out B-Mode.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194733Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221306Z">
-        <seg>Pora, by użyć Trybu B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T110500Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T221306Z">
+        <seg>Pora, aby użyć Trybu B.</seg>
       </tuv>
     </tu>
     <tu>
