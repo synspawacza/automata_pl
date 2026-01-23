@@ -52010,8 +52010,8 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
       <tuv lang="en-US">
         <seg>I didn't ask for help.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220815Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220815Z">
-        <seg>Nie prosiłam o pomoc.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T102812Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220815Z">
+        <seg>Nie prosiłam o żadną pomoc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -125234,8 +125234,8 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>What the hell is that huge thing?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220832Z">
-        <seg>Czym do cholery jest ta wielka rzecz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T102847Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220832Z">
+        <seg>Czym do cholery jest ta ogromna rzecz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -129695,8 +129695,8 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>YoRHa unit A2 lacks the authority to override this order.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T220828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220828Z">
-        <seg>Jednostka YoRHa A2 nie posiada uprawnień, by anulować ten rozkaz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T102610Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T220828Z">
+        <seg>Jednostka YoRHa A2 nie posiada uprawnień, aby unieważnić ten rozkaz.</seg>
       </tuv>
     </tu>
     <tu>
