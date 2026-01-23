@@ -115320,8 +115320,8 @@ Zainteresowane strony mogą uzyskać dostęp do tej biblioteki z serwerowni Bunk
       <tuv lang="en-US">
         <seg>Tower sub-unit access granted.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095701Z">
-        <seg>Przyznano dostęp do podjednostki wieży.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T134525Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095701Z">
+        <seg>Przyznano dostęp do podjednostki Wieży.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133612,8 +133612,8 @@ Mamy tu coś specjalnie dla takich jak ty!</seg>
       <tuv lang="en-US">
         <seg>Your current authorization key will now be disabled.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T114423Z" creationid="Syn Spawacza" creationdate="20200630T114339Z">
-        <seg>Twój obecny klucz autoryzacyjny zostanie teraz wyłączony.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260123T134825Z" creationid="Syn Spawacza" creationdate="20200630T114339Z">
+        <seg>Obecny klucz autoryzacyjny zostanie teraz zdezaktywowany.</seg>
       </tuv>
     </tu>
     <tu>
