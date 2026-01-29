@@ -17610,8 +17610,8 @@ Doceniamy twoją pomoc.</seg>
       <tuv lang="en-US">
         <seg>Analysis: Access to elevator control system blocked by external factor.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094404Z">
-        <seg>Analiza: dostęp do sterowania windą zablokowany przez zewnętrzny czynnik.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T165330Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094404Z">
+        <seg>Analiza: dostęp do systemu 0sterowania windą zablokowany przez czynnik zewnętrzny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -64713,8 +64713,8 @@ Jak wiatr.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>It reads "soul box."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T151648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094051Z">
-        <seg>Napisane jest tutaj „pudełko duszy”.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T165420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094051Z">
+        <seg>Napis głosi: „pudełko dusz”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -89307,8 +89307,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Proposal: Hack into devices blocking elevator controls.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200629T161108Z" creationid="Syn Spawacza" creationdate="20200629T161108Z">
-        <seg>Propozycja: zhakuj urządzenia blokujące sterowanie windą.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T165447Z" creationid="Syn Spawacza" creationdate="20200629T161108Z">
+        <seg>Propozycja: należy zhakować urządzenia blokujące sterowanie windą.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110905,8 +110905,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There's something written here, too...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094047Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094047Z">
-        <seg>Tutaj też jest coś zapisane...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T165256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094047Z">
+        <seg>Tutaj też jest coś napisane...</seg>
       </tuv>
     </tu>
     <tu>
