@@ -46223,9 +46223,9 @@ Rozejrzyjmy się.</seg>
         <seg>Heavens, you've used a veritable mountain of items, haven't you?
 Please have this special present as a reward!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T114743Z" creationid="Syn Spawacza" creationdate="20200630T114743Z">
-        <seg>Wielkie nieba, użyłeś istną górę przedmiotów, prawda?
-Proszę odebrać tę specjalny prezent jako nagrodę!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T173205Z" creationid="Syn Spawacza" creationdate="20200630T114743Z">
+        <seg>Wielkie nieba! Naprawdę użyto ogromną górę przedmiotów, co nie?
+Proszę, przyjmij ten specjalny prezent jako nagrodę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -81024,8 +81024,8 @@ Jak mam odzyskać te wszystkie pieniądze?!</seg>
         <seg>Oh my! Look at all the machine lifeforms you've murdered!
 Such dogged persistence is worthy of a special present!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260129T172850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094259Z">
-        <seg>O, jejku! Spójrz tylko, ile mechanicznych form życia zniszczyłeś!
+      <tuv lang="pl" changeid="SPCX" changedate="20260129T173018Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T094259Z">
+        <seg>O, jejku! Spójrz tylko, ile zniszczono mechanicznych form życia!
 Taki upór i zawziętość zasługuje na specjalny prezent!</seg>
       </tuv>
     </tu>
