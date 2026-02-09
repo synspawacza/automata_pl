@@ -17842,8 +17842,8 @@ Doceniamy twoją pomoc.</seg>
       <tuv lang="en-US">
         <seg>Analysis: The fog is actually steam emitted by a large enemy structural unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T203001Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052313Z">
-        <seg>Analiza: mgła w rzeczywistości para emitowana przez dużą jednostkę strukturalną wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260209T113428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052313Z">
+        <seg>Analiza: mgła w rzeczywistości jest parą emitowaną przez dużą jednostkę strukturalną wroga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41564,8 +41564,8 @@ wielką siłą ze względu na swoją masę.</seg>
       <tuv lang="en-US">
         <seg>For what purpose?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052240Z">
-        <seg>Dlaczego?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260209T113356Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052240Z">
+        <seg>W jakim celu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -46641,9 +46641,9 @@ Trochę mi się tu nudzi... Może wpadlibyście do mojego sklepu? Mam tu pod rę
         <seg>Hello! This is the Resource Recovery Unit.
 Now activating defense mode!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T094138Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052324Z">
-        <seg>Witaj! Tutaj Jednostka Odzyskująca Zasoby.
-Aktywuje tryb obronny!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260209T113503Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052324Z">
+        <seg>Witaj! Tutaj Jednostka Odzysku Zasobów.
+Aktywuję tryb obronny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -125705,8 +125705,8 @@ Dla kogo &lt;i&gt;żyłem&lt;/i&gt;?&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>What's the resource it's transporting?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T052236Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052236Z">
-        <seg>Co za zasoby transportuje?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260209T113340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T052236Z">
+        <seg>Jakiego rodzaju zasoby może transportować?</seg>
       </tuv>
     </tu>
     <tu>
