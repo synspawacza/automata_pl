@@ -11960,8 +11960,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>A2!? Stop that at once!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115253Z" creationid="Syn Spawacza" creationdate="20200630T115253Z">
-        <seg>A2!? Przestań w tej chwili!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T160517Z" creationid="Syn Spawacza" creationdate="20200630T115253Z">
+        <seg>A2!? Natychmiast przestań!</seg>
       </tuv>
     </tu>
     <tu>
@@ -61123,8 +61123,8 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>If we're destroyed now, we can't be restored! This isn't funny!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115340Z" creationid="Syn Spawacza" creationdate="20200630T115340Z">
-        <seg>Jeśli zostaniemy teraz zniszczeni, nikt nas nie odtworzy! To nie jest śmieszne!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T160622Z" creationid="Syn Spawacza" creationdate="20200630T115340Z">
+        <seg>Jeśli teraz zostaniemy zniszczeni, nie da się już nas odtworzyć! To nie jest śmieszne!</seg>
       </tuv>
     </tu>
     <tu>
@@ -92167,8 +92167,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Report: Your affinity with this pod has reached its maximum level.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T203019Z" creationid="Syn Spawacza" creationdate="20200630T115502Z">
-        <seg>Raport: twoja koligacja z tym podem osiągnęła maksymalny poziom.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T160650Z" creationid="Syn Spawacza" creationdate="20200630T115502Z">
+        <seg>Raport: twoja więź z tym podem osiągnęła maksymalny poziom.</seg>
       </tuv>
     </tu>
     <tu>
