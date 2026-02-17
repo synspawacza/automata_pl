@@ -12394,8 +12394,8 @@ Błędy wszędzie! Błędybłędybłędybłędy!</seg>
       <tuv lang="en-US">
         <seg>Abandoned pod, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115834Z" creationid="Syn Spawacza" creationdate="20200630T115834Z">
-        <seg>Porzucony pod, hm?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T161530Z" creationid="Syn Spawacza" creationdate="20200630T115834Z">
+        <seg>Porzucony pod, hm...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -87985,16 +87985,16 @@ przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Pod, reactivate it for me. If it's usable, try to overwrite the original owner with my ID.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090808Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090808Z">
-        <seg>Podzie, reaktywuj go dla mnie. Jeśli nadaje się do użytku, spróbuj nadpisać oryginalnego właściciela moim ID.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T161345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090808Z">
+        <seg>Podzie, włącz go ponownie. Jeśli jest sprawny, zastąp oryginalnego właściciela moim ID.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Pod, reactivate this and try to overwrite the original owner ID.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115850Z" creationid="Syn Spawacza" creationdate="20200630T115850Z">
-        <seg>Podzie, reaktywuj go i spróbuj nadpisać oryginalnego właściciela moim ID.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T161607Z" creationid="Syn Spawacza" creationdate="20200630T115850Z">
+        <seg>Podzie, uruchom go i nadpisz oryginalnego właściciela moim ID.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124911,8 +124911,8 @@ Prawda?</seg>
       <tuv lang="en-US">
         <seg>What happened to the YoRHa unit this belonged to?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115755Z" creationid="Syn Spawacza" creationdate="20200630T115755Z">
-        <seg>Co się stało z jednostką YoRHa do której należał ten pod?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T161459Z" creationid="Syn Spawacza" creationdate="20200630T115755Z">
+        <seg>Co się stało z jednostką YoRHa, do której należał ten pod?</seg>
       </tuv>
     </tu>
     <tu>
@@ -127913,8 +127913,8 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       <tuv lang="en-US">
         <seg>Wonder why it was abandoned...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T115719Z" creationid="Syn Spawacza" creationdate="20200630T115719Z">
-        <seg>Dlaczego został porzucony...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260217T161407Z" creationid="Syn Spawacza" creationdate="20200630T115719Z">
+        <seg>Ciekawe, dlaczego został porzucony...</seg>
       </tuv>
     </tu>
     <tu>
