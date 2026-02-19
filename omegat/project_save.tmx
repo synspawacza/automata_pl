@@ -15265,8 +15265,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Combat inadvisable during abnormal vital conditions.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T093606Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093606Z">
-        <seg>Uwaga: odradza się walkę podczas warunków nieprawidłowości w funkcjach życiowych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T090209Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093606Z">
+        <seg>Uwaga: przy nieprawidłowych parametrach życiowych walka jest niezalecana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -95356,8 +95356,8 @@ zostali zniszczeni prze ruch oporu.</seg>
       <tuv lang="en-US">
         <seg>Scanning. Actively operating enemy large structural unit detected in accessible location.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T093612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093612Z">
-        <seg>Skanuję. Wykryto aktywnie działającą dużą jednostkę strukturalną wroga w dostępnej lokacji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T090416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093612Z">
+        <seg>Skanowanie. Wykryto aktywnie działającą dużą jednostkę strukturalną wroga na dostępnym obszarze.</seg>
       </tuv>
     </tu>
     <tu>
