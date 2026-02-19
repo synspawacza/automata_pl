@@ -12040,8 +12040,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>A2? You aren't...leaving me like this, are you?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T120228Z" creationid="Syn Spawacza" creationdate="20200630T120228Z">
-        <seg>A2? Ty... nie zostawisz mnie w tym stanie, prawda?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T084014Z" creationid="Syn Spawacza" creationdate="20200630T120228Z">
+        <seg>A2? Ty... nie zostawisz mnie w takim stanie, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -60607,8 +60607,8 @@ Co o tym sądzisz?</seg>
       <tuv lang="en-US">
         <seg>If I knew this could happen, I never would have...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T091304Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091304Z">
-        <seg>Gdybym wiedział, że to się stanie nigdy bym...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T083831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091304Z">
+        <seg>Gdybym wiedział, że stanie się coś takiego, nigdy bym tego nie zrobił…</seg>
       </tuv>
     </tu>
     <tu>
@@ -63387,8 +63387,8 @@ Przywraca też 100% PŻ.</seg>
       <tuv lang="en-US">
         <seg>Initiating hacking to cut off memory circuits.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T091342Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091342Z">
-        <seg>Rozpoczynam hakowanie w celu odcięcia przewodów pamięci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T083627Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T091342Z">
+        <seg>Rozpoczynam hakowanie w celu odcięcia obwodów pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120066,8 +120066,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>Wait...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T120204Z" creationid="Syn Spawacza" creationdate="20200630T120204Z">
-        <seg>Poczekaj...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260219T083637Z" creationid="Syn Spawacza" creationdate="20200630T120204Z">
+        <seg>Czekaj...</seg>
       </tuv>
     </tu>
     <tu>
