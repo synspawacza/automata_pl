@@ -24012,8 +24012,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Black box signal not found.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112937Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112937Z">
-        <seg>Nie odnaleziono sygnału czarnej skrzynki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260304T174239Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112937Z">
+        <seg>Nie wykryto sygnału czarnej skrzynki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98112,8 +98112,8 @@ Przez ciebie się rumienię.</seg>
       <tuv lang="en-US">
         <seg>Situation report.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112940Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112940Z">
-        <seg>Raport z sytuacji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260304T174306Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112940Z">
+        <seg>Raport sytuacyjny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109251,8 +109251,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
       <tuv lang="en-US">
         <seg>The required number of authentication keys have been acquired.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112945Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112945Z">
-        <seg>Zdobyto wymaganą ilość kluczy autoryzacyjnych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260304T174450Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112945Z">
+        <seg>Pozyskano wymaganą ilość kluczy autoryzacyjnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115312,8 +115312,8 @@ Zainteresowane strony mogą uzyskać dostęp do tej biblioteki z serwerowni Bunk
       <tuv lang="en-US">
         <seg>Tower access authentication key acquired.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T112942Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112942Z">
-        <seg>Otrzymano klucz dostępu do wieży.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260304T174417Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T112942Z">
+        <seg>Uzyskano klucz autoryzacyjny dostępu do wieży.</seg>
       </tuv>
     </tu>
     <tu>
