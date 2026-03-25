@@ -5239,8 +5239,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S is already inside.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113738Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113738Z">
-        <seg>9S jest już w środku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T170703Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113738Z">
+        <seg>9S znajduje się już w środku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15859,8 +15859,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: The structure known as the Tower has opened its gate.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T203103Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113730Z">
-        <seg>Uwaga: struktura znana jako Wieża otworzyła swe wrota.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T170621Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113730Z">
+        <seg>Uwaga: brama struktury znanej jako Wieża, została otwarta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93930,8 +93930,8 @@ My, Zamaskowany Lud, tradycyjnie okazujemy skłonność do troszczenia się o na
       <tuv lang="en-US">
         <seg>S-Say...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113740Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113740Z">
-        <seg>P-powiedz...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T170832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113740Z">
+        <seg>Po... powiedz...</seg>
       </tuv>
     </tu>
     <tu>
