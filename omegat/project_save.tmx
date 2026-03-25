@@ -83573,16 +83573,16 @@ To był dzień, w którym zdecydowałyśmy się na zawsze opuścić nasze miasto
       <tuv lang="en-US">
         <seg>Open it later.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T122128Z" creationid="Syn Spawacza" creationdate="20200630T121919Z">
-        <seg>Odtwórz później.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T162241Z" creationid="Syn Spawacza" creationdate="20200630T121919Z">
+        <seg>Otwórz później.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Open it now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T122122Z" creationid="Syn Spawacza" creationdate="20200630T121908Z">
-        <seg>Odtwórz teraz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T162240Z" creationid="Syn Spawacza" creationdate="20200630T121908Z">
+        <seg>Otwórz teraz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87527,8 +87527,8 @@ Pod 153: Liczy się tylko pomyślne wypełnienie misji.</seg>
       <tuv lang="en-US">
         <seg>Pod 153: Data saved to archive.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T122055Z" creationid="Syn Spawacza" creationdate="20200630T122055Z">
-        <seg>Pod 153: Dane zapisane do archiwum..</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T162329Z" creationid="Syn Spawacza" creationdate="20200630T122055Z">
+        <seg>Pod 153: Dane zostały zapisane w archiwum.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87543,8 +87543,8 @@ Pod 153: Liczy się tylko pomyślne wypełnienie misji.</seg>
       <tuv lang="en-US">
         <seg>Pod 153: Do you wish to open this data now?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110351Z">
-        <seg>Pod 153: Chcesz teraz odtworzyć te dane?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T162226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110351Z">
+        <seg>Pod 153: Czy chcesz otworzyć te dane teraz?</seg>
       </tuv>
     </tu>
     <tu>
