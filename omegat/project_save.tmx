@@ -32357,8 +32357,8 @@ ale odtrąca je na boki jak muchy.
       <tuv lang="en-US">
         <seg>Damn... Looks like this is it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121649Z" creationid="Syn Spawacza" creationdate="20200630T121649Z">
-        <seg>Cholera... Na to wygląda.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160639Z" creationid="Syn Spawacza" creationdate="20200630T121649Z">
+        <seg>Cholera... Wygląda, że to koniec.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123012,8 +123012,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We've got this, 9S! You just focus on hacking!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113409Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113409Z">
-        <seg>Dasz radę 9S! Skup się po prostu na hakowaniu!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160648Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113409Z">
+        <seg>Dasz radę, 9S! Skup się po prostu na hakowaniu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -123204,8 +123204,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We...we can't hold out like this!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121833Z" creationid="Syn Spawacza" creationdate="20200630T121833Z">
-        <seg>My... my wytrzymamy w ten sposób!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160858Z" creationid="Syn Spawacza" creationdate="20200630T121833Z">
+        <seg>My... nie wytrzymamy w ten sposób!</seg>
       </tuv>
     </tu>
     <tu>
@@ -131892,8 +131892,8 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You need to hack the Tower lock open!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T194819Z" creationid="Syn Spawacza" creationdate="20200630T121719Z">
-        <seg>Musisz zhakować Wieżę, by ją otworzyć!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160653Z" creationid="Syn Spawacza" creationdate="20200630T121719Z">
+        <seg>Musisz zhakować Wieżę, aby ją otworzyć!</seg>
       </tuv>
     </tu>
     <tu>
