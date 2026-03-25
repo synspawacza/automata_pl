@@ -15369,8 +15369,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemies detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113718Z">
-        <seg>Uwaga: wykryto wrogów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T170420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113718Z">
+        <seg>Uwaga: wykryto wrogie jednostki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58405,8 +58405,8 @@ Muszę napisać Mistrzowi &lt;SARU_JAN&gt;owi list, i to zaraz!</seg>
       <tuv lang="en-US">
         <seg>I'm going to kill you now!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T113714Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113714Z">
-        <seg>Teraz cię zabiję!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T170343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T113714Z">
+        <seg>Teraz zamierzam cię zniszczyć!</seg>
       </tuv>
     </tu>
     <tu>
