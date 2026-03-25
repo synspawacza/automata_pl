@@ -15393,8 +15393,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemy forces gathering around Devola and Popola. Situation critical.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121546Z" creationid="Syn Spawacza" creationdate="20200630T121546Z">
-        <seg>Uwaga: siły wroga zbierają się wokół Devoli i Popoli. Sytuacja krytyczna.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160501Z" creationid="Syn Spawacza" creationdate="20200630T121546Z">
+        <seg>Uwaga: wrogie siły zbierają się wokół Devoli i Popoli. Sytuacja krytyczna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61059,8 +61059,8 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>If we don't do something, they're gonna...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121351Z" creationid="Syn Spawacza" creationdate="20200630T121351Z">
-        <seg>Jak niczego nie zrobimy, one...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160314Z" creationid="Syn Spawacza" creationdate="20200630T121351Z">
+        <seg>Jeśli niczego nie zrobimy, one...</seg>
       </tuv>
     </tu>
     <tu>
@@ -78981,8 +78981,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>No... We can't just abandon them!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121332Z" creationid="Syn Spawacza" creationdate="20200630T121313Z">
-        <seg>Nie... Nie możemy ich ot tak porzucić!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160237Z" creationid="Syn Spawacza" creationdate="20200630T121313Z">
+        <seg>Nie... Nie możemy ich zostawić!</seg>
       </tuv>
     </tu>
     <tu>
@@ -126287,8 +126287,8 @@ Jeśli postać zginie ponownie, zanim dotrze do ciała, zdąży ono zniknąć. J
       <tuv lang="en-US">
         <seg>Where are you going, 9S? We need you!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T121456Z" creationid="Syn Spawacza" creationdate="20200630T121456Z">
-        <seg>Gdzie idziesz, 9S? Potrzebujemy cię!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T160414Z" creationid="Syn Spawacza" creationdate="20200630T121456Z">
+        <seg>Dokąd idziesz, 9S? Potrzebujemy cię!</seg>
       </tuv>
     </tu>
     <tu>
