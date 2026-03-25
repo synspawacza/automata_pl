@@ -15955,8 +15955,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Virus detected in locomotion region. High probability that infection source is transplanted parts from corrupted units.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T203123Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114911Z">
-        <seg>Uwaga: wykryto wirusa w regionie lokomocyjnym. Istnieje duże prawdopodobieństwo, że źródłem infekcji jest przeszczepiona część od zarażonej jednostki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260325T174529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T114911Z">
+        <seg>Uwaga: wykryto wirusa w obszarze ruchu. Najprawdopodobniej, źródłem infekcji jest przeszczepiona część od zainfekowanej jednostki.</seg>
       </tuv>
     </tu>
     <tu>
