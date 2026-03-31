@@ -87419,8 +87419,8 @@ Pod 042: Nie umieraj.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Pod 153! I order you to halt all logical thought and speech!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T121744Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121744Z">
-        <seg>Podzie 153! Rozkazuję ci wstrzymać wszelkie logiczne myślenie i mowę!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260331T145507Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121744Z">
+        <seg>Podzie 153! Rozkazuję ci wstrzymać zarówno wszelkie logiczne myślenie, jak i mowę!</seg>
       </tuv>
     </tu>
     <tu>
@@ -113453,8 +113453,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This order shall remain in effect until you confirm the death of either myself or unit A2!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T121748Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121748Z">
-        <seg>Ten rozkaz pozostaje w mocy dopóki nie potwierdzisz śmierci mojej lub jednostki A2!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260331T145636Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121748Z">
+        <seg>Ten rozkaz pozostanie w mocy, dopóki nie zostanie potwierdzona moja śmierć, lub jednostki A2!</seg>
       </tuv>
     </tu>
     <tu>
