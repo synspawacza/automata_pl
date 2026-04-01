@@ -15249,8 +15249,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Black boxes for all YoRHa units now offline.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T123439Z" creationid="Syn Spawacza" creationdate="20200630T123308Z">
-        <seg>Uwaga: czarne skrzynki wszystkich jednostek YoRHa są teraz offline.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260401T164041Z" creationid="Syn Spawacza" creationdate="20200630T123308Z">
+        <seg>Uwaga: czarne skrzynki wszystkich jednostek YoRHa znajdują się teraz w trybie offline.</seg>
       </tuv>
     </tu>
     <tu>
@@ -136516,8 +136516,8 @@ e5bea9e8ae90
       <tuv lang="en-US">
         <seg>how beautiful this world is.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T122034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122034Z">
-        <seg>jak piękny jest ten świat.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260401T163914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T122034Z">
+        <seg>z tego, jak wspaniały jest ten świat.</seg>
       </tuv>
     </tu>
     <tu>
