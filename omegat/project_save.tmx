@@ -40194,8 +40194,8 @@ MOJĄ UKOCHANĄ</seg>
       <tuv lang="en-US">
         <seg>Failure to parse statement.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124355Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124355Z">
-        <seg>Nie udało się przeanalizować stwierdzenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T074900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124355Z">
+        <seg>Niepowodzenie w przetwarzaniu komunikatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86169,8 +86169,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Personal data deletion request denied.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T124351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124351Z">
-        <seg>Prośba o usunięcie osobistych danych nie rozpatrzona.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T074749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T124351Z">
+        <seg>Odmowa usunięcia danych osobowych.</seg>
       </tuv>
     </tu>
     <tu>
