@@ -1517,8 +1517,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Hmm? Why am I running a shop like this?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T165756Z" creationid="Syn Spawacza" creationdate="20200701T165739Z">
-        <seg>Hmmm...? Dlaczego prowadzę sklep w ten sposób?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T103909Z" creationid="Syn Spawacza" creationdate="20200701T165739Z">
+        <seg>Hmmm...? Dlaczego prowadzę sklep w taki sposób?</seg>
       </tuv>
     </tu>
     <tu>
@@ -98676,8 +98676,8 @@ for 30 seconds.</seg>
       <tuv lang="en-US">
         <seg>So how about you buy something instead?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T100838Z" creationid="Syn Spawacza" creationdate="20200701T165918Z">
-        <seg>Więc może zamiast tego, lepiej byłoby coś u mnie kupić?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T103940Z" creationid="Syn Spawacza" creationdate="20200701T165918Z">
+        <seg>Może, zamiast tego, lepiej byłoby coś u mnie kupić?</seg>
       </tuv>
     </tu>
     <tu>
@@ -120154,8 +120154,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>Wanna buy something? I've got the best prices anywhere!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T122334Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122334Z">
-        <seg>Chcesz coś kupić? Mam najlepsze ceny!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T103739Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T122334Z">
+        <seg>Chcesz może coś kupić? Mam najlepsze ceny w okolicy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -130514,8 +130514,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You could've just asked me to stop, you know?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T165616Z" creationid="Syn Spawacza" creationdate="20200701T165616Z">
-        <seg>Wystarczyło mnie poprosić bym się zatrzymał, wiesz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T103758Z" creationid="Syn Spawacza" creationdate="20200701T165616Z">
+        <seg>Wystarczyło mnie poprosić, abym się zatrzymał, wiesz?</seg>
       </tuv>
     </tu>
     <tu>
