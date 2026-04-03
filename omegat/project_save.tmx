@@ -35616,16 +35616,16 @@ inne losowe efekty.</seg>
       <tuv lang="en-US">
         <seg>Do you want to save?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T131147Z" creationid="Syn Spawacza" creationdate="20200630T131147Z">
-        <seg>Czy chcesz zapisać?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T102349Z" creationid="Syn Spawacza" creationdate="20200630T131147Z">
+        <seg>Chcesz zapisać postępy?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Do you want to take a break?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T131140Z" creationid="Syn Spawacza" creationdate="20200630T131140Z">
-        <seg>Czy chcesz zrobić przerwę?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T102309Z" creationid="Syn Spawacza" creationdate="20200630T131140Z">
+        <seg>Chcesz zrobić sobie przerwę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -65171,8 +65171,8 @@ Nie mogę poruszać nogami, tak jakby utknęły w błocie.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>It won't open...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T131123Z" creationid="Syn Spawacza" creationdate="20200630T131123Z">
-        <seg>Nie otwierają się...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T102239Z" creationid="Syn Spawacza" creationdate="20200630T131123Z">
+        <seg>Nie chcą się otworzyć...</seg>
       </tuv>
     </tu>
     <tu>
@@ -70479,8 +70479,8 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST JEGO 
       <tuv lang="en-US">
         <seg>Let's take a break.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T131057Z" creationid="Syn Spawacza" creationdate="20200630T131057Z">
-        <seg>Zróbmy przerwę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T102135Z" creationid="Syn Spawacza" creationdate="20200630T131057Z">
+        <seg>Zróbmy sobie krótką przerwę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100586,8 +100586,8 @@ Nie możesz mnie wybrać!</seg>
       <tuv lang="en-US">
         <seg>Sounds great to me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200630T131115Z" creationid="Syn Spawacza" creationdate="20200630T131115Z">
-        <seg>Jak dla mnie brzmi świetnie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260403T102202Z" creationid="Syn Spawacza" creationdate="20200630T131115Z">
+        <seg>Jak dla mnie, brzmi świetnie.</seg>
       </tuv>
     </tu>
     <tu>
