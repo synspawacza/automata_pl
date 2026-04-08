@@ -5392,9 +5392,9 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
         <seg>9S waited several decades for 2B to return.
 ...But she was never seen again.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T171435Z" creationid="Syn Spawacza" creationdate="20200701T171435Z">
-        <seg>9S czekał kilkadziesiąt lat na powrót 2B...
-Ale ona nigdy nie powróciła.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260408T054659Z" creationid="Syn Spawacza" creationdate="20200701T171435Z">
+        <seg>9S czekał przez dziesięciolecia na powrót 2B.
+Ale nigdy więcej jej nie widziano...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61875,8 +61875,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In a sudden fit of temper, 2B wiped out the machine lifeforms, and no peace was born that day.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T171615Z" creationid="Syn Spawacza" creationdate="20200701T171615Z">
-        <seg>W nagłym przypływie gniewu, 2B wyrżnęła mechaniczne formy życia i tego dnia pokój nie nadszedł.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260408T054845Z" creationid="Syn Spawacza" creationdate="20200701T171615Z">
+        <seg>W nagłym przypływie gniewu, 2B wyrżnęła mechaniczne formy życia, jednak nie przyniosło to pokoju.</seg>
       </tuv>
     </tu>
     <tu>
