@@ -40852,8 +40852,8 @@ Wróćcie później.</seg>
       <tuv lang="en-US">
         <seg>Finding one intact might prove tricky, however. The part is easily damaged when the machine housing it is destroyed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T181321Z" creationid="Syn Spawacza" creationdate="20200701T181321Z">
-        <seg>Znalezienie w dobrym stanie może być jednak trudne. Ta część łatwo ulega uszkodzeniu gdy obudowa maszyny zostaje zniszczona.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260410T090038Z" creationid="Syn Spawacza" creationdate="20200701T181321Z">
+        <seg>Znalezienie go w dobrym stanie może być jednak trudne. Ta część łatwo ulega uszkodzeniu, gdy obudowa maszyny zostaje zniszczona.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127036,8 +127036,8 @@ O nie! Muszę natychmiast dostarczyć zaopatrzenie!</seg>
       <tuv lang="en-US">
         <seg>Why are you looking for—? Well, anyway, you can salvage the requested material from smaller machine lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T181131Z" creationid="Syn Spawacza" creationdate="20200701T181131Z">
-        <seg>Dlaczego szukacie...? Cóż, możecie odzyskać ten materiał z mniejszych mechanicznych form życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260410T085941Z" creationid="Syn Spawacza" creationdate="20200701T181131Z">
+        <seg>Dlaczego szukacie...? No cóż... możecie spróbować odzyskać ten materiał z mniejszych mechanicznych form życia.</seg>
       </tuv>
     </tu>
     <tu>
