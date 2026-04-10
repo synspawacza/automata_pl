@@ -5383,8 +5383,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S to Operator. Quick question: Do you know where we might find a pristine screw?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T175525Z" creationid="Syn Spawacza" creationdate="20200701T175525Z">
-        <seg>9S do Operator. Szybkie pytanie: wiesz może gdzie możemy znaleźć nietknięty wkręt?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260410T080841Z" creationid="Syn Spawacza" creationdate="20200701T175525Z">
+        <seg>9S do Operator. Szybkie pytanie: wiesz może, gdzie powinniśmy szukać nietkniętego wkrętu?</seg>
       </tuv>
     </tu>
     <tu>
@@ -45296,8 +45296,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Hang on, 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125516Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125516Z">
-        <seg>Poczekaj, 2B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260410T080745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125516Z">
+        <seg>Zaczekaj, 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98604,8 +98604,8 @@ for 30 seconds.</seg>
       <tuv lang="en-US">
         <seg>So destroy it.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125529Z">
-        <seg>Więc zniszczmy ją.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260410T080914Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125529Z">
+        <seg>No to zniszczmy ją.</seg>
       </tuv>
     </tu>
     <tu>
