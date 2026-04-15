@@ -8369,8 +8369,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A MOOSE I HAVE BEEN CARING FOR HAS FALLEN ILL.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094948Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094948Z">
-        <seg>ŁOŚ, KTÓRYM SIĘ OPIEKUJĘ SIĘ ROZCHOROWAŁ.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260415T124126Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094948Z">
+        <seg>ŁOŚ, KTÓRYM SIĘ OPIEKUJĘ, ZACHOROWAŁ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51046,8 +51046,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>I DO NOT KNOW HOW TO REPAIR IT.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094951Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094951Z">
-        <seg>NIE WIEM JAK GO NAPRAWIĆ.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260415T124132Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094951Z">
+        <seg>I NIE WIEM JAK GO NAPRAWIĆ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130739,8 +130739,8 @@ Mimo to dalej nie możesz mnie wybrać.</seg>
       <tuv lang="en-US">
         <seg>You don't "repair" animals like you do a machine.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T094954Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094954Z">
-        <seg>Nie „naprawiasz” zwierząt, tak jak maszyn.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260415T124230Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T094954Z">
+        <seg>W przeciwieństwie do maszyn, zwierząt nie da się „naprawić”.</seg>
       </tuv>
     </tu>
     <tu>
