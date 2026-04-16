@@ -23532,8 +23532,8 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Begin nothing.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T191453Z" creationid="Syn Spawacza" creationdate="20200701T191453Z">
-        <seg>Nic nie zaczynaj.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T043122Z" creationid="Syn Spawacza" creationdate="20200701T191453Z">
+        <seg>Niczego nie zaczynaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -55258,8 +55258,8 @@ A tak szczerze, to odrobina ostrożności nigdy nie jest przesadą w środku woj
       <tuv lang="en-US">
         <seg>I refuse to take on an already-weakened foe. Come back again later.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T191619Z" creationid="Syn Spawacza" creationdate="20200701T191619Z">
-        <seg>Odmawiam walki z osłabionym już przeciwnikiem. Wróćcie później.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T043316Z" creationid="Syn Spawacza" creationdate="20200701T191619Z">
+        <seg>Odmawiam walki z osłabionym przeciwnikiem. Wróćcie później.</seg>
       </tuv>
     </tu>
     <tu>
