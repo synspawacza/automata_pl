@@ -10782,8 +10782,8 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>A shame. Father Servo needs a warped wire before he will spar with you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T191730Z" creationid="Syn Spawacza" creationdate="20200701T191730Z">
-        <seg>Szkoda. Ojciec Servo potrzebuje poskręcanego drutu nim rozpocznie sparring z tobą.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T043806Z" creationid="Syn Spawacza" creationdate="20200701T191730Z">
+        <seg>Szkoda. Ojciec Servo potrzebuje poskręcanego, zanim podejmie z tobą sparing.</seg>
       </tuv>
     </tu>
     <tu>
@@ -42880,8 +42880,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Give him the item.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T191629Z" creationid="Syn Spawacza" creationdate="20200701T191629Z">
-        <seg>Daj mu przedmiot.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T043544Z" creationid="Syn Spawacza" creationdate="20200701T191629Z">
+        <seg>Oddaj mu przedmiot.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52608,8 +52608,8 @@ Hehehe. Nie widzę siebie... Dobre...</seg>
       <tuv lang="en-US">
         <seg>I dunno, 2B. This seems pretty suspicious. What do you think?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T103229Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103229Z">
-        <seg>Sam nie wiem, 2B. To wygląda podejrzanie. Co myślisz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T043615Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103229Z">
+        <seg>Sam nie wiem, 2B. To wygląda podejrzanie. Nie sądzisz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -108158,8 +108158,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The heavens smile upon Father Servo this day! Now then, let us start with a light round of sparring.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T105635Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103236Z">
-        <seg>Niebiosa uśmiechnęły się dzisiaj do Ojca Servo! Więc, rozpocznijmy to lekkim sparingiem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260416T044100Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103236Z">
+        <seg>Niebiosa uśmiechnęły się dzisiaj do Ojca Servo! Dobrze. Rozpocznijmy od lekkiej rundy treningowej.</seg>
       </tuv>
     </tu>
     <tu>
