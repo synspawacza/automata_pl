@@ -31859,8 +31859,8 @@ gdy znajdą się w zasięgu Poda.</seg>
       <tuv lang="en-US">
         <seg>DO YOU MIND!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T193150Z" creationid="Syn Spawacza" creationdate="20200707T191159Z">
-        <seg>CZY MOGLIBYŚCIE POZWOLIĆ?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T160705Z" creationid="Syn Spawacza" creationdate="20200707T191159Z">
+        <seg>MOŻECIE POZWOLIĆ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -100362,8 +100362,8 @@ Nie możesz mnie wybrać!</seg>
       <tuv lang="en-US">
         <seg>Sorry. I have to concentrate on this or I'll screw it up.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T190611Z" creationid="Syn Spawacza" creationdate="20200707T190611Z">
-        <seg>Przepraszam. Muszę się nad tym skoncentrować żeby nie zepsuć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T160635Z" creationid="Syn Spawacza" creationdate="20200707T190611Z">
+        <seg>Przepraszam. Muszę się skoncentrować, żeby tego nie zepsuć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131393,8 +131393,8 @@ Gdy zostaną zastąpione kolejnym wrogiem, spróbuj jeszcze raz.</seg>
       <tuv lang="en-US">
         <seg>You know about map data, right? We helped make that. In fact, I was one of— Hey! Are you leaving already!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200726T191317Z" creationid="Syn Spawacza" creationdate="20200707T190520Z">
-        <seg>Wiecie o danych mapy, prawda? Pomagaliśmy przy tym. Tak naprawdę, to byłem jednym z... Hej! Już idziecie?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T160559Z" creationid="Syn Spawacza" creationdate="20200707T190520Z">
+        <seg>Wiecie o danych mapy, prawda? Pomagaliśmy je tworzyć. Tak dokładnie, to byłem jednym z... Hej! Już idziecie?</seg>
       </tuv>
     </tu>
     <tu>
