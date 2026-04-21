@@ -113500,8 +113500,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This place is off-limits.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T185725Z" creationid="Syn Spawacza" creationdate="20200707T185725Z">
-        <seg>Nie wolno tam wchodzić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T155905Z" creationid="Syn Spawacza" creationdate="20200707T185725Z">
+        <seg>To miejsce jest zamknięte dla osób postronnych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -120807,8 +120807,8 @@ serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>We don't know where the enemy will attack from, so we have to keep watch at all times.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T084205Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084205Z">
-        <seg>Nie mamy pojęcia skąd nadejdą wrogowie, więc trzymamy warty bez przerwy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T160112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T084205Z">
+        <seg>Nie mamy pojęcia z której strony może zaatakować wróg, więc musimy trzymać wartę bez przerwy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124524,8 +124524,8 @@ Prawda?</seg>
       <tuv lang="en-US">
         <seg>What a beautiful sound...I could listen to this all day...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T185902Z" creationid="Syn Spawacza" creationdate="20200707T185902Z">
-        <seg>Cóż za piękny dźwięk... Mogę go słuchać cały dzień...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T155940Z" creationid="Syn Spawacza" creationdate="20200707T185902Z">
+        <seg>Jakie to piękne brzemienie... mogłabym tego słuchać cały dzień…</seg>
       </tuv>
     </tu>
     <tu>
