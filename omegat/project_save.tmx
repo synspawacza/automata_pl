@@ -82571,8 +82571,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Okay, so I need one broken key, one small gear, and one broken circuit. You can smash up a few small machines to find 'em.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T202005Z" creationid="Syn Spawacza" creationdate="20210716T202005Z">
-        <seg>Okej, więc potrzebuję jeden złamany klucz, jeden mały trybik i jeden zepsuty obwód. Możesz rozwalić kilka małych maszyn, żeby je znaleźć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T150957Z" creationid="Syn Spawacza" creationdate="20210716T202005Z">
+        <seg>Dobra, zatem potrzebuję: jednego złamanego klucza, jednego małego trybika i jednego zepsutego obwodu. Możesz zniszczyć kilka małych maszyn, żeby je zdobyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130317,8 +130317,8 @@ W pokoju debugowym użyj menu debugowego, aby swobodnie umieszczać przeciwnikó
       <tuv lang="en-US">
         <seg>You can obtain them from enemies at the big open area towards the left when you exit the camp.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210131T142412Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T085830Z">
-        <seg>Znajdziesz je w pokonanych przeciwnikach na tej dużej otwartej przestrzeni, na lewo od wyjścia z obozu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T151133Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T085830Z">
+        <seg>Znajdziesz je w truchłach pokonanych przeciwników, na tej dużej otwartej przestrzeni, na lewo od wyjścia z obozu.</seg>
       </tuv>
     </tu>
     <tu>
