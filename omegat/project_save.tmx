@@ -47996,8 +47996,8 @@ Cóż... To by było na tyle. Na razie!
       <tuv lang="en-US">
         <seg>Hey, mister? Why'd they make the desert?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T090510Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090510Z">
-        <seg>Hej, proszę pana? Dlaczego zrobili pustynię?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T144157Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T090510Z">
+        <seg>Hej, proszę pana...? Po co zrobili tę pustynię?</seg>
       </tuv>
     </tu>
     <tu>
@@ -50450,8 +50450,8 @@ Streszczaj się, proszę.</seg>
       <tuv lang="en-US">
         <seg>Huh? Oh, hell!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T193838Z" creationid="Syn Spawacza" creationdate="20200701T193838Z">
-        <seg>Hę? O cholera!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T143857Z" creationid="Syn Spawacza" creationdate="20200701T193838Z">
+        <seg>Co...? O, cholera!</seg>
       </tuv>
     </tu>
     <tu>
@@ -70207,8 +70207,8 @@ ALE STADO ŻYJE DALEJ I PRZYNOSI NOWE ŻYCIE, WIĘC MOIM OBOWIĄZKIEM JEST JEGO 
       <tuv lang="en-US">
         <seg>Let's go back to where we first found her. I bet she's waiting there.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202141Z" creationid="Syn Spawacza" creationdate="20200701T193941Z">
-        <seg>Wracajmy tam gdzie ją znaleźliśmy. Założę się, że tam czeka.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T144016Z" creationid="Syn Spawacza" creationdate="20200701T193941Z">
+        <seg>Wróćmy tam, gdzie ją pierwszy raz znaleźliśmy. Założę się, że tam na nas czeka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100250,8 +100250,8 @@ Nie możesz mnie wybrać!</seg>
       <tuv lang="en-US">
         <seg>Sorry! Sorry. We'll try to walk slower, okay?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T194104Z" creationid="Syn Spawacza" creationdate="20200701T194104Z">
-        <seg>Przeprasza! Przepraszam. Postaramy się iść wolniej, okej?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T144114Z" creationid="Syn Spawacza" creationdate="20200701T194104Z">
+        <seg>Przepraszam! Przepraszam... Postaramy się iść wolniej, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -121415,8 +121415,8 @@ zanim kradnie go chłodny, wieczorny wiatr.
       <tuv lang="en-US">
         <seg>We must have gotten separated somehow.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200701T193915Z" creationid="Syn Spawacza" creationdate="20200701T193915Z">
-        <seg>Musieliśmy zostać gdzieś rozdzieleni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T143922Z" creationid="Syn Spawacza" creationdate="20200701T193915Z">
+        <seg>Musieliśmy się gdzieś rozdzielić.</seg>
       </tuv>
     </tu>
     <tu>
