@@ -52842,8 +52842,8 @@ Dyrektor, Public Relations</seg>
       <tuv lang="en-US">
         <seg>I fixed the camp's transporter so that you can return to the Bunker. It's ready for you whenever.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T193747Z" creationid="Syn Spawacza" creationdate="20200707T193747Z">
-        <seg>Naprawiłem obozowy transporter, możesz spokojnie wrócić do Bunkra. Jest dostępny w każdym momencie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T162424Z" creationid="Syn Spawacza" creationdate="20200707T193747Z">
+        <seg>Naprawiłem obozowy transporter, od teraz możesz spokojnie wracać do Bunkra. Możesz z niego korzystać w każdej chwili.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57359,8 +57359,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'd like to fix other transporters as well, but I can't so long as the machines are in the way.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T193936Z" creationid="Syn Spawacza" creationdate="20200707T193936Z">
-        <seg>Chciałbym naprawić też inne transportery, ale nie mogę póki maszyny stoją mi na drodze.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T162747Z" creationid="Syn Spawacza" creationdate="20200707T193936Z">
+        <seg>Chciałbym naprawić też inne transportery, ale nie dam rady tego zrobić. Chyba, że te wszystkie maszyny przestaną się kręcić w okolicy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129538,8 +129538,8 @@ Usmażyło obwody trzem pracownikom pod rząd, gdy próbowali usunąć zabezpiec
       <tuv lang="en-US">
         <seg>YoRHa bodies are expensive, so don't go getting yourself hurt!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195003Z" creationid="Syn Spawacza" creationdate="20200707T193639Z">
-        <seg>Ciała YoRHy są drogie, więc uważaj, by nic ci się nie stało!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T162340Z" creationid="Syn Spawacza" creationdate="20200707T193639Z">
+        <seg>Ciała YoRHa są kosztowne, więc uważaj, żebyś się nie uszkodził!</seg>
       </tuv>
     </tu>
     <tu>
