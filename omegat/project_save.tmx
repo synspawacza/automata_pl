@@ -16286,9 +16286,9 @@ Możesz teraz używać &lt;KC_LOCKON_2&gt; do namierzania i &lt;KC_LOCKON_2&gt;&
         <seg>All clear to the right! All clear to the left!
 Nothing to report today!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T200041Z" creationid="Syn Spawacza" creationdate="20200707T200041Z">
-        <seg>Po prawej czysto! Po lewej czysto!
-Nie mam dziś nic do zgłoszenia!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T164711Z" creationid="Syn Spawacza" creationdate="20200707T200041Z">
+        <seg>Z prawej czysto! Z lewej czysto!
+Nie mam dzisiaj niczego do zgłoszenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -35733,8 +35733,8 @@ Autozmianę broni.</seg>
       <tuv lang="en-US">
         <seg>Does it seem like the enemy's been more active lately? I hope it's just my imagination...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T200226Z" creationid="Syn Spawacza" creationdate="20200707T200226Z">
-        <seg>Czy wróg nie stał się ostatnio bardziej aktywny? Mam nadzieję, że to tylko moje złudzenia...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T164853Z" creationid="Syn Spawacza" creationdate="20200707T200226Z">
+        <seg>Czy tylko mi się wydaje, czy wróg faktycznie jest ostatnio bardziej aktywny? Mam nadzieję, że to tylko moja wyobraźnia…</seg>
       </tuv>
     </tu>
     <tu>
@@ -58933,8 +58933,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm secretly training so I can protect everyone when the time comes. But I still have a long way to go.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T200331Z" creationid="Syn Spawacza" creationdate="20200707T200331Z">
-        <seg>Trenuję w tajemnicy, by móc wszystkich obronić gdy nadejdzie czas. Ale wciąż przede mną długa droga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T165031Z" creationid="Syn Spawacza" creationdate="20200707T200331Z">
+        <seg>Trenuję w tajemnicy, żeby w razie potrzeby, móc wszystkich ochronić. Ale wciąż sporo muszę się nauczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59462,8 +59462,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm taking care of the guard duties. I won't let even a single mouse get in.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T200129Z" creationid="Syn Spawacza" creationdate="20200707T200129Z">
-        <seg>Pełnię tu obowiązki strażnika. Na mojej warcie nawet mysz się nie prześlizgnie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260421T164754Z" creationid="Syn Spawacza" creationdate="20200707T200129Z">
+        <seg>Pełnię tutaj służbę wartowniczą. Nawet mysz się nie prześlizgnie.</seg>
       </tuv>
     </tu>
     <tu>
