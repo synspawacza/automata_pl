@@ -1845,8 +1845,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...No? Well, that's a piece of good news! We can only do simple repairs here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T214153Z" creationid="Syn Spawacza" creationdate="20200707T214153Z">
-        <seg>Nie...? Cóż, zawsze jakaś dobra wiadomość! Wystarczą tu tylko proste naprawy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T063219Z" creationid="Syn Spawacza" creationdate="20200707T214153Z">
+        <seg>Nie...? To dobra wiadomość! Tutaj da się tylko wykonywać proste naprawy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110824,8 +110824,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There's no use saying don't push yourself too hard, but at least try to look after yourself.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T215531Z" creationid="Syn Spawacza" creationdate="20200707T215531Z">
-        <seg>Wiem, że nic nie da jak powiem, że nie masz się przemęczać, ale przynajmniej postaraj się uważać na siebie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T063246Z" creationid="Syn Spawacza" creationdate="20200707T215531Z">
+        <seg>Nie ma sensu mówić, żebyś się nie przemęczał, ale przynajmniej postaraj się o siebie dbać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -129925,8 +129925,8 @@ YoRHa. Jej moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>You again? What happened? Also, you should be more careful!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T213931Z" creationid="Syn Spawacza" creationdate="20200707T213931Z">
-        <seg>Znowu ty? Co się stało?! Poza tym, musisz bardziej uważać!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T063110Z" creationid="Syn Spawacza" creationdate="20200707T213931Z">
+        <seg>Znowu ty? Co się stało?! A tak w ogóle, to powinieneś być bardziej ostrożny!</seg>
       </tuv>
     </tu>
     <tu>
