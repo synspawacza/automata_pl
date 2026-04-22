@@ -20240,8 +20240,8 @@ Otrzymaliśmy niepokojące raporty z wielu regionów administracyjnych, w który
       <tuv lang="en-US">
         <seg>Are you saving your data regularly? Even if you get a replacement body, you're as good as dead if your data's lost.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T215609Z" creationid="Syn Spawacza" creationdate="20200707T215609Z">
-        <seg>Regularnie zapisujesz swoje dane? Nawet jak dostaniesz zastępcze ciało, nic to nie da gdy utracisz swoje dane.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T063519Z" creationid="Syn Spawacza" creationdate="20200707T215609Z">
+        <seg>Regularnie zapisujesz swoje dane? Nawet jak dostaniesz nowe ciało, bez nich i tak będzie, jakbyś był martwy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -45496,8 +45496,8 @@ strefy hazardowej.</seg>
       <tuv lang="en-US">
         <seg>Have you been saving your data regularly? If not, do it before it's too late!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T215654Z" creationid="Syn Spawacza" creationdate="20200707T215643Z">
-        <seg>Czy regularnie zapisujesz swoje dane? Jak nie, zrób to zanim będzie za późno!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T063556Z" creationid="Syn Spawacza" creationdate="20200707T215643Z">
+        <seg>Czy regularnie zapisujesz swoje dane? Jeśli nie, zrób to, zanim będzie za późno!</seg>
       </tuv>
     </tu>
     <tu>
