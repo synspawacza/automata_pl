@@ -20424,8 +20424,8 @@ Otrzymaliśmy niepokojące raporty z wielu regionów administracyjnych, w który
       <tuv lang="en-US">
         <seg>Aren't you tired? It's good you're trying your best, but don't overdo it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T210645Z" creationid="Syn Spawacza" creationdate="20200707T210645Z">
-        <seg>Nie jesteście zmęczeni? Dobrze jest dawać z siebie wszystko, ale bez przesady.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T055823Z" creationid="Syn Spawacza" creationdate="20200707T210645Z">
+        <seg>Nie jesteście zmęczeni? Dobrze, że się starcie, ale uważajcie, żeby nie przesadzić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39450,8 +39450,8 @@ Nikt nie chciał się ze mną przyjaźnić.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Everyone's been so busy lately. I've been helping with maintenance when I can, but it's pretty tough!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T210553Z" creationid="Syn Spawacza" creationdate="20200707T210553Z">
-        <seg>Wszyscy są ostatnio tacy zajęci. Pomagam w utrzymaniu tak jak potrafię, ale jest naprawdę ciężko!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T055730Z" creationid="Syn Spawacza" creationdate="20200707T210553Z">
+        <seg>Wszyscy są ostatnio bardzo zajęci. Pomagam przy naprawach, kiedy się da, ale to ciężka praca!</seg>
       </tuv>
     </tu>
     <tu>
@@ -59768,8 +59768,8 @@ Czy możesz przynieść mi proszę czterokolorowy kabel?</seg>
       <tuv lang="en-US">
         <seg>I've been trying to repair the surrounding transporters, but the enemy keeps breaking them as soon as I finish.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T210745Z" creationid="Syn Spawacza" creationdate="20200707T210745Z">
-        <seg>Próbuję naprawić okoliczne transportery, ale wróg ciągle psuje je jak tylko skończę naprawę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T055929Z" creationid="Syn Spawacza" creationdate="20200707T210745Z">
+        <seg>Próbuję naprawiać okoliczne transportery, ale wróg niszczy je zaraz po tym, jak je uruchomię.</seg>
       </tuv>
     </tu>
     <tu>
