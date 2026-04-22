@@ -61283,8 +61283,8 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>If you find any machines near a transporter, make them pay!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T210937Z" creationid="Syn Spawacza" creationdate="20200707T210937Z">
-        <seg>Jak znajdziecie jakieś maszyny przy transporterach, dajcie im popalić!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T060217Z" creationid="Syn Spawacza" creationdate="20200707T210937Z">
+        <seg>Jeśli zobaczycie jakieś maszyny w pobliżu transporterów, załatwcie je!</seg>
       </tuv>
     </tu>
     <tu>
@@ -110784,8 +110784,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There's no point in the vending machine camouflage anymore.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T210904Z" creationid="Syn Spawacza" creationdate="20200707T210904Z">
-        <seg>Nie ma już sensu ukrywać ich pod przykrywką automatów do sprzedaży.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260422T060030Z" creationid="Syn Spawacza" creationdate="20200707T210904Z">
+        <seg>Nie ma już sensu ukrywać ich jako automaty do sprzedaży.</seg>
       </tuv>
     </tu>
     <tu>
