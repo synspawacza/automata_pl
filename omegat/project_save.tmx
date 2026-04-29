@@ -2381,8 +2381,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...You're lying, aren't you?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200706T230935Z" creationid="Syn Spawacza" creationdate="20200706T230935Z">
-        <seg>...kłamiecie, prawda?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260429T141612Z" creationid="Syn Spawacza" creationdate="20200706T230935Z">
+        <seg>...To nie jest prawda, co nie?</seg>
       </tuv>
     </tu>
     <tu>
@@ -124194,8 +124194,8 @@ Prawda?</seg>
       <tuv lang="en-US">
         <seg>Well, thank you for trying, at least.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260429T140759Z" creationid="Syn Spawacza" creationdate="20200706T230906Z">
-        <seg>No cóż... Dziękuję, że chociaż spróbowaliście.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260429T141540Z" creationid="Syn Spawacza" creationdate="20200706T230906Z">
+        <seg>No cóż... Dziękuję, że chociaż próbowaliście.</seg>
       </tuv>
     </tu>
     <tu>
