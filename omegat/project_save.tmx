@@ -54804,8 +54804,8 @@ do roboty, więc pomóż mi!</seg>
       <tuv lang="en-US">
         <seg>I need to focus on my job right now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200706T230716Z" creationid="Syn Spawacza" creationdate="20200706T230716Z">
-        <seg>Teraz muszę się skupić na mojej pracy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260429T132126Z" creationid="Syn Spawacza" creationdate="20200706T230716Z">
+        <seg>W tej chwili muszę skoncentrować się na mojej pracy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59133,8 +59133,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm sorry, I know you're helping me out, but would you mind coming back later?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200706T230649Z" creationid="Syn Spawacza" creationdate="20200706T230649Z">
-        <seg>Przepraszam, wiem, że mi pomagacie, ale moglibyście wrócić później?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260429T132044Z" creationid="Syn Spawacza" creationdate="20200706T230649Z">
+        <seg>Przepraszam. Wiem, że mi pomagacie, ale czy moglibyście wrócić później?</seg>
       </tuv>
     </tu>
     <tu>
