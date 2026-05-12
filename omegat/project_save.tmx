@@ -184,8 +184,8 @@
       <tuv lang="en-US">
         <seg>"Gotcha" is not an approved form of radio engagement, 9S. Operator 21O out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T224940Z" creationid="Syn Spawacza" creationdate="20200707T224940Z">
-        <seg>„Łapię” nie jest zatwierdzoną formą kontaktu radiowego, 9S. Operator 21O bez odbioru.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T055150Z" creationid="Syn Spawacza" creationdate="20200707T224940Z">
+        <seg>Określenie „łapię” nie jest zatwierdzoną formą meldunku radiowego, 9S. Operator 21O, bez odbioru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -43884,7 +43884,7 @@ Zdecydowanie zasługujesz na specjalny prezent!</seg>
       <tuv lang="en-US">
         <seg>Gotcha.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T224829Z" creationid="Syn Spawacza" creationdate="20200707T224829Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T055116Z" creationid="Syn Spawacza" creationdate="20200707T224829Z">
         <seg>Łapię.</seg>
       </tuv>
     </tu>
@@ -71714,8 +71714,8 @@ Co tutaj robisz?</seg>
       <tuv lang="en-US">
         <seg>Looks like you found all the necessary parts to improve our network environment. Nice work!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092902Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092902Z">
-        <seg>Wygląda na to, że odnalazłaś wszystkie niezbędne części potrzebne do ulepszenia środowiska sieciowego. Dobra robota!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T055226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092902Z">
+        <seg>Wygląda na to, że odnalazłaś wszystkie niezbędne części do ulepszenia środowiska sieciowego. Dobra robota!</seg>
       </tuv>
     </tu>
     <tu>
@@ -83012,8 +83012,8 @@ Go investigate!</seg>
       <tuv lang="en-US">
         <seg>Once you have the materials, bring them to Anemone, the leader of the Resistance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200707T224754Z" creationid="Syn Spawacza" creationdate="20200707T224731Z">
-        <seg>Jak już będziesz miał materiały, zanieś to do Anemony, przywódczyni Ruchu Oporu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T055031Z" creationid="Syn Spawacza" creationdate="20200707T224731Z">
+        <seg>Gdy już zdobędziesz te materiały, zanieś je Anemonie, przywódczyni Ruchu Oporu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130207,8 +130207,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can conclude your mission by bringing everything over to Anemone.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092924Z">
-        <seg>Możesz zakończyć swoje zadanie przez dostarczenie wszystkiego do Anemony.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T055253Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092924Z">
+        <seg>Możesz zakończyć swoje zadanie, dostarczając wszystko do Anemony.</seg>
       </tuv>
     </tu>
     <tu>
