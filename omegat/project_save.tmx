@@ -15545,8 +15545,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Hostile machine lifeforms detected in the vicinity of the non-functioning transporter. Jamming signals detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132118Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132118Z">
-        <seg>Uwaga: wykryto wrogie mechaniczne formy życia w zasięgu nie działającego transportera. Wykryto sygnał zakłócający.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T064645Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132118Z">
+        <seg>Uwaga: wykryto wrogie mechaniczne formy życia w pobliżu niesprawnego transportera. Zidentyfikowano sygnały zakłócające.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17954,8 +17954,8 @@ Doceniamy twoją pomoc.</seg>
       <tuv lang="en-US">
         <seg>Analysis: Transporter is now operational.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132222Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132222Z">
-        <seg>Analiza: transporter teraz działa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T064900Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132222Z">
+        <seg>Analiza: transporter został przywrócony do działania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52446,8 +52446,8 @@ Jestem zagubiona.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I don't see any damage.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T132217Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132217Z">
-        <seg>Nie widzę żadnych zniszczeń.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T064821Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T132217Z">
+        <seg>Nie dostrzegam żadnych uszkodzeń.</seg>
       </tuv>
     </tu>
     <tu>
