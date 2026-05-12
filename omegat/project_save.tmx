@@ -15577,8 +15577,8 @@ Tętno zbliża się do niebezpiecznych poziomów.</seg>
       <tuv lang="en-US">
         <seg>Alert: Jamming signals detected from enemy units.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T204559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125939Z">
-        <seg>Uwaga: wykryto sygnał zakłócający ze strony jednostek wroga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T063032Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125939Z">
+        <seg>Uwaga: wykryto sygnały zakłócające ze strony wrogich jednostek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -58949,8 +58949,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm sending you the positional data. Please investigate the site as soon as possible.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125444Z">
-        <seg>Wysyłam ci dane lokalizacyjne. Proszę przyjrzyj się tej okolicy jak najszybciej zdołasz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T062948Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125444Z">
+        <seg>Przesyłam ci dane lokalizacyjne. Proszę, zbadaj jak najszybciej tę okolicę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108768,8 +108768,8 @@ sobie wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_
       <tuv lang="en-US">
         <seg>The monitoring signal from the new access point has gone silent.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T125439Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125439Z">
-        <seg>Sygnał monitorujący z nowych punktów dostępu się wyłączył.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260512T062837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T125439Z">
+        <seg>Sygnał monitorujący z nowych punktów dostępu nagle ucichł.</seg>
       </tuv>
     </tu>
     <tu>
