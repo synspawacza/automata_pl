@@ -14750,8 +14750,8 @@ Zbierz dane wywiadowcze o nowych wrogach i przekaż je 4S w Leśnym Zamku.</seg>
         <seg>Ah, right. I should probably repay you for all of your help.
 Please take this.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T103853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132957Z">
-        <seg>Ach, racja. Powinienem pewnie zapłacić za waszą pomoc.
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T094428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132957Z">
+        <seg>Ach, racja. Powinienem wynagrodzić waszą pomoc.
 Proszę, weźcie to.</seg>
       </tuv>
     </tu>
@@ -18586,8 +18586,8 @@ Iiiii wszystko się z jakiegoś powodu skaszaniło. ŚWIETNIE.</seg>
       <tuv lang="en-US">
         <seg>And there's still something that all of us Emils need to settle...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T103831Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132940Z">
-        <seg>I wciąż jest coś, co wszyscy my, Emilowie, musimy załatwić...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T094334Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132940Z">
+        <seg>Ale nadal jest coś, co wszyscy Emilowie muszą doprowadzić do końca...</seg>
       </tuv>
     </tu>
     <tu>
@@ -52390,8 +52390,8 @@ Jestem zagubiona.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I don't know. There were so many of us that after a while, we just...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132927Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132927Z">
-        <seg>Nie wiem. Było nas tak wielu, że po jakimś czasie po prostu...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T094215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132927Z">
+        <seg>Tego nie wiem. Było nas tak wielu, że po jakimś czasie, po prostu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -126421,8 +126421,8 @@ Jeśli postać zginie ponownie, zanim dotrze do ciała, zdąży ono zniknąć. J
       <tuv lang="en-US">
         <seg>Where's the original Emil now?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T132924Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132924Z">
-        <seg>Gdzie jest teraz oryginalny Emil?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T094152Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T132924Z">
+        <seg>Gdzie jest teraz ten "dawny" Emil?</seg>
       </tuv>
     </tu>
     <tu>
