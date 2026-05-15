@@ -15657,8 +15657,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Memory alloy required to repair this unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142547Z">
-        <seg>Uwaga: wymagany jest stop pamięci, by naprawić tę jednostkę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T164358Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142547Z">
+        <seg>Uwaga: w celu naprawy tej jednostki wymagany jest stop pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -67681,8 +67681,8 @@ Może zostać sprzedany.</seg>
       <tuv lang="en-US">
         <seg>Just wait here, okay? I'll get what you need as soon as I can.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142614Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142614Z">
-        <seg>Poczekaj tutaj chwilę, okej? Zdobędę to czego potrzebujesz jak najszybciej się da.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T164332Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142614Z">
+        <seg>Zaczekaj tutaj, dobrze? A ja, jak najszybciej, zdobędę to, czego potrzebujesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -85802,8 +85802,8 @@ Udało ci się ochronić dzieci, oraz pacyfistyczne maszyny z wioski. Niestety, 
       <tuv lang="en-US">
         <seg>Pascal? What are you doing here?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142609Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142609Z">
-        <seg>Pascalu? Co ty tu robisz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T164411Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142609Z">
+        <seg>Pascal...? Co ty tu robisz?</seg>
       </tuv>
     </tu>
     <tu>
