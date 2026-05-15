@@ -25034,8 +25034,8 @@ Bo nasze modele — modele Devola i Popola — są wadliwe.
       <tuv lang="en-US">
         <seg>But I think you should keep it. You're a combat model, after all, whereas I'm a defensive unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095114Z">
-        <seg>Ale myślę, że powinnaś ją zatrzymać. W końcu jesteś modelem bojowym, a ja tylko jednostką obronną.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T145709Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095114Z">
+        <seg>Ale myślę, że tę broń powinnaś zatrzymać dla siebie. W końcu, jesteś jednostką bojową, ja tylko defensywną. Nie wykorzystam jej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -59358,8 +59358,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm sure 11B would be happy knowing it was being put to good use.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T095118Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095118Z">
-        <seg>Jestem pewna, że 11B cieszyłaby się, gdyby to trafiło w dobre ręce.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T145724Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T095118Z">
+        <seg>Jestem pewna, że 11B cieszyłaby się, gdyby trafiła w dobre ręce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110743,8 +110743,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There's more. I discovered some additional data in 11B's memory banks.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T190621Z" creationid="Syn Spawacza" creationdate="20200720T190621Z">
-        <seg>Jest coś jeszcze. Odkryłam pewne dodatkowe dane w bankach pamięci 11B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T145757Z" creationid="Syn Spawacza" creationdate="20200720T190621Z">
+        <seg>Jest coś jeszcze... Odkryłam pewne dodatkowe dane w bankach pamięci 11B.</seg>
       </tuv>
     </tu>
     <tu>
