@@ -1453,8 +1453,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Go on. Finish me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T185458Z" creationid="Syn Spawacza" creationdate="20200720T185458Z">
-        <seg>No dalej... Dobij mnie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T142243Z" creationid="Syn Spawacza" creationdate="20200720T185458Z">
+        <seg>No dalej... Zadaj ostateczny cios.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39172,8 +39172,8 @@ Poczekaj, musimy je wgrać.</seg>
       <tuv lang="en-US">
         <seg>Even if I'd achieved my revenge, I was planning to die regardless.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T110049Z" creationid="Syn Spawacza" creationdate="20200720T185527Z">
-        <seg>Nawet jeśli dokonałbym zemsty, i tak planowałem umrzeć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T142255Z" creationid="Syn Spawacza" creationdate="20200720T185527Z">
+        <seg>Nawet gdybym dokonał zemsty, i tak planowałem umrzeć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52242,8 +52242,8 @@ Muszę kontynuować aż jedna ze stron będzie martwa.
       <tuv lang="en-US">
         <seg>I don't have the strength to continue.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195154Z" creationid="Syn Spawacza" creationdate="20200720T185622Z">
-        <seg>Nie mam sił, by to dalej ciągnąć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T142459Z" creationid="Syn Spawacza" creationdate="20200720T185622Z">
+        <seg>Nie mam już sił, aby dalej żyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57685,8 +57685,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'll kill you... I swear on my life to kill you!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202330Z" creationid="Syn Spawacza" creationdate="20200720T185449Z">
-        <seg>Zabiję was... Klnę się na moje życie, że was zabiję!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T142213Z" creationid="Syn Spawacza" creationdate="20200720T185449Z">
+        <seg>Zabiję was... Przysięgam na własne życie, że was zabiję!</seg>
       </tuv>
     </tu>
     <tu>
@@ -131376,8 +131376,8 @@ Gdy zostaną zastąpione kolejnym wrogiem, spróbuj jeszcze raz.</seg>
       <tuv lang="en-US">
         <seg>You killed them all and left me alone.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T185604Z" creationid="Syn Spawacza" creationdate="20200720T185604Z">
-        <seg>Zabiliście ich wszystkich i zostawiliście mnie samego.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T142318Z" creationid="Syn Spawacza" creationdate="20200720T185604Z">
+        <seg>Zabiliście ich wszystkich, zostając mnie samego.</seg>
       </tuv>
     </tu>
     <tu>
