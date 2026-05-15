@@ -15200,9 +15200,9 @@ Proszę, weźcie to.</seg>
         <seg>Alert: Abnormalities detected in vital signs.
 Pulse rate nearing dangerous levels.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T204608Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153655Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T103918Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153655Z">
         <seg>Uwaga: wykryto nieprawidłowości w parametrach życiowych.
-Tętno zbliża się do niebezpiecznych poziomów.</seg>
+Tętno zbliża się do niebezpiecznego poziomu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16511,8 +16511,8 @@ Nie mam dzisiaj niczego do zgłoszenia!</seg>
       <tuv lang="en-US">
         <seg>All right, that's enough small talk. Time to root around and see what's what.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T105112Z" creationid="Syn Spawacza" creationdate="20200720T183959Z">
-        <seg>Dobra, dość tych pogaduszek. Pora trochę pogrzebać, żeby zobaczyć co i jak.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T103839Z" creationid="Syn Spawacza" creationdate="20200720T183959Z">
+        <seg>Dobra, dość tych pogaduszek. Czas się rozejrzeć, aby sprawdzić co tu się dzieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48374,8 +48374,8 @@ Masz minutkę?</seg>
       <tuv lang="en-US">
         <seg>Hi there.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T105047Z" creationid="Syn Spawacza" creationdate="20200720T183914Z">
-        <seg>Hej, tam.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T103729Z" creationid="Syn Spawacza" creationdate="20200720T183914Z">
+        <seg>Witaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -57311,8 +57311,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'd better be more careful next time.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T153604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153604Z">
-        <seg>Lepiej będę bardziej ostrożny następnym razem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T103701Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T153604Z">
+        <seg>Następnym razem muszę zachować większą ostrożność.</seg>
       </tuv>
     </tu>
     <tu>
