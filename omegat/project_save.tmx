@@ -24668,16 +24668,16 @@ Ale zanim wybucha walka, android nazywany Numer 2 wychodzi naprzód.&lt;bt_wait&
       <tuv lang="en-US">
         <seg>Brother? So there's more of them?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T185025Z" creationid="Syn Spawacza" creationdate="20200720T185025Z">
-        <seg>Bracie? To jest ich więcej?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T141659Z" creationid="Syn Spawacza" creationdate="20200720T185025Z">
+        <seg>Bracie? To znaczy, że jest ich więcej?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Brother? Wait, there's more of these things?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144051Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144051Z">
-        <seg>Bracie? Chwila, jest tego więcej?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T141612Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144051Z">
+        <seg>Bracie? Chwila... To jest ich więcej?</seg>
       </tuv>
     </tu>
     <tu>
@@ -64876,8 +64876,8 @@ prawdę tego świata.</seg>
       <tuv lang="en-US">
         <seg>It should be dispatched immediately.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T185142Z" creationid="Syn Spawacza" creationdate="20200720T185142Z">
-        <seg>Powinien zostać natychmiast zlikwidowany.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T141830Z" creationid="Syn Spawacza" creationdate="20200720T185142Z">
+        <seg>Powinien zostać zlikwidowany natychmiastowo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110671,8 +110671,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There's another of those machines... I suppose it's going to attack me, right?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T185232Z" creationid="Syn Spawacza" creationdate="20200720T185232Z">
-        <seg>To kolejna z tych maszyn... Chyba mnie teraz zaatakuje, prawda?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T141914Z" creationid="Syn Spawacza" creationdate="20200720T185232Z">
+        <seg>To kolejna z tych maszyn... zakładam, że teraz zaatakuje mnie, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -113295,8 +113295,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This machine type purposely seeks out androids in order to enact revenge.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251223T105942Z" creationid="Syn Spawacza" creationdate="20200720T185134Z">
-        <seg>Ten typ maszyn celowo poszukuje androidy w celu dokonania zemsty.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T141810Z" creationid="Syn Spawacza" creationdate="20200720T185134Z">
+        <seg>Ten typ maszyn celowo poluje na androidy, aby się na nich zemścić.</seg>
       </tuv>
     </tu>
     <tu>
