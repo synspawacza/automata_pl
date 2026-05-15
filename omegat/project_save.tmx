@@ -59527,9 +59527,9 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
         <seg>I'm trying to make my game more difficult.
 Can you please bring me a four-color cable?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T175750Z" creationid="Syn Spawacza" creationdate="20200720T175750Z">
-        <seg>Próbuję sprawić, by moja gra była trudniejsza.
-Czy możesz przynieść mi proszę czterokolorowy kabel?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T053039Z" creationid="Syn Spawacza" creationdate="20200720T175750Z">
+        <seg>Próbuję zwiększyć poziom trudności mojej gry.
+Czy możesz przynieść mi czterokolorowy kabel?</seg>
       </tuv>
     </tu>
     <tu>
@@ -75105,8 +75105,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Merci! You can find said cables rattling around the insides of soldiers in the abandoned factory.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154519Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154519Z">
-        <seg>Merci! Możesz znaleźć takie kable grzechoczące wewnątrz żołnierzy w opuszczonej fabryce.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T052909Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154519Z">
+        <seg>Dziękuję! Wspomniane kable można znaleźć w środku żołnierzy, którzy przebywają w opuszczonej fabryce.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132814,8 +132814,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You'll have no trouble spotting them, because they tend to walk around alone, away from their fellow machines.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T154527Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154527Z">
-        <seg>Bez problemu ich zauważysz, ponieważ mają tendencję do samodzielnych spacerów, z dala od swoich ziomków.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260515T052949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T154527Z">
+        <seg>Bez problemu ich zauważysz, ponieważ mają tendencję do samodzielnych marszów, z dala od swoich ziomków.</seg>
       </tuv>
     </tu>
     <tu>
