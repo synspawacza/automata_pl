@@ -105572,9 +105572,9 @@ Ciągle się do mnie szczerzyła. Jak szalona.</seg>
         <seg>That should be enough moose and boar meat.
 Let's get it back to the trader.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T144350Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144350Z">
-        <seg>To by było na tyle, jeśli chodzi o mięso łosia i mięso dzika.
-Powinniśmy zgłosić się z powrotem do handlarza.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260516T093828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144350Z">
+        <seg>Chyba mamy już wystarczającą ilość mięsa z łosia i dzika.
+Zanieśmy je handlarzowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126749,8 +126749,8 @@ Jeśli postać zginie ponownie, zanim dotrze do ciała, zdąży ono zniknąć. J
       <tuv lang="en-US">
         <seg>Who knows? Maybe it's fun to eat. Or more fun than it looks, at any rate...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T193924Z" creationid="Syn Spawacza" creationdate="20200720T193924Z">
-        <seg>Kto wie? Może uważają jedzenie za przyjemność. A przynajmniej większą przyjemność niż na to wygląda...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260516T093700Z" creationid="Syn Spawacza" creationdate="20200720T193924Z">
+        <seg>Kto wie? Może ludzie uważali jedzenie za przyjemność? Albo przynajmniej większą przyjemność, niż można by sądzić...</seg>
       </tuv>
     </tu>
     <tu>
