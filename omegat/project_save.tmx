@@ -105572,9 +105572,8 @@ Ciągle się do mnie szczerzyła. Jak szalona.</seg>
         <seg>That should be enough moose and boar meat.
 Let's get it back to the trader.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260516T093828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144350Z">
-        <seg>Chyba mamy już wystarczającą ilość mięsa z łosia i dzika.
-Zanieśmy je handlarzowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260516T093905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T144350Z">
+        <seg>Chyba mamy już wystarczającą ilość mięsa z łosia i dzika. Zanieśmy je handlarzowi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -105597,16 +105596,16 @@ Zanieśmy je handlarzowi.</seg>
       <tuv lang="en-US">
         <seg>That should do it for the meat. Let's get it to that trader.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T194030Z" creationid="Syn Spawacza" creationdate="20200720T194030Z">
-        <seg>Tyle powinno wystarczyć, jeśli chodzi o mięso. Zanieśmy to handlarzowi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260516T094028Z" creationid="Syn Spawacza" creationdate="20200720T194030Z">
+        <seg>Tyle mięsa powinno wystarczyć temu handlarzowi. Wracajmy do niego.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>That should do it for the moose and boar meat. Guess we should report back to the trader.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T194002Z" creationid="Syn Spawacza" creationdate="20200720T194002Z">
-        <seg>To powinno wystarczyć, jeśli chodzi o mięso łosia i mięso dzika. Chyba powinniśmy zgłosić się z powrotem do handlarza.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260516T093945Z" creationid="Syn Spawacza" creationdate="20200720T194002Z">
+        <seg>Taka ilość mięsa z łosia i dzika powinna wystarczyć. Chyba możemy wracać do handlarza.</seg>
       </tuv>
     </tu>
     <tu>
