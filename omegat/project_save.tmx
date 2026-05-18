@@ -61539,8 +61539,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you obtain further enemy data, please let me know. It's important for us to share what we have.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T092305Z" creationid="Syn Spawacza" creationdate="20200718T092305Z">
-        <seg>Jeśli zdobędziesz więcej danych o wrogach, daj mi proszę znać. To ważne by dzielić się tym, co mamy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260518T060007Z" creationid="Syn Spawacza" creationdate="20200718T092305Z">
+        <seg>Jeśli zdobędziesz więcej danych o wrogu, daj mi znać, proszę. Powinniśmy dzielić się posiadanymi informacjami.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61555,8 +61555,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you run into any new enemies, I'd very much like to look over your data.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T093823Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093823Z">
-        <seg>Jeśli spotkasz nowych wrogów, z wielką chęcią przejrzę twoje zapiski.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260518T060510Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T093823Z">
+        <seg>Jeśli napotkasz jakichś nowych wrogów, chętnie rzuicłbym okiem na dane, które zdobędziesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -131133,8 +131133,8 @@ Zaprowadź ją z powrotem do wioski Pascala.</seg>
       <tuv lang="en-US">
         <seg>You handed over the enemy data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200718T092220Z" creationid="Syn Spawacza" creationdate="20200718T092220Z">
-        <seg>Przekazujesz dano o wrogach.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260518T055821Z" creationid="Syn Spawacza" creationdate="20200718T092220Z">
+        <seg>Przekazujesz dane o wrogach.</seg>
       </tuv>
     </tu>
     <tu>
