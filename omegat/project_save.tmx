@@ -65602,8 +65602,8 @@ it is heavy.</seg>
       <tuv lang="en-US">
         <seg>It's been tough lately, but it's important to get rest. Make sure you keep your weapons in good order, too.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T134646Z" creationid="Syn Spawacza" creationdate="20200720T213619Z">
-        <seg>Ostatnio było ciężko, ale ważnym jest, aby odpoczywać. Upewnij się też, że twoje bronie są w dobrym stanie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094418Z" creationid="Syn Spawacza" creationdate="20200720T213619Z">
+        <seg>Ostatnio było ciężko, ale ważnym jest, aby odpoczywać. Upewnij się też, że posiadana przez ciebie broń jest w dobrym stanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81603,8 +81603,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Oh, do you need a weapon?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T213628Z" creationid="Syn Spawacza" creationdate="20200720T213628Z">
-        <seg>Ach, potrzebujesz broni?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094435Z" creationid="Syn Spawacza" creationdate="20200720T213628Z">
+        <seg>Oho... Potrzebujesz broni?</seg>
       </tuv>
     </tu>
     <tu>
@@ -110926,8 +110926,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>There, all done! You can fine-tune things yourself later if you want.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T134548Z" creationid="Syn Spawacza" creationdate="20200720T213410Z">
-        <seg>Już, zrobione. W razie czego, możesz dostroić tę opcję później, jeśli chcesz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094308Z" creationid="Syn Spawacza" creationdate="20200720T213410Z">
+        <seg>Już. Zrobione. W razie czego, możesz dostroić tę opcję później, jeśli zechcesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130391,8 +130391,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can upgrade the weapons you buy here.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T135028Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103105Z">
-        <seg>Możecie ulepszać broń, którą tu kupicie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094544Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T103105Z">
+        <seg>Tutaj możecie ulepszać zakupioną broń.</seg>
       </tuv>
     </tu>
     <tu>
