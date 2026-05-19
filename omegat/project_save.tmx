@@ -16980,8 +16980,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>Alternately, I can just adjust your camera for you. What kind of setting would you like?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T213302Z" creationid="Syn Spawacza" creationdate="20200720T213302Z">
-        <seg>Alternatywnie, mogę po prostu dostosować kamerę za ciebie. Jakie ustawienia chcesz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094242Z" creationid="Syn Spawacza" creationdate="20200720T213302Z">
+        <seg>Alternatywnie, mogę po prostu dostosować kamerę za ciebie. Jakie ustawienia preferujesz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -55644,8 +55644,8 @@ Wyostrzam wzrok i wstrzymuję oddech.</seg>
       <tuv lang="en-US">
         <seg>I sometimes hear about Pods lying around in the desert or being dropped in the sea...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T134451Z" creationid="Syn Spawacza" creationdate="20200720T212812Z">
-        <seg>Słyszałam kiedyś o Podach porzuconych na pustyni, czy też wrzuconych do morza...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094117Z" creationid="Syn Spawacza" creationdate="20200720T212812Z">
+        <seg>Słyszałam kiedyś o Podach porzuconych na pustyni, a nawet o wrzuconych do morza...</seg>
       </tuv>
     </tu>
     <tu>
@@ -61475,8 +61475,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you manage to find another Pod or two, however, it'll make your life a lot easier!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T134421Z" creationid="Syn Spawacza" creationdate="20200720T212735Z">
-        <seg>Jeśli jednak dasz radę znaleźć kolejnego Poda, a nawet ze dwa, to uwierz — BARDZO ułatwi ci to życie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094045Z" creationid="Syn Spawacza" creationdate="20200720T212735Z">
+        <seg>Jeśli jednak dasz radę znaleźć kolejnego Poda, a nawet ze dwa, to uwierz... BARDZO ułatwią ci życie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -81515,8 +81515,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Oh, and you can switch weapon sets using the &lt;KC_SHORTCUT&gt; shortcut menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T213041Z" creationid="Syn Spawacza" creationdate="20200720T213041Z">
-        <seg>A, i możesz zmieniać zestawy broni za pomocą menu skrótów &lt;KC_SHORTCUT&gt;.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094208Z" creationid="Syn Spawacza" creationdate="20200720T213041Z">
+        <seg>A... I możesz zmieniać zestawy broni za pomocą menu skrótów &lt;KC_SHORTCUT&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82435,8 +82435,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Okay, I'll adjust your camera settings.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T213339Z" creationid="Syn Spawacza" creationdate="20200720T213339Z">
-        <seg>Okej, dostosuję dla ciebie ustawienia kamery.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094256Z" creationid="Syn Spawacza" creationdate="20200720T213339Z">
+        <seg>Jasne... Dostosuję dla ciebie ustawienia kamery.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130229,8 +130229,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can equip two different sets with two weapons each, so try a few combinations to see what works for you.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195236Z" creationid="Syn Spawacza" creationdate="20200720T213005Z">
-        <seg>Możesz wyekwipować dwa różne zestawy z dwoma broniami w każdym, więc wypróbuj kilka kombinacji, by zobaczyć co ci odpowiada.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260519T094158Z" creationid="Syn Spawacza" creationdate="20200720T213005Z">
+        <seg>Możesz wyekwipować dwa różne zestawy z dwiema broniami w każdym, więc wypróbuj kilka kombinacji, aby przekonać się co ci odpowiada.</seg>
       </tuv>
     </tu>
     <tu>
