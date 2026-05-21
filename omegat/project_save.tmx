@@ -15801,8 +15801,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Signal code detected for missing plug-in chip.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T204642Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
-        <seg>Uwaga: wykryto sygnał dla zaginionego czipu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T190802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152045Z">
+        <seg>Uwaga: wykryto sygnał skradzionego czipu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92286,8 +92286,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Requested plug-in chip obtained.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152428Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152428Z">
-        <seg>Zamówiony czip zebrany.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T190854Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152428Z">
+        <seg>Poszukiwany czip został zebrany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111636,8 +111636,8 @@ Od tego czasu oglądałem prawdziwy świat z tej przestrzeni pamięci.&lt;bt_wai
       <tuv lang="en-US">
         <seg>They're all located somewhere in this city, so hopefully it won't take too long.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152039Z">
-        <seg>Wszystkie są gdzieś w tym mieście, więc miejmy nadzieję, że nie zajmie to długo.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T190730Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152039Z">
+        <seg>Wszystkie trzy znajdują się gdzieś w tym mieście, więc miejmy nadzieję, że ich poszukiwanie nie zajmie długo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112200,8 +112200,8 @@ przedmiot w sklepie.</seg>
       <tuv lang="en-US">
         <seg>This chip is a model used exclusively by YoRHa units.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153221Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153221Z">
-        <seg>Ten czip to model używany wyłącznie przez jednostki YoRHa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191019Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153221Z">
+        <seg>Ten czip jest modelem używanym wyłącznie przez jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
