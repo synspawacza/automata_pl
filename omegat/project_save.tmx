@@ -15569,8 +15569,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Incoming message from Command.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T204649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153340Z">
-        <seg>Uwaga: nadchodząca wiadomość od Dowództwa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191330Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153340Z">
+        <seg>Uwaga: otrzymano wiadomość z Dowództwa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16783,8 +16783,8 @@ Nie mam dzisiaj niczego do zgłoszenia!</seg>
       <tuv lang="en-US">
         <seg>All units, be on the lookout for a missing YoRHa in the city ruins.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153345Z">
-        <seg>Do wszystkich jednostek, zwracajcie uwagę na zaginione YoRHa w ruinach miasta.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191523Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153345Z">
+        <seg>Do wszystkich jednostek... W ruinach miasta należy wypatrywać zaginionej jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113758,8 +113758,8 @@ jeszcze splamione nawet kroplą krwi.</seg>
       <tuv lang="en-US">
         <seg>This unit was in possession of several plug-in chips that contain classified information.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T144526Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153348Z">
-        <seg>Jednostka ta była w posiadaniu paru czipów zawierających tajne informacje.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153348Z">
+        <seg>Jednostka, o której mowa, była w posiadaniu czipów zawierających ściśle tajne informacje.</seg>
       </tuv>
     </tu>
     <tu>
