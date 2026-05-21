@@ -8505,16 +8505,16 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>A YoRHa-only chip, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T221213Z" creationid="Syn Spawacza" creationdate="20200720T221213Z">
-        <seg>Czip tylko do YoRHy, co?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191304Z" creationid="Syn Spawacza" creationdate="20200720T221213Z">
+        <seg>Czip używany wyłącznie przez oddziały YoRHa, tak?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A YoRHa-only chip?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153234Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153234Z">
-        <seg>Czip tylko do YoRHy?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191240Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153234Z">
+        <seg>Chip przeznaczony wyłącznie dla YoRHa?</seg>
       </tuv>
     </tu>
     <tu>
@@ -110412,8 +110412,8 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>There is no reason for a non-YoRHa android to possess it.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T153226Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153226Z">
-        <seg>Nie ma powodów, by android nie z YoRHy wszedł w jego posiadanie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191220Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153226Z">
+        <seg>Nie istnieje uzasadnienie, dla którego android nie należący do YoRHa mógłby go posiadać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -112200,8 +112200,8 @@ przedmiot w sklepie.</seg>
       <tuv lang="en-US">
         <seg>This chip is a model used exclusively by YoRHa units.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260521T191019Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153221Z">
-        <seg>Ten czip jest modelem używanym wyłącznie przez jednostki YoRHa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260521T191029Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T153221Z">
+        <seg>Ten czip jest używany wyłącznie przez jednostki YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
