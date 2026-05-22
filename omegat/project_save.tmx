@@ -61763,8 +61763,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>Ignore the troubled fellow.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200720T221458Z" creationid="Syn Spawacza" creationdate="20200720T221458Z">
-        <seg>Zignoruj zakłopotanego kolegę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260522T105235Z" creationid="Syn Spawacza" creationdate="20200720T221458Z">
+        <seg>Zignoruj zmartwionego kolegę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117951,8 +117951,8 @@ Przepraszam, ale obowiązuje zakaz wstępu.</seg>
       <tuv lang="en-US">
         <seg>Urgh... What to do, what to do?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T104700Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104700Z">
-        <seg>Urgh...Co robić, co robić?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260522T104944Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T104700Z">
+        <seg>Oh...Co robić, co robić?</seg>
       </tuv>
     </tu>
     <tu>
