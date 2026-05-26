@@ -15633,8 +15633,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Magical weapons from the old world detected.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210118T073450Z" creationid="Syn Spawacza" creationdate="20200721T222856Z">
-        <seg>Uwaga: wykryto magiczne bronie ze starego świata.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T141520Z" creationid="Syn Spawacza" creationdate="20200721T222856Z">
+        <seg>Uwaga: wykryto użycie magicznej broni, pochodzącej ze starego świata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -72866,8 +72866,8 @@ Co tutaj robisz?</seg>
       <tuv lang="en-US">
         <seg>Magical elements have a high probability of penetrating all defense systems.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210104T003903Z" creationid="Syn Spawacza" creationdate="20200721T222932Z">
-        <seg>Żywioły magiczne mają wysokie prawdopodobieństwo penetracji wszystkich systemów obronnych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T141627Z" creationid="Syn Spawacza" creationdate="20200721T222932Z">
+        <seg>Żywioły magiczne posiadają wysokie prawdopodobieństwo przeniknięcia przez wszystkie systemy obronne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82627,8 +82627,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Okay, this is NOT good!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T222836Z" creationid="Syn Spawacza" creationdate="20200721T222836Z">
-        <seg>Okej, NIE jest dobrze!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T141434Z" creationid="Syn Spawacza" creationdate="20200721T222836Z">
+        <seg>No dobra... To wcale NIE wygląda dobrze...!</seg>
       </tuv>
     </tu>
     <tu>
