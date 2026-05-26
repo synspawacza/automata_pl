@@ -49953,9 +49953,9 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
         <seg>How may I assist you?
 ...Please keep it brief.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T194836Z" creationid="Syn Spawacza" creationdate="20200721T194836Z">
-        <seg>W czym mogę ci pomóc?
-Streszczaj się, proszę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T204905Z" creationid="Syn Spawacza" creationdate="20200721T194836Z">
+        <seg>W czym mogę pomóc?
+Tylko krótko, proszę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116703,8 +116703,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Uh oh. I'm gonna get yelled at again, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T194818Z" creationid="Syn Spawacza" creationdate="20200721T194818Z">
-        <seg>O-oo. Znowu mi się oberwie, co?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T204817Z" creationid="Syn Spawacza" creationdate="20200721T194818Z">
+        <seg>Oho... Znowu mi się oberwie, co?</seg>
       </tuv>
     </tu>
     <tu>
