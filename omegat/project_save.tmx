@@ -124634,8 +124634,8 @@ Eee... prawda?</seg>
       <tuv lang="en-US">
         <seg>What are you doing? Get back to the mission immediately!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T201951Z" creationid="Syn Spawacza" creationdate="20200721T201951Z">
-        <seg>Co tu robicie? Natychmiast wracajcie do misji!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T210904Z" creationid="Syn Spawacza" creationdate="20200721T201951Z">
+        <seg>Co tu robicie? Natychmiast wracajcie na misję!</seg>
       </tuv>
     </tu>
     <tu>
@@ -133601,8 +133601,8 @@ Za takie osiągnięcie przyznano coś specjalnego!</seg>
       <tuv lang="en-US">
         <seg>Your continued presence here is a gross violation of orders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T202043Z" creationid="Syn Spawacza" creationdate="20200721T202043Z">
-        <seg>Wasza ciągła obecność tutaj to odrażające naruszenie porządku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T211016Z" creationid="Syn Spawacza" creationdate="20200721T202043Z">
+        <seg>Wasza dalsza obecność tutaj stanowi poważne naruszenie rozkazów.</seg>
       </tuv>
     </tu>
     <tu>
