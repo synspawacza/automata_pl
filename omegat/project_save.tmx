@@ -20400,8 +20400,8 @@ Otrzymaliśmy niepokojące raporty z wielu regionów administracyjnych, w który
       <tuv lang="en-US">
         <seg>Areas where rigid tree bark is available marked on map.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T082745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082745Z">
-        <seg>Zaznaczono na mapie miejsca, w których dostępna jest sztywna kora.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T164941Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082745Z">
+        <seg>Na mapie oznaczono lokacje, w których powinna być dostępna sztywna kora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -54772,16 +54772,16 @@ więc pomóż mi tutaj!</seg>
       <tuv lang="en-US">
         <seg>I need rigid tree bark to create a filter, but the only location I know of is guarded by ferocious machine lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260526T164224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082724Z">
-        <seg>Aby stworzyć filtr, potrzebuję sztywnej kory. Ale jedyne miejsce, w którym można ją znaleźć, jest strzeżone przez wrogie mechaniczne formy życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T164618Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082724Z">
+        <seg>Potrzebuję sztywnej kory. Ale jedyne miejsce, w którym można ją znaleźć, jest aktualnie patrolowane przez wrogie mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>I need some rigid tree bark to create a filter, but I can't fetch any at the moment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T193508Z" creationid="Syn Spawacza" creationdate="20200721T193508Z">
-        <seg>Potrzebuję do filtra sztywnej kory, ale nie jestem w stanie jej w tym momencie zdobyć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T164749Z" creationid="Syn Spawacza" creationdate="20200721T193508Z">
+        <seg>Do wykonania filtra potrzebuję sztywnej kory, ale nie jestem w stanie jej w tym momencie zdobyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -94635,8 +94635,8 @@ BAWILIŚMY SIĘ RAZEM, KIEDY TYLKO BYŁA TAKA MOŻLIWOŚĆ.</seg>
       <tuv lang="en-US">
         <seg>Sadly, I'm a bit short on materials right now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260526T164341Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082707Z">
-        <seg>Niestety... W tej chwili mamy niedobór materiałów, z których mógłbym stworzyć poszukiwany przez ciebie filtr.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T164558Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T082707Z">
+        <seg>Przykro mi to mówić, ale w tej chwili nie posiadamy materiałów, za pomocą których mógłbym stworzyć poszukiwany przez ciebie filtr.</seg>
       </tuv>
     </tu>
     <tu>
