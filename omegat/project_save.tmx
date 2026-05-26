@@ -20288,8 +20288,8 @@ Otrzymaliśmy niepokojące raporty z wielu regionów administracyjnych, w który
       <tuv lang="en-US">
         <seg>Are you still here? Hurry up and get to Earth!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T204642Z" creationid="Syn Spawacza" creationdate="20200721T204642Z">
-        <seg>Wciąż tu jesteście? Pośpieszcie się i lećcie na Ziemię!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T213106Z" creationid="Syn Spawacza" creationdate="20200721T204642Z">
+        <seg>Jeszcze tu jesteście? Pospieszcie się! Musicie lecieć na Ziemię!</seg>
       </tuv>
     </tu>
     <tu>
@@ -48092,8 +48092,8 @@ Cóż... To by było na tyle. Na razie!
       <tuv lang="en-US">
         <seg>Hey, why are you still here? Do you want to get caught for violating orders!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T204620Z" creationid="Syn Spawacza" creationdate="20200721T204620Z">
-        <seg>Wciąż tu jesteście? Chcecie zostać złapani za naruszanie rozkazów?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T212942Z" creationid="Syn Spawacza" creationdate="20200721T204620Z">
+        <seg>Ej! Dlaczego wciąż tu jesteście? Chcecie zostać złapani za niewykonywanie rozkazów?</seg>
       </tuv>
     </tu>
     <tu>
