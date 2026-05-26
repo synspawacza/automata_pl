@@ -15875,8 +15875,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Theft of physical objects may disturb the resident.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T204713Z" creationid="Syn Spawacza" creationdate="20200721T221743Z">
-        <seg>Uwaga: kradzież obiektów fizycznych może zaniepokoić mieszkańca.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T195020Z" creationid="Syn Spawacza" creationdate="20200721T221743Z">
+        <seg>Uwaga: kradzież przedmiotów może zaniepokoić ich właściciela.</seg>
       </tuv>
     </tu>
     <tu>
