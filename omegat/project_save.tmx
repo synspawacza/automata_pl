@@ -15217,8 +15217,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Access point communications jammed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T180555Z" creationid="Syn Spawacza" creationdate="20200610T173738Z">
-        <seg>Uwaga: system łączności punktu dostępu zagłuszany.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T192214Z" creationid="Syn Spawacza" creationdate="20200610T173738Z">
+        <seg>Uwaga: system łączności punktu dostępu jest zagłuszany.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50830,8 +50830,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>Hypothesis: Jamming caused by enemies in local vicinity.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182935Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
-        <seg>Hipoteza: zakłócenia są wywoływane przez wrogów w pobliżu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T192456Z" creationid="Syn Spawacza" creationdate="20200610T173827Z">
+        <seg>Hipoteza: zagłuszanie powodują wrogowie znajdujący się w pobliżu.</seg>
       </tuv>
     </tu>
     <tu>
