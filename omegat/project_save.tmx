@@ -32583,8 +32583,8 @@ Po prostu, wiesz, bądź jak 9S!</seg>
       <tuv lang="en-US">
         <seg>Data may be displayed from the system menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200610T174130Z" creationid="Syn Spawacza" creationdate="20200610T174130Z">
-        <seg>Dane mapy są teraz dostępne w menu systemowym.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T193715Z" creationid="Syn Spawacza" creationdate="20200610T174130Z">
+        <seg>Dane mapy mogą zostać wyświetlone w menu systemowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -73526,8 +73526,8 @@ wydaje się nie mieć sensu.</seg>
       <tuv lang="en-US">
         <seg>Map data obtained from Bunker.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T182943Z" creationid="Syn Spawacza" creationdate="20200610T174106Z">
-        <seg>Otrzymano dane do mapy z Bunkra.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T193414Z" creationid="Syn Spawacza" creationdate="20200610T174106Z">
+        <seg>Uzyskano dane mapy z Bunkra.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81763,8 +81763,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Oh, hey. This is data from the old world.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210118T073502Z" creationid="Syn Spawacza" creationdate="20200610T174022Z">
-        <seg>Ej, to dane ze starego świata.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T193323Z" creationid="Syn Spawacza" creationdate="20200610T174022Z">
+        <seg>O... To dane pochodzące ze starego świata.</seg>
       </tuv>
     </tu>
     <tu>
