@@ -1997,8 +1997,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...So you were the bandit all along!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T221422Z" creationid="Syn Spawacza" creationdate="20200722T221422Z">
-        <seg>A więc to ty jesteś tym bandytą który się mi włamuje?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T195342Z" creationid="Syn Spawacza" creationdate="20200722T221422Z">
+        <seg>A więc to ty jesteś tym bandytą, który włamuje się do mnie od pewnego czasu?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -86345,8 +86345,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Pick up Emil's mask?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T221755Z" creationid="Syn Spawacza" creationdate="20200721T221755Z">
-        <seg>Wziąć maskę Emila?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T195101Z" creationid="Syn Spawacza" creationdate="20200721T221755Z">
+        <seg>Wziąć maskę należącą do Emila?</seg>
       </tuv>
     </tu>
     <tu>
