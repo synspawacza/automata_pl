@@ -117023,8 +117023,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Um, is there a problem? Did I forget to upload intel or something?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T194735Z" creationid="Syn Spawacza" creationdate="20200721T194735Z">
-        <seg>Ehm, jest jakiś problem? Zapomniałam wysłać wywiadu czy coś?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T204742Z" creationid="Syn Spawacza" creationdate="20200721T194735Z">
+        <seg>Eee... Coś nie tak? Zapomniałam wysłać danych wywiadowczych, czy coś...?</seg>
       </tuv>
     </tu>
     <tu>
@@ -127042,8 +127042,8 @@ O nie! Muszę natychmiast dostarczyć zaopatrzenie!</seg>
       <tuv lang="en-US">
         <seg>Why are you still here? You should have the destination data for your next mission.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T193808Z" creationid="Syn Spawacza" creationdate="20200721T193808Z">
-        <seg>Wciąż tu jesteście? Powinniście mieć dane o celu waszej następnej misji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T204349Z" creationid="Syn Spawacza" creationdate="20200721T193808Z">
+        <seg>Dlaczego jeszcze tu jesteście? Powinniście mieć dane o celu waszej następnej misji.</seg>
       </tuv>
     </tu>
     <tu>
