@@ -9287,8 +9287,8 @@ Obniża poziom gracza o 10.</seg>
       <tuv lang="en-US">
         <seg>A fuel filter? I'm a weapons trader, what are you asking me for!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T132832Z" creationid="Syn Spawacza" creationdate="20200721T193324Z">
-        <seg>Filtr paliwa? Jestem handlarzem bronią, więc nie mnie o niego pytaj!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T161701Z" creationid="Syn Spawacza" creationdate="20200721T193324Z">
+        <seg>Filtr paliwa? Jestem handlarzem bronią, więc mnie o niego nie pytaj?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -131825,8 +131825,8 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You need a fuel filter? Sorry, but I'm all out!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T132556Z" creationid="Syn Spawacza" creationdate="20200721T193239Z">
-        <seg>Potrzebujesz filtra paliwa? Wybacz, ale nie mam aktualnie żadnego!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T161517Z" creationid="Syn Spawacza" creationdate="20200721T193239Z">
+        <seg>Potrzebujesz filtra paliwa? Wybacz, ale aktualnie nie posiadam żadnego!</seg>
       </tuv>
     </tu>
     <tu>
@@ -132821,8 +132821,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You'll have to ask Anemone when new stock is going to arrive.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T132652Z" creationid="Syn Spawacza" creationdate="20200721T193300Z">
-        <seg>Musisz spytać Anemonę, kiedy dotrze nowa dostawa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T161638Z" creationid="Syn Spawacza" creationdate="20200721T193300Z">
+        <seg>Musisz zapytać Anemonę, kiedy dotrze nowa dostawa.</seg>
       </tuv>
     </tu>
     <tu>
