@@ -1829,8 +1829,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...No? Good. Then carry on with your mission.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T195049Z" creationid="Syn Spawacza" creationdate="20200721T195049Z">
-        <seg>Nie...? Dobrze. W takim razie możesz wrócić do swojej misji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T205117Z" creationid="Syn Spawacza" creationdate="20200721T195049Z">
+        <seg>Nie...? To dobrze. W takim razie, możesz wrócić do swojej misji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20296,8 +20296,8 @@ Otrzymaliśmy niepokojące raporty z wielu regionów administracyjnych, w który
       <tuv lang="en-US">
         <seg>Are you still here? You should return to your duties.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T194900Z" creationid="Syn Spawacza" creationdate="20200721T194900Z">
-        <seg>Wciąż tu jesteście? Powinniście wrócić do waszych obowiązków.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T204922Z" creationid="Syn Spawacza" creationdate="20200721T194900Z">
+        <seg>Wciąż tu jesteście? Powinniście wrócić do swoich obowiązków.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48076,8 +48076,8 @@ Cóż... To by było na tyle. Na razie!
       <tuv lang="en-US">
         <seg>Hey, welcome back! ...So, um, can you show me the new data you brought?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T195142Z" creationid="Syn Spawacza" creationdate="20200721T195142Z">
-        <seg>Hej, witam z powrotem! Więc... ehm, możesz pokazać mi dane które zebraliście?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T205319Z" creationid="Syn Spawacza" creationdate="20200721T195142Z">
+        <seg>Hej, witam ponownie! No to jak...? Możesz pokazać mi dane, które zebraliście?</seg>
       </tuv>
     </tu>
     <tu>
@@ -49864,8 +49864,8 @@ mam wrażenia, że moje gardło rozpadnie się na dwie części.
       <tuv lang="en-US">
         <seg>How is your mission progressing?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T195057Z" creationid="Syn Spawacza" creationdate="20200721T195057Z">
-        <seg>Jak idą postępy w misji?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T205147Z" creationid="Syn Spawacza" creationdate="20200721T195057Z">
+        <seg>Jak tam postępy w misji?</seg>
       </tuv>
     </tu>
     <tu>
@@ -79861,8 +79861,8 @@ Dla mnie, nienawiść jest...”</seg>
       <tuv lang="en-US">
         <seg>Now get going before I report you for disobeying orders.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T194934Z" creationid="Syn Spawacza" creationdate="20200721T194934Z">
-        <seg>A teraz lećcie, zanim zaraportuję was za nieprzestrzeganie rozkazów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260526T205048Z" creationid="Syn Spawacza" creationdate="20200721T194934Z">
+        <seg>Idźcie już... Zanim zgłoszę was za "niewykonywanie rozkazów".</seg>
       </tuv>
     </tu>
     <tu>
