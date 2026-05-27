@@ -34676,8 +34676,8 @@ Nie byłabym w stanie samotnie znieść tego brzemienia.
       <tuv lang="en-US">
         <seg>Did you know you can install plug-in chips to improve your body's performance?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174630Z">
-        <seg>Wiedziałaś, że możesz zainstalować czipy rozszerzeń poprawiające wydajność twojego ciała?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T084658Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174630Z">
+        <seg>Wiedziałaś, że możesz instalować czipy rozszerzeń poprawiające wydajność twojego ciała?</seg>
       </tuv>
     </tu>
     <tu>
@@ -61619,8 +61619,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you want to install a bunch of chips, go talk to the S-type model in the server administration room.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T211536Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
-        <seg>Jeśli chcesz zainstalować trochę czipów, pogadaj z modelem typu S w pokoju administracji serwera.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T084815Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
+        <seg>Jeśli chcesz zainstalować większą ilość czipów, porozmawiaj z modelem typu S. Powinien przebywać w pokoju administracji serwera.</seg>
       </tuv>
     </tu>
     <tu>
