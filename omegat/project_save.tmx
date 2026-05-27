@@ -40,8 +40,8 @@
       <tuv lang="en-US">
         <seg>"...Understood. I've sent your most recent report to Command and have intel regarding your next mission."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T220116Z" creationid="Syn Spawacza" creationdate="20200721T220116Z">
-        <seg>„Zrozumiano. Wysłałam najnowsze raporty do Dowództwa i mam dane wywiadowcze dotyczące twojej następnej misji.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T072549Z" creationid="Syn Spawacza" creationdate="20200721T220116Z">
+        <seg>„Zrozumiano. Przesłałam twój najnowszy raport do Dowództwa. Dostałam dane wywiadowcze dotyczące twojej następnej misji.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,8 +378,8 @@ Cena: 3800 jenów (+VAT)</seg>
       <tuv lang="en-US">
         <seg>"This is the Bunker. Please confirm your current status."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T220000Z" creationid="Syn Spawacza" creationdate="20200721T220000Z">
-        <seg>„Tu Bunkier. Potwierdź proszę swój obecny status.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T072247Z" creationid="Syn Spawacza" creationdate="20200721T220000Z">
+        <seg>„Tu Bunkier. Proszę, potwierdź swój obecny status.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -124144,8 +124144,8 @@ Eee... prawda?</seg>
       <tuv lang="en-US">
         <seg>Well, not my business—but make sure the Commander doesn't catch you! I hear she likes to fire slackers out the airlock.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210111T105334Z" creationid="Syn Spawacza" creationdate="20200721T215935Z">
-        <seg>Cóż, nie mój interes — ale dajcie się przyłapać Komandor! Słyszałam, że lubi wystrzeliwać bumelantów ze śluzy powietrznej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T072229Z" creationid="Syn Spawacza" creationdate="20200721T215935Z">
+        <seg>Cóż... To nie mój interes, ale... Nie dajcie się na niej przyłapać Komandor! Słyszałam, że lubi wyrzucać obiboków przez śluzę powietrzną.</seg>
       </tuv>
     </tu>
     <tu>
