@@ -328,8 +328,8 @@ Cena: 3800 jenów (+VAT)</seg>
       <tuv lang="en-US">
         <seg>"This is a message from the Bunker to all Earth-based troops. Flight units are not toys! Please take care of them!"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T220421Z" creationid="Syn Spawacza" creationdate="20200721T220421Z">
-        <seg>„Tu komunikat z Bunkra do wszystkich żołnierzy na Ziemi. Jednostki latające to nie zabawki! Proszę, dbajcie o nie!”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T072933Z" creationid="Syn Spawacza" creationdate="20200721T220421Z">
+        <seg>„Komunikat z Bunkra do wszystkich jednostek na Ziemi. Jednostki latające nie są zabawkami! Proszę, dbajcie o nie!”</seg>
       </tuv>
     </tu>
     <tu>
@@ -54476,8 +54476,8 @@ więc pomóż mi tutaj!</seg>
       <tuv lang="en-US">
         <seg>I love slacking off too, but try not to do it too much, okay? ...And if the Commander catches you, we never had this chat!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T220337Z" creationid="Syn Spawacza" creationdate="20200721T220337Z">
-        <seg>Lubię się obijać, ale nie przesadzajcie z tym, dobra? A jak Komandor was przyłapie, to nigdy nie rozmawialiśmy!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T072832Z" creationid="Syn Spawacza" creationdate="20200721T220337Z">
+        <seg>Ja również lubię się obijać, ale nie przesadzajcie z tym, dobra? A jeśli Komandor was przyłapie, to ta rozmowa nigdy się nie odbyła!</seg>
       </tuv>
     </tu>
     <tu>
@@ -127278,8 +127278,8 @@ To taka mordęga.</seg>
       <tuv lang="en-US">
         <seg>Why in the world are you bothering me!? Can't you see how busy I am!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202537Z" creationid="Syn Spawacza" creationdate="20200721T220441Z">
-        <seg>Dlaczego ciągle mnie nachodzisz?! Nie widzisz, że jestem zajęta?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T073050Z" creationid="Syn Spawacza" creationdate="20200721T220441Z">
+        <seg>Dlaczego zawracasz mi głowę?! Nie widzisz, że mam dużo roboty?!</seg>
       </tuv>
     </tu>
     <tu>
