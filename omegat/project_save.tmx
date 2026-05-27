@@ -61619,8 +61619,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you want to install a bunch of chips, go talk to the S-type model in the server administration room.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260527T084815Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
-        <seg>Jeśli chcesz zainstalować większą ilość czipów, porozmawiaj z modelem typu S. Powinien przebywać w pokoju administracji serwera.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T084956Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174635Z">
+        <seg>Jeśli chcesz zainstalować większą ilość czipów, porozmawiaj z modelem typu S. Znajdziesz go w pokoju administracji serwera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -87129,8 +87129,8 @@ Adam trzyma go w delikatnym uścisku. Wygląda, jakby się do mnie uśmiechał.&
       <tuv lang="en-US">
         <seg>Plug-in chips remain in your body after you die.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T183054Z" creationid="Syn Spawacza" creationdate="20200722T182938Z">
-        <seg>Czipy rozszerzeń pozostają po śmierci w twoim ciele.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T085036Z" creationid="Syn Spawacza" creationdate="20200722T182938Z">
+        <seg>Czipy rozszerzeń pozostają w twoim ciele nawet po śmierci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98651,8 +98651,8 @@ for 30 seconds.</seg>
       <tuv lang="en-US">
         <seg>So don't forget to recover your body if want them back.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T183042Z" creationid="Syn Spawacza" creationdate="20200722T183042Z">
-        <seg>Zatem nie zapomnij odzyskać ciała, jeśli chcesz je zachować.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T085511Z" creationid="Syn Spawacza" creationdate="20200722T183042Z">
+        <seg>Jeśli zechcesz je odzyskać, nie możesz zapomnieć odzyskać ciała.</seg>
       </tuv>
     </tu>
     <tu>
