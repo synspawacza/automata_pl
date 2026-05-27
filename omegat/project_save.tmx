@@ -71543,8 +71543,8 @@ za pomocą tego miecza, chcąc zyskać nieśmiertelność.</seg>
       <tuv lang="en-US">
         <seg>Looking for Command? Just head down the hall to the left.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T211430Z" creationid="Syn Spawacza" creationdate="20200721T211430Z">
-        <seg>Szukasz Komandor? Po prostu idź korytarzem w lewo.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T051037Z" creationid="Syn Spawacza" creationdate="20200721T211430Z">
+        <seg>Szukasz Komandor? Korytarz po lewej zaprowadzi cię do niej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109391,8 +109391,8 @@ Czy chcesz połączyć ten czip?</seg>
       <tuv lang="en-US">
         <seg>The server administration room is on the right.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T211500Z" creationid="Syn Spawacza" creationdate="20200721T211500Z">
-        <seg>Pokój administracji serwera jest po prawej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T051106Z" creationid="Syn Spawacza" creationdate="20200721T211500Z">
+        <seg>Pokój administracji serwera znajduje się po prawej.</seg>
       </tuv>
     </tu>
     <tu>
