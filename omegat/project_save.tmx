@@ -64980,8 +64980,8 @@ A co ze mną? Dlaczego ja tu jestem? Dlaczego ja...</seg>
       <tuv lang="en-US">
         <seg>It was a practical design decision to allow combat units to also collect intelligence.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T220854Z" creationid="Syn Spawacza" creationdate="20200721T220854Z">
-        <seg>To była praktyczna decyzja projektowa, pozwolić jednostkom bojowym zbierać też wywiad.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T083928Z" creationid="Syn Spawacza" creationdate="20200721T220854Z">
+        <seg>To była praktyczna decyzja projektowa, pozwalająca jednostkom bojowym na zbieranie informacji wywiadowczych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -133577,8 +133577,8 @@ Za takie osiągnięcie przyznano coś specjalnego!</seg>
       <tuv lang="en-US">
         <seg>Your bodies automatically register information from slain enemies to the database.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174114Z">
-        <seg>Wasze ciała automatycznie rejestrują informację o zabitych przeciwnikach w naszej bazie danych.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260527T083745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174114Z">
+        <seg>Wasze ciała automatycznie rejestrują informacje o pokonanych wrogach w naszej bazie danych.</seg>
       </tuv>
     </tu>
     <tu>
