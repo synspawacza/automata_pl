@@ -344,8 +344,8 @@ Cena: 3800 jenów (+VAT)</seg>
       <tuv lang="en-US">
         <seg>"This is the Bunker. Do you read? ...I repeat, do you read me?"</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T194142Z" creationid="Syn Spawacza" creationdate="20200722T194142Z">
-        <seg>„Tu Bunkier. Czy mnie słyszysz? Powtarzam, czy mnie słyszysz?”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T093312Z" creationid="Syn Spawacza" creationdate="20200722T194142Z">
+        <seg>„Tu Bunkier. Czy mnie słyszysz? Powtarzam... Czy mnie słyszysz?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -128606,8 +128606,8 @@ stronę nie patrzył w moją stronę nie patrzył w moją stronę nie patrzył w
       <tuv lang="en-US">
         <seg>Yeah, I'm working. A lot, actually. Maybe come back later.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T204105Z" creationid="Syn Spawacza" creationdate="20200722T204105Z">
-        <seg>Tak, pracuję. I to dużo. Może wróć później.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T093533Z" creationid="Syn Spawacza" creationdate="20200722T204105Z">
+        <seg>Tak, pracuję. Aktualnie mam dużo pracy. Możesz przyjść później?</seg>
       </tuv>
     </tu>
     <tu>
