@@ -61491,8 +61491,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you need additional mission intel, you can find it on your HUD. Certain plug-in chips can also help you out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T183941Z" creationid="Syn Spawacza" creationdate="20200722T183941Z">
-        <seg>Jeśli potrzebujesz dodatkowych danych, możesz znaleźć je na twoim HUD-zie. Pewne czipy rozszerzeń też mogą pomóc.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T083029Z" creationid="Syn Spawacza" creationdate="20200722T183941Z">
+        <seg>Jeśli potrzebujesz dodatkowych danych, możesz znaleźć je na swoim HUD-zie. Pewne czipy rozszerzeń też mogą pomóc.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122505,8 +122505,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We're collaborating with the Resistance to gather intel and help our troops win the war for Earth.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195302Z" creationid="Syn Spawacza" creationdate="20200722T184021Z">
-        <seg>Współpracujemy z Ruchem Oporu, by zebrać wywiad i pomóc naszym oddziałom wygrać wojnę o Ziemię.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T083321Z" creationid="Syn Spawacza" creationdate="20200722T184021Z">
+        <seg>Wspólnie z Ruchem Oporu zbieramy dane wywiadowcze, które pomogą naszym oddziałom wygrać wojnę o Ziemię.</seg>
       </tuv>
     </tu>
     <tu>
