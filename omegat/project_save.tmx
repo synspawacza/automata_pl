@@ -353,9 +353,9 @@ Cena: 3800 jenów (+VAT)</seg>
         <seg>"This is the Bunker. Go ahead.
 ...Say again? You lost your Pod!?"</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174735Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174707Z">
-        <seg>„Tu Bunkier. Mów.
-... Co? Zgubiłaś poda?!”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T081908Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174707Z">
+        <seg>„Tu Bunkier. Mów śmiało.
+Co takiego...? Zgubiłaś poda?!”</seg>
       </tuv>
     </tu>
     <tu>
@@ -434,8 +434,8 @@ Cena: 3800 jenów (+VAT)</seg>
       <tuv lang="en-US">
         <seg>"Well, a lost Pod will emit a distress signal, so try to locate that and then search the surrounding area. Bunker, out."</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174731Z">
-        <seg>„Cóż, zgubiony pod będzie emitował sygnał, więc spróbuj go zlokalizować i przeszukaj okolicę. Bez odbioru.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T082034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174731Z">
+        <seg>„Cóż... Zagubiony pod będzie emitował sygnał alarmowy, więc spróbuj go namierzyć, a następnie przeszukaj okolicę. Bez odbioru.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -18368,8 +18368,8 @@ walczącym na zadanie im serii
       <tuv lang="en-US">
         <seg>And maybe don't LOSE IT NEXT TIME! Honestly...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T174745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174745Z">
-        <seg>I może NIE ZGUB GO NASTĘPNYM RAZEM! Serio...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T082114Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200623T174745Z">
+        <seg>I może NIE ZGUB GO NASTĘPNYM RAZEM! Co, sieroto...?</seg>
       </tuv>
     </tu>
     <tu>
