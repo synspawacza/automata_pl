@@ -61595,8 +61595,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you take out the enemies, you can access the terminal and restore it, but it's a real pain in the butt.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T184656Z" creationid="Syn Spawacza" creationdate="20200722T184656Z">
-        <seg>Jeśli zniszczysz wrogów, możesz użyć terminala i go przywrócić, choć to prawdziwy wrzód na tyłku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T084018Z" creationid="Syn Spawacza" creationdate="20200722T184656Z">
+        <seg>Jeśli zniszczysz wrogów znajdujących się przy terminalu, będzie można ponownie go używać. Ale bywa to naprawdę uciążliwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -100015,8 +100015,8 @@ znajomych androidów.
       <tuv lang="en-US">
         <seg>Sometimes you may not be able to use a transport terminal if machine lifeforms are jamming it.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T184535Z" creationid="Syn Spawacza" creationdate="20200722T184535Z">
-        <seg>Czasem nie będziesz w stanie użyć terminalu transportowego, jeśli mechaniczne formy życia go zakłócają.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T083842Z" creationid="Syn Spawacza" creationdate="20200722T184535Z">
+        <seg>Może się zdarzyć, że nie będziesz w stanie użyć terminala transportowego. Zazwyczaj dzieje się tak, ponieważ mechaniczne formy życia go zakłócają.</seg>
       </tuv>
     </tu>
     <tu>
