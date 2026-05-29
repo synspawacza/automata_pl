@@ -128,8 +128,8 @@
       <tuv lang="en-US">
         <seg>"Bunker to Resistance Camp: We need a damage report ASAP. Please respond."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T204721Z" creationid="Syn Spawacza" creationdate="20200722T204721Z">
-        <seg>„Bunkier do Obozu Ruchu Oporu: natychmiast potrzebujemy raportu uszkodzeń. Proszę, odpowiedz.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T094825Z" creationid="Syn Spawacza" creationdate="20200722T204721Z">
+        <seg>„Bunkier do Obozu Ruchu Oporu: pilnie potrzebujemy raportu o uszkodzeniach. Prosimy o odpowiedź!”</seg>
       </tuv>
     </tu>
     <tu>
@@ -57045,8 +57045,8 @@ Jestem wadliwym produktem.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I wish you success. Good luck.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260529T094510Z" creationid="Syn Spawacza" creationdate="20200722T204030Z">
-        <seg>Trzymam kciuki za twój sukces. Powodzenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T094516Z" creationid="Syn Spawacza" creationdate="20200722T204030Z">
+        <seg>Trzymam kciuki za twój sukces. Powodzenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -58725,8 +58725,8 @@ Muszę od razu napisać Mistrzowi &lt;SARU_JAN&gt;owi nowy list!</seg>
       <tuv lang="en-US">
         <seg>I'm more than a little busy here! Come back later!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T194219Z" creationid="Syn Spawacza" creationdate="20200722T194219Z">
-        <seg>Jestem bardziej niż trochę zajęta! Wróć proszę później!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T094645Z" creationid="Syn Spawacza" creationdate="20200722T194219Z">
+        <seg>Mam naprawdę dużo pracy! Proszę, wróć później!</seg>
       </tuv>
     </tu>
     <tu>
