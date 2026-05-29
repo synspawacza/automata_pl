@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>"...Okay, copy that. I'll take care of it at once."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T193331Z" creationid="Syn Spawacza" creationdate="20200722T193331Z">
-        <seg>„Okej, rozumiem. Zajmę się tym od razu.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T092703Z" creationid="Syn Spawacza" creationdate="20200722T193331Z">
+        <seg>„Jasne, zrozumiano. Zajmę się tym od razu.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -120,8 +120,8 @@
       <tuv lang="en-US">
         <seg>"Bunker here. I'm sending over the data now."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T193355Z" creationid="Syn Spawacza" creationdate="20200722T193355Z">
-        <seg>„Tu Bunkier. Wysyłam ci teraz dane.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T092811Z" creationid="Syn Spawacza" creationdate="20200722T193355Z">
+        <seg>„Tu Bunkier. Przesyłam ci dane.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2021,8 +2021,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Sorry, no time to talk. I'm busier than a one-legged machine in an ass-kicking contest.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T193912Z" creationid="Syn Spawacza" creationdate="20200722T193912Z">
-        <seg>Przepraszam, nie mam czasu na rozmowę. Jestem zajęta jak jednonoga maszyna na konkursie kopania po tyłku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T092940Z" creationid="Syn Spawacza" creationdate="20200722T193912Z">
+        <seg>Przepraszam, nie mam teraz czasu na rozmowę. Jestem zajęta, jak jednonożna maszyna podczas konkursu tańca.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38602,8 +38602,8 @@ poczuć się mądrym.</seg>
       <tuv lang="en-US">
         <seg>Er, do you mind coming back later? I've got a lot on my plate right now.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T193451Z" creationid="Syn Spawacza" creationdate="20200722T193451Z">
-        <seg>Eee, możesz wrócić trochę później? Jestem teraz dość zajęta.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260529T092734Z" creationid="Syn Spawacza" creationdate="20200722T193451Z">
+        <seg>Eee... Możesz wrócić trochę później? Teraz jestem naprawdę zajęta.</seg>
       </tuv>
     </tu>
     <tu>
