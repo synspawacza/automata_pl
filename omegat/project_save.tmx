@@ -426,8 +426,8 @@ Co takiego...? Zgubiłaś poda?!”</seg>
       <tuv lang="en-US">
         <seg>"We're reading a sudden decrease in your vital signs. Please make sure you don't push yourself too hard."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215309Z" creationid="Syn Spawacza" creationdate="20200722T215309Z">
-        <seg>„Odczytujemy nagły spadek twoich oznak życiowych. Proszę, nie forsuj się zbytnio”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T085256Z" creationid="Syn Spawacza" creationdate="20200722T215309Z">
+        <seg>„Wykrywamy nagły spadek twoich parametrów życiowych. Prosimy, nie forsuj się zbyt mocno.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2341,8 +2341,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...You know, while you sit here lazing about and eating bon-bons, someone is probably down on Earth stealing your glory!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215357Z" creationid="Syn Spawacza" creationdate="20200722T215357Z">
-        <seg>Wiesz, kiedy ty ty siedzisz i zajadasz się bombonierkami, może ktoś na Ziemie właśnie kradnie ci chwałę!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T085742Z" creationid="Syn Spawacza" creationdate="20200722T215357Z">
+        <seg>Wiesz co? Podczas gdy ty tu siedzisz i zajadasz się słodkościami, być może właśnie w tej chwili na Ziemi, ktoś inny odbiera twoją chwałę na polu walki!</seg>
       </tuv>
     </tu>
     <tu>
