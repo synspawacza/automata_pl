@@ -112954,8 +112954,8 @@ Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu s
       <tuv lang="en-US">
         <seg>This is my first large-scale mission. But don't worry—I increased my memory just in case.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T202322Z" creationid="Syn Spawacza" creationdate="20200723T202322Z">
-        <seg>To moja pierwsza misja na taką skalę. Ale nie martw się — na wszelki wypadek zwiększyłam sobie pamięć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T112533Z" creationid="Syn Spawacza" creationdate="20200723T202322Z">
+        <seg>To moja pierwsza misja na tak dużą skalę. Ale nie martw się. Na wszelki wypadek zwiększyłam sobie ilość pamięci.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130213,8 +130213,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can count on me to make things work from this end!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T202403Z" creationid="Syn Spawacza" creationdate="20200723T202403Z">
-        <seg>Możesz na mnie liczyć, że z tej strony załatwię sprawę!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T112634Z" creationid="Syn Spawacza" creationdate="20200723T202403Z">
+        <seg>Możesz być pewna, że z mojej strony wszystko będzie działało jak należy!</seg>
       </tuv>
     </tu>
     <tu>
