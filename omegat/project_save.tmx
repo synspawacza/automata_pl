@@ -24,8 +24,8 @@
       <tuv lang="en-US">
         <seg>" Your vital signs appear normal, but there's always the possibility of undetected errors. It's about time you returned for maintenance."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215529Z" creationid="Syn Spawacza" creationdate="20200722T215529Z">
-        <seg>„Twoje oznaki życiowe wydają się w normie, ale zawsze jest szansa na niewykryte błędy. Nadszedł czas na powrót na konserwację.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T085927Z" creationid="Syn Spawacza" creationdate="20200722T215529Z">
+        <seg>„Twoje parametry życiowe wydają się być w normie, ale zawsze mogą występować niewykryte błędy. Pora wrócić na przegląd techniczny.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -1309,8 +1309,8 @@ Nie mam nawet czasu na ruszanie ustami.</seg>
       <tuv lang="en-US">
         <seg>...Dammit! I can't get through! What if something's happening?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215609Z" creationid="Syn Spawacza" creationdate="20200722T215609Z">
-        <seg>Cholera...! Nie mogę się połączyć! Co, jeśli coś się stało?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090000Z" creationid="Syn Spawacza" creationdate="20200722T215609Z">
+        <seg>Cholera...! Nie mogę się połączyć! A co, jeśli coś się stało?</seg>
       </tuv>
     </tu>
     <tu>
