@@ -5303,8 +5303,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S is waiting in his room. You should go see him.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T221039Z" creationid="Syn Spawacza" creationdate="20200721T221006Z">
-        <seg>9S czeka w swoim pokoju. Powinnaś go zobaczyć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090436Z" creationid="Syn Spawacza" creationdate="20200721T221006Z">
+        <seg>9S czeka w swoim pokoju. Powinnaś się z nim zobaczyć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -52292,8 +52292,8 @@ Nie...&lt;bt_wait&gt; Nie pamiętam swojego imienia.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I don't know how you managed to beat Eve, but you did!  Now go take a nap or something. You totally earned it!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T221146Z" creationid="Syn Spawacza" creationdate="20200721T221146Z">
-        <seg>Nie wiem, jak byliście w stanie pokonać Ewę, ale udało wam się! Teraz zdrzemnij się, czy coś. Totalnie zasłużyłaś sobie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090720Z" creationid="Syn Spawacza" creationdate="20200721T221146Z">
+        <seg>Nie wiem, JAK udało wam się pokonać Ewę, ale dokonaliście tego! Teraz możesz chwilę odpocząć, czy zająć się czymś równie przyjemnym. W pełni na to zasłużyłaś!</seg>
       </tuv>
     </tu>
     <tu>
