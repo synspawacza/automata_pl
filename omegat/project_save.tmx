@@ -1405,8 +1405,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Er, don't you think it's time to go?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202610Z" creationid="Syn Spawacza" creationdate="20200723T200735Z">
-        <seg>Eee, nie sądzisz, że już czas iść?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T111720Z" creationid="Syn Spawacza" creationdate="20200723T200735Z">
+        <seg>Eee... Nie sądzisz, że powinnaś się już zbierać?</seg>
       </tuv>
     </tu>
     <tu>
@@ -50774,8 +50774,8 @@ bezwartościowy.</seg>
       <tuv lang="en-US">
         <seg>Hurry and move out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T200719Z" creationid="Syn Spawacza" creationdate="20200723T200719Z">
-        <seg>Pospiesz się i ruszaj.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T111638Z" creationid="Syn Spawacza" creationdate="20200723T200719Z">
+        <seg>Pospiesz się. Ruszaj!</seg>
       </tuv>
     </tu>
     <tu>
@@ -91870,8 +91870,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Remember that any amazing combat data you collect dies with you, so be careful.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T201942Z" creationid="Syn Spawacza" creationdate="20200723T201936Z">
-        <seg>Pamiętaj, że te niesamowite dane bojowe które zbierzesz umierają razem z tobą, więc uważaj na siebie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T111908Z" creationid="Syn Spawacza" creationdate="20200723T201936Z">
+        <seg>Pamiętaj, że wszystkie dane, które uda ci się zebrać, znikną wraz z tobą, więc uważaj na siebie.</seg>
       </tuv>
     </tu>
     <tu>
