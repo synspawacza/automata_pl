@@ -232,8 +232,8 @@
       <tuv lang="en-US">
         <seg>"Make sure to listen to your commanding officer, and don't push yourself too hard."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T213952Z" creationid="Syn Spawacza" creationdate="20200722T213952Z">
-        <seg>„Zawsze słuchaj się swojego oficera dowodzącego, i nie forsuj się zbytnio.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090102Z" creationid="Syn Spawacza" creationdate="20200722T213952Z">
+        <seg>„Zawsze słuchaj swojego oficera dowodzącego, i nie forsuj się zanadto.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -370,8 +370,8 @@ Co takiego...? Zgubiłaś poda?!”</seg>
       <tuv lang="en-US">
         <seg>"This is the Bunker. I'm uploading updated mission intel to you now."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T213903Z" creationid="Syn Spawacza" creationdate="20200722T213903Z">
-        <seg>„Tu Bunkier. Wysyłam ci zaktualizowane dane wywiadowcze.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090020Z" creationid="Syn Spawacza" creationdate="20200722T213903Z">
+        <seg>„Tu Bunkier. Wysyłam zaktualizowane dane wywiadowcze.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -49104,8 +49104,8 @@ formy życia.</seg>
       <tuv lang="en-US">
         <seg>Hmm? Done with your mission already? Must be nice!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T214013Z" creationid="Syn Spawacza" creationdate="20200722T214013Z">
-        <seg>Hmm? Już misja skończona? Takiemu to dobrze!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T090356Z" creationid="Syn Spawacza" creationdate="20200722T214013Z">
+        <seg>Hmm? Misja zakończona? Już? Wspaniała wiadomość!</seg>
       </tuv>
     </tu>
     <tu>
