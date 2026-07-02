@@ -362,8 +362,8 @@ Co takiego...? Zgubiłaś poda?!”</seg>
       <tuv lang="en-US">
         <seg>"This is the Bunker. I'm uploading the data required for your next mission."</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T214917Z" creationid="Syn Spawacza" creationdate="20200722T214917Z">
-        <seg>„Tu Bunkier. Wysyłam ci dane potrzebne do twojej kolejnej misji.”</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T084744Z" creationid="Syn Spawacza" creationdate="20200722T214917Z">
+        <seg>„Tu Bunkier. Przesyłam dane potrzebne do twojej następnej misji.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2181,8 +2181,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...What the hell are YOU doing here?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T214933Z" creationid="Syn Spawacza" creationdate="20200722T214933Z">
-        <seg>Co TU tu do diabła robisz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T084832Z" creationid="Syn Spawacza" creationdate="20200722T214933Z">
+        <seg>Co TY tu, do diabła, robisz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -25208,8 +25208,8 @@ przeczucia co do ostatniej fazy naszej misji.
       <tuv lang="en-US">
         <seg>But each time that happens, the officer's data resets—which means she never remembers any of us or what she did. It's so stupid.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210111T104603Z" creationid="Syn Spawacza" creationdate="20200722T214755Z">
-        <seg>Ale za każdym razem gdy tak się dzieje, dane oficer się resetują — co znaczy, że nie pamięta żadnego z nas, ani co zrobiła. To takie głupie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T084644Z" creationid="Syn Spawacza" creationdate="20200722T214755Z">
+        <seg>Ale za każdym razem gdy tak się dzieje, dane oficer się resetują. A to oznacza, że nie pamięta ani nikogo z nas, ani tego, co zrobiła. To takie głupie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60727,8 +60727,8 @@ Co o tym sądzisz?</seg>
       <tuv lang="en-US">
         <seg>If one of us is going to get hit, the commanding officer steps in to take it in their place.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260702T084445Z" creationid="Syn Spawacza" creationdate="20200722T214706Z">
-        <seg>W chwili gdy jedno z nas ma oberwać, dowódca wkracza przyjmując cios na siebie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T084530Z" creationid="Syn Spawacza" creationdate="20200722T214706Z">
+        <seg>W chwili gdy jedno z nas ma oberwać, oficer wkracza przyjmując cios na siebie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61083,8 +61083,8 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>If we made peace with the machines, no one else would have to die. Yet that's a trade-off some of us still aren't willing to make.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T214853Z" creationid="Syn Spawacza" creationdate="20200722T214853Z">
-        <seg>Jeśli zawrzemy pokój z maszynami, nikt inny nie będzie musiał umierać. Mimo to, jest to kompromis, na który niektórzy z nas nie chcą pójść.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T084715Z" creationid="Syn Spawacza" creationdate="20200722T214853Z">
+        <seg>Gdybyśmy zawarli pokój z maszynami, nikt więcej nie musiałby ginąć. A jednak to kompromis, na który niektórzy z nas wciąż nie chcą się zgodzić.</seg>
       </tuv>
     </tu>
     <tu>
