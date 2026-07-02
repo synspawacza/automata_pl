@@ -13356,8 +13356,8 @@ Mimo, że pierwotnie miał stanowić fortecę podczas konfliktu watażków z „
       <tuv lang="en-US">
         <seg>Actually, have you spoken with 9S yet? He's waiting in his room.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200721T221331Z" creationid="Syn Spawacza" creationdate="20200721T221331Z">
-        <seg>W sumie, rozmawiałaś już z 9S? Czeka w swoim pokoju.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T091000Z" creationid="Syn Spawacza" creationdate="20200721T221331Z">
+        <seg>Właściwie... rozmawiałaś już z 9S? Czeka w swoim pokoju.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14059,8 +14059,8 @@ z wspomnieniami Platona 1728.</seg>
       <tuv lang="en-US">
         <seg>Afraid I can't even give heroes a discount, but I can probably arrange a special bit of tuning if you'd like.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215811Z" creationid="Syn Spawacza" creationdate="20200722T215811Z">
-        <seg>Obawiam się, że nawet bohaterowie nie dostają zniżek, ale może uda się załatwić specjalne dostrajanie, jeśli masz ochotę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T091134Z" creationid="Syn Spawacza" creationdate="20200722T215811Z">
+        <seg>Niestety, nie mogę dawać bohaterom zniżek. Ale mogę załatwić specjalne dostrojenie, jeśli chcesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -46061,9 +46061,9 @@ Rozejrzyjmy się.</seg>
         <seg>Head out from the hangar.
 ...And good luck.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215847Z" creationid="Syn Spawacza" creationdate="20200722T215847Z">
-        <seg>Idź do hangaru.
-...i powodzenia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T091221Z" creationid="Syn Spawacza" creationdate="20200722T215847Z">
+        <seg>Udaj się do hangaru.
+I... powodzenia!</seg>
       </tuv>
     </tu>
     <tu>
@@ -104390,8 +104390,8 @@ To koniec.</seg>
       <tuv lang="en-US">
         <seg>Thank you for supporting 9S. Please continue to look after him.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260702T090922Z" creationid="Syn Spawacza" creationdate="20200721T221307Z">
-        <seg>Dziękuję za wspieranie 9S. Proszę, opiekuj się nim tak dobrze, jak tylko potrafisz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T091013Z" creationid="Syn Spawacza" creationdate="20200721T221307Z">
+        <seg>Dziękuję za wspieranie 9S. Opiekuj się nim tak dobrze, jak tylko potrafisz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132127,8 +132127,8 @@ Przywrócić poprzednie wyposażenie?</seg>
       <tuv lang="en-US">
         <seg>You seem a bit worn down. Let me take a look.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200722T215724Z" creationid="Syn Spawacza" creationdate="20200722T215724Z">
-        <seg>Wyglądasz na zużytą. Daj mi spojrzeć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260702T091050Z" creationid="Syn Spawacza" creationdate="20200722T215724Z">
+        <seg>Wydajesz się trochę osłabiona. Pozwól, że rzucę okiem.</seg>
       </tuv>
     </tu>
     <tu>
