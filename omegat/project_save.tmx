@@ -6980,11 +6980,11 @@ Dopóty będę przeć naprzód, nieważne, co się ze mną stanie.&lt;bt_wait&gt
 As expected, wiring in the nerve circuitry has been damaged.
 Replacing it will require new connectors, as well as some tools.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103559Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103559Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113958Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103559Z">
         <seg>&lt;label_SYURI&gt;
 &lt;page&gt;
-Tak jak się spodziewałam, okablowanie obwodów nerwowych zostało uszkodzone.
-Wymiana będzie wymagała nowych złączek a także narzędzi.&lt;bt_wait&gt;</seg>
+Tak, jak się spodziewałam... Okablowanie obwodów nerwowych zostało uszkodzone.
+Wymiana będzie wymagała nowych złączy, oraz kilku narzędzi.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7169,9 +7169,9 @@ Judging by Devola's current lack of ambulatory control,
 I imagine the circuitry underneath has been damaged as well.&lt;bt_wait&gt;
 Taking a deep breath, I...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103542Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113846Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103542Z">
         <seg>&lt;page&gt;
-Spod bandaża wygląda sztuczna skóra — porwana i zakrwawiona.
+Spod bandaża wystaje sztuczna skóra... rozdarta i zakrwawiona.
 Patrząc na brak kontroli ruchowej, podejrzewam,
 że obwody pod spodem również zostały uszkodzone.&lt;bt_wait&gt;
 Biorę głęboki oddech i...</seg>
@@ -8203,8 +8203,8 @@ Patrze na pistolet ściskany w drżących rękach.&lt;bt_wait&gt;</seg>
 &lt;sele_HOUTAI&gt;・replace the bandage and hope for the best.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201101T213928Z" creationid="Syn Spawacza" creationdate="20200627T155330Z">
-        <seg>&lt;sele_SYURI&gt;・sprawdzam czy obwody da się naprawić.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113854Z" creationid="Syn Spawacza" creationdate="20200627T155330Z">
+        <seg>&lt;sele_SYURI&gt;・sprawdzam, czy obwody da się naprawić.
 &lt;sele_HOUTAI&gt;・zmieniam bandaż i liczę na szczęście.
 &lt;/page&gt;</seg>
       </tuv>
@@ -34426,9 +34426,9 @@ Olej z porzuconej ciężarówki.</seg>
 Soon we are resting in the shade of a nearby rock as I pull the bandage free.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103504Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103504Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113721Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103504Z">
         <seg>Devola mruczy i odwraca się.&lt;bt_wait&gt; Odbieram to jako pozwolenie.&lt;bt_wait&gt;
-Wkrótce przystajemy na odpoczynek w cieniu pobliskiej skały, kiedy ściągam bandaż.
+Wkrótce przystajemy na odpoczynek w cieniu pobliskiej skały. Wtedy ściągam bandaż.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
