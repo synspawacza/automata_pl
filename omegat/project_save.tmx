@@ -61706,8 +61706,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you're worried about anything, you can always talk to me.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T182927Z" creationid="Syn Spawacza" creationdate="20200723T182927Z">
-        <seg>Jeśli cię coś martwi, zawsze możesz ze mną porozmawiać.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T070525Z" creationid="Syn Spawacza" creationdate="20200723T182927Z">
+        <seg>Jeśli coś cię martwi, zawsze możesz ze mną porozmawiać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -65552,8 +65552,8 @@ Nigdy wcześniej nie widziałem czegoś takiego.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>It's an electromagnetic-wave shielding device. I wear it to limit unnecessary information from the world.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082445Z">
-        <seg>To urządzenie blokujące fale elektromagnetyczne. Noszę ją, by ograniczyć napływ niepotrzebnych informacji ze świata.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T070329Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082445Z">
+        <seg>To urządzenie osłaniające przed falami elektromagnetycznymi. Noszę je, aby ograniczyć ilość niepotrzebnych informacji docierających do mnie ze świata.</seg>
       </tuv>
     </tu>
     <tu>
@@ -99290,8 +99290,8 @@ Ponieważ, niezależnie jak szalenie to zabrzmi, myślę, że czułyśmy się...
       <tuv lang="en-US">
         <seg>So what do you want? Are you worried about something or whatever?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T085119Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082457Z">
-        <seg>Więc, czego chcesz? Coś cię niepokoi, czy jak?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T070444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082457Z">
+        <seg>O co chodzi? Coś cię niepokoi, czy jak?</seg>
       </tuv>
     </tu>
     <tu>
