@@ -7426,11 +7426,11 @@ It looks like the machines gathered and stored a lot of info in here.
 It all seems pretty random at first...
 but on closer inspection, I learn how it's all connected.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251227T144151Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145313Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T111002Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145313Z">
         <seg>&lt;page&gt;
-Wygląda na to, że maszyny zebrały i przechowują tutaj mnóstwo danych.
-Na pierwszy rzut oka wydają się być dość losowe...
-Ale po bliższym zbadaniu zauważyłem, jak to wszystko się ze sobą łączy.&lt;bt_wait&gt;</seg>
+Wygląda na to, że maszyny zgromadziły i przechowały tutaj mnóstwo danych.
+Na pierwszy rzut oka wydają się być dość przypadkowe...
+Ale po dokładniejszym przyjrzeniu się odkrywam, jak to wszystko jest ze sobą połączone.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -50098,8 +50098,8 @@ Tylko krótko, proszę.</seg>
       <tuv lang="en-US">
         <seg>However, I still can't establish a link to my body.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251227T143933Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145253Z">
-        <seg>Jednakże, cały czas nie mogę nawiązać połączenia z moim własym ciałem.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110711Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145253Z">
+        <seg>Jednakże... Cały czas nie mogę nawiązać połączenia z moim własym ciałem.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -79663,13 +79663,13 @@ Znalazłem się w przedziwnym rejonie przechowywania pamięci, rozciągającym s
 It took a while...
 but the recovery program managed to restore most of my memory functions.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145247Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110654Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145247Z">
         <seg>Novel Game (80 x 11)
 □□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□
 &lt;BGM_BGM_M1070_S0040_N_start&gt;
 &lt;page&gt;
-To chwilę zajęło...
-ale program odzyskiwania pomógł odbudować większość funkcji pamięci.&lt;bt_wait&gt;</seg>
+Chwilę to zajęło...
+ale program odzyskiwania zdołał przywrócić większość funkcji mojej pamięci.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -124408,8 +124408,8 @@ Eee... prawda?</seg>
         <seg>Welp, I guess there's nothing else to do but examine the surrounding memory space.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251227T144022Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145301Z">
-        <seg>Cóż, chyba nie pozostaje mi nic innego, jak zbadać otaczającą mnie przestrzeń pamięci.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110727Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145301Z">
+        <seg>No cóż... Chyba nie pozostaje mi nic innego, jak zbadać otaczającą mnie przestrzeń pamięci.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
