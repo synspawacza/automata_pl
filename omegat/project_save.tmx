@@ -17148,8 +17148,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>An access point is a piece of YoRHa equipment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T184539Z" creationid="Syn Spawacza" creationdate="20200723T184539Z">
-        <seg>Punkt dostępu to sprzęt YoRHa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072221Z" creationid="Syn Spawacza" creationdate="20200723T184539Z">
+        <seg>Punkty dostępu należą do wyposażenia YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -75822,8 +75822,8 @@ Oczywiście, to było pytanie retoryczne.</seg>
       <tuv lang="en-US">
         <seg>More specifically, it's that thing.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T184549Z" creationid="Syn Spawacza" creationdate="20200723T184549Z">
-        <seg>A dokładniej, to tamta rzecz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072436Z" creationid="Syn Spawacza" creationdate="20200723T184549Z">
+        <seg>Mówiąc dokładniej, chodzi o to urządzenie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -81474,8 +81474,8 @@ Dlaczego?! Dlaczego udało wam się znaleźć to miejsce?!</seg>
       <tuv lang="en-US">
         <seg>Oh, and let me say it again... There's no auto-save!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202627Z" creationid="Syn Spawacza" creationdate="20200723T184508Z">
-        <seg>A, i pozwól, że powiem to jeszcze raz... Nie ma autozapisu!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072119Z" creationid="Syn Spawacza" creationdate="20200723T184508Z">
+        <seg>A... I pozwól, że powtórzę... Nie ma tu automatycznego zapisu!</seg>
       </tuv>
     </tu>
     <tu>
