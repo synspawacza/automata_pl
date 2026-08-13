@@ -6910,11 +6910,11 @@ Kto wie jaka walka czeka na nas...</seg>
 I want to repair this as soon as possible, but I have no tools or materials.
 And I know I won't find either in the middle of a desert.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200728T225114Z" creationid="Syn Spawacza" creationdate="20200728T225114Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114129Z" creationid="Syn Spawacza" creationdate="20200728T225114Z">
         <seg>&lt;label_HOUTAI&gt;
 &lt;page&gt;
-Chcę naprawić to tak szybko, jak to możliwe, ale nie mam narzędzi ani materiałów.
-A wiem, że nic z tych rzeczy nie znajdę na środku pustyni.&lt;bt_wait&gt;</seg>
+Chcę naprawić to tak szybko, jak to możliwe, ale nie mam narzędzi. Ani materiałów.
+A wiem, że żadnej z tych rzeczy nie znajdę na środku pustyni.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -41442,8 +41442,8 @@ wielką siłą ze względu na swoją masę.</seg>
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200728T225316Z" creationid="Syn Spawacza" creationdate="20200728T225316Z">
-        <seg>Póki co, najważniejsze to upewnić się, że rana się nie pogorszy.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114239Z" creationid="Syn Spawacza" creationdate="20200728T225316Z">
+        <seg>Na tę chwilę najważniejsze jest, aby rana nie stała się jeszcze poważniejsza.
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
@@ -79070,8 +79070,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103604Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103604Z">
-        <seg>Nic z tego nie można łatwo znaleźć na pustyni.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103604Z">
+        <seg>A na pustyni nic z tego nie jest łatwe do znalezienia.
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
