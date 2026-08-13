@@ -7156,9 +7156,9 @@ Ale i tak zastanawiam się, czy gdziekolwiek na tej planecie jest miejsce, któr
         <seg>&lt;page&gt;
 Annoyed at my hesitation, Devola crosses her legs and scowls.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103905Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103905Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114749Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103905Z">
         <seg>&lt;page&gt;
-Zirytowana moim wahaniem, Devola krzyżuje nogi i się marszczy.</seg>
+Zirytowana moim wahaniem, Devola krzyżuje nogi i marszczy się.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8039,13 +8039,13 @@ Devola's sharp voice echoes through our private quarters.
 “That might be true, but regardless...”
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103858Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114740Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103858Z">
         <seg>&lt;page&gt;
 „Musi być jakiś sposób, żeby powstrzymać nawroty!”&lt;bt_wait&gt;
 Ostry głos Devoli roznosi się echem po naszych prywatnych kwaterach.
 „Musisz być ciszej, Siostro. Replikanci usłyszą.”&lt;bt_wait&gt;
-„Pfff. Nie zrozumieliby nawet jakby usłyszeli.”&lt;bt_wait&gt;
-„Może i masz rację, ale niezależnie...”
+„Pfff. Nie zrozumieliby, nawet gdyby usłyszeli.”&lt;bt_wait&gt;
+„Może i masz rację, ale mimo wszystko...”
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -138979,11 +138979,11 @@ It's spreading way too fast.”&lt;bt_wait&gt;
 “Let's wait and see what happens.”&lt;bt_wait&gt;
 “I'm tired of hearing you say that!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200802T175319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103953Z">
-        <seg>„Czarne Bazgroły zabrały kolejną ofiarę.” mówi „To trzecia w tym miesiącu.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T115026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103953Z">
+        <seg>„Czarne Bazgroły zabrały kolejną ofiarę.”, mówi. „To trzecia w tym miesiącu.
 Zbyt szybko się roznosi.”&lt;bt_wait&gt;
 „Poczekajmy i zobaczmy co się stanie.”&lt;bt_wait&gt;
-„Jestem już zmęczona słyszeniem tego od ciebie!”&lt;bt_wait&gt;</seg>
+„Jestem już zmęczona słuchaniem tego od ciebie!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -139127,10 +139127,10 @@ informuje nas, że nie pojawią się żadne posiłki.&lt;bt_wait&gt;</seg>
 &lt;BGOFF_1_2&gt;
 Relapses increasing...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103801Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103801Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103801Z">
         <seg>※画像ＦＯ。
 &lt;BGOFF_1_2&gt;
-Relapses increasing...</seg>
+Nasilające się nawroty...</seg>
       </tuv>
     </tu>
     <tu>
