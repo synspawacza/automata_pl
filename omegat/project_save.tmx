@@ -1837,8 +1837,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...No? Hey, fair enough. Can't blame a guy for trying.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T085040Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152720Z">
-        <seg>Nie...? No, dobra. Nie wińcie mnie za to, że próbowałem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T101822Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152720Z">
+        <seg>Nie...? No, trudno... Rozumiem. Nie wińcie mnie jednak za to, że próbowałem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -98062,8 +98062,8 @@ Przez ciebie się rumienię.</seg>
       <tuv lang="en-US">
         <seg>Since you're a Scanner, if you get close to an enemy, &lt;KC_HEAVY_ATK&gt; should appear. ...Er, I think.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T091244Z" creationid="Syn Spawacza" creationdate="20200723T190400Z">
-        <seg>Skoro jesteś Skanerem, gdy zbliżysz się do wroga, powinien pojawić się &lt;KC_HEAVY_ATK&gt;... Eee, tak mi się wydaje.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T101925Z" creationid="Syn Spawacza" creationdate="20200723T190400Z">
+        <seg>Jako Skaner, po zbliżeniu się do przeciwnika, powinien pojawić się &lt;KC_HEAVY_ATK&gt;... Eee... Tak mi się przynajmniej wydaje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130374,8 +130374,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can start hacking by pressing and holding &lt;KC_HEAVY_ATK&gt;, but there's a secret trick you can do as well.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T190451Z" creationid="Syn Spawacza" creationdate="20200723T190451Z">
-        <seg>Możesz rozpocząć hakowanie naciskając i przytrzymując &lt;KC_HEAVY_ATK&gt;, ale jest sekretny trik, który możesz wykonać.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T102009Z" creationid="Syn Spawacza" creationdate="20200723T190451Z">
+        <seg>Możesz rozpocząć hakowanie, naciskając i przytrzymując &lt;KC_HEAVY_ATK&gt;, ale możesz też skorzystać z pewnego sekretnego triku.</seg>
       </tuv>
     </tu>
     <tu>
