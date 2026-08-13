@@ -6928,15 +6928,15 @@ I calmly change the bandage, trying not to let my worry show.
 I make it as tight as possible so no sand can slip inside.
 It's all I can do until I get the proper materials.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103712Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103712Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114326Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103712Z">
         <seg>&lt;label_HOUTAI_END&gt;
 &lt;page&gt;
 „Przepraszam za to, Siostrzyczko.” mamrocze Devola.&lt;bt_wait&gt;
 Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie torturuje.&lt;bt_wait&gt;
-„Nie waż się przepraszać” odpowiadam „Nie zrobiłaś nic złego.”&lt;bt_wait&gt;
+„Nie waż się przepraszać”, odpowiadam. „Nie zrobiłaś niczego złego.”&lt;bt_wait&gt;
 Delikatnie zmieniam bandaż, próbując nie okazać po sobie niepokoju.
-Zawiązuje go tak ciasno, jak tylko mogę, żeby nie dostał się do środka żaden piasek.
-To wszystko co mogę zrobić zanim zdobędę odpowiednie materiały.&lt;bt_wait&gt;</seg>
+Zawiązuję go tak ciasno, jak tylko mogę, żeby nie dostał się do środka piasek.
+To wszystko co mogę zrobić, zanim zdobędę odpowiednie materiały.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25625,8 +25625,8 @@ Wszystko dzięki parze modeli Devola i Popola z innego miasta.
         <seg>But that's going to be a tall order, considering our current condition.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103718Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103718Z">
-        <seg>Ale to będzie ciężka sprawa, patrząc na nasz aktualny stan.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103718Z">
+        <seg>Ale to nie będzie wcale łatwe, patrząc na nasz aktualny stan.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -120535,9 +120535,9 @@ A skoro nie znamy lekarstwa...&lt;bt_wait&gt; jest to też wyrok śmierci.
         <seg>We both apologize while insisting the other's apology isn't necessary.&lt;bt_wait&gt;
 It's kind of funny in a way. Such a trivial exchange under such circumstances?</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103745Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103745Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114420Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103745Z">
         <seg>Obie przepraszamy, upierając się, że przeprosiny drugiej nie są potrzebne.&lt;bt_wait&gt;
-Jest to w pewien sposób zabawne. Taka trywialna pogadanka w takiej sytuacji?</seg>
+Jest to w pewien sposób zabawne. Tak trywialna pogaduszka, w takiej sytuacji?</seg>
       </tuv>
     </tu>
     <tu>
@@ -121242,9 +121242,9 @@ Szukamy najsilniejszej maszyny na świecie.</seg>
 by the cool evening wind.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T103800Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103800Z">
-        <seg>Jednocześnie wybuchamy śmiechem, dźwięk roznosi się echem po pustyni,
-zanim kradnie go chłodny, wieczorny wiatr.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T114531Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103800Z">
+        <seg>Jednocześnie wybuchamy śmiechem. Jego dźwięk rozchodzi się echem po pustyni,
+zanim zdąży go skraść chłodny, wieczorny wiatr.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
