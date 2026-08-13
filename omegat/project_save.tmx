@@ -61394,8 +61394,8 @@ formom życia w rejonie Pacyfiku.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>If you have any system-related questions, ask Maintenance.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T184915Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083104Z">
-        <seg>Jeśli masz jakiekolwiek pytania związane z systemem — zapytaj w Warsztacie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T092256Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083104Z">
+        <seg>Jeśli masz jakiekolwiek pytania dotyczące systemu, musisz zwrócić się do Warsztatu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -61842,8 +61842,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In Easy mode, enemies are weaker and you can use special auto chips. Equip them and &lt;KC_LOCKON&gt; will activate automatic attacks and evades.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T090416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083212Z">
-        <seg>Na poziomie Łatwym przeciwnicy są słabsi i możesz używać specjalnych automatycznych czipów. Włóż je, a &lt;KC_LOCKON&gt; będzie aktywować automatyczne ataki i uniki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T092605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083212Z">
+        <seg>Na poziomie Łatwym wrogowie będą mniej wymagający, a specjalne chipy automatyczne pozwolą na automatyczne ataki i uniki. Wystarczy je wyposażyć, aby aktywować tę funkcję za pomocą &lt;KC_LOCKON&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -111271,8 +111271,8 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       <tuv lang="en-US">
         <seg>They handle everything from body maintenance to Pod adjustments.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T090341Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083114Z">
-        <seg>Oni zajmują się wszystkim — od obsługi ciała po ulepszenia Poda.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T092306Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083114Z">
+        <seg>Oni zajmują się wszystkim: od obsługi ciała, po ulepszenia Poda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130196,8 +130196,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can change the game difficulty at any time on the System Menu.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T083151Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083151Z">
-        <seg>Możesz zmienić poziom trudności gry w każdej chwili w Menu Systemowym.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T092341Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083151Z">
+        <seg>W Menu Systemowym można w każdej chwili zmienić poziom trudności.</seg>
       </tuv>
     </tu>
     <tu>
