@@ -79424,8 +79424,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Not only that, but if you use that enemy to hack another, you can keep taking over one enemy after the next!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T091538Z" creationid="Syn Spawacza" creationdate="20200723T190641Z">
-        <seg>Co więcej — jeśli użyjesz tego wroga do zhakowania innego, możesz przejmować jednego przeciwnika po drugim!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T102558Z" creationid="Syn Spawacza" creationdate="20200723T190641Z">
+        <seg>Co więcej... Jeśli użyjesz przejętego wroga do zhakowania kolejnego, będziesz mógł przejmować jednego przeciwnika po drugim!</seg>
       </tuv>
     </tu>
     <tu>
@@ -130236,8 +130236,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can even use them to disguise yourself as a machine when infiltrating areas they control.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195452Z" creationid="Syn Spawacza" creationdate="20200723T190713Z">
-        <seg>Możesz nawet użyć ich, by zakamuflować się jako maszyna, by zinfiltrować kontrolowane przez nich obszary.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T102808Z" creationid="Syn Spawacza" creationdate="20200723T190713Z">
+        <seg>Będziesz mógł wykorzystać przejęte maszyny jako kamuflażu, podszywając się pod jedną z nich, podczas infiltracji kontrolowanych przez nie obszarów.</seg>
       </tuv>
     </tu>
     <tu>
