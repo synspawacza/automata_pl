@@ -7623,10 +7623,10 @@ Czy to nasza kara?&lt;bt_wait&gt;</seg>
 The recovery program begins to fill in the blanks in my memory.&lt;bt_wait&gt;
 They drift back like missing letters filling out a word.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145038Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145038Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145038Z">
         <seg>&lt;page&gt;
 Program odzyskiwania zaczyna wypełniać dziury w mojej pamięci.&lt;bt_wait&gt;
-Wracają na swoje miejsca, jak brakujące w słowie litery.&lt;bt_wait&gt;</seg>
+Wracają na swoje miejsca. Zupełnie jak brakujące w słowie litery.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -88402,9 +88402,9 @@ It halted most of the safeties the network had in place.
 &lt;/page&gt;
 &lt;BGM_BGM_M1070_S0020_N_end&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200728T203737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145121Z">
-        <seg>W chwili wybuchu był włączony tryb ochronny.
-Zatrzymało to większość zabezpieczeń będących w sieci.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110540Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145121Z">
+        <seg>W momencie wybuchu został włączony tryb zachowania danych.
+Wyłączył on większość zabezpieczeń, które miała sieć.
 &lt;/page&gt;
 &lt;BGM_BGM_M1070_S0020_N_end&gt;</seg>
       </tuv>
@@ -106460,11 +106460,11 @@ Porozmawiaj z nią w obozie Ruchu Oporu, aby dowiedzieć się o co jej chodzi!</
 A colossal machine lifeform...
 The last-resort missile strike...&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T145112Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145112Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T110432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T145112Z">
         <seg>Bunkier...
 Plan 2B...
 Gigantyczna mechaniczna forma życia...
-Strzał rakietą ostatniej szansy...&lt;bt_wait&gt;</seg>
+Atak rakietowy ostatniej szansy...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
