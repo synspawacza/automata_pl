@@ -7818,11 +7818,11 @@ Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem 
 “I'm all right as long as you're with me, Sis.”&lt;bt_wait&gt;
 “I feel the same.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105832Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105832Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T125508Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105832Z">
         <seg>&lt;page&gt;
 „Zimno ci, Devolu?”&lt;bt_wait&gt;
-„Wszystko w porządku, dopóki ty ze mną jesteś, Siostrzyczko.”&lt;bt_wait&gt;
-„Mam tak samo.”&lt;bt_wait&gt;</seg>
+„Tak długo, jak jesteś ze mną Siostrzyczko, wszystko jest w porządku..”&lt;bt_wait&gt;
+„Czuję to samo.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -121518,9 +121518,9 @@ zanim zdąży go skraść chłodny, wieczorny wiatr.
 No android would dare help a pair of outcasts like us.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105816Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105816Z">
-        <seg>Bardzo potrzebujemy naprawy. Ale myślę, że to mrzonka.&lt;bt_wait&gt;
-Żadne z androidów nie śmiałby pomóc takiej parze wyrzutków jak my.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T125405Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105816Z">
+        <seg>Pilnie potrzebujemy napraw. Ale myślę, że to mrzonka.&lt;bt_wait&gt;
+Żaden z androidów nie odważyłby się pomóc takiej parze wyrzutków, jak my.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -121701,12 +121701,12 @@ There's another camp on the other side of the desert. A new camp.
 If we can just get there, I can finally fix Devola's leg.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105949Z">
-        <seg>Przyciskamy do siebie nasze cała i próbujemy odzyskać ciepło.
-Teraz jest zimno. Gorzej niż gorąc w środku dnia.
-Ale tylko się do siebie uśmiechamy i przemy naprzód.&lt;bt_wait&gt;
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T125637Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105949Z">
+        <seg>Przylegamy do siebie, próbując zatrzymać ciepło.
+Teraz jest zimno. O wiele gorzej niż podczas palącego upału w południe.
+Ale tylko uśmiechamy się do siebie i idziemy dalej.&lt;bt_wait&gt;
 Po drugiej stronie pustyni jest kolejny obóz. Nowy obóz.
-Jeśli się tam dostaniemy, wreszcie naprawimy nogę Devoli.
+Jeśli tylko uda nam się tam dotrzeć, w końcu będę mogła naprawić nogę Devoli.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
