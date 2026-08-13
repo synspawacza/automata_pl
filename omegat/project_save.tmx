@@ -41094,8 +41094,8 @@ Ich moc zwiększa się po naładowaniu.</seg>
       <tuv lang="en-US">
         <seg>First of all, remember that this game doesn't auto-save.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T202618Z" creationid="Syn Spawacza" creationdate="20200723T183707Z">
-        <seg>Po pierwsze, pamiętaj, że ta gra nie posiada autozapisu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071317Z" creationid="Syn Spawacza" creationdate="20200723T183707Z">
+        <seg>Przede wszystkim, musisz pamiętać, że ta gra nie zapisuje się automatycznie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82979,8 +82979,8 @@ Go investigate!</seg>
       <tuv lang="en-US">
         <seg>Once you activate a terminal, you can save from anywhere nearby so long as you're within range.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210131T143333Z" creationid="Syn Spawacza" creationdate="20200723T183921Z">
-        <seg>Gdy aktywujesz terminal, możesz zapisywać w całej okolicy, o ile jesteś w jego zasięgu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071524Z" creationid="Syn Spawacza" creationdate="20200723T183921Z">
+        <seg>Po aktywowaniu terminala, zapis będzie możliwy z dowolnego miejsca znajdującego się w jego zasięgu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -92237,8 +92237,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Request unlocking you-know-what.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T071215Z" creationid="Syn Spawacza" creationdate="20200723T183555Z">
-        <seg>Poproś o odblokowanie "tego, o czym nie trzeba mówić wprost".</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071248Z" creationid="Syn Spawacza" creationdate="20200723T183555Z">
+        <seg>Poproś o odblokowanie "tego, o czym nie należy mówić wprost".</seg>
       </tuv>
     </tu>
     <tu>
@@ -131864,8 +131864,8 @@ To zawodowy wojownik.</seg>
       <tuv lang="en-US">
         <seg>You need to activate that access point over there in order to save.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T183843Z" creationid="Syn Spawacza" creationdate="20200723T183843Z">
-        <seg>Musisz aktywować tamten punkt dostępu, żeby móc zapisać swoje dane.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071402Z" creationid="Syn Spawacza" creationdate="20200723T183843Z">
+        <seg>Żeby móc zapisywać swoje dane, musisz aktywować tamten punkt dostępu.</seg>
       </tuv>
     </tu>
     <tu>
