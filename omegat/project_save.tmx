@@ -61578,8 +61578,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you sneak up behind the enemies without being detected and hack into them...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T091308Z" creationid="Syn Spawacza" creationdate="20200723T190519Z">
-        <seg>Jeśli zakradniesz się do wroga od tyłu, nie będąc wykrytym, i zhakujesz go...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T102109Z" creationid="Syn Spawacza" creationdate="20200723T190519Z">
+        <seg>Jeśli podejdziesz do przeciwnika od tyłu, pozostając niewykrytym, a następnie zhakujesz go...</seg>
       </tuv>
     </tu>
     <tu>
@@ -130382,8 +130382,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can take over their systems and control them remotely!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T091325Z" creationid="Syn Spawacza" creationdate="20200723T190533Z">
-        <seg>Możesz przejąć jego systemy i kontrolować go zdalnie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T102502Z" creationid="Syn Spawacza" creationdate="20200723T190533Z">
+        <seg>Będziesz mógł przejąć jego systemy, dzięki czemu można będzie nim zdalnie sterować!</seg>
       </tuv>
     </tu>
     <tu>
