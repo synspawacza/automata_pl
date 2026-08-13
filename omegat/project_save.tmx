@@ -16964,8 +16964,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>Also, you can't send mail directly to other YoRHa units—that's to prevent secret information from getting out.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152550Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152550Z">
-        <seg>Poza tym nie możesz wysyłać wiadomości bezpośrednio do innych jednostek YoRHa — ma to zapobiec wyciekom tajnych informacji.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095416Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152550Z">
+        <seg>Poza tym, nie można wysyłać wiadomości e-mail bezpośrednio do innych jednostek YoRHa. Ma to zapobiegać wyciekom poufnych informacji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -29491,8 +29491,8 @@ W razie nagłego pogorszenia się stanu pacjentki, zostanie do niej przypisanych
       <tuv lang="en-US">
         <seg>Come back and ask me something if you're on your own. It gets so lonely!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T132440Z" creationid="Syn Spawacza" creationdate="20200723T185735Z">
-        <seg>Wróć i spytaj mnie o coś, gdy będziesz miał chwilę. Bywam tu bardzo samotny!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095230Z" creationid="Syn Spawacza" creationdate="20200723T185735Z">
+        <seg>Wróć i zapytaj mnie o coś, gdy będziesz miał chwilę. Bywam tu bardzo samotny!</seg>
       </tuv>
     </tu>
     <tu>
@@ -90906,8 +90906,8 @@ o połowę przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Reading mail is inconvenient.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T185528Z" creationid="Syn Spawacza" creationdate="20200723T185528Z">
-        <seg>Czytanie wiadomości jest niewygodne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095240Z" creationid="Syn Spawacza" creationdate="20200723T185528Z">
+        <seg>Czytanie wiadomości e-mail jest niewygodne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101598,8 +101598,8 @@ Ich pan nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>Still, there are a lot of androids who use mail because they like how retro it is. Kind of a hipster thing, I guess.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152558Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152558Z">
-        <seg>Mimo tego, wiele androidów używa maila, ponieważ jest taki retro. Taki hipsterski.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095507Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152558Z">
+        <seg>Mimo to, wiele androidów używa e-maila, ponieważ jest taki retro. Chyba można powiedzieć, że to trochę hipsterskie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124069,8 +124069,8 @@ Eee... prawda?</seg>
       <tuv lang="en-US">
         <seg>Well, it's true that you can only read mail at access points.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T152542Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152542Z">
-        <seg>To prawda, możesz odczytywać wiadomości tylko w punktach dostępu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095305Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T152542Z">
+        <seg>To prawda. Możesz odczytywać wiadomości e-mail tylko w punktach dostępu.</seg>
       </tuv>
     </tu>
     <tu>
