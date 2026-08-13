@@ -99966,8 +99966,8 @@ twoim poległym ciałem.</seg>
       <tuv lang="en-US">
         <seg>Sometimes enemies will attack terminals. In those cases, you won't be able to use them again until you get rid of the enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T085746Z" creationid="Syn Spawacza" creationdate="20200723T184849Z">
-        <seg>Czasem wrogowie atakują terminale. W takich wypadkach, nie będziesz w stanie z nich skorzystać, dopóki nie pozbędziesz się wrogów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072750Z" creationid="Syn Spawacza" creationdate="20200723T184849Z">
+        <seg>Czasami wrogowie atakują terminale. W takich wypadkach nie będziesz w stanie z nich skorzystać, dopóki się ich nie pozbędziesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126223,8 +126223,8 @@ w ich stronę.
       <tuv lang="en-US">
         <seg>When you're walking, there should be a mini map on the bottom right. The &lt;MAP_GOAL&gt; icon there shows your next destination.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082803Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082803Z">
-        <seg>Kiedy tak sobie chodzisz, powinnaś widzieć mapę w prawym dolnym rogu. Ikona &lt;MAP_GOAL&gt; pokazuje twój kolejny cel.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072903Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082803Z">
+        <seg>Gdy przemieszczasz się pieszo, w prawym dolnym rogu ekranu powinna być wyświetlana minimapa. Ikona &lt;MAP_GOAL&gt; wskazuje twój kolejny cel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -132756,8 +132756,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You'll be fine so long as you follow the red marker.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T082807Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082807Z">
-        <seg>Nic ci nie będzie tak długo, jak będziesz podążać za czerwonym znacznikiem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T072951Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T082807Z">
+        <seg>Po prostu podążaj za czerwonym znacznikiem, a wszystko będzie w porządku.</seg>
       </tuv>
     </tu>
     <tu>
