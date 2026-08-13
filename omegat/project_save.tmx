@@ -1885,8 +1885,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...Okay, maybe not EVERYTHING, but you can ask me anything you want to know about hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251218T090748Z" creationid="Syn Spawacza" creationdate="20200723T185405Z">
-        <seg>Okej, może nie WSZYSTKO, ale możesz mnie spytać o wszystko odnośnie hakowania.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095020Z" creationid="Syn Spawacza" creationdate="20200723T185405Z">
+        <seg>Okej... Może nie wiem WSZYSTKIEGO, ale... Na pewno możesz mnie zapytać o wszystko, co ma związek z hakowaniem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21036,8 +21036,8 @@ Ci, którzy byli moimi przyjaciółmi mnie schwytali.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>Ask me something again, sometime, okay? Promise?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T185620Z" creationid="Syn Spawacza" creationdate="20200723T185620Z">
-        <seg>Spytaj mnie o coś znowu, kiedyś, okej? Obiecujesz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095052Z" creationid="Syn Spawacza" creationdate="20200723T185620Z">
+        <seg>Obiecaj, że jeszcze kiedyś o coś mnie zapytasz, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43128,8 +43128,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Go on, ask me about something. Like, I dunno, hacking?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T185552Z" creationid="Syn Spawacza" creationdate="20200723T185552Z">
-        <seg>No dalej, spytaj mnie o coś. Jak, no nie wiem, o hakowanie?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T095144Z" creationid="Syn Spawacza" creationdate="20200723T185552Z">
+        <seg>Śmiało! Zapytaj mnie o coś. Na przykład... Nie wiem...  Może o hakowanie?</seg>
       </tuv>
     </tu>
     <tu>
