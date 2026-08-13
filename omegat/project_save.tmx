@@ -6947,12 +6947,12 @@ As long as we have bodies to support one another...&lt;bt_wait&gt;
 As long as I have someone with whom to share my fate...&lt;bt_wait&gt;
 Then I will press on, no matter what happens to me.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201101T174414Z" creationid="Syn Spawacza" creationdate="20200728T225600Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T130114Z" creationid="Syn Spawacza" creationdate="20200728T225600Z">
         <seg>&lt;label_KARADA&gt;
 &lt;page&gt;
 Dopóki mamy ciała, które możemy nawzajem podtrzymywać...&lt;bt_wait&gt;
 Dopóki mam kogoś, z kim dzielę mój los...&lt;bt_wait&gt;
-Dopóty będę przeć naprzód, nieważne, co się ze mną stanie.&lt;bt_wait&gt;</seg>
+Dopóty będę przeć naprzód. Nieważne, co się ze mną stanie...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25757,9 +25757,9 @@ Because I swore to myself that I would stay with her forever.&lt;bt_wait&gt;
 &lt;/page&gt;
 &lt;go_SABAKU_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110147Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110147Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T130047Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110147Z">
         <seg>Ależ jest.&lt;bt_wait&gt;
-Ponieważ przyrzekłam sobie, że zostanę z nią na zawsze.&lt;bt_wait&gt;
+Ponieważ przysięgłam sobie, że zostanę z nią na zawsze.&lt;bt_wait&gt;
 &lt;/page&gt;
 &lt;go_SABAKU_END&gt;</seg>
       </tuv>
@@ -41452,8 +41452,8 @@ wielką siłą ze względu na swoją masę.</seg>
       <tuv lang="en-US">
         <seg>For that is the fate &lt;bt_wait&gt;we twin androids have been assigned.&lt;BGM_BGM_M3060_S0035_N_0030&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110210Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110210Z">
-        <seg>Takie jest przeznaczenie,&lt;bt_wait&gt; jakie przypisano nam, bliźniaczym androidom.&lt;BGM_BGM_M3060_S0035_N_0030&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T130312Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110210Z">
+        <seg>Bo takie jest przeznaczenie,&lt;bt_wait&gt; które przypisano nam, bliźniaczym androidom.&lt;BGM_BGM_M3060_S0035_N_0030&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -78530,8 +78530,8 @@ wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
 &lt;/page&gt;
 &lt;go_SABAKU_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200728T225905Z" creationid="Syn Spawacza" creationdate="20200728T225905Z">
-        <seg>Nikt mnie nie powstrzyma.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T130202Z" creationid="Syn Spawacza" creationdate="20200728T225905Z">
+        <seg>Nikt mnie przed tym nie powstrzyma.
 &lt;/page&gt;
 &lt;go_SABAKU_END&gt;</seg>
       </tuv>
@@ -139006,8 +139006,8 @@ Zbyt szybko się roznosi.”&lt;bt_wait&gt;
       <tuv lang="en-US">
         <seg>“There's no point in doing that, you know,” she whispers.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T110130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110130Z">
-        <seg>„Robienie tego nie ma sensu, wiesz?” szepcze.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T125959Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T110130Z">
+        <seg>„Nie ma sensu tego robić, wiesz?”, szepcze.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
