@@ -14767,8 +14767,8 @@ Proszę, weźcie to.</seg>
       <tuv lang="en-US">
         <seg>Ah, that's where satellite information is put into map data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T095538Z" creationid="Syn Spawacza" creationdate="20200723T185812Z">
-        <seg>Ach... To właśnie tam informacje z satelity umieszczane są na mapie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T100127Z" creationid="Syn Spawacza" creationdate="20200723T185812Z">
+        <seg>Ach... To właśnie tam dane z satelity umieszczane są na mapie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109346,8 +109346,8 @@ Moje siły Ruchu Oporu odgrywają tę samą wojnę bez końca na horyzoncie.&lt;
       <tuv lang="en-US">
         <seg>The satellite camera doesn't have very good resolution, so you can't see fine details or tell what's underground.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210108T214048Z" creationid="Syn Spawacza" creationdate="20200723T185854Z">
-        <seg>Kamery satelitów nie mają zbyt dobrej rozdzielczości, więc nie zobaczysz ani szczegółów, ani tego co jest pod ziemią.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T100351Z" creationid="Syn Spawacza" creationdate="20200723T185854Z">
+        <seg>Kamery satelitów nie mają zbyt dobrej rozdzielczości, więc nie ma opcji, aby dostrzec drobne szczegóły. A tym bardziej tego, co znajduje się pod ziemią.</seg>
       </tuv>
     </tu>
     <tu>
