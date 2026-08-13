@@ -109055,8 +109055,8 @@ Tych, którzy wplątali się w sieć swoich własnych zasad.
       <tuv lang="en-US">
         <seg>The other access points are still undergoing maintenance, but you should be able to use them for transport soon.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T184211Z" creationid="Syn Spawacza" creationdate="20200723T184211Z">
-        <seg>Inne punkty dostępu są wciąż w naprawie, ale z pewnością niedługo będziesz w stanie użyć ich do transportu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071834Z" creationid="Syn Spawacza" creationdate="20200723T184211Z">
+        <seg>Pozostałe punkty dostępu są nadal w trakcie napraw, ale już niedługo będzie można korzystać z nich do transportu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -126143,8 +126143,8 @@ Kiedy uznałam, że już nie jestem w stanie tego znieść?
       <tuv lang="en-US">
         <seg>When there's a connection icon displayed on the top right of your screen, you can go to the System Menu and quick save.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200723T184004Z" creationid="Syn Spawacza" creationdate="20200723T184004Z">
-        <seg>Jeśli wyświetla się ikona połączenia w prawym górnym rogu ekranu, możesz przejść do menu systemowego i wykonać szybki zapis.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071606Z" creationid="Syn Spawacza" creationdate="20200723T184004Z">
+        <seg>Jeśli wyświetla się ikona połączenia w prawym górnym rogu ekranu, możesz przejść do menu systemowego, aby wykonać szybki zapis.</seg>
       </tuv>
     </tu>
     <tu>
@@ -130180,8 +130180,8 @@ Cele zadań pobocznych są oznaczone na minimapie jako &lt;MAP_GOAL_SUB&gt;.</se
       <tuv lang="en-US">
         <seg>You can also use the access point here to return to that orbiting space station thingy of yours.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T195441Z" creationid="Syn Spawacza" creationdate="20200723T184054Z">
-        <seg>Możesz też użyć tamtego punktu dostępu, by powrócić na tę twoją stację orbitalną w kosmosie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T071657Z" creationid="Syn Spawacza" creationdate="20200723T184054Z">
+        <seg>Możesz też użyć tamtego punktu dostępu, aby powrócić na tę swoją stację orbitalną w kosmosie.</seg>
       </tuv>
     </tu>
     <tu>
