@@ -2486,9 +2486,9 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
         <seg>.M3060_S0035_GM_N
 ..Desert Part 1: Devola and Popola Reminiscing</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102917Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102917Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T112855Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102917Z">
         <seg>.M3060_S0035_GM_N
-..Desert Part 1: Devola and Popola Reminiscing</seg>
+...Pustynia, część 1: Wspomnienia Devoli i Popoli.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5958,9 +5958,9 @@ Ale by tak się stało, musimy pracować razem.&lt;bt_wait&gt;</seg>
         <seg>&lt;BGOFF_1_1&gt;
 The project commences.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102943Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113035Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102943Z">
         <seg>&lt;BGOFF_1_1&gt;
-The project commences.</seg>
+Rozpoczęcie projektu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24847,10 +24847,10 @@ We have nowhere else to go, after all.&lt;bt_wait&gt;
 Because our models—the Devola and Popola models—are defective.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T102941Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102941Z">
-        <seg>Brodząc w piasku, przemy naprzód krok po kroku.
-W końcu nie mamy gdzie iść.&lt;bt_wait&gt;
-Bo nasze modele — modele Devola i Popola — są wadliwe.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T113002Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T102941Z">
+        <seg>Brodząc w piasku, przemy naprzód, krok po kroku.
+W końcu nie mamy dokąd iść.&lt;bt_wait&gt;
+Bo nasze modele... Modele Devola i Popola, są wadliwe.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
