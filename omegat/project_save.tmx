@@ -1368,12 +1368,12 @@ Wsuwam się pod jej ramię, żeby znowu nie upadła i przemy dalej.&lt;bt_wait&g
 We lose the sun as dark clouds gather overhead.&lt;bt_wait&gt;
 We continue our march.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105418Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105418Z">
-        <seg>...Desert Part 4
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T124519Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105418Z">
+        <seg>...Pustynia, część 4
 &lt;BGLOAD_1_4&gt;
 &lt;BGON_1_4&gt;
 &lt;page&gt;
-Straciłyśmy światło słoneczne, gdy przed nami zebrały się ciemne chmury.&lt;bt_wait&gt;
+Światło słoneczne zniknęło za gęstymi, ciemnymi chmurami.&lt;bt_wait&gt;
 Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
@@ -98930,9 +98930,9 @@ Dobrze?</seg>
 I guess it was the greatest resistance I could muster.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T105404Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105404Z">
-        <seg>Więc zamiast pozwolić im nas zabić, uciekniemy.
-Domyślam się, ze to największy przejaw oporu, na jaki byłam zdolna się zdobyć.
+      <tuv lang="pl" changeid="SPCX" changedate="20260813T124258Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T105404Z">
+        <seg>Dlatego, zamiast pozwolić im nas zabić, uciekłyśmy.
+Chyba to był największy akt oporu, na jaki było mnie stać.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
