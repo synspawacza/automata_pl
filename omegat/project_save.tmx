@@ -5881,12 +5881,12 @@ According to the YoRHa team, there's an enemy server beneath Mt. Ka'ala.&lt;BGM_
 If we can take it out, we might finally gain some ground in this endless war.&lt;bt_wait&gt;
 But in order for that to happen, we need to work together.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062813Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062813Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T120354Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062813Z">
         <seg>&lt;BGM_BGM_M6010_S0150_N_start&gt;
 &lt;page&gt;
-Zgodnie z tym co twierdzi grupa YoRHa, w górze Ka'ala jest serwer nieprzyjaciela.&lt;BGM_BGM_M6010_S0150_N_0010&gt;
-Jeśli go zniszczymy, możemy wreszcie coś zyskać w taj niekończącej się wojnie.&lt;bt_wait&gt;
-Ale by tak się stało, musimy pracować razem.&lt;bt_wait&gt;</seg>
+Według zespołu YoRHa na górze Ka'ala znajduje się serwer wroga.&lt;BGM_BGM_M6010_S0150_N_0010&gt;
+Jeśli uda się go zniszczyć, może w końcu uda nam się przechylić szalę na naszą stronę w tej niekończącej się wojnie.&lt;bt_wait&gt;
+Ale żeby tego dokonać, musimy współpracować.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7832,11 +7832,11 @@ Jesteśmy nowymi modelami, stworzonymi jako część planu nazwanego: Projekt Yo
 “Just...showing this idiot...how weak she is!” replies a winded Dahlia.&lt;bt_wait&gt;
 “Ha!“ wheezes her opponent, Number 16. “You're obviously...outmatched!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062850Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062850Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T120619Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062850Z">
         <seg>&lt;page&gt;
-„Ee, co robisz Dalio?”&lt;bt_wait&gt;
-„Po prostu... pokazuję tej idiotce... jaka jest słaba!” odpowiada pozbawiona tchu Dalia.&lt;bt_wait&gt;
-„Ha!” sapie jej przeciwniczka, Numer 16. „Zdecydowanie jesteś... prześcignięta!”&lt;bt_wait&gt;</seg>
+„Eee... Co ty robisz, Dalio?”&lt;bt_wait&gt;
+„Po prostu... pokazuję tej idiotce... jaka jest słaba!”, odpowiada pozbawiona tchu Dalia.&lt;bt_wait&gt;
+„Ha!”, sapie jej przeciwniczka, Numer 16. „Ewidentnie... nie masz ze mną szans!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -14163,9 +14163,9 @@ I każdego dnia, oglądam to z tej przestrzeni pamięci.&lt;bt_wait&gt;</seg>
 It's a relationship that changes as time goes on.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T062828Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062828Z">
-        <seg>Po dłuższym zastanowieniu, Róża decyduje się przyjąć nowe modele.&lt;bt_wait&gt;
-To związek, który się zmienia w miarę upływu czasu.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T120433Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T062828Z">
+        <seg>Po chwili namysłu Rose postanawia sprzymierzyć się z nowymi modelami.&lt;bt_wait&gt;
+Z czasem ich relacja zaczyna się zmieniać.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
