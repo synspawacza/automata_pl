@@ -56330,8 +56330,8 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie, czy nie.”&lt;
       <tuv lang="en-US">
         <seg>I walk slowly into the west, dragging my broken body along.&lt;BGM_BGM_M6010_S0250_N_0060&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210717T195319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080452Z">
-        <seg>Idę powoli na zachód, ciągnąc ze sobą swoje zniszczone ciało.&lt;BGM_BGM_M6010_S0250_N_0060&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135915Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080452Z">
+        <seg>Powoli ruszam na zachód, zmuszając swoje zniszczone ciało do jakiegolwiek ruchu.&lt;BGM_BGM_M6010_S0250_N_0060&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -76716,12 +76716,12 @@ Now it's my job to carry on the will of those who fought at my side.&lt;bt_wait&
 Since I can't kill myself, I have to fight until someone does it for me.
 I'll endure every hardship. I'll kill every machine I find.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080432Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080432Z">
-        <seg>Mój śmiech wreszcie ustał, zmuszam się, żeby wstać.&lt;bt_wait&gt;
-Jestem tchórzem, który został z tyłu. Tchórzem, który przeżył.
-Teraz to moje zadanie, by nieść wolę tych, którzy walczyli u mego boku&lt;bt_wait&gt;
-Skoro nie umiem się zabić, muszę walczyć, dopóki ktoś mnie nie wyręczy.
-Zniosę każdą niedolę. Zabiję każda maszynę, którą znajdę.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135721Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080432Z">
+        <seg>Gdy mój śmiech w końcu ustaje, zmuszam się, by wstać.&lt;bt_wait&gt;
+Jestem tchórzem, który został. Tchórzem, który przeżył.
+Teraz moim zadaniem jest nieść dalej wolę tych, które walczyły u mojego boku.&lt;bt_wait&gt;
+Skoro nie potrafię się zabić, muszę walczyć, dopóki ktoś tego za mnie nie zrobi.
+Zniosę każde cierpienie. Zabiję każdą maszynę, jeśli jakąś napotkam.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -112944,8 +112944,8 @@ Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu s
         <seg>This is my cross to bear.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080437Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080437Z">
-        <seg>To mój krzyż.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135805Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080437Z">
+        <seg>To krzyż, który muszę nieść przez resztę mojego życia...
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
