@@ -7098,9 +7098,9 @@ Spieszę do niej i wzdycham z ulgą, widząc, że nie jest poważnie ranna.&lt;b
         <seg>&lt;page&gt;
 A massive explosion echoes in the distance as the hall slowly shakes.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075635Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075635Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T133148Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075635Z">
         <seg>&lt;page&gt;
-Masywna eksplozja rozlega się w oddali, kiedy korytarz lekko się trzęsie.&lt;bt_wait&gt;</seg>
+W oddali rozlega się potężna eksplozja, która powoduje, że korytarz zaczyna drżeć.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -107723,10 +107723,10 @@ How much time has passed? How much can possibly be left?&lt;bt_wait&gt;
 Too long to wait, yet not long enough for regret.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075628Z">
-        <seg>Winda zjeżdża coraz niżej, tworząc odliczanie dla życia Numeru 21.&lt;bt_wait&gt;
-Ile czasu minęło? Ile mogło jeszcze zostać?&lt;bt_wait&gt;
-Za długo, by czekać, za krótko, by żałować.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T133013Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075628Z">
+        <seg>Winda zjeżdża coraz niżej, odliczając czas, jaki pozostał Numer 21.&lt;bt_wait&gt;
+Ile czasu minęło? Ile go jeszcze zostało?&lt;bt_wait&gt;
+Minęło go zbyt wiele, by czekać, ale wciąż zbyt mało, by żałować.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -138997,8 +138997,8 @@ Zbyt szybko się roznosi.”&lt;bt_wait&gt;
       <tuv lang="en-US">
         <seg>“Then I'll give you peace,” I reply.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075423Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075423Z">
-        <seg>„Wtedy ofiaruję ci pokój.” odpowiadam.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132911Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075423Z">
+        <seg>„Wtedy zapewnię ci spokój...”, odpowiadam.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
