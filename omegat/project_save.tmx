@@ -7110,11 +7110,11 @@ A soft wind touches my cheek.&lt;bt_wait&gt; I smell fire.&lt;bt_wait&gt; I smel
 The explosion in the server room was powerful enough to take out Mt. Ka'ala
 itself, reducing the once proud summit to a smoking crater.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080201Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080201Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T134726Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080201Z">
         <seg>&lt;page&gt;
-Delikatny powiew dotyka mego policzka.&lt;bt_wait&gt; Czuję ogień.&lt;bt_wait&gt; Czuję popiół.&lt;bt_wait&gt;
-Wybuch w serwerowni był wystarczająco potężny, by zmieść z powierzchni samą górę Ka'ala,
-redukując niegdyś dumny szczyt do dymiącego krateru.</seg>
+Delikatny wiatr muska mój policzek.&lt;bt_wait&gt; Czuję zapach ognia.&lt;bt_wait&gt; Czuję zapach popiołu.&lt;bt_wait&gt;
+Eksplozja w serwerowni była na tyle potężna, że zniszczyła samą górę Ka'ala,
+zamieniając jej niegdyś dumny szczyt w dymiący krater.</seg>
       </tuv>
     </tu>
     <tu>
@@ -51326,9 +51326,9 @@ Przestań mnie przedrzeźniać. Nie przedrzeźniam!</seg>
 I was alive because I had been afraid to die.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080254Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080254Z">
-        <seg>Tylko ja zostałam.&lt;bt_wait&gt; Jedyna.&lt;bt_wait&gt;
-Żyłam, bo bałam się umrzeć.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T134938Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080254Z">
+        <seg>Zostałam tylko ja...&lt;bt_wait&gt; Sama jedna.&lt;bt_wait&gt;
+Przeżyłam, bo bałam się umrzeć.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -54388,8 +54388,8 @@ więc pomóż mi tutaj!</seg>
       <tuv lang="en-US">
         <seg>I look out over the scorched earth.&lt;bt_wait&gt; Lilly? Number 16? Rose? Number 2? Are any of you...?&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080232Z">
-        <seg>Patrze nad spaloną ziemią.&lt;bt_wait&gt; Lilly? Numerze 16? Różo? Numerze 2? Czy któraś z was...?&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T134853Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080232Z">
+        <seg>Patrzę na spaloną ziemię.&lt;bt_wait&gt; Lilly? Numerze 16? Różo? Numerze 2? Czy któraś z was...?&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -108597,8 +108597,8 @@ te wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_wai
       <tuv lang="en-US">
         <seg>The machines immediately drop to the ground and stop moving.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080215Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080215Z">
-        <seg>Maszyny w jednej chwili upadają na ziemię i nieruchomieją.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T134812Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080215Z">
+        <seg>Maszyny w jednej chwili upadają na ziemię i przestają się poruszać. Nieruchomieją.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
