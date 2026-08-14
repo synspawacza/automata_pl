@@ -6555,8 +6555,8 @@ staje się wrogiem.</seg>
       <tuv lang="en-US">
         <seg>&lt;i&gt;I'll join you soon... You promised to join her soon!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080319Z">
-        <seg>&lt;i&gt;Dołączę do ciebie niedługo... Obiecałaś, że do niej niedługo dołączysz!&lt;/i&gt;&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135137Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080319Z">
+        <seg>&lt;i&gt;Wkrótce do was dołączę... Obiecałam, że niedługo do nich dołączysz!&lt;/i&gt;&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7296,9 +7296,9 @@ Ile z nas zostało już zainfekowanych?&lt;bt_wait&gt;</seg>
         <seg>&lt;page&gt;
 I begin to giggle. It's a mad thing, crazed, even to my own ears.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080303Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080303Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135039Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080303Z">
         <seg>&lt;page&gt;
-Zaczęłam chichotać. To szalony dźwięk, pomylony, nawet dla moich uszu.&lt;bt_wait&gt;</seg>
+Zaczynam chichotać. To szaleńczy śmiech, wręcz obłąkańczy... Nawet dla moich własnych uszu.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -49733,10 +49733,10 @@ I laugh. I stand in the smoke and the flame and laugh until I think my
 very throat will tear itself in two.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T080340Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080340Z">
-        <seg>Jak mogłam wypowiedzieć takie próżne, zabawne słowa? Takie kłamstwa?&lt;bt_wait&gt;
-Śmieję się. Stoję w dymie i płomieniach i śmieję się dopóki nie
-mam wrażenia, że moje gardło rozpadnie się na dwie części.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T135429Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T080340Z">
+        <seg>Jak mogłam wypowiedzieć tak próżne, żałosne słowa? Takie kłamstwa?!&lt;bt_wait&gt;
+Śmieję się. Stoję w dymie i płomieniach i... Śmieję się!
+Jednocześnie mam wrażenie, że za chwilę moje gardło rozerwie się na dwie części.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
