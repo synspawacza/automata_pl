@@ -6671,13 +6671,13 @@ Will. From where does our will come?
 &lt;sele_Z&gt;・I don't care. I don't need any of this!
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T183049Z" creationid="Syn Spawacza" creationdate="20200812T182656Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140004Z" creationid="Syn Spawacza" creationdate="20200812T182656Z">
         <seg>&lt;label_A&gt;
 &lt;page&gt;
 Wola. Skąd pochodzi wola?
 &lt;sele_D&gt;・Narodziła się z nicości.
 &lt;sele_B&gt;・Została nam dana przez Boga.
-&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję tego!
+&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję jej!
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -6705,13 +6705,13 @@ God. How did God create us?
 &lt;sele_Z&gt;・I don't care. I don't need any of this!
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T182749Z" creationid="Syn Spawacza" creationdate="20200812T182749Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140052Z" creationid="Syn Spawacza" creationdate="20200812T182749Z">
         <seg>&lt;label_B&gt;
 &lt;page&gt;
 Bóg. Jak Bóg nas stworzył?
-&lt;sele_C&gt;・Z losowego przypadku.
+&lt;sele_C&gt;・Przez przypadek.
 &lt;sele_D&gt;・Z nicości.
-&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję tego!
+&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję go!
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -6763,13 +6763,13 @@ Chance. Was this world created by random chance?
 &lt;sele_Z&gt;・I don't care. I don't need any of this!
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T182913Z" creationid="Syn Spawacza" creationdate="20200812T182913Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140158Z" creationid="Syn Spawacza" creationdate="20200812T182913Z">
         <seg>&lt;label_C&gt;
 &lt;page&gt;
-Przypadek. Czy ten świat został stworzony z losowego przypadku?
-&lt;sele_A&gt;・Wszystko dzieje się według woli Boga.
-&lt;sele_D&gt;・To nie było losowe. Ten świat jest wypełniony nicością.
-&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję tego!
+Przypadek. Czy ten świat został stworzony przez przypadek?
+&lt;sele_A&gt;・Wszystko dzieje się zgodnie z wolą Boga.
+&lt;sele_D&gt;・To nie był przypadek. Ten świat jest wypełniony nicością.
+&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję go!
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -6827,13 +6827,13 @@ Nothingness. Is there any meaning to living in this world?
 &lt;sele_Z&gt;・I don't care. I don't need any of this!
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T183036Z" creationid="Syn Spawacza" creationdate="20200812T183036Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140350Z" creationid="Syn Spawacza" creationdate="20200812T183036Z">
         <seg>&lt;label_D&gt;
 &lt;page&gt;
 Nicość. Czy jest jakieś znaczenie w życiu na tym świecie?
 &lt;sele_B&gt;・Modlitwa do Boga.
-&lt;sele_A&gt;・Zachowanie się zgodnie z swoją wolą.
-&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję tego!
+&lt;sele_A&gt;・Zachowanie się zgodnie ze swoją wolą.
+&lt;sele_Z&gt;・Nie obchodzi mnie to. Nie potrzebuję go!
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
