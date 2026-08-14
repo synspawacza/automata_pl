@@ -47058,8 +47058,8 @@ Aktywuję tryb obronny!</seg>
       <tuv lang="en-US">
         <seg>Her cry pierces my very soul, if I can be said to have such a thing.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T224648Z" creationid="Syn Spawacza" creationdate="20200731T224648Z">
-        <seg>Jej okrzyk przebija mi duszę, jeśli w ogóle mogę powiedzieć, że ją posiadam</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125057Z" creationid="Syn Spawacza" creationdate="20200731T224648Z">
+        <seg>Jej krzyk przeszywa moją duszę... O ile można powiedzieć, że w ogóle ją posiadam.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53648,10 +53648,10 @@ Ale przyznam, że jestem kompletnie wyczerpany.</seg>
 I will not let go.&lt;bt_wait&gt;
 I will not lose anyone else!&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T225328Z" creationid="Syn Spawacza" creationdate="20200731T225328Z">
-        <seg>Trzymam Lilly całą moją siłą.&lt;bt_wait&gt;
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125354Z" creationid="Syn Spawacza" creationdate="20200731T225328Z">
+        <seg>Trzymam Lilly ze wszystkich swoich sił.&lt;bt_wait&gt;
 Nie puszczę jej.&lt;bt_wait&gt;
-Nie stracę nikogo więcej!&lt;bt_wait&gt;</seg>
+Nie stracę już nikogo więcej!&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56413,12 +56413,12 @@ wiemy nawet, czy ten tajemniczy wojownik jest po naszej stronie, czy nie.”&lt;
 Lilly's body convulses and thrashes beneath our combined weight. She tries to
 throw Number 2 from her, but somehow the other woman manages to hang on.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T225200Z" creationid="Syn Spawacza" creationdate="20200731T225200Z">
-        <seg>Chcę im wierzyć. Proszę, niech to zadziała. Proszę...
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125243Z" creationid="Syn Spawacza" creationdate="20200731T225200Z">
+        <seg>Chcę im uwierzyć. Proszę, niech to zadziała. Błagam...
 &lt;/page&gt;
 &lt;page&gt;
-Ciało Lilly drży i szamocze się pod naszym wspólnym ciężarem. Próbuje
-zrzucić z siebie Numer 2, ale innej kobiecie jakoś udaje się ją przytrzymać.&lt;bt_wait&gt;</seg>
+Ciało Lilly drga i szarpie się pod naszym wspólnym ciężarem. Próbuje
+zrzucić z siebie Numer 2, ale jakoś udaje się jej utrzymać.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
