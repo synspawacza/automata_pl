@@ -8087,12 +8087,12 @@ więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”&lt;bt_wait
 “You don't search for an opening! You &lt;i&gt;make&lt;/i&gt; one!”&lt;bt_wait&gt;
 “Dahlia, wait!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060359Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060359Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T080107Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060359Z">
         <seg>&lt;page&gt;
-„To wygląda źle, Shion. Co mamy zrobić?”&lt;bt_wait&gt;
-„Uspokój się Lilly. Znajdziemy gdzieś rozłam.”&lt;bt_wait&gt;
-„Nie poszukujesz rozłamu! Sam go &lt;i&gt;tworzysz&lt;/i&gt;!”&lt;/i&gt;&lt;bt_wait&gt;
-„Dalio, poczekaj!”&lt;bt_wait&gt;</seg>
+„Źle to wygląda, Shion. Co mamy zrobić?”&lt;bt_wait&gt;
+„Uspokój się, Lilly. Znajdziemy gdzieś lukę.”&lt;bt_wait&gt;
+„Nie szuka się luki! Trzeba ją &lt;i&gt;stworzyć&lt;/i&gt;!”&lt;/i&gt;&lt;bt_wait&gt;
+„Dalio, zaczekaj!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52175,10 +52175,10 @@ but I must continue regardless.&lt;bt_wait&gt;
 I must continue until one side or the other is dead.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060247Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T075943Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060247Z">
         <seg>Już nawet nie pamiętam dlaczego walczymy,
-ale mimo to muszę przeć dalej.&lt;bt_wait&gt;
-Muszę kontynuować aż jedna ze stron będzie martwa.
+ale mimo wszystko... Muszę walczyć dalej.&lt;bt_wait&gt;
+Muszę walczyć, dopóki któraś ze stron nie polegnie.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -109329,9 +109329,9 @@ Jackass is going to use these results to create a new drug for expanding android
         <seg>The same sights and sounds. The same struggle of attrition.&lt;bt_wait&gt;
 My Resistance forces play the same war on repeat with no end in sight.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060227Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060227Z">
-        <seg>Te same widoki i dźwięki. Ta sama walka z wyczerpaniem.&lt;bt_wait&gt;
-Moje siły Ruchu Oporu odgrywają tę samą wojnę bez końca na horyzoncie.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T075817Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060227Z">
+        <seg>Te same widoki i odgłosy. Ta sama wyniszczająca walka.&lt;bt_wait&gt;
+Moje siły Ruchu Oporu toczą tę samą wojnę w kółko, bez końca...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
