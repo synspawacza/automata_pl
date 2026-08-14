@@ -7383,10 +7383,10 @@ Będziesz usatysfakcjonowana tylko wtedy, gdy zakończy się to większą ilośc
 I've seen comrades infected before.&lt;bt_wait&gt;
 That's why I couldn't leave her to die alone.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075348Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075348Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132526Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075348Z">
         <seg>&lt;page&gt;
-Widziałam już wcześniej zainfekowanych kompanów.&lt;bt_wait&gt;
-Dlatego nie mogłam pozwolić jej umrzeć samotnie.&lt;bt_wait&gt;</seg>
+Widziałam już zainfekowane towarzyszki.&lt;bt_wait&gt;
+Dlatego nie mogłam pozwolić umrzeć jej samotnie.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -54364,8 +54364,8 @@ więc pomóż mi tutaj!</seg>
       <tuv lang="en-US">
         <seg>I look at her eyes and see the telltale red of a logic-virus infection.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210111T110034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075325Z">
-        <seg>Patrzę w jej oczy i widzę w nich zapowiedź czerwieni od infekcji wirusem logicznym.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132259Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075325Z">
+        <seg>Patrzę jej w oczy i widzę charakterystyczną czerwień świadczącą o infekcji wirusem logicznym.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -55627,8 +55627,8 @@ Wyostrzam wzrok i wstrzymuję oddech.</seg>
         <seg>I sigh softly as I draw my weapon.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075336Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075336Z">
-        <seg>Wzdycham lekko, kiedy wyciągam broń.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132408Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075336Z">
+        <seg>Wyciągając broń, wzdycham lekko...
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -56737,8 +56737,8 @@ Jestem wadliwym produktem.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I was right after all.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075331Z">
-        <seg>Miałam jednak rację.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132331Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075331Z">
+        <seg>Jednak miałam rację...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -138967,8 +138967,8 @@ Moje towarzyszki przytakują. Ta przeklęta wojna sprawiła, że wszystkie stał
       <tuv lang="en-US">
         <seg>“Thank you,” she whispers, “for staying with me.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075319Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075319Z">
-        <seg>„Dziękuję”, szepcze. „Za zostanie ze mną.”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132233Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075319Z">
+        <seg>„Dziękuję”, szepcze. „Za to, że zostałaś ze mną.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
