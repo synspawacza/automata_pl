@@ -7021,13 +7021,13 @@ If you do, you will lose any unsaved data.
 &lt;sele_A&gt; - No
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260814T140714Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140956Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
         <seg>&lt;label_Z&gt;
 &lt;page&gt;
 Gra jest obecnie instalowana.
 Nie można kontynuować gry, dopóki instalacja nie zostanie ukończona.
 Odrzucić wszystko i powrócić do ekranu tytułowego?
-Wybierając "Tak", zostaną utracone wszelkie niezapisane dane.
+Wybierając odpowiedź "Tak", utracone zostaną wszelkie niezapisane dane.
 &lt;sele_Y&gt; - Tak
 &lt;sele_A&gt; - Nie
 &lt;/page&gt;</seg>
