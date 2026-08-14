@@ -7276,9 +7276,9 @@ Jego słowa przepływały przeze mnie, jakby były wlewane prosto do mojego ucha
         <seg>&lt;page&gt;
 How many battles is this now?&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060216Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060216Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T075710Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060216Z">
         <seg>&lt;page&gt;
-Jak wiele bitew już było?&lt;bt_wait&gt;</seg>
+Ile to już bitew miało miejsce?&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -106040,10 +106040,10 @@ as soon as I take out a few nearby enemies. Feet flying beneath me, I leap into
 the hastily built trench where my Resistance comrades are gathered.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060207Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060207Z">
-        <seg>To moja kapitan, Róża. Słucham się jej rozkazu bez wahania, uciekając z frontu,
-kiedy tylko zdejmę kilku najbliższych wrogów. Stopy mnie niosą, wskakuję do
-pospiesznie zbudowane okopu, gdzie zebrali się moi kompani z Ruchu Oporu.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T075637Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060207Z">
+        <seg>To moja kapitan, Róża. Bez wahania wykonuję jej rozkaz, uciekając z pierwszej linii,
+eliminując kilku pobliskich wrogów. Pędzę przed siebie i wskakuję do pospiesznie
+wykopanego okopu, w którym zebrali się moi towarzysze z Ruchu Oporu.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -138718,8 +138718,8 @@ e5bea9e8ae90
       <tuv lang="en-US">
         <seg>“Anemone! Retreat for now! That's an order!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060130Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060130Z">
-        <seg>„Anemono! Wycofaj się na razie! To rozkaz!”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T075441Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060130Z">
+        <seg>„Anemono! Wycofaj się na pewien czas! To rozkaz!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
