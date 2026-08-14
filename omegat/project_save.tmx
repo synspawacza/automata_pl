@@ -97771,9 +97771,9 @@ Jest owinięta białym bandażem.
         <seg>Shouts of joy ring out from my Resistance companions. I embrace Lilly in a hug
 that stuns me with its ferocity, then look at Number 21 through teary eyes.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T230026Z" creationid="Syn Spawacza" creationdate="20200731T230026Z">
-        <seg>Okrzyki radości rozbrzmiewają z ust moich towarzyszek z Ruchu Oporu. Tulę Lilly w uścisku,
-który oszałamia mnie brutalnością i przez zapłakane oczy spoglądam na Numer 21.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125616Z" creationid="Syn Spawacza" creationdate="20200731T230026Z">
+        <seg>Okrzyki radości rozbrzmiewają wśród moich towarzyszek z Ruchu Oporu. Obejmuję Lilly tak mocno,
+że sama jestem zaskoczona siłą tego uścisku, po czym przez łzy patrzę na Numer 21.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -102313,9 +102313,9 @@ Fizycznie nie jest możliwe zdobycie piękna poprzez skonsumowanie androida.&lt;
         <seg>Suddenly, Lilly's body goes limp. Number 21 looks down at the terminal and emits
 a harsh and ragged sigh.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T225513Z" creationid="Syn Spawacza" creationdate="20200731T225513Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125440Z" creationid="Syn Spawacza" creationdate="20200731T225513Z">
         <seg>Nagle, ciało Lilly staje się bezwładne. Numer 21 spogląda na terminal i wydaje
-ciężkie i surowe westchnięcie.</seg>
+z siebie ciężkie, urywane westchnienie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139024,12 +139024,12 @@ Zbyt szybko się roznosi.”&lt;bt_wait&gt;
 She's back.&lt;bt_wait&gt;
 Lilly is back.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200731T225604Z" creationid="Syn Spawacza" creationdate="20200731T225517Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T125509Z" creationid="Syn Spawacza" creationdate="20200731T225517Z">
         <seg>„Usuwanie wirusa... zakończone.”&lt;BGM_BGM_M6010_S0150_N_0040&gt;
 &lt;/page&gt;
 &lt;page&gt;
 Ona wróciła.&lt;bt_wait&gt;
-Lilly wróciła.&lt;bt_wait&gt;</seg>
+Lilly wróciła!&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
