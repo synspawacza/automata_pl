@@ -7123,10 +7123,10 @@ redukując niegdyś dumny szczyt do dymiącego krateru.</seg>
 After Shion speaks, all of us turn to Captain Rose. She looks us in the eyes
 and nods slowly before starting to speak.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260814T081212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061615Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T081219Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061615Z">
         <seg>&lt;page&gt;
 Po słowach Shion, wszystkie zwracamy się ku Kapitan Róży.
-Patrzy nam w oczy i powoli kiwa głową, po czym zaczyna mówić.&lt;bt_wait&gt;</seg>
+Patrzy nam w oczy i powoli kiwa głową, po czym zaczyna mówić:&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -42712,8 +42712,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Gerbera thinks for a moment. “Now that you mention it, yeah. They are.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061631Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061631Z">
-        <seg>Gerbera zastanawia się przez chwilę. „Teraz, jak o tym wspomniałaś, to tak, Idą tam.”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T081549Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061631Z">
+        <seg>Gerbera zastanawia się przez chwilę... „Teraz, gdy o tym wspominasz, to... tak! Masz rację! Idą w tamtą stronę!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -138750,8 +138750,8 @@ Coś jest nie tak. Coś...
       <tuv lang="en-US">
         <seg>“Gerbera? The enemy is heading toward the explosives we set up earlier, yes?”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061626Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061626Z">
-        <seg>„Gerbera, wróg kieruje się w stronę wcześniej założonych przez nas ładunków wybuchowych, tak?”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T081344Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061626Z">
+        <seg>„Gerbera, wróg kieruje się w stronę wcześniej podłożonych przez nas ładunków wybuchowych, tak?”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
