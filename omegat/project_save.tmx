@@ -126187,11 +126187,10 @@ we detonate the explosives, kill the remaining machines, and turn our guns
 in their direction.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061829Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061814Z">
-        <seg>Gdy docieramy do bitwy, znajdujemy coś, co wygląda na kolejną grupę androidów,
-ubranych w dziwne, czarne stroje. &lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0020&gt;Zanim orientują się co się dzieje,
-detonujemy ładunki wybuchowe, zabijamy pozostałe maszyny i zwracamy nasza broń
-w ich stronę.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T082219Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061814Z">
+        <seg>Kiedy docieramy na miejsce bitwy, znajdujemy tam coś, co wygląda na kolejną grupę androidów,
+ubranych w dziwne, czarne stroje. &lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0020&gt;Zanim zdążą się zorientować, co się dzieje,
+detonujemy materiały wybuchowe, zabijamy pozostałe maszyny i kierujemy broń w ich stronę.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
