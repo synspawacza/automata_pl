@@ -7804,11 +7804,11 @@ Chciałam to wszystkim wykrzyczeć. Chciałam wrzeszczeć.&lt;bt_wait&gt;</seg>
 “Easy,” says one of the mystery androids. “We're on your side.
 We're new models rolled out as part of something called Project YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061852Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061852Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T082350Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061852Z">
         <seg>&lt;page&gt;
-„Dobra” mówię do obcych. „Zacznijcie gadać.”&lt;bt_wait&gt;
-„Spokojnie” mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
-Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
+„Dobra..”, mówię do obcych. „Zacznijcie gadać.”&lt;bt_wait&gt;
+„Spokojnie...”, mówi jeden z tajemniczych androidów. „Jesteśmy po waszej stronie.
+Jesteśmy nowymi modelami, stworzonymi jako część planu nazwanego: Projekt YoRHa.”&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0050_N_0030&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -138943,8 +138943,8 @@ Moje towarzyszki kiwają głowami w zgodzie. Ta przeklęta wojna nauczyła nas p
       <tuv lang="en-US">
         <seg>“Really?” I say. “We haven't heard anything about new models.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061858Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061858Z">
-        <seg>„Naprawdę?” mówię. „Nie słyszałyśmy nic o nowych modelach.”&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T082510Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061858Z">
+        <seg>„Naprawdę?”, odpowiadam. „Nie słyszałyśmy o żadnych nowych modelach.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
