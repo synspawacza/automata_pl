@@ -8072,11 +8072,11 @@ więcej wrogów do walki. Teraz potrzebujemy... sprzymierzeńców.”&lt;bt_wait
 “Someone just started fighting over there.”&lt;bt_wait&gt;
 “But that's not possible,” stammers Margaret. “We're...all here.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060444Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060444Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T080325Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060444Z">
         <seg>&lt;page&gt;
-„Nastąpiła zmiana w działaniach wroga.” mówi wreszcie.
-„Ktoś właśnie tam zaczął walczyć.”&lt;bt_wait&gt;
-„Ale to niemożliwe.” wykrztusza z siebie Margaret. „Wszystkie... jesteśmy tutaj.”&lt;bt_wait&gt;</seg>
+„Nastąpiła zmiana w działaniach wroga.”, mówi wreszcie.
+„Ktoś właśnie zaczął tam walczyć.”&lt;bt_wait&gt;
+„Ale to niemożliwe...”, wykrztusza z siebie Margaret. „Przecież... wszystkie jesteśmy tutaj.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -52999,10 +52999,10 @@ She brought us here, after all—she must have a plan of some kind.&lt;bt_wait&g
 But as the enemy horde closes in, Rose simply squints off in the distance.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T060424Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060424Z">
-        <seg>Złapałam rękę Dalii, zanim ta wybiegła z okopu i zwróciłam się do Róży.
-W końcu to ona nas tu przywiodła — musi mieć jakiś plan.&lt;bt_wait&gt;
-Ale kiedy wroga horda się zbliża, Róża po prostu mruży z daleka oczy.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T080216Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T060424Z">
+        <seg>Chwytam Dahlię za rękę, zanim zdąży wybiec z okopu, i odwracam się do Rose.
+To ona nas tutaj sprowadziła, więc musi mieć jakiś plan.&lt;bt_wait&gt;
+Ale gdy wroga horda zbliża się do nas, Rose po prostu mruży oczy, patrząc w dal.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
