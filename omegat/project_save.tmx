@@ -7600,9 +7600,9 @@ Wyczuwam drażniący smród... Wiem, że część z moich włosów została spal
         <seg>&lt;page&gt;
 The only sounds we hear are distant explosions and the rasp of Number 21's breathing.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075231Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075231Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132200Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075231Z">
         <seg>&lt;page&gt;
-Jedyny dźwięk, jaki do nas dociera, to oddalone wybuchy i charczenie w oddechu Numeru 21.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
+Jedyne dźwięki, jakie do nas docierają, to odległe eksplozje i chrapliwy oddech Numer 21.&lt;bt_wait&gt;&lt;BGM_BGM_M6010_S0250_N_0030&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25405,8 +25405,8 @@ Wszystko przez parę modeli Devola i Popola z innego miasta.
         <seg>But it's all right. I'm going to finish this, one way or the other.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075224Z">
-        <seg>Ale jest w porządku. Zakończę to w taki czy inny sposób.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132104Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075224Z">
+        <seg>Ale to nic. Zakończę to w taki, czy inny sposób.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -105723,8 +105723,8 @@ Let's get it back to the trader.</seg>
       <tuv lang="en-US">
         <seg>That was the last time I ever saw them.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075218Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075218Z">
-        <seg>To był ostatni raz, kiedy je widziałam.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T132026Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075218Z">
+        <seg>Widziałam je wtedy po raz ostatni...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
