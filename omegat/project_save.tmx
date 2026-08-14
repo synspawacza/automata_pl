@@ -7549,12 +7549,12 @@ Lilly starts to send nearby comrades flying with impossible strength.&lt;bt_wait
 I've seen infected androids before—I know how much damage they can do once the
 virus turns off their limiters. They'll fight and fight until they're utterly destroyed.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T065513Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065513Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T123929Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065513Z">
         <seg>&lt;page&gt;
-Róża rzuciła to, o czym wszystkie myślałyśmy, ale zanim zdążyłyśmy się coś zrobić,
-Lilly zaczęła wyrzucać najbliższe towarzyszki w powietrze z ogromną siłą.&lt;bt_wait&gt;
-Widziałam wcześniej zainfekowane androidy — wiem jak wiele szkód są w stanie narobić,
-gdy ich wirus rozkręci ich ograniczniki. Będą walczyć i walczyć zanim nie zostaną doszczętnie zniszczone.&lt;bt_wait&gt;</seg>
+Rose wypowiedziała na głos to, o czym wszystkie myślałyśmy, ale zanim zdążyłyśmy zareagować,
+Lilly zaczęła ciskać pobliskimi towarzyszkami z niewiarygodną siłą.&lt;bt_wait&gt;
+Widziałam już zainfekowane androidy. Wiem, jak wielkie szkody potrafią wyrządzić,
+gdy wirus wyłącza ich ograniczniki. Będą walczyć i walczyć, aż zostaną doszczętnie zniszczone.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7999,12 +7999,12 @@ not before you exhaust every possibility!”&lt;bt_wait&gt;
 “That's impossible!”
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200802T174343Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065425Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T123743Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T065425Z">
         <seg>n&lt;page&gt;
 „Lilly mówiła, że jesteś dla niej jak rodzina! Nie możesz
-porzucić rodziny, nie zanim nie spróbujesz wszystkiego!”&lt;bt_wait&gt;
-„Więc, co możesz zrobić?”&lt;bt_wait&gt;
-„Użyję swojej mocy, by wykasować tego wirusa!”&lt;bt_wait&gt;
+porzucić rodziny, dopóki nie wyczerpiesz wszystkich możliwości!”&lt;bt_wait&gt;
+„To co możesz zrobić?”&lt;bt_wait&gt;
+„Użyję swojej umiejętności i spróbuję usunąć tego cholernego wirusa!”&lt;bt_wait&gt;
 „To niemożliwe!”
 &lt;/page&gt;</seg>
       </tuv>
@@ -124714,8 +124714,8 @@ Eee... prawda?</seg>
         <seg>What do I do?&lt;bt_wait&gt; What the hell do I DO!?
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T064611Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T064611Z">
-        <seg>Co zrobić?&lt;bt_wait&gt; Co do cholery zrobić?!
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T123533Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T064611Z">
+        <seg>Co powinnam zrobić?&lt;bt_wait&gt; Co, do jasnej cholery, powinnam zrobić?!
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
