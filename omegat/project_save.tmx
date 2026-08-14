@@ -6886,11 +6886,11 @@ Nicość. Czy jest jakieś znaczenie w życiu na tym świecie?
 The time is upon us.
 Who can say what strife lies ahead...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200812T183236Z" creationid="Syn Spawacza" creationdate="20200812T183236Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140442Z" creationid="Syn Spawacza" creationdate="20200812T183236Z">
         <seg>&lt;label_END&gt;
 &lt;page&gt;
-Nadszedł już czas.
-Kto wie jaka walka czeka na nas...</seg>
+Nadszedł już czas...
+Któż może wiedzieć, jakie zmagania czekają nas w przyszłości...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7021,13 +7021,13 @@ If you do, you will lose any unsaved data.
 &lt;sele_A&gt; - No
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251228T074533Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T140714Z" creationid="Syn Spawacza" creationdate="20200731T234655Z">
         <seg>&lt;label_Z&gt;
 &lt;page&gt;
 Gra jest obecnie instalowana.
 Nie można kontynuować gry, dopóki instalacja nie zostanie ukończona.
-Czy chcesz porzucić wszystko i powrócić do ekranu tytułowego?
-Jeśli tak zrobisz, stracisz wszelkie niezapisane dane.
+Odrzucić wszystko i powrócić do ekranu tytułowego?
+Wybierając "Tak", zostaną utracone wszelkie niezapisane dane.
 &lt;sele_Y&gt; - Tak
 &lt;sele_A&gt; - Nie
 &lt;/page&gt;</seg>
