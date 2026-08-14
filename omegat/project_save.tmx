@@ -7844,9 +7844,9 @@ Jesteśmy nowymi modelami, stworzonymi jako część planu nazwanego: Projekt Yo
         <seg>&lt;page&gt;
 “Go on,” she says “I've got this.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075106Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075106Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131407Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075106Z">
         <seg>&lt;page&gt;
-„Idźcie.” mówi. „Zajmę się tym.”&lt;bt_wait&gt;</seg>
+„Idźcie.”, mówi. „Zajmę się tym.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -25158,9 +25158,9 @@ Ponieważ moje serce też zostało przez coś pożarte.&lt;bt_wait&gt;</seg>
 about the final stage of our mission.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210717T194923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075056Z">
-        <seg>Ale kiedy zauważam, że Numer 21 marszczy się przy windzie, zaczynam mieć złe
-przeczucia co do ostatniej fazy naszej misji.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131401Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075056Z">
+        <seg>Ale kiedy zauważam, że Numer 21 marszczy brwi przy windzie, zaczynam mieć złe
+przeczucia co do ostatniego etapu naszej misji.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -120698,10 +120698,10 @@ Jest to w pewien sposób zabawne. Tak trywialna pogaduszka, w takiej sytuacji?</
 to tell us what's happening—it's clear that the elevator won't descend all the
 way to the server unless someone stays behind to control it.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075129Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075117Z">
-        <seg>Tłoczymy się w windzie, kiedy ona zaczyna hakować terminal windy. Nie musi
-mówić co się dzieje — jest dla nas jasne, że winda nie zjedzie całej drogi do
-serwera, jeśli ktoś nie będzie jej kontrolował z góry.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131518Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075117Z">
+        <seg>Tłoczymy się w windzie, gdy zaczyna włamywać się do terminala. Nie musi
+mówić co się dzieje... Jest jasne, że winda nie zjedzie aż do serwera,
+jeśli ktoś nie zostanie na górze, aby nią sterować.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -138737,10 +138737,10 @@ position at Number 21's side—almost as if my body is out of my control.&lt;bt_
 Something is wrong. Something...
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075150Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075150Z">
-        <seg>„Wrogowie nadchodzą... Prawie do nas dotarli...”&lt;bt_wait&gt;
-Kiedy to mówię, nagle orientuję się, że wyskakuję z windy i przyjmuję pozycję
-przy Numerze 21 — prawie jakbym straciła kontrolę nad własnym ciałem.&lt;bt_wait&gt;
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131705Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075150Z">
+        <seg>„Nadciągają wrogowie... Są już prawie przy nas...”&lt;bt_wait&gt;
+Gdy to mówię, nagle wyskakuję z windy i zajmuję pozycję u boku
+Numer 21. Zupełnie, jakby moje ciało znajdowało się poza moją kontrolą.&lt;bt_wait&gt;
 Coś jest nie tak. Coś...
 &lt;/page&gt;</seg>
       </tuv>
