@@ -7868,9 +7868,9 @@ Zidentyfikowaniem naszych tajemniczych, nieznanych wojowników zajmiemy się, gd
         <seg>&lt;page&gt;
 “I'll back up Number 21!” I cry. “The rest of you take out that server!”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075158Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075158Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131803Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075158Z">
         <seg>&lt;page&gt;
-„Wesprę Numer 21!” krzyczę. „ Reszta z was niech zajmie się serwerem!”&lt;bt_wait&gt;</seg>
+„Będę osłaniać Numer 21!”, krzyczę. „Reszta niech zniszczy ten cholerny serwer!”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -107685,9 +107685,9 @@ Te ruiny to pozostałość czegoś, co kiedyś było strefą mieszkalną, komple
         <seg>The doors close on my friends. The last thing I see is the face of my captain,
 Rose. She looks...concerned. But then the doors shut and she is no more.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075212Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075212Z">
-        <seg>Drzwi zamykają się za moimi przyjaciółkami. Ostatnia rzecz, jaką widzę to twarz mojej
-kapitan Róży. Wygląda na... zmartwioną. Ale drzwi się zamykają i już jej nie ma.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T131929Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075212Z">
+        <seg>Drzwi zamykają się za moimi przyjaciółkami. Ostatnią rzeczą, jaką widzę, jest twarz mojej
+kapitan. Róży. Wygląda na... zaniepokojoną. Ale po chwili drzwi się zamykają i już jej nie widzę.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
