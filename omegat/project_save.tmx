@@ -7856,11 +7856,11 @@ Jesteśmy nowymi modelami stworzonymi jako część czegoś nazwanego Projektem 
 “We'll let the blast take out most of them, then clean up the stragglers.&lt;bt_wait&gt;
 Identifying our unknown mystery fighters can wait until we're done.”&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061706Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061706Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T081844Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061706Z">
         <seg>&lt;page&gt;
-„Chcę, byście wszystkie wyszły z okopu i poszły do tych ładunków wybuchowych.” powiedziała Róża.&lt;bt_wait&gt;
-„Pozwolimy, by wybuch zmiótł większość z nich, a wtedy zniszczymy maruderów.&lt;bt_wait&gt;
-Zidentyfikowanie naszego nieznanego, tajemniczego wojownika może poczekać, aż skończymy.”&lt;bt_wait&gt;</seg>
+„Chcę, żebyście wszystkie opuściły ten okop i dotarły do tych materiałów wybuchowych”, powiedziała Róża.&lt;bt_wait&gt;
+„Pozwolimy, żeby eksplozja wyeliminowała większość z nich, a potem rozprawimy się z niedobitkami.&lt;bt_wait&gt;
+Zidentyfikowaniem naszych tajemniczych, nieznanych wojowników zajmiemy się, gdy będzie po wszystkim.”&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -10848,9 +10848,9 @@ wydaje się nie mieć sensu.</seg>
 “Good. Then if this goes well, we might be able to take them all out.”
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061644Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061644Z">
-        <seg>Lekki uśmiech przebiega przez twarz Róży, ale wciąż pozostaje spokojna.&lt;bt_wait&gt;
-„Dobrze. Więc jeśli to potoczy się dobrze, może będziemy w stanie pozbyć się ich wszystkich.”
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T081737Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061644Z">
+        <seg>Na twarzy Rose pojawia się lekki uśmiech, ale nadal zachowuje pełen spokój.&lt;bt_wait&gt;
+„Dobrze. W takim razie, jeśli wszystko pójdzie zgodnie z planem, możemy wyeliminować ich wszystkich.”
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -78519,9 +78519,9 @@ Koniec</seg>
         <seg>No one objects to the captain's decision. The moment she issues the order,
 we all leap from the trench as one and reenter the fray.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T061732Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061732Z">
-        <seg>Nikt nie podważa decyzji kapitana. Po wydaniu przez nią rozkazu,
-wszystkie wyskakujemy z okopu i wracamy do boju.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T082010Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T061732Z">
+        <seg>Nikt nie sprzeciwia się decyzji kapitan. Gdy tylko wydaje rozkaz,
+wszystkie jednocześnie wyskakujemy z okopu i ponownie ruszamy do walki.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
