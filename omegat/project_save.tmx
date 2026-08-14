@@ -7659,10 +7659,10 @@ Reszta z nas rozmawia, kiedy Dalia i Numer 16 dalej ze sobą walczą.&lt;bt_wait
 The sound of our comrades' demise slowly fades from our ears.&lt;bt_wait&gt;
 As it does, Number 21 reaches up and slowly removes her goggles.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075701Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075701Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T133412Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075701Z">
         <seg>&lt;page&gt;
-Dźwięk końca naszych kompanów powoli cichnie w naszych uszach&lt;bt_wait&gt;
-Kiedy to się dzieje, Numer 21 sięga i powoli zdejmuje gogle.&lt;bt_wait&gt;</seg>
+Dźwięk towarzyszący śmierci naszych towarzyszek, powoli cichnie w uszach...&lt;bt_wait&gt;
+Gdy cichnie zupełnie, Numer 21 podnosi rękę i powoli zdejmuje swoje gogle.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -66327,9 +66327,9 @@ Nie możemy się cofnąć, ani ruszyć naprzód. Dlatego rozdzielamy się na dwi
 They just overloaded their own fusion reactors.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T075649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075649Z">
-        <seg>To ostatnie dzieło Lilly i reszty w straży tylnej.&lt;bt_wait&gt;
-Po prostu przeciążyły własne reaktory fuzyjne.
+      <tuv lang="pl" changeid="SPCX" changedate="20260814T133232Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T075649Z">
+        <seg>To ostatnie dzieło Lilly i pozostałych ze straży tylnej.&lt;bt_wait&gt;
+Właśnie przeciążyły własne reaktory fuzyjne.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
