@@ -118006,8 +118006,8 @@ Przepraszam, ale obowiązuje zakaz wstępu.</seg>
       <tuv lang="en-US">
         <seg>Use "&lt;ITEM_NAME&gt;" to lower your player level?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200133Z" creationid="Syn Spawacza" creationdate="20201210T230110Z">
-        <seg>Użyć „&lt;ITEM_NAME&gt;”, by obniżyć poziom gracza?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T082830Z" creationid="Syn Spawacza" creationdate="20201210T230110Z">
+        <seg>Użyć „&lt;ITEM_NAME&gt;”, aby obniżyć poziom postaci?</seg>
       </tuv>
     </tu>
     <tu>
@@ -130397,8 +130397,8 @@ Aktywowanie menu debugowego wyłącza funkcję zapisu do czasu wczytania wcześn
       <tuv lang="en-US">
         <seg>You can view the memories of Plato 1728 at any time.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T232359Z" creationid="Syn Spawacza" creationdate="20201210T232359Z">
-        <seg>W dowolnym momencie możesz zobaczyć wspomnienia Platona 1728.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T082951Z" creationid="Syn Spawacza" creationdate="20201210T232359Z">
+        <seg>Możesz w dowolnym momencie obejrzeć wspomnienia Platona 1728.</seg>
       </tuv>
     </tu>
     <tu>
