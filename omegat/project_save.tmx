@@ -2309,8 +2309,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...You are recognized as a friend. Permission to enter granted.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T155218Z" creationid="Syn Spawacza" creationdate="20201210T155218Z">
-        <seg>Zostałeś rozpoznany jako przyjaciel. Przyznano pozwolenie wstępu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T092630Z" creationid="Syn Spawacza" creationdate="20201210T155218Z">
+        <seg>Zostałeś rozpoznany jako przyjaciel. Przyznano pozwolenie na wstęp.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56204,8 +56204,8 @@ Może tak naprawdę nigdy nie było ku temu powodu.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>I turn no one away.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260817T092500Z" creationid="Syn Spawacza" creationdate="20201211T222043Z">
-        <seg>Nikogo nie odtrącę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T092540Z" creationid="Syn Spawacza" creationdate="20201211T222043Z">
+        <seg>Nikogo nie zamierzam odtrącić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -60510,8 +60510,8 @@ Co o tym sądzisz?</seg>
       <tuv lang="en-US">
         <seg>Identification confirmed. Have you ever used a machine?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201211T222506Z" creationid="Syn Spawacza" creationdate="20201211T222506Z">
-        <seg>Identyfikacja potwierdzona. Czy używałeś wcześniej maszyny?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T092812Z" creationid="Syn Spawacza" creationdate="20201211T222506Z">
+        <seg>Identyfikacja potwierdzona. Czy kiedykolwiek korzystałeś z maszyny?</seg>
       </tuv>
     </tu>
     <tu>
