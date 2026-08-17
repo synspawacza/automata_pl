@@ -20586,8 +20586,8 @@ Proszę, jak tylko będziesz mogła, udaj się w to miejsce i sprawdź co się t
       <tuv lang="en-US">
         <seg>As a beginner, you can participate only in E-level matches.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T202617Z" creationid="Syn Spawacza" creationdate="20201210T161538Z">
-        <seg>Na początku możesz uczestniczyć tylko w zawodach poziomu E.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110906Z" creationid="Syn Spawacza" creationdate="20201210T161538Z">
+        <seg>Na początku możesz uczestniczyć tylko w zawodach rangi E.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23066,8 +23066,8 @@ trudno zadać nimi efektywne obrażenia.</seg>
       <tuv lang="en-US">
         <seg>Battles here are separated into six distinct ranks. They start at E, then move up through D, C, B, A, and finally S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T161517Z" creationid="Syn Spawacza" creationdate="20201210T161517Z">
-        <seg>Bitwy są tu podzielone na sześć odrębnych rang. Zaczynając od rangi E, poprzez rangi D, C, B, A, kończąc na S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110851Z" creationid="Syn Spawacza" creationdate="20201210T161517Z">
+        <seg>Bitwy są tu podzielone na sześć odrębnych rang. Zaczynając od rangi E, poprzez rangi D, C, B, A, a kończąc na S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26829,8 +26829,8 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       <tuv lang="en-US">
         <seg>Can't have a bunch of weaklings try to bulldoze their way through without any strategy, can we?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251219T094826Z" creationid="Syn Spawacza" creationdate="20201210T163220Z">
-        <seg>Nie możemy pozwolić, by banda słabeuszy bez żadnej strategii, wywalczyła sobie drogę do zwycięstwa, prawda?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111052Z" creationid="Syn Spawacza" creationdate="20201210T163220Z">
+        <seg>Nie możemy przecież pozwolić, żeby banda słabeuszy próbowała przebojem przedrzeć się bez żadnej strategii, prawda?</seg>
       </tuv>
     </tu>
     <tu>
@@ -80874,8 +80874,8 @@ na 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Oh by the way, you are not allowed to use items in the arena!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T161852Z" creationid="Syn Spawacza" creationdate="20201210T161852Z">
-        <seg>A, swoją drogą, nie możesz używać przedmiotów na arenie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110954Z" creationid="Syn Spawacza" creationdate="20201210T161852Z">
+        <seg>A, swoją drogą... Nie można używać przedmiotów na arenie!</seg>
       </tuv>
     </tu>
     <tu>
@@ -83027,8 +83027,8 @@ Go investigate!</seg>
       <tuv lang="en-US">
         <seg>Once you win, you'll earn the right to join the next tier.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210109T125456Z" creationid="Syn Spawacza" creationdate="20201210T161637Z">
-        <seg>Gdy wygrasz, zyskasz dostęp do walki z kolejnego poziomu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110934Z" creationid="Syn Spawacza" creationdate="20201210T161637Z">
+        <seg>Jeśli wygrasz, zyskasz dostęp do walki z kolejnej rangi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -97998,8 +97998,8 @@ Przez ciebie się rumienię.</seg>
       <tuv lang="en-US">
         <seg>Sign up to fight.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260817T110653Z" creationid="Syn Spawacza" creationdate="20201210T161147Z">
-        <seg>Weź udział w walce.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110747Z" creationid="Syn Spawacza" creationdate="20201210T161147Z">
+        <seg>Stań do walki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -118822,8 +118822,8 @@ nadmierną konsumpcją energii.</seg>
       <tuv lang="en-US">
         <seg>Very good. Let me get you signed up...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260817T110735Z" creationid="Syn Spawacza" creationdate="20201210T161256Z">
-        <seg>Bardzo dobrze. Już wpisuję...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T110803Z" creationid="Syn Spawacza" creationdate="20201210T161256Z">
+        <seg>Bardzo dobrze. Już cię zapisuję...</seg>
       </tuv>
     </tu>
     <tu>
