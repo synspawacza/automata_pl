@@ -22072,8 +22072,8 @@ Niedziela: Ziemniaki gratin
       <tuv lang="en-US">
         <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200909T225631Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
-        <seg>Używa p. leczących przy PŻ poniżej 30%. Leczy 15% więcej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T122919Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
+        <seg>Używa środka leczniczego przy PŻ poniżej 30%. Leczy 15% więcej.</seg>
       </tuv>
     </tu>
     <tu>
