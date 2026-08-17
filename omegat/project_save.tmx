@@ -61642,8 +61642,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>If you wish to partake in the trials, please get on the elevator over there.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T164543Z" creationid="Syn Spawacza" creationdate="20201210T164543Z">
-        <seg>Jeśli chcesz wziąć udział w próbach, proszę wejdź do windy za mną.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140213Z" creationid="Syn Spawacza" creationdate="20201210T164543Z">
+        <seg>Jeśli chcesz wziąć udział w próbach, to proszę... Wejdź do windy znajdującej się za mną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -110139,8 +110139,8 @@ nie zobaczył wojny nawet przez chwilę.</seg>
       <tuv lang="en-US">
         <seg>Then begone!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260817T140104Z" creationid="Syn Spawacza" creationdate="20201210T164423Z">
-        <seg>W takim razie... Odejdź ! Nie jesteś tu mile widziany!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140114Z" creationid="Syn Spawacza" creationdate="20201210T164423Z">
+        <seg>W takim razie... Odejdź! Nie jesteś tu mile widziany!</seg>
       </tuv>
     </tu>
     <tu>
