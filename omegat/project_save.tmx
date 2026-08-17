@@ -458,8 +458,8 @@ Co takiego...? Zgubiłaś poda?!”</seg>
       <tuv lang="en-US">
         <seg>"You have atoned for your sins," said the bird. "If you wish me to free you from your solitary existence, I will gladly do so." The man wept tears of joy and whispered thanks to the gods before suddenly stomping the bird to death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T093846Z" creationid="Syn Spawacza" creationdate="20200617T103104Z">
-        <seg>„Odpokutowałeś swoje winy”, powiedział ptak. „Jeśli chcesz, abym uwolnił cię z tej samotnej egzystencji, z chęcią to uczynię.” Mężczyzna zapłakał z radości i wyszeptał podziękowania bogom, po czym zadeptał ptaka na śmierć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140936Z" creationid="Syn Spawacza" creationdate="20200617T103104Z">
+        <seg>„Odpokutowałeś swoje winy”, powiedział ptak. „Jeśli chcesz, abym uwolnił cię z tej samotnej egzystencji, z chęcią to uczynię.” Mężczyzna zapłakał z radości i wyszeptał podziękowania Bogom, po czym zadeptał ptaka na śmierć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5039,8 +5039,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S and the God Box</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213935Z" creationid="Syn Spawacza" creationdate="20200727T213935Z">
-        <seg>9S i pudełko boga</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141013Z" creationid="Syn Spawacza" creationdate="20200727T213935Z">
+        <seg>9S i Pudełko Boga</seg>
       </tuv>
     </tu>
     <tu>
@@ -8953,8 +8953,8 @@ Idziemy dalej.&lt;bt_wait&gt;</seg>
         <seg>A colossal axe offered unto the
 gods.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T161213Z" creationid="Syn Spawacza" creationdate="20200601T161213Z">
-        <seg>Ogromny topór ofiarowany bogom.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140906Z" creationid="Syn Spawacza" creationdate="20200601T161213Z">
+        <seg>Ogromny topór ofiarowany Bogom.</seg>
       </tuv>
     </tu>
     <tu>
@@ -20670,8 +20670,8 @@ Nikt nie może zająć miejsca tej drugiej.
       <tuv lang="en-US">
         <seg>As gods! As gods! ...as gods!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260331T134530Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121436Z">
-        <seg>Jak bogowie! Jak bogowie! ...jak bogowie!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141134Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121436Z">
+        <seg>Jak Bogowie! Jak Bogowie! Jak Bogowie...!</seg>
       </tuv>
     </tu>
     <tu>
@@ -23416,16 +23416,16 @@ przeznaczony dla Sartre'a.</seg>
       <tuv lang="en-US">
         <seg>Become a god, become a god, become a god, who has become?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260331T134821Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121428Z">
-        <seg>Stać się bogiem, stać się bogiem, stać się bogiem... Stał się nim?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141110Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121428Z">
+        <seg>Stać się Bogiem, stać się Bogiem, stać się Bogiem... Stał się nim?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Become as gods!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260331T134949Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121433Z">
-        <seg>Aby stać się bogami!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141117Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T121433Z">
+        <seg>Aby stać się Bogami!</seg>
       </tuv>
     </tu>
     <tu>
@@ -36807,8 +36807,8 @@ To wszystko.
       <tuv lang="en-US">
         <seg>Dying won't make us gods...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260114T170643Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155903Z">
-        <seg>Śmierć nie uczyni z nas bogów...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141034Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T155903Z">
+        <seg>Śmierć nie uczyni z nas Bogów...</seg>
       </tuv>
     </tu>
     <tu>
@@ -43344,8 +43344,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>God Box</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T175408Z" creationid="Syn Spawacza" creationdate="20200601T175408Z">
-        <seg>Pudełko boga</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140919Z" creationid="Syn Spawacza" creationdate="20200601T175408Z">
+        <seg>Pudełko Boga</seg>
       </tuv>
     </tu>
     <tu>
@@ -55028,8 +55028,8 @@ więc pomóż mi tutaj!</seg>
       <tuv lang="en-US">
         <seg>I often think about the god who blessed us with this cryptic puzzle...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130217Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
-        <seg>Często myślę o bogu, który pobłogosławił nas tą enigmatyczną łamigłówką...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141020Z" creationid="Syn Spawacza" creationdate="20200530T173636Z">
+        <seg>Często myślę o Bogu, który pobłogosławił nas tą enigmatyczną łamigłówką...</seg>
       </tuv>
     </tu>
     <tu>
@@ -80866,8 +80866,8 @@ na 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Oh but how cruel the gods can be, to allow such misfortune to occur! Please, you must get away from here as far as you can!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260415T164429Z" creationid="Syn Spawacza" creationdate="20200701T190929Z">
-        <seg>Och, jak okrutni muszą być bogowie, że pozwalają na takie nieszczęście! Proszę, oddalcie się stąd jak najszybciej!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141141Z" creationid="Syn Spawacza" creationdate="20200701T190929Z">
+        <seg>Och, jak okrutni muszą być Bogowie, że pozwalają na takie nieszczęście! Proszę, oddalcie się stąd jak najszybciej!</seg>
       </tuv>
     </tu>
     <tu>
@@ -83067,8 +83067,8 @@ Go investigate!</seg>
       <tuv lang="en-US">
         <seg>Once, there was a demon who held an affinity for angels. He dreamed of serving alongside them and their god, yet cursed the impossibility of it all. Then one day, he came to earth, bringing himself a step closer to heaven.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T100148Z" creationid="Syn Spawacza" creationdate="20200617T132423Z">
-        <seg>Był sobie demon, który chciał być bliski aniołom. Marzył o tym, by służyć im i ich bogu, przeklinając niemożliwość tej sytuacji. Pewnego dnia przybył na ziemię, chcąc zbliżyć się, chociaż o krok, do nieba.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140950Z" creationid="Syn Spawacza" creationdate="20200617T132423Z">
+        <seg>Był sobie demon, który chciał być bliski aniołom. Marzył o tym, by służyć im i ich Bogu, przeklinając niemożliwość tej sytuacji. Pewnego dnia przybył na ziemię, chcąc zbliżyć się, chociaż o krok, do nieba.</seg>
       </tuv>
     </tu>
     <tu>
@@ -102296,8 +102296,8 @@ Fizycznie nie jest możliwe zdobycie piękna poprzez skonsumowanie androida.&lt;
       <tuv lang="en-US">
         <seg>Such wisdom! May the thousand blessings of a random and unspecified god rain down upon you!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260416T133837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113752Z">
-        <seg>Cóż za mądrość! Niech spłyną na ciebie tysiące błogosławieństw od losowego i niesprecyzowanego boga!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141148Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T113752Z">
+        <seg>Cóż za mądrość! Niech spłyną na ciebie tysiące błogosławieństw od losowego i niesprecyzowanego Boga!</seg>
       </tuv>
     </tu>
     <tu>
@@ -104237,24 +104237,24 @@ To koniec.</seg>
       <tuv lang="en-US">
         <seg>Thank goodness!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200626T142908Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142908Z">
-        <seg>Dzięki bogu!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141027Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T142908Z">
+        <seg>Dzięki Bogu!</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Thank goodness! My name is 16D.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200624T092005Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092005Z">
-        <seg>Dzięki bogu! Nazywam się 16D.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141156Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T092005Z">
+        <seg>Dzięki Bogu! Nazywam się 16D.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Thank goodness...</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T095057Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095057Z">
-        <seg>Dzięki bogu...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141202Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T095057Z">
+        <seg>Dzięki Bogu...</seg>
       </tuv>
     </tu>
     <tu>
@@ -108499,8 +108499,8 @@ te wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_wai
       <tuv lang="en-US">
         <seg>The machine lifeforms who formed a colony in the abandoned factory worshiped this particular unit as their founder. He has since ceased to function, which his followers take as proof that he became a god.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T215347Z" creationid="Syn Spawacza" creationdate="20200715T221641Z">
-        <seg>Mechaniczne formy życia, które założyły kolonię w opuszczonej fabryce, czciły tę konkretną jednostkę jako swojego założyciela. Choć przestał już funkcjonować, jego wyznawcy odbierają to jako dowód na to, że stał się bogiem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140956Z" creationid="Syn Spawacza" creationdate="20200715T221641Z">
+        <seg>Mechaniczne formy życia, które założyły kolonię w opuszczonej fabryce, czciły tę konkretną jednostkę jako swojego założyciela. Choć przestał już funkcjonować, jego wyznawcy odbierają to jako dowód na to, że stał się Bogiem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113563,8 +113563,8 @@ wyniosłego samuraja który niegdyś ją dzierżył.</seg>
       <tuv lang="en-US">
         <seg>This reads: "god box."</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260304T165224Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095545Z">
-        <seg>Tu jest napisane: „pudełko boga”.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141052Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095545Z">
+        <seg>Tu jest napisane: „Pudełko Boga”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -116350,8 +116350,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Twin souls were sacrificed to twin gods and bound to an unbreakable dual-bladed axe. Whenever nicked or damaged, it would instantly repair itself. The two blades would never part. They would be together for the rest of time.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T065407Z" creationid="Syn Spawacza" creationdate="20200616T145007Z">
-        <seg>Bliźniacze dusze zostały poświęcone bliźniaczym bogom i spojone w niezniszczalny topór o dwóch ostrzach. Gdy został wyszczerbiony, lub uszkodzony, natychmiast się naprawiał. Dwa ostrza nie mogły zostać rozdzielone. Na zawsze miały zostać razem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140931Z" creationid="Syn Spawacza" creationdate="20200616T145007Z">
+        <seg>Bliźniacze dusze zostały poświęcone bliźniaczym Bogom i spojone w niezniszczalny topór o dwóch ostrzach. Gdy został wyszczerbiony, lub uszkodzony, natychmiast się naprawiał. Dwa ostrza nie mogły zostać rozdzielone. Na zawsze miały zostać razem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -124569,8 +124569,8 @@ Eee... prawda?</seg>
       <tuv lang="en-US">
         <seg>What are these machines doing talking about gods?</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260304T165338Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095551Z">
-        <seg>Dlaczego te maszyny w ogóle mówią o bogach?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141059Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T095551Z">
+        <seg>Dlaczego te maszyny w ogóle mówią o Bogach?</seg>
       </tuv>
     </tu>
     <tu>
@@ -132907,8 +132907,8 @@ Pozwala ona na zagranie we wszystkie wcześniej ukończone gry hakerskie.</seg>
       <tuv lang="en-US">
         <seg>You're alive! Oh, thank goodness!</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200625T142716Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142716Z">
-        <seg>Ty żyjesz! Och, dzięki bogu!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T141208Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T142716Z">
+        <seg>Ty żyjesz! Och, dzięki Bogu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -135491,8 +135491,8 @@ Z niecierpliwością czekamy na waszą wizytę i jeszcze raz dziękujemy za wasz
       <tuv lang="en-US">
         <seg>at a tower built by the gods</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T174030Z" creationid="Syn Spawacza" creationdate="20200608T174030Z">
-        <seg>w wieży zbudowanej przez bogów</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T140925Z" creationid="Syn Spawacza" creationdate="20200608T174030Z">
+        <seg>w wieży zbudowanej przez Bogów</seg>
       </tuv>
     </tu>
     <tu>
