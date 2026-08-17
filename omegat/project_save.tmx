@@ -1701,8 +1701,8 @@ Szłyśmy dalej.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>...I'm sorry, I was just rambling a bit. Come visit again, okay?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201211T211830Z" creationid="Syn Spawacza" creationdate="20201211T211830Z">
-        <seg>Przepraszam, gadam bez sensu... Odwiedź nas jeszcze, dobrze?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111235Z" creationid="Syn Spawacza" creationdate="20201211T211830Z">
+        <seg>Przepraszam, gadam bez sensu... Odwiedź nas jeszcze kiedyś, dobrze?</seg>
       </tuv>
     </tu>
     <tu>
@@ -22808,8 +22808,8 @@ Niedziela: Ziemniaki gratin
       <tuv lang="en-US">
         <seg>Bah! You're useless. I oughta trade you in and be done with it...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251219T095211Z" creationid="Syn Spawacza" creationdate="20201210T182846Z">
-        <seg>Meh! Jesteś bezużyteczny. Trzeba by cię sprzedać, aby mieć cię z głowy...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111422Z" creationid="Syn Spawacza" creationdate="20201210T182846Z">
+        <seg>Meh... Jesteś bezużyteczny! Chyba powinienem cię sprzedać, aby mieć cię z głowy...</seg>
       </tuv>
     </tu>
     <tu>
@@ -36107,8 +36107,8 @@ Ale to nie znaczy, że jestem gotowa po prostu dać za wygraną i ot tak zaufać
       <tuv lang="en-US">
         <seg>Don't let the low rank fool you—if you lower your guard, you'll be scrap.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T182447Z" creationid="Syn Spawacza" creationdate="20201210T163342Z">
-        <seg>Ale nie dajcie się zwieść niskiej randze — jeśli opuścisz gardę, zostanie z ciebie tylko kupka złomu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111105Z" creationid="Syn Spawacza" creationdate="20201210T163342Z">
+        <seg>Ale nie dajcie się zwieść niskiej randze. Jeśli opuścisz gardę, zostanie z ciebie tylko kupka złomu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -48220,8 +48220,8 @@ Cóż... To by było na tyle. Na razie!
       <tuv lang="en-US">
         <seg>Hey, your gears rusted or something? Hurry up already!</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210116T142734Z" creationid="Syn Spawacza" creationdate="20201210T182730Z">
-        <seg>Hej, trybiki ci zardzewiały, czy jak? Ruchy!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111324Z" creationid="Syn Spawacza" creationdate="20201210T182730Z">
+        <seg>Hej... Trybiki ci zardzewiały, czy jak? Rusz się!</seg>
       </tuv>
     </tu>
     <tu>
@@ -80158,8 +80158,8 @@ W imię... NAUKI!</seg>
       <tuv lang="en-US">
         <seg>Now...let the battle begin!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201211T211427Z" creationid="Syn Spawacza" creationdate="20201210T163358Z">
-        <seg>A teraz... niech rozpocznie się walka!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111113Z" creationid="Syn Spawacza" creationdate="20201210T163358Z">
+        <seg>A teraz... Niech rozpocznie się walka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -84142,8 +84142,8 @@ Powodzenia. I... Żegnaj.</seg>
       <tuv lang="en-US">
         <seg>Otherwise we'll all go insane, what with the constant fighting going on.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210116T142709Z" creationid="Syn Spawacza" creationdate="20201211T211809Z">
-        <seg>Inaczej wszyscy oszalejemy przez tę ciągłą walkę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111223Z" creationid="Syn Spawacza" creationdate="20201211T211809Z">
+        <seg>Inaczej wszyscy byśmy oszaleli przez tę ciągłą walkę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -115268,8 +115268,8 @@ Zainteresowane strony mogą uzyskać dostęp do tej biblioteki z serwerowni Bunk
       <tuv lang="en-US">
         <seg>Tough luck. But don't let it stop you—just try, try again!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T182221Z" creationid="Syn Spawacza" creationdate="20201210T182221Z">
-        <seg>Szkoda. Ale nie zniechęcaj się — po prostu spróbuj jeszcze raz!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111131Z" creationid="Syn Spawacza" creationdate="20201210T182221Z">
+        <seg>Szkoda. Ale nie zniechęcaj się. Po prostu... Spróbuj jeszcze raz!</seg>
       </tuv>
     </tu>
     <tu>
@@ -121100,8 +121100,8 @@ jeśli ktoś nie zostanie na górze, aby nią sterować.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>We have to look for little things like that to distract us from our everyday lives.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201211T211741Z" creationid="Syn Spawacza" creationdate="20201211T211741Z">
-        <seg>Musimy szukać takich drobnych przyjemności, które odwrócą naszą uwagę od codzienności.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T111200Z" creationid="Syn Spawacza" creationdate="20201211T211741Z">
+        <seg>Musimy szukać takich drobnych przyjemności, które odwrócą naszą uwagę od smutnej codzienności.</seg>
       </tuv>
     </tu>
     <tu>
