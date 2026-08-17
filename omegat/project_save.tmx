@@ -16924,8 +16924,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>Alright, then I think you're ready to face the next challenge!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T185044Z" creationid="Syn Spawacza" creationdate="20201214T185044Z">
-        <seg>Dobra, w takim razie chyba jesteś gotów, by stawić czoła następnemu wyzwaniu!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T130645Z" creationid="Syn Spawacza" creationdate="20201214T185044Z">
+        <seg>Dobra. W takim razie... Wydaje się, że możesz stawić czoła następnemu wyzwaniu!</seg>
       </tuv>
     </tu>
     <tu>
@@ -49202,8 +49202,8 @@ Przydałaby mi się dodatkowa pomoc.</seg>
       <tuv lang="en-US">
         <seg>Hmmm. So you made it this far, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T185009Z" creationid="Syn Spawacza" creationdate="20201214T185009Z">
-        <seg>Hmmm. Udało ci się dojść tak daleko, co?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T130539Z" creationid="Syn Spawacza" creationdate="20201214T185009Z">
+        <seg>Hm... Udało ci się dojść tak daleko, co?</seg>
       </tuv>
     </tu>
     <tu>
@@ -112927,8 +112927,8 @@ Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu s
       <tuv lang="en-US">
         <seg>This is meant to test your actual skills, so your auto-chips will be disabled.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T184907Z" creationid="Syn Spawacza" creationdate="20201214T184907Z">
-        <seg>Ma na celu sprawdzenie twoich faktycznych umiejętności, więc autoczipy zostaną wyłączone.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T130426Z" creationid="Syn Spawacza" creationdate="20201214T184907Z">
+        <seg>Ma na celu sprawdzenie twoich faktycznych umiejętności, dlatego autoczipy zostaną wyłączone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113221,8 +113221,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This is your chance to show the world what you're truly made of!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T184947Z" creationid="Syn Spawacza" creationdate="20201214T184947Z">
-        <seg>To twoja szansa na pokazanie światu, co naprawdę potrafisz!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T130505Z" creationid="Syn Spawacza" creationdate="20201214T184947Z">
+        <seg>To twoja szansa, aby pokazać światu, na co naprawdę cię stać!</seg>
       </tuv>
     </tu>
     <tu>
