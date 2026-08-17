@@ -118124,8 +118124,8 @@ Tylko dla 2B i A2.</seg>
 Taking damage will not remove your 
 clothes in any way.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T192439Z" creationid="Syn Spawacza" creationdate="20200605T181044Z">
-        <seg>Użyj, by zmienić kostium. Sprawia, że
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T121803Z" creationid="Syn Spawacza" creationdate="20200605T181044Z">
+        <seg>Użyj, aby zmienić kostium. Sprawia, że
 odnoszenie obrażeń nie usuwa ubrań.</seg>
       </tuv>
     </tu>
@@ -118331,8 +118331,8 @@ czerwony. Tylko dla 2B i A2.</seg>
       <tuv lang="en-US">
         <seg>Use this to make your Pod stronger.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T103911Z" creationid="Syn Spawacza" creationdate="20200601T103911Z">
-        <seg>Użyj, by wzmocnić poda.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260817T121757Z" creationid="Syn Spawacza" creationdate="20200601T103911Z">
+        <seg>Użyj, aby wzmocnić poda.</seg>
       </tuv>
     </tu>
     <tu>
