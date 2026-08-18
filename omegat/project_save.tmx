@@ -814,14 +814,14 @@ My name is Plato 1728.&lt;bt_wait&gt;
 I am the 1728th combat weapon.&lt;bt_wait&gt;
 I'm a defective product and a general failure.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T232124Z" creationid="Syn Spawacza" creationdate="20201214T232059Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T173000Z" creationid="Syn Spawacza" creationdate="20201214T232059Z">
         <seg>*Loading Screens (US 102 x 18)
 ※□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■□□□□■
 &lt;BGM_BGM_M5095_S0300_N_start&gt;
 &lt;page&gt;
 Nazywam się Platon 1728.&lt;bt_wait&gt;
 Jestem 1728-mą bronią bojową.&lt;bt_wait&gt;
-Jestem wadliwym produktem i generalną porażką.&lt;bt_wait&gt;</seg>
+Jestem wadliwym produktem i całkowitą porażką.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -39323,9 +39323,9 @@ Poczekaj, musimy je wgrać.</seg>
         <seg>Every day, I would go and talk to it.
 And every day, the war grew worse and worse.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T194133Z" creationid="Syn Spawacza" creationdate="20201215T194053Z">
-        <seg>Każdego dnia przychodziłem i mówiłem do niej.
-I każdego dnia, wojna się nasilała i nasilała.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T173205Z" creationid="Syn Spawacza" creationdate="20201215T194053Z">
+        <seg>Każdego dnia przychodziłem do niej i z nią rozmawiałem.
+A z każdym dniem wojna stawała się coraz gorsza.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -83114,10 +83114,10 @@ Go investigate!</seg>
 It was a small doll that humans had left behind.&lt;bt_wait&gt;
 It couldn't speak, but I decided to take care of it.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T203011Z" creationid="Syn Spawacza" creationdate="20201215T193934Z">
-        <seg>Jednego dnia, znalazłem małą przyjaciółkę w opuszczonej fabryce.&lt;bt_wait&gt;
-Była to mała lalka, zostawiona przez ludzi.&lt;bt_wait&gt;
-Nie potrafiła mówić, ale zdecydowałem, że się nią zaopiekuję.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T173125Z" creationid="Syn Spawacza" creationdate="20201215T193934Z">
+        <seg>Pewnego dnia, znalazłem małą przyjaciółkę w opuszczonej fabryce.&lt;bt_wait&gt;
+Była to mała lalka, którą zostawili po sobie ludzie.&lt;bt_wait&gt;
+Nie potrafiła mówić, ale postanowiłem się nią zaopiekować.bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
