@@ -61906,8 +61906,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In accordance with Rule 69,834, I shall now grant you your reward.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251219T103914Z" creationid="Syn Spawacza" creationdate="20201210T234858Z">
-        <seg>Zgodnie z Zasadą 69834, teraz przekażę ci twoją nagrodę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053013Z" creationid="Syn Spawacza" creationdate="20201210T234858Z">
+        <seg>Zgodnie z Zasadą 69834, teraz przekażę nagrodę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113309,8 +113309,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This mask is a symbol of restraint that only worthy heroes may wear.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T234940Z" creationid="Syn Spawacza" creationdate="20201210T234940Z">
-        <seg>Ta maska jest symbolem powściągliwości i tylko godni bohaterowie mogą ją nosić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053126Z" creationid="Syn Spawacza" creationdate="20201210T234940Z">
+        <seg>Ta maska jest symbolem powściągliwości, którą mogą nosić jedynie godni jej bohaterowie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121260,8 +121260,8 @@ zanim zdąży go skraść chłodny, wieczorny wiatr.
       <tuv lang="en-US">
         <seg>We look forward to seeing you again, your Majesty!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T235003Z" creationid="Syn Spawacza" creationdate="20201210T235003Z">
-        <seg>Nie możemy się doczekać kolejnego spotkania, Wasza Wysokość!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053157Z" creationid="Syn Spawacza" creationdate="20201210T235003Z">
+        <seg>Z niecierpliwością czekamy na twoją kolejną wizytę, Wasza Wysokość!</seg>
       </tuv>
     </tu>
     <tu>
