@@ -101028,8 +101028,8 @@ wśród wrogów, których dotknie.</seg>
       <tuv lang="en-US">
         <seg>Squad 13, please respond.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210111T105745Z" creationid="Syn Spawacza" creationdate="20201215T175031Z">
-        <seg>Oddział 13, proszę, odpowiedz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T163014Z" creationid="Syn Spawacza" creationdate="20201215T175031Z">
+        <seg>Oddział 13, odpowiedz. Proszę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121012,8 +121012,8 @@ jeśli ktoś nie zostanie na górze, aby nią sterować.&lt;bt_wait&gt;</seg>
       <tuv lang="en-US">
         <seg>We have lost contact with Squad 14. Head over to their location to provide backup immediately.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200316Z" creationid="Syn Spawacza" creationdate="20201215T175123Z">
-        <seg>Straciliśmy kontakt z Oddziałem 14. Natychmiast udajcie się do ich lokalizacji, by zapewnić wsparcie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T163101Z" creationid="Syn Spawacza" creationdate="20201215T175123Z">
+        <seg>Straciliśmy kontakt z Oddziałem 14. Natychmiast udajcie się na ich pozycję i zapewnijcie wsparcie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122112,8 +122112,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We will not be able to supply new troops for a while. You'll have to work together to complete your missions. Over and out.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200312Z" creationid="Syn Spawacza" creationdate="20201215T175024Z">
-        <seg>Nie będziemy w stanie wysłać nowych żołnierzy przez jakiś czas. Będziecie musieli pracować razem, by ukończyć misję. Bez odbioru.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T162940Z" creationid="Syn Spawacza" creationdate="20201215T175024Z">
+        <seg>Przez jakiś czas nie będziemy w stanie wysłać nowych oddziałów. Będziecie musieli współpracować, aby ukończyć swoje misje. Bez odbioru.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123128,8 +123128,8 @@ W końcu byłyśmy obserwatorkami.
       <tuv lang="en-US">
         <seg>We've suffered so many losses during the great battle that I can't keep track of all the data.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T175228Z" creationid="Syn Spawacza" creationdate="20201215T175228Z">
-        <seg>Ponieśliśmy tak wiele strat podczas tej wielkiej bitwy, że nie nadążam z wszystkimi danymi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T163141Z" creationid="Syn Spawacza" creationdate="20201215T175228Z">
+        <seg>Ponieśliśmy tak ogromne straty podczas tej wielkiej bitwy, że nie jestem w stanie ogarnąć wszystkich danych.</seg>
       </tuv>
     </tu>
     <tu>
