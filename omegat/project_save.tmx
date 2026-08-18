@@ -34010,8 +34010,8 @@ What Are You Doing?</seg>
       <tuv lang="en-US">
         <seg>Destroy as many enemies as you can in 5 minutes.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251219T103212Z" creationid="Syn Spawacza" creationdate="20201210T195035Z">
-        <seg>Zniszcz tylu wrogów ilu potrafisz w ciągu 5 minut.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T050014Z" creationid="Syn Spawacza" creationdate="20201210T195035Z">
+        <seg>Zniszcz tylu przeciwników, ilu dasz radę w ciągu 5 minut.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80142,8 +80142,8 @@ W imię... NAUKI!</seg>
       <tuv lang="en-US">
         <seg>Now...begin!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T215700Z" creationid="Syn Spawacza" creationdate="20201210T215700Z">
-        <seg>Teraz... zaczynaj!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T045829Z" creationid="Syn Spawacza" creationdate="20201210T215700Z">
+        <seg>A teraz... Zaczynajmy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -127636,16 +127636,16 @@ To taka mordęga.</seg>
       <tuv lang="en-US">
         <seg>Win without getting hit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T215723Z" creationid="Syn Spawacza" creationdate="20201210T215723Z">
-        <seg>Wygraj nie odnosząc obrażeń.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T045909Z" creationid="Syn Spawacza" creationdate="20201210T215723Z">
+        <seg>Wygraj bez odnoszenia obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Win without touching the ground.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T194945Z" creationid="Syn Spawacza" creationdate="20201210T194945Z">
-        <seg>Wygraj nie dotykając ziemi.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T045819Z" creationid="Syn Spawacza" creationdate="20201210T194945Z">
+        <seg>Wygraj bez dotykania ziemi.</seg>
       </tuv>
     </tu>
     <tu>
