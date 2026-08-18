@@ -61882,8 +61882,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In accordance with Rule 61,446, I hereby declare you to have failed the trial.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T192639Z" creationid="Syn Spawacza" creationdate="20201210T192639Z">
-        <seg>Zgodnie z Zasadą 61446, niniejszym uznaję, że nie udało ci się przejść próby.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T044245Z" creationid="Syn Spawacza" creationdate="20201210T192639Z">
+        <seg>Zgodnie z Zasadą 61446, niniejszym uznaję próbę za nieudaną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -123729,8 +123729,8 @@ singular element.</seg>
       <tuv lang="en-US">
         <seg>Well done. In accordance with Rule 61,892, I shall grant your reward.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251219T103046Z" creationid="Syn Spawacza" creationdate="20201210T192711Z">
-        <seg>Dobra robota. Zgodnie z Zasadą 61892, przekażę ci nagrodę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T044510Z" creationid="Syn Spawacza" creationdate="20201210T192711Z">
+        <seg>Dobra robota. Zgodnie z Zasadą 61892, przyznaję nagrodę.</seg>
       </tuv>
     </tu>
     <tu>
