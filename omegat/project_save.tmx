@@ -56696,9 +56696,9 @@ Sam.
         <seg>I was never as smart or skilled as the others.&lt;bt_wait&gt;
 But if I work hard enough, everyone will surely acknowledge me.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T193626Z" creationid="Syn Spawacza" creationdate="20201215T193533Z">
-        <seg>Nigdy nie byłem tak bystry i zdolny jak inni.&lt;bt_wait&gt;
-Ale jeśli będę pracował wystarczająco ciężko, wszyscy na pewno mnie docenią.&lt;bt_wait&gt;</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T172714Z" creationid="Syn Spawacza" creationdate="20201215T193533Z">
+        <seg>Nigdy nie byłem tak mądry, ani tak zdolny, jak inni.&lt;bt_wait&gt;
+Ale jeśli będę wystarczająco ciężko pracować, wszyscy na pewno mnie docenią.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -56708,10 +56708,10 @@ If I raise my right arm, oil comes spilling out.&lt;bt_wait&gt;
 If I move my left leg, my sensors get busted.&lt;bt_wait&gt;
 I'm a defective product.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T193823Z" creationid="Syn Spawacza" creationdate="20201215T193707Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T172903Z" creationid="Syn Spawacza" creationdate="20201215T193707Z">
         <seg>Nigdy nie byłem dobry w walce.&lt;bt_wait&gt;
-Jeśli podniosę moje prawe ramię, wylewa się olej.&lt;bt_wait&gt;
-Jeśli ruszę moją lewą nogą, szwankują mi sensory.&lt;bt_wait&gt;
+Kiedy podnoszę prawe ramię, zaczyna wyciekać ze mnie olej.&lt;bt_wait&gt;
+Kiedy poruszam lewą nogą, psują się moje czujniki.&lt;bt_wait&gt;
 Jestem wadliwym produktem.&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
@@ -106250,8 +106250,8 @@ wykopanego okopu, w którym zebrali się moi towarzysze z Ruchu Oporu.
 &lt;/page&gt;
 &lt;BGM_BGM_M5095_S0100_N_end&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T193650Z" creationid="Syn Spawacza" creationdate="20201215T193629Z">
-        <seg>A przynajmniej tak wierzyłem.
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T172743Z" creationid="Syn Spawacza" creationdate="20201215T193629Z">
+        <seg>A przynajmniej tak mi się wydawało.
 &lt;/page&gt;
 &lt;BGM_BGM_M5095_S0100_N_end&gt;</seg>
       </tuv>
