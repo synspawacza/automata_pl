@@ -62276,8 +62276,8 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>In this trial, you defeated this many enemies: &lt;_count&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T234833Z" creationid="Syn Spawacza" creationdate="20201210T234833Z">
-        <seg>W tej próbie pokonano tylu wrogów: &lt;_count&gt;.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T052942Z" creationid="Syn Spawacza" creationdate="20201210T234833Z">
+        <seg>W tej próbie pokonano tylu przeciwników: &lt;_count&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -93712,8 +93712,8 @@ Dawno temu, starszy mężczyzna nadwyrężył sobie plecy wpatrując się w jasz
       <tuv lang="en-US">
         <seg>Rule 62,305: Train hard every day to become stronger. Let the combat commence!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200233Z" creationid="Syn Spawacza" creationdate="20201210T234726Z">
-        <seg>Zasada 62305: trenuj ciężko każdego dnia, by stać się silniejszym. Niech rozpocznie się walka!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T052826Z" creationid="Syn Spawacza" creationdate="20201210T234726Z">
+        <seg>Zasada 62305 mówi: aby stać się silniejszym, trzeba każdego dnia ciężko trenować... Niech rozpocznie się walka!</seg>
       </tuv>
     </tu>
     <tu>
@@ -112257,8 +112257,8 @@ wszystkim jednostkom YoRHa.</seg>
       <tuv lang="en-US">
         <seg>This concludes the Special Trial, as per Rule 69,406.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T234812Z" creationid="Syn Spawacza" creationdate="20201210T234812Z">
-        <seg>To kończy Próbę Specjalną, zgodnie z Zasadą 69406.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T052851Z" creationid="Syn Spawacza" creationdate="20201210T234812Z">
+        <seg>Zgodnie z Zasadą 69406, to kończy Próbę Specjalną.</seg>
       </tuv>
     </tu>
     <tu>
