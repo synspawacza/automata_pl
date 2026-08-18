@@ -23484,8 +23484,8 @@ Ale tuż przed rozpoczęciem walki, androidka zwana Numer 2, występuje naprzód
       <tuv lang="en-US">
         <seg>Before you enter, we'll have to save your game due to reasons. Will that be okay?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201216T224754Z" creationid="Syn Spawacza" creationdate="20201214T224505Z">
-        <seg>Zanim wejdziesz, będziemy musieli z pewnych powodów zapisać twoją grę. Zgadzasz się?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T054247Z" creationid="Syn Spawacza" creationdate="20201214T224505Z">
+        <seg>Zanim wejdziesz, będziemy musieli zapisać twoją grę. Z pewnych powodów... Zgadzasz się?</seg>
       </tuv>
     </tu>
     <tu>
@@ -43448,8 +43448,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Going down?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224341Z" creationid="Syn Spawacza" creationdate="20201214T224341Z">
-        <seg>Jedziesz na dół?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T054144Z" creationid="Syn Spawacza" creationdate="20201214T224341Z">
+        <seg>Udajemy się na dół?</seg>
       </tuv>
     </tu>
     <tu>
@@ -128268,8 +128268,8 @@ stronę, nie patrzył w moją stronę, nie patrzył w moją stronę, nie patrzy�
       <tuv lang="en-US">
         <seg>Y-you have Debug Mode turned on...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224534Z" creationid="Syn Spawacza" creationdate="20201214T224534Z">
-        <seg>M-masz włączony Tryb Debugowania...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T054353Z" creationid="Syn Spawacza" creationdate="20201214T224534Z">
+        <seg>Ma... Masz włączony Tryb Debugowania...</seg>
       </tuv>
     </tu>
     <tu>
