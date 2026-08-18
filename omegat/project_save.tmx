@@ -9562,9 +9562,9 @@ w centrum handlowym.</seg>
         <seg>A large android squad has been sighted at the flooded city.
 All nearby units should proceed with caution.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T143203Z" creationid="Syn Spawacza" creationdate="20201215T143203Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T143814Z" creationid="Syn Spawacza" creationdate="20201215T143203Z">
         <seg>W zalanym mieście wykryto duży oddział androidów.
-Wszystkie okoliczne jednostki powinny zachować ostrożność.</seg>
+Wszystkie jednostki w pobliżu powinny zachować ostrożność.</seg>
       </tuv>
     </tu>
     <tu>
@@ -12049,9 +12049,9 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
         <seg>AAAARGGH! All these damn bugs!
 Bugs everywhere! Bugsbugsbugsbugs!</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T142732Z" creationid="Syn Spawacza" creationdate="20201215T142732Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T143727Z" creationid="Syn Spawacza" creationdate="20201215T142732Z">
         <seg>AAAARGGH! Wszędzie te cholerne błędy!
-Błędy wszędzie! Błędybłędybłędybłędy!</seg>
+Błędy! Wszędzie błędy! Błędybłędybłędybłędy!</seg>
       </tuv>
     </tu>
     <tu>
@@ -16251,8 +16251,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>All androids are terrible, but the ones calling themselves YoRHa are the worst of them all.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T143236Z" creationid="Syn Spawacza" creationdate="20201215T143236Z">
-        <seg>Wszystkie androidy są okropne, ale te nazywające siebie YoRHa są najgorsze z wszystkich.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T143901Z" creationid="Syn Spawacza" creationdate="20201215T143236Z">
+        <seg>Wszystkie androidy są okropne, ale te, które nazywają się YoRHa, są najgorsze z wszystkich.</seg>
       </tuv>
     </tu>
     <tu>
