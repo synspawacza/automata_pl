@@ -65977,8 +65977,8 @@ it is heavy.</seg>
       <tuv lang="en-US">
         <seg>It's no use... There's too much static, and I can't hear a single thing.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T151519Z" creationid="Syn Spawacza" creationdate="20201215T151519Z">
-        <seg>To na nic... Za dużo szumu i nie jestem w stanie nic usłyszeć.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T145541Z" creationid="Syn Spawacza" creationdate="20201215T151519Z">
+        <seg>To na nic... Za dużo zakłóceń, przez które nie jestem w stanie niczego usłyszeć.</seg>
       </tuv>
     </tu>
     <tu>
@@ -71705,8 +71705,8 @@ Co tutaj robisz?</seg>
       <tuv lang="en-US">
         <seg>Looks like we're running out of meteorite. I'd better tell the ground troops to stock up.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200301Z" creationid="Syn Spawacza" creationdate="20201215T151619Z">
-        <seg>Wygląda na to, że kończy nam się meteoryt. Lepiej wyślijmy jednostki na powierzchnię, by odnowić zapasy.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T145621Z" creationid="Syn Spawacza" creationdate="20201215T151619Z">
+        <seg>Wygląda na to, że kończy nam się meteoryt. Lepiej powiadomię oddziały naziemne, żeby uzupełniły zapasy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -101036,8 +101036,8 @@ wśród wrogów, których dotknie.</seg>
       <tuv lang="en-US">
         <seg>Squad 17, please respond.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210111T105733Z" creationid="Syn Spawacza" creationdate="20201215T151455Z">
-        <seg>Oddział 17, proszę, odpowiedz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T145425Z" creationid="Syn Spawacza" creationdate="20201215T151455Z">
+        <seg>Oddział 17? Proszę o odpowiedź.</seg>
       </tuv>
     </tu>
     <tu>
@@ -113049,8 +113049,8 @@ Połączyć się z siecią? (Opcję można zmienić w dowolnym momencie w menu s
       <tuv lang="en-US">
         <seg>This is the 28th District Command Center, calling all ground troops. Head to point zero to stock up on supplies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T151437Z" creationid="Syn Spawacza" creationdate="20201215T151437Z">
-        <seg>Tu Centrum Dowodzenia Okręgu 28., do wszystkich jednostek naziemnych. Udajcie się do punktu zero w celu odnowienia zapasów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T145354Z" creationid="Syn Spawacza" creationdate="20201215T151437Z">
+        <seg>Tu Centrum Dowodzenia Okręgu 28., do wszystkich jednostek naziemnych. Udajcie się do punktu zero, w celu uzupełnienia zapasów.</seg>
       </tuv>
     </tu>
     <tu>
