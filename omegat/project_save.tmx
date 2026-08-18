@@ -52140,8 +52140,8 @@ To wszytko dla ciebie. Dla ciebie. Dla ciebie.
       <tuv lang="en-US">
         <seg>I don't care who it is, they're going to regret spamming my inbox.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210717T184444Z" creationid="Syn Spawacza" creationdate="20201214T224259Z">
-        <seg>Nie obchodzi mnie kto to jest, ale pożałuje za spamowanie mojej skrzynki pocztowej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T054108Z" creationid="Syn Spawacza" creationdate="20201214T224259Z">
+        <seg>Nie obchodzi mnie, kto to jest, ale pożałuje, że spamuje moją skrzynkę pocztową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -53266,8 +53266,8 @@ Ale gdy wroga horda zbliża się do nas, Rose po prostu mruży oczy, patrząc w 
       <tuv lang="en-US">
         <seg>I have confirmed the coordinates mentioned in the mail.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224057Z" creationid="Syn Spawacza" creationdate="20201214T224057Z">
-        <seg>Potwierdzono współrzędne wspomniane w wiadomości.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053808Z" creationid="Syn Spawacza" creationdate="20201214T224057Z">
+        <seg>Potwierdzono współrzędne podane w wiadomości e-mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -107127,16 +107127,16 @@ A Ziemia stała się rajem dla maszyn.</seg>
       <tuv lang="en-US">
         <seg>The amusement park ruins? I wonder what's down there...</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224223Z" creationid="Syn Spawacza" creationdate="20201214T224223Z">
-        <seg>Ruiny parku rozrywki? Ciekawe co tam znajdziemy...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053924Z" creationid="Syn Spawacza" creationdate="20201214T224223Z">
+        <seg>Ruiny parku rozrywki? Ciekawe, co się tam znajduje...</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The amusement park, huh?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224202Z" creationid="Syn Spawacza" creationdate="20201214T224202Z">
-        <seg>Park rozrywki, co?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053947Z" creationid="Syn Spawacza" creationdate="20201214T224202Z">
+        <seg>Park rozrywki, tak?</seg>
       </tuv>
     </tu>
     <tu>
@@ -111417,8 +111417,8 @@ niezawodny mechanizm zadający obrażenia mocą eksplozji.</seg>
       <tuv lang="en-US">
         <seg>They seem to indicate a location underneath the amusement park ruins.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201214T224124Z" creationid="Syn Spawacza" creationdate="20201214T224124Z">
-        <seg>Wydają się wskazywać na lokalizację pod ruinami parku rozrywki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T053848Z" creationid="Syn Spawacza" creationdate="20201214T224124Z">
+        <seg>Wydają się wskazywać lokalizację pod ruinami parku rozrywki.</seg>
       </tuv>
     </tu>
     <tu>
