@@ -80981,9 +80981,9 @@ Idziesz do Serwerowni, prawda?</seg>
         <seg>Oh man, what am I gonna do now?
 How am I gonna make that money back!?</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210717T184525Z" creationid="Syn Spawacza" creationdate="20201211T191351Z">
-        <seg>Kurczę, co ja teraz zrobię?
-Jak mam odzyskać te wszystkie pieniądze?!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T114512Z" creationid="Syn Spawacza" creationdate="20201211T191351Z">
+        <seg>O rany... Co mam teraz zrobić?
+Jak odzyskać te wszystkie pieniądze?!</seg>
       </tuv>
     </tu>
     <tu>
@@ -113489,8 +113489,8 @@ To powód, dla którego w ogóle istniejemy.
       <tuv lang="en-US">
         <seg>This place is off-limits except for Colosseum combatants.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201210T175051Z" creationid="Syn Spawacza" creationdate="20201210T175051Z">
-        <seg>Nie wolno tam wchodzić nikomu poza walczącymi w Koloseum.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T114616Z" creationid="Syn Spawacza" creationdate="20201210T175051Z">
+        <seg>To miejsce jest niedostępne. Tylko uczestnikcy walk na arenie mogą tam wchodzić.</seg>
       </tuv>
     </tu>
     <tu>
