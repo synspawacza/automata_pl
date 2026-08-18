@@ -126793,8 +126793,8 @@ Jeśli postać zginie ponownie, zanim dotrze do ciała, zdąży ono zniknąć. J
 &lt;/page&gt;
 &lt;BGM_BGM_M5095_S0300_N_end&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T195619Z" creationid="Syn Spawacza" creationdate="20201215T195552Z">
-        <seg>Kto&lt;bt_wait&gt; tak naprawdę&lt;bt_wait&gt; jest tu szalony?
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T173917Z" creationid="Syn Spawacza" creationdate="20201215T195552Z">
+        <seg>Kto&lt;bt_wait&gt; tu, tak naprawdę,&lt;bt_wait&gt; jest szalony?
 &lt;/page&gt;
 &lt;BGM_BGM_M5095_S0300_N_end&gt;</seg>
       </tuv>
@@ -127062,9 +127062,9 @@ O nie! Muszę natychmiast dostarczyć zaopatrzenie!</seg>
         <seg>Why did I do what I did?&lt;bt_wait&gt;
 What did I lose in the process?&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T195551Z" creationid="Syn Spawacza" creationdate="20201215T195503Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260818T173841Z" creationid="Syn Spawacza" creationdate="20201215T195503Z">
         <seg>Dlaczego zrobiłem, to co zrobiłem?&lt;bt_wait&gt;
-Co w trakcie tego utraciłem?&lt;bt_wait&gt;</seg>
+Co utraciłem przez to wszystko?&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
