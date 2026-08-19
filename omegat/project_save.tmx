@@ -21982,72 +21982,72 @@ Niedziela: Ziemniaki gratin
       <tuv lang="en-US">
         <seg>Auto-use Item</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185038Z">
-        <seg>Autoużycie przedm.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081450Z" creationid="Syn Spawacza" creationdate="20200601T185038Z">
+        <seg>Autoużycie leku</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +1</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185040Z">
-        <seg>Autoużycie przedm. +1</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081454Z" creationid="Syn Spawacza" creationdate="20200601T185040Z">
+        <seg>Autoużycie leku +1</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +2</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185042Z">
-        <seg>Autoużycie przedm. +2</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081500Z" creationid="Syn Spawacza" creationdate="20200601T185042Z">
+        <seg>Autoużycie leku +2</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +3</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185043Z">
-        <seg>Autoużycie przedm. +3</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081504Z" creationid="Syn Spawacza" creationdate="20200601T185043Z">
+        <seg>Autoużycie leku +3</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +4</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185043Z">
-        <seg>Autoużycie przedm. +4</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081509Z" creationid="Syn Spawacza" creationdate="20200601T185043Z">
+        <seg>Autoużycie leku +4</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +5</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185048Z">
-        <seg>Autoużycie przedm. +5</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081514Z" creationid="Syn Spawacza" creationdate="20200601T185048Z">
+        <seg>Autoużycie leku +5</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +6</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185049Z">
-        <seg>Autoużycie przedm. +6</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081518Z" creationid="Syn Spawacza" creationdate="20200601T185049Z">
+        <seg>Autoużycie leku +6</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +7</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185051Z">
-        <seg>Autoużycie przedm. +7</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081526Z" creationid="Syn Spawacza" creationdate="20200601T185051Z">
+        <seg>Autoużycie leku +7</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Auto-use Item +8</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200608T143912Z" creationid="Syn Spawacza" creationdate="20200601T185053Z">
-        <seg>Autoużycie przedm. +8</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081532Z" creationid="Syn Spawacza" creationdate="20200601T185053Z">
+        <seg>Autoużycie leku. +8</seg>
       </tuv>
     </tu>
     <tu>
@@ -22070,8 +22070,8 @@ Niedziela: Ziemniaki gratin
       <tuv lang="en-US">
         <seg>Auto-use healing item if HP drops below 30%. Heals 15% more.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260817T122919Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
-        <seg>Używa środka leczniczego przy PŻ poniżej 30%. Leczy 15% więcej.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T081401Z" creationid="Syn Spawacza" creationdate="20200605T184014Z">
+        <seg>Używa leku poniżej 30% PŻ. Leczy o 15% więcej.</seg>
       </tuv>
     </tu>
     <tu>
