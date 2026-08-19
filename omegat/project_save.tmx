@@ -8344,8 +8344,8 @@ Wpatruję się w broń, którą trzymam w drżących dłoniach.&lt;bt_wait&gt;</
       <tuv lang="en-US">
         <seg>A Goliath-class machine lifeform modeled after an opera singer, this unit attacked foes using the repurposed bodies of living androids. Obsessed with a certain other machine lifeform, she put great thought into her appearance—even going so far as to cannibalize her own kind. Alas, such garish decorations only ended up being a spectacular display of poor taste. Her search for beauty eventually led to her demise when she attacked 2B and 9S.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T104328Z" creationid="Syn Spawacza" creationdate="20200715T211501Z">
-        <seg>Mechaniczna forma życia klasy Goliat wzorowana na śpiewaczce operowej. Jednostka atakująca wrogów za pomocą zmodyfikowanych ciał żywych androidów. Opętana obsesją na punkcie pewnej innej mechanicznej formy życia, włożyła wiele wysiłku w swój wygląd — kanibalizując nawet swoich pobratymców. Niestety, te krzykliwe dekoracje okazały się jedynie spektakularnym pokazem złego gustu. Jej poszukiwania piękna doprowadziły ją w końcu do zguby, gdy zaatakowała 2B i 9S.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162659Z" creationid="Syn Spawacza" creationdate="20200715T211501Z">
+        <seg>Mechaniczna forma życia klasy Goliat wzorowana na śpiewaczce operowej. Jednostka atakująca wrogów za pomocą zmodyfikowanych ciał żywych androidów. Opętana obsesją na punkcie pewnej innej mechanicznej formy życia, włożyła wiele wysiłku w swój wygląd, kanibalizując nawet swoich pobratymców. Niestety, te krzykliwe dekoracje okazały się jedynie spektakularnym pokazem złego gustu. Jej poszukiwania piękna doprowadziły ją w końcu do zguby, gdy zaatakowała 2B i 9S.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10088,8 +10088,8 @@ Jednakże, środowisko czekają jeszcze większe zmiany. Ponieważ nie są tworz
       <tuv lang="en-US">
         <seg>A machine lifeform that plays the role of older brother to countless followers. It has the appearance of a standard medium-sized biped save for its arms—which are formed from a number of linked-sphere type machines. Be wary when approaching, for it has been known to display tremendous anger when its brothers are harmed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T104203Z" creationid="Syn Spawacza" creationdate="20210716T200136Z">
-        <seg>Mechaniczna forma życia odgrywająca rolę starszego brata przed niezliczonymi sojusznikami. Posiada wygląd standardowego dwunoga średniej wielkości, za wyjątkiem ramion — te są zbudowane z wielu połączonych kulistych maszyn. Należy podchodzić do niego z rozwagą, ponieważ okazuje wielki gniew, gdy jego bracia są krzywdzeni.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162607Z" creationid="Syn Spawacza" creationdate="20210716T200136Z">
+        <seg>Mechaniczna forma życia odgrywająca rolę starszego brata przed niezliczonymi sojusznikami. Posiada wygląd standardowego dwunoga średniej wielkości, za wyjątkiem ramion. Te są zbudowane z wielu połączonych kulistych maszyn. Należy podchodzić do niego z rozwagą, ponieważ okazuje wielki gniew, gdy jego bracia są krzywdzeni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10758,16 +10758,16 @@ trudna w hodowli.</seg>
       <tuv lang="en-US">
         <seg>A self-destruct device equipped with a medium bipedal unit. Such simple construction means it is technically not classified as a machine lifeform. Its only function is to approach enemies and engage the self-destruct—a task made easier by a layer of thick armor.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T102620Z" creationid="Syn Spawacza" creationdate="20200715T173817Z">
-        <seg>Urządzenie autodestrukcyjne wyposażone w średnią jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji — w czym pomaga jej warstwa grubego pancerza.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162503Z" creationid="Syn Spawacza" creationdate="20200715T173817Z">
+        <seg>Urządzenie autodestrukcyjne wyposażone w średnią jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji, w czym pomaga jej warstwa grubego pancerza.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>A self-destruct device equipped with a small bipedal unit. Such simple construction means it is technically not classified as a machine lifeform. Its only function is to approach enemies and engage the self-destruct—a task made easier by its impressive speed.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210131T141436Z" creationid="Syn Spawacza" creationdate="20200715T180855Z">
-        <seg>Urządzenie autodestrukcyjne wyposażone w małą jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji — w czym pomaga jego imponująca szybkość.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162544Z" creationid="Syn Spawacza" creationdate="20200715T180855Z">
+        <seg>Urządzenie autodestrukcyjne wyposażone w małą jednostkę dwunożną. Technicznie, nie klasyfikuje się jako mechaniczna forma życia ze względu na prostotę konstrukcji. Jego jedyna funkcja to zbliżenie się do wroga i uruchomienie autodestrukcji, w czym pomaga jego imponująca szybkość.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62202,16 +62202,16 @@ Pragnie on znaleźć partnera do sparringu, przeciwko któremu mógłby sprawdzi
       <tuv lang="en-US">
         <seg>In the heat of battle, this unit begged for his brother's life to be spared—a requests A2 granted for unknown reasons.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T104257Z" creationid="Syn Spawacza" creationdate="20200715T211002Z">
-        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie jej brata — z nieznanych powodów, A2 spełniła tę prośbę.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162644Z" creationid="Syn Spawacza" creationdate="20200715T211002Z">
+        <seg>W ferworze walki, jednostka ta błagała, aby oszczędzić życie jej brata. Z nieznanych powodów, A2 spełniła tę prośbę.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In the heat of battle, this unit begged for his brother's life to be spared—only to see him cut down without mercy.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T104238Z" creationid="Syn Spawacza" creationdate="20200715T210917Z">
-        <seg>W ferworze walki, jednostka ta błagała, by oszczędzić życie jej brata — tylko po to, by zobaczyć jak zostaje on bezlitośnie zarżnięty.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162632Z" creationid="Syn Spawacza" creationdate="20200715T210917Z">
+        <seg>W ferworze walki, jednostka ta błagała, aby oszczędzić życie jej brata. Tylko po to, aby zobaczyć, jak zostaje on bezlitośnie zarżnięty.</seg>
       </tuv>
     </tu>
     <tu>
@@ -80640,8 +80640,8 @@ na 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Occasionally, machine lifeforms can be found carrying torches in dark places. As machines are thought to be capable of seeing in the dark, it's assumed they have some other reason for this behavior. They tend to use their own vital fluids as fuel for the torches, though the meaning of this—if there is one—is also unknown.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T103214Z" creationid="Syn Spawacza" creationdate="20200715T180800Z">
-        <seg>Czasami, w ciemnych miejscach, znajdowane są mechaniczne formy życia noszące pochodnie. Jako że maszyny te są w stanie widzieć w ciemności, zakłada się, że istnieje inny powód dla tego zachowania. W charakterze paliwa dla pochodni zazwyczaj używają własnych płynów ustrojowych, choć znaczenie tego — o ile takie istnieje — jest nieznane.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162533Z" creationid="Syn Spawacza" creationdate="20200715T180800Z">
+        <seg>Czasami, w ciemnych miejscach, znajdowane są mechaniczne formy życia noszące pochodnie. Jako że maszyny te są w stanie widzieć w ciemności, zakłada się, że istnieje inny powód dla tego zachowania. W charakterze paliwa dla pochodni zazwyczaj używają własnych płynów ustrojowych, choć znaczenie tego, o ile takie istnieje, jest nieznane.</seg>
       </tuv>
     </tu>
     <tu>
