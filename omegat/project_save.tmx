@@ -28100,8 +28100,8 @@ Usunięcie czipu OS doprowadzi do śmierci.</seg>
       <tuv lang="en-US">
         <seg>Chance of restoring HP when damaging enemies.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T164255Z" creationid="Syn Spawacza" creationdate="20200601T164255Z">
-        <seg>Daje szansę na przywrócenie PŻ przy zadawaniu obrażeń wrogom.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T182702Z" creationid="Syn Spawacza" creationdate="20200601T164255Z">
+        <seg>Daje szansę na przywrócenie PŻ przy zadawaniu obrażeń.</seg>
       </tuv>
     </tu>
     <tu>
