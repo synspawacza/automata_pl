@@ -92903,40 +92903,40 @@ przez ustalony czas.</seg>
       <tuv lang="en-US">
         <seg>Retro Black Pod</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095629Z" creationid="Syn Spawacza" creationdate="20200601T095629Z">
-        <seg>Pod retro — czarny</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162149Z" creationid="Syn Spawacza" creationdate="20200601T095629Z">
+        <seg>Pod retro-czarny</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Retro Grey Pod</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095633Z" creationid="Syn Spawacza" creationdate="20200601T095633Z">
-        <seg>Pod retro — szary</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162153Z" creationid="Syn Spawacza" creationdate="20200601T095633Z">
+        <seg>Pod retro-szary</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Retro Purple Pod</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095812Z" creationid="Syn Spawacza" creationdate="20200601T095812Z">
-        <seg>Pod retro — fioletowy</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162156Z" creationid="Syn Spawacza" creationdate="20200601T095812Z">
+        <seg>Pod retro-fioletowy</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Retro Red Pod</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095620Z" creationid="Syn Spawacza" creationdate="20200601T095620Z">
-        <seg>Pod retro — czerwony</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162140Z" creationid="Syn Spawacza" creationdate="20200601T095620Z">
+        <seg>Pod retro-czerwony</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Retro White Pod</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T095624Z" creationid="Syn Spawacza" creationdate="20200601T095624Z">
-        <seg>Pod retro — biały</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162145Z" creationid="Syn Spawacza" creationdate="20200601T095624Z">
+        <seg>Pod retro-biały</seg>
       </tuv>
     </tu>
     <tu>
@@ -95070,8 +95070,8 @@ o świecie. Wyrzućcie te śmieci.”</seg>
       <tuv lang="en-US">
         <seg>Saving is disabled because the debug menu was used.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200601T073851Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
-        <seg>Zapis niedostępny — użyto menu debugowego.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162116Z" creationid="Syn Spawacza" creationdate="20200530T142703Z">
+        <seg>Zapis niedostępny. Użyto menu debugowego.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117260,8 +117260,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Unavailable due to signal interference.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200530T210322Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
-        <seg>Niedostępne — interferencja sygnału.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T162125Z" creationid="Syn Spawacza" creationdate="20200530T145544Z">
+        <seg>Niedostępne. Interferencja sygnału.</seg>
       </tuv>
     </tu>
     <tu>
