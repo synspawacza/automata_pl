@@ -61839,8 +61839,8 @@ Wiadomość pozostawianą po śmierci można utworzyć w zakładce „Sieć”, 
       <tuv lang="en-US">
         <seg>In Easy mode, enemies are weaker and you can use special auto chips. Equip them and &lt;KC_LOCKON&gt; will activate automatic attacks and evades.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T092605Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083212Z">
-        <seg>Na poziomie Łatwym wrogowie będą mniej wymagający, a specjalne chipy automatyczne pozwolą na automatyczne ataki i uniki. Wystarczy je wyposażyć, aby aktywować tę funkcję za pomocą &lt;KC_LOCKON&gt;.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T060719Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200624T083212Z">
+        <seg>Na poziomie Łatwym przeciwnicy będą mniej wymagający, a specjalne chipy automatyczne pozwolą na automatyczne ataki i uniki. Wystarczy je wyposażyć, aby aktywować tę funkcję za pomocą &lt;KC_LOCKON&gt;.</seg>
       </tuv>
     </tu>
     <tu>
