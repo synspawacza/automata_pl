@@ -134788,7 +134788,7 @@ Total points: 9,432
  
 * Additional errors exist, but are not listed above</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210716T201428Z" creationid="Syn Spawacza" creationdate="20210716T201428Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T164930Z" creationid="Syn Spawacza" creationdate="20210716T201428Z">
         <seg>[Przegląd]
 Zmiennokształtna piechota połączona, niszczyciel fortec Engels
 Kod produkcji: 110-B
@@ -134802,7 +134802,7 @@ Suma punktów: 9432
  
 [Stan]
 (Wymagana naprawa) Obie ręce niesprawne
-(Wymagana naprawa) Nogi zniszczone — poruszanie się niemożliwe
+(Wymagana naprawa) Nogi zniszczone: poruszanie się niemożliwe
 (Wymagana naprawa) Znaleziono błędy fragmentacji w zapisie pamięci
 (Wymagana naprawa) Niesprawny system głosowy
  
@@ -135061,11 +135061,11 @@ Engels Goliath-class Suppression Flight Weapon
  
 [Inspection] OK</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T222345Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124655Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T164837Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200626T124655Z">
         <seg>[Zapis ładunku] 14 lutego
 [Zatwierdzono] 14 lutego
  
-Zmiennokształtna piechota połączona, niszczyciel fortec Engels — 4 jednostki
+Zmiennokształtna piechota połączona, niszczyciel fortec Engels: 4 jednostki
 &gt; Kod produkcji: 110-A
 &gt; Kod produkcji: 110-B
 &gt; Kod produkcji: 110-C
