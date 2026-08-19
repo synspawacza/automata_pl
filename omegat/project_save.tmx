@@ -34274,9 +34274,9 @@ What Are You Doing?</seg>
         <seg>Development Journal: 0504 Takada
 I've come up with an incredible idea—something no one has ever done before. I'm going to start testing it out first thing in the morning.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200617T115506Z" creationid="Syn Spawacza" creationdate="20200617T115506Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T161709Z" creationid="Syn Spawacza" creationdate="20200617T115506Z">
         <seg>Dziennik badawczy: 05-04 Takada
-Wpadłem na genialny pomysł — coś czego nie próbował nikt przede mną. Rozpocznę testy jutro z rana.</seg>
+Wpadłem na genialny pomysł... Coś, czego nie próbował nikt przede mną. Rozpocznę testy jutro z rana.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34304,9 +34304,9 @@ Rzeczy nie mają się najlepiej. Zaczęły wypadać mi włosy. To chyba przez st
         <seg>Development Journal: 1215 Fujita
 I looked over the data, but couldn't work out the problem. I'm not giving up though. With Takada dead, it's up to me—I'm the only one who can carry on his work...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T095008Z" creationid="Syn Spawacza" creationdate="20200617T120155Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T161723Z" creationid="Syn Spawacza" creationdate="20200617T120155Z">
         <seg>Dziennik badawczy: 12-15 Fujita
-Patrzyłem na dane, ale nie wiem, gdzie może leżeć problem. Ale nie poddam się. Po śmierci Takady, wszystko zależy od mnie — tylko ja jestem w stanie doprowadzić to do końca...</seg>
+Patrzyłem na dane, ale nie wiem, gdzie może leżeć problem. Ale nie poddam się. Po śmierci Takady, wszystko zależy od mnie. Tylko ja jestem w stanie doprowadzić to do końca...</seg>
       </tuv>
     </tu>
     <tu>
@@ -107710,8 +107710,8 @@ Limit efektu: &lt;CHIP_HELP&gt;</seg>
       <tuv lang="en-US">
         <seg>The elegant white spear was crafted by a tyrant as a gift for his wife—whose parents he had killed years earlier. She slipped it under the bed they shared, then later used it to run him through 30 times.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T095303Z" creationid="Syn Spawacza" creationdate="20200617T122606Z">
-        <seg>Elegancka, biała włócznia, stworzona przez tyrana jako prezent dla swojej żony — której rodziców zabił lata tamu. Ukryła ją pod łożem, które dzielili, by lata później zadać mu nią 30 ciosów.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T161838Z" creationid="Syn Spawacza" creationdate="20200617T122606Z">
+        <seg>Elegancka, biała włócznia, stworzona przez tyrana jako prezent dla swojej żony, której rodziców zabił lata tamu. Ukryła ją pod łożem, które dzielili, aby lata później zadać mu nią 30 ciosów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -108659,8 +108659,8 @@ te wszystkie numery identyfikacyjne, które trzeba było zlikwidować.&lt;bt_wai
       <tuv lang="en-US">
         <seg>The man wailed an inhuman scream as he brought his fist down on his opponent's skull. He brought it down again. And again. And again. Until the victim was nothing more than a splatter of blood and bits.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T100910Z" creationid="Syn Spawacza" creationdate="20200617T140523Z">
-        <seg>Mężczyzna wydał z siebie nieludzki krzyk, gdy po raz pierwszy uderzył pięścią czaszkę swojego przeciwnika. Uderzył też po raz drugi. I kolejny. I kolejny. Aż z ofiary została tylko krwawa miazga.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T161939Z" creationid="Syn Spawacza" creationdate="20200617T140523Z">
+        <seg>Mężczyzna wydał z siebie nieludzki krzyk, gdy po raz pierwszy uderzył pięścią w czaszkę swojego przeciwnika. Uderzył też po raz drugi. I kolejny. I kolejny. Aż z ofiary została tylko krwawa miazga.</seg>
       </tuv>
     </tu>
     <tu>
@@ -109480,8 +109480,8 @@ Ruch Oporu i YoRHa powoli osiągają wspólne zrozumienie. Jedna z członkiń ru
       <tuv lang="en-US">
         <seg>The spear's second owner was a courageous, bandit-fighting mayor. In her later years, her strength faded, until one night, a pack of young thugs surrounded her and took all that she had—including her life.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T095320Z" creationid="Syn Spawacza" creationdate="20200617T122938Z">
-        <seg>Drugą właścicielką włóczni była odważna burmistrz, walcząca z bandytami. Na starość opuściły ją siły, aż pewnego wieczoru napadła ją zgraja młodocianych zbirów, zabierając jej wszystko co miała — w tym jej życie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T161852Z" creationid="Syn Spawacza" creationdate="20200617T122938Z">
+        <seg>Drugą właścicielką włóczni była odważna burmistrz, walcząca z bandytami. Na starość opuściły ją siły, aż pewnego wieczoru napadła ją zgraja młodocianych zbirów, zabierając jej wszystko co miała. W tym, jej życie.</seg>
       </tuv>
     </tu>
     <tu>
