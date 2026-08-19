@@ -8536,8 +8536,8 @@ Wpatruję się w broń, którą trzymam w drżących dłoniach.&lt;bt_wait&gt;</
       <tuv lang="en-US">
         <seg>A battery used by the Resistance. Many such batteries mysteriously disappear after being discarded—it's believed that they are secretly being carried off by machine lifeforms.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T120142Z" creationid="Syn Spawacza" creationdate="20200718T220836Z">
-        <seg>Bateria używana przez Ruch Oporu. Wiele takich baterii tajemniczo znika po wyczerpaniu — sądzi się, że są w tajemnicy zabierane przez mechaniczne formy życia.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163526Z" creationid="Syn Spawacza" creationdate="20200718T220836Z">
+        <seg>Bateria używana przez Ruch Oporu. Wiele takich baterii tajemniczo znika po wyczerpaniu. Sądzi się, że są w tajemnicy zabierane przez mechaniczne formy życia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9926,8 +9926,8 @@ do Ruchu Oporu.</seg>
       <tuv lang="en-US">
         <seg>A machine lifeform resembling a blowfish. Contrary to real blowfish, this creature is not poisonous—though its highly developed jaw is capable of tearing holes in an android's body, so approach with caution.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T115727Z" creationid="Syn Spawacza" creationdate="20200718T213905Z">
-        <seg>Mechaniczna forma życia przypominająca rozdymkę. W odróżnieniu od prawdziwej rozdymki, to stworzenie nie jest trujące — jej wysoko rozwinięta szczęka jest zdolna do wyrywania dziur w ciele androida, na co należy uważać.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163506Z" creationid="Syn Spawacza" creationdate="20200718T213905Z">
+        <seg>Mechaniczna forma życia przypominająca rozdymkę. W odróżnieniu od prawdziwej rozdymki, to stworzenie nie jest trujące. Jej wysoko rozwinięta szczęka jest zdolna do wyrywania dziur w ciele androida, na co należy uważać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -9984,12 +9984,12 @@ In recent years, new ecologies have been observed as a result of such symbiotic 
  
 However, there are even bigger changes afoot. With no new fish machines being created, they are predicted to go extinct sometime over the next 150 years. Scientists are greatly interested in what may happen to the original native fish when they lose their mechanical protectors.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251230T115454Z" creationid="Syn Spawacza" creationdate="20200718T224139Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163445Z" creationid="Syn Spawacza" creationdate="20200718T224139Z">
         <seg>Mechaniczna forma życia przypominająca karpia koi.
  
-Przypuszcza się, że rybie mechaniczne formy życia zostały stworzone, by odstraszyć prawdziwe ryby, które ludzie używali w charakterze jedzenia. (Z wyglądu bardzo przypominają rodzime gatunki, więc ktokolwiek je zrobił, odwalił dobrą robotę.) Mechaniczne ryby są też niezwykle agresywne, co pomogło zadać duży cios ekologii wodnego życia na Ziemi. Kiedy spełniły swoje zadanie, zaprzestano ich konserwacji — lecz mimo to, były w stanie się przystosować i prosperować w swoich środowiskach. W rezultacie, obecne gatunki nie są już wrogie wobec androidów i zamiast tego koncentrują się na nieumieraniu, podobnie jak wszystkie inne zwierzęta. W odróżnieniu jednak od maszyn lądowych, ich banki danych nie są już synchronizowane, więc ewolucja ich inteligencji w zasadzie się zatrzymała.
+Przypuszcza się, że rybie mechaniczne formy życia zostały stworzone, by odstraszyć prawdziwe ryby, które ludzie używali w charakterze jedzenia. (Z wyglądu bardzo przypominają rodzime gatunki, więc ktokolwiek je zrobił, odwalił dobrą robotę.) Mechaniczne ryby są też niezwykle agresywne, co pomogło zadać duży cios ekologii wodnego życia na Ziemi. Kiedy spełniły swoje zadanie, zaprzestano ich konserwacji. Pomimo tego, były w stanie się przystosować i prosperować w swoich środowiskach. W rezultacie, obecne gatunki nie są już wrogie wobec androidów i zamiast tego koncentrują się na nieumieraniu, podobnie jak wszystkie inne zwierzęta. W odróżnieniu jednak od maszyn lądowych, ich banki danych nie są już synchronizowane, więc ewolucja ich inteligencji w zasadzie się zatrzymała.
  
-Wiele mechanicznych ryb utworzyło symbiotyczną relację z naturalnymi, pozwalając im na zjadanie organizmów osiadłych na ich ciałach — takich jak mchy i pąkle — w zamian za ochronę. Z naturalnymi rybami prowadzącymi ich konserwację, mechaniczne ryby żyją teraz życiem, które jest całkowicie przeciwne temu, do czego zostały stworzone.
+Wiele mechanicznych ryb utworzyło symbiotyczną relację z naturalnymi, pozwalając im na zjadanie organizmów osiadłych na ich ciałach, takich jak mchy i pąkle, w zamian za ochronę. Z naturalnymi rybami prowadzącymi ich konserwację, mechaniczne ryby żyją teraz życiem, które jest całkowicie przeciwne temu, do czego zostały stworzone.
  
 W ostaniach latach zaobserwowano nowe środowiska będące wynikiem takich symbiotycznych relacji. Niektóre, na przykład, tworzą kolonie w celu własnej ochrony, prowadząc do wzrostu życia wodnego na całej planecie. Oczywiście, obecne środowisko jest zupełnie inne od tego, które istniało kiedy ludzkość zamieszkiwała Ziemię, ale sama ilość ryb będzie z pewnością zaskoczeniem, kiedy w końcu powróci z Księżyca.
  
@@ -17139,8 +17139,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>An academic machine in a section of Pascal's village claims to be a genius inventor in search of an investor and asks you to make a contribution—for science, of course. Swallow your cynicism and open your pocketbook!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251231T072427Z" creationid="Syn Spawacza" creationdate="20200717T193512Z">
-        <seg>Akademicka maszyna, znajdująca się w wiosce Pascala, twierdząca, że jest genialnym wynalazcą, szukającą inwestora. Poprosiła cię o wsparcie — w imię nauki, rzecz jasna. Może warto przełknąć cynizm i otworzyć dla niej portfel, jak uważasz?</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163540Z" creationid="Syn Spawacza" creationdate="20200717T193512Z">
+        <seg>Akademicka maszyna, znajdująca się w wiosce Pascala, twierdząca, że jest genialnym wynalazcą, szukającą inwestora. Poprosiła cię o wsparcie. W imię nauki, rzecz jasna. Może warto przełknąć cynizm i otworzyć dla niej portfel, jak uważasz?</seg>
       </tuv>
     </tu>
     <tu>
@@ -17388,8 +17388,8 @@ formy życia. Może i jest ze złomu, ale robi swoją robotę.</seg>
       <tuv lang="en-US">
         <seg>An incredibly large shark—with a surprisingly warm personality—that exists on a diet of plankton.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20210103T215839Z" creationid="Syn Spawacza" creationdate="20200718T213327Z">
-        <seg>Niewiarygodnie duży rekin — z zaskakująco ciepłą osobowością — odżywiający się planktonem.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163343Z" creationid="Syn Spawacza" creationdate="20200718T213327Z">
+        <seg>Niewiarygodnie duży rekin, z zaskakująco ciepłą osobowością, odżywiający się planktonem.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117852,8 +117852,8 @@ Przepraszam, ale obowiązuje zakaz wstępu.</seg>
       <tuv lang="en-US">
         <seg>Upon hacking the child, you discovered that his circuitry was capable of extremely complex operations. When you asked the child why it made such foolish decisions, he explained that acting stupid could be very profitable; as long as he asked for cheaper coins, he would keep earning them from his foolish fellows. After agreeing to keep his secret, you walk away with a few salient questions about the true nature of genius.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251231T073644Z" creationid="Syn Spawacza" creationdate="20200717T195226Z">
-        <seg>Po zhakowaniu dziecka, odkrywasz, że jego obwody są zdolne do wykonywania niesamowicie złożonych operacji. Kiedy pytasz dziecko, dlaczego podejmuje takie głupie decyzje, tłumaczy, że takie zachowanie może mu się bardzo opłacać — tak długo, jak będzie prosił o tańsze monety, będzie dostawał je od swoich niemądrych kolegów. Zgadzasz się zachować tę wiedzę w tajemnicy, odchodząc z kilkoma istotnymi pytaniami o prawdziwą naturę geniuszu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163603Z" creationid="Syn Spawacza" creationdate="20200717T195226Z">
+        <seg>Po zhakowaniu dziecka, odkrywasz, że jego obwody są zdolne do wykonywania niesamowicie złożonych operacji. Kiedy pytasz dziecko, dlaczego podejmuje takie głupie decyzje, tłumaczy, że takie zachowanie może mu się bardzo opłacać. Tak długo, jak będzie prosił o tańsze monety, będzie dostawał je od swoich niemądrych kolegów. Zgadzasz się zachować tę wiedzę w tajemnicy, odchodząc z kilkoma istotnymi pytaniami o prawdziwą naturę geniuszu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -127778,8 +127778,8 @@ To taka mordęga.</seg>
       <tuv lang="en-US">
         <seg>With the lock hacked and the door opened, the son reluctantly emerged. When asked why he sealed himself inside, he expressed fear of losing his connection to the network and becoming unable to understand what others were thinking. Thanks to your help—and a bit of persuasion from his mother—the incident was resolved without much trouble.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20251231T084347Z" creationid="Syn Spawacza" creationdate="20200718T095118Z">
-        <seg>Po zhakowaniu zamka i otwarciu drzwi, syn mechanicznej formy życia wychodzi w końcu z domu. Z nieukrywną niechęcią. Zapytany o to, dlaczego zamknął się w środku, wyraża swój strach z powodu utraty połączenia z siecią, przez co stał się niezdolny do rozumienia, co myślą inni. Dzięki twojej pomocy — i odrobiny perswazji ze strony jego matki — incydent zostaje rozwiązany bez większego uszczerbku dla kogokolwiek.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T163617Z" creationid="Syn Spawacza" creationdate="20200718T095118Z">
+        <seg>Po zhakowaniu zamka i otwarciu drzwi, syn mechanicznej formy życia wychodzi w końcu z domu. Z nieukrywną niechęcią. Zapytany o to, dlaczego zamknął się w środku, wyraża swój strach z powodu utraty połączenia z siecią, przez co stał się niezdolny do rozumienia, co myślą inni. Dzięki twojej pomocy, i odrobiny perswazji ze strony jego matki, incydent zostaje rozwiązany bez większego uszczerbku dla kogokolwiek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134307,8 +134307,8 @@ Postęp zadań można sprawdzić w zakładce „Zadania” w menu systemowym.</s
       <tuv lang="en-US">
         <seg>[12/14/12422] I confirmed that the 25th one born after me has stopped his biological activity. Although we're technically immortal—since we can respawn indefinitely and all—we're still not exempt from death.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260103T083848Z" creationid="Syn Spawacza" creationdate="20200617T161221Z">
-        <seg>[12/14/12422] Stwierdziłem, że 25-ty narodzony po mnie, zakończył aktywność biologiczną. Choć, techniczne, jesteśmy nieśmiertelni — możemy odradzać się w nieskończoność — wciąż podlegamy śmierci.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260819T164004Z" creationid="Syn Spawacza" creationdate="20200617T161221Z">
+        <seg>[12/14/12422] Stwierdziłem, że 25-ty narodzony po mnie, zakończył aktywność biologiczną. Choć technicznie jesteśmy nieśmiertelni, bo możemy odradzać się bez końca, wciąż nie uwolniliśmy się od śmierci.</seg>
       </tuv>
     </tu>
     <tu>
