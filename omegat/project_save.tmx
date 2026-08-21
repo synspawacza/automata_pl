@@ -2828,8 +2828,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>100% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>100% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T141010Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>100% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3046,8 +3046,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>20% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>20% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140928Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>20% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4364,8 +4364,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>30% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>30% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140934Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>30% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4452,8 +4452,8 @@ Bardzo bym chciała naprawić je sama, ale modele Operatorów nie są puszczane 
       <tuv lang="en-US">
         <seg>40% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>40% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140939Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>40% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4582,8 +4582,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>50% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>50% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140945Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>50% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4686,8 +4686,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>60% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>60% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140951Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>60% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4726,8 +4726,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>70% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>70% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140957Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>70% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4822,8 +4822,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>90% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>90% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T141003Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>90% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
