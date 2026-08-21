@@ -2594,8 +2594,10 @@ Made up of 256 strata, it can filter and compress information with a turbidity o
  
 * The allowed diversity-learning error rate is 7.21%</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260103T093314Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
-        <seg>022 port 0642423 Zarys systemu Wieży
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T143911Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
+        <seg>022 port 0642423
+
+Zarys systemu Wieży
  
 Wieża przetwarza i komputeryzuje zasoby wysłane przez jednostki odzyskujące zasoby do użytku w jej urządzeniu startowym.
  
