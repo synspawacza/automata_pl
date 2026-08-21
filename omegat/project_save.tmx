@@ -2780,8 +2780,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>10% chance foes drop healing items if defeated by hacking.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211129T200710Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
-        <seg>10% szansy, że pokonany hakowaniem wróg upuści p. leczący.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140922Z" creationid="Syn Spawacza" creationdate="20200608T155227Z">
+        <seg>10% szansy, że pokonany hakowaniem wróg upuści lek.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8577,8 +8577,9 @@ Wpatruję się w broń, którą trzymam w drżących dłoniach.&lt;bt_wait&gt;</
         <seg>A black blade used by warriors
 of the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210107T100137Z" creationid="Syn Spawacza" creationdate="20200601T160925Z">
-        <seg>Czarne ostrze wojownika ze Wschodu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140855Z" creationid="Syn Spawacza" creationdate="20200601T160925Z">
+        <seg>Czarne ostrze wojownika
+ze Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8586,8 +8587,9 @@ of the East.</seg>
         <seg>A black katana kept by warrior
 monks of the East.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210107T100159Z" creationid="Syn Spawacza" creationdate="20200601T161357Z">
-        <seg>Czarna katana wojownika ze Wschodu.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140830Z" creationid="Syn Spawacza" creationdate="20200601T161357Z">
+        <seg>Czarna katana wojownika 
+ze Wschodu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11088,8 +11090,9 @@ króla zwierząt.</seg>
       <tuv lang="en-US">
         <seg>A standard-issue YoRHa sword.</seg>
       </tuv>
-      <tuv lang="pl" changeid="PaCo" changedate="20210118T073611Z" creationid="Syn Spawacza" creationdate="20200601T160946Z">
-        <seg>Standardowy miecz przydziału YoRHa.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260821T140837Z" creationid="Syn Spawacza" creationdate="20200601T160946Z">
+        <seg>Standardowy miecz
+przydziału YoRHa.</seg>
       </tuv>
     </tu>
     <tu>
