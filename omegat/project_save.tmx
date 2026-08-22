@@ -25797,14 +25797,14 @@ This tower doesn't fire artillery.&lt;bt_wait&gt; It fires an &lt;i&gt;ark&lt;/i
 An ark containing memories of the foolish machine lifeforms.&lt;bt_wait&gt;
 An ark that sends those memories to a new world.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T132247Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123626Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T165529Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123626Z">
         <seg>Ale zmieniły zdanie.&lt;bt_wait&gt;
 Zobaczyły nas, androidy.&lt;bt_wait&gt; Zobaczyły Adama.&lt;bt_wait&gt; I Ewę.&lt;bt_wait&gt;
 Zobaczyły, jak żyjemy. Rozważyły znaczenie istnienia
 i doszły do innego wniosku.
 &lt;/page&gt;
 &lt;page&gt;
-Ta wieża nie wystrzeli pocisków.&lt;bt_wait&gt; Wystrzeli &lt;i&gt;arkę&lt;/i&gt;.&lt;bt_wait&gt;
+Ta Wieża nie wystrzeli pocisków.&lt;bt_wait&gt; Wystrzeli &lt;i&gt;arkę&lt;/i&gt;.&lt;bt_wait&gt;
 Arkę zawierającą wspomnienia głupich mechanicznych form życia.&lt;bt_wait&gt;
 Arkę, która wyśle te wspomnienia do nowego świata.&lt;bt_wait&gt;</seg>
       </tuv>
@@ -65059,8 +65059,8 @@ Zupełnie jakbym został pogrzebany w śniegu.&lt;color_505050&gt;&lt;bt_wait&gt
       <tuv lang="en-US">
         <seg>It was meant to be a launch tower for sending rockets to the very moon itself!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260514T155234Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T154123Z">
-        <seg>To miała być wieża startowa do wysyłania rakiet na sam księżyc!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T165459Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200625T154123Z">
+        <seg>To miała być Wieża startowa do wysyłania rakiet na sam księżyc!</seg>
       </tuv>
     </tu>
     <tu>
@@ -97048,11 +97048,11 @@ This tower is a colossal cannon built to destroy the human server.&lt;bt_wait&gt
 Destroy the server...and rob the androids of their very foundation.
 That was the plan devised by those girls.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T131953Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123507Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T165509Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123507Z">
         <seg>Powoli zaczyna mówić.
 &lt;/page&gt;
 &lt;page&gt;
-Ta wieża to gigantyczne działo zbudowane w celu zniszczenia serwera ludzkości.&lt;bt_wait&gt;
+Ta Wieża to gigantyczne działo zbudowane w celu zniszczenia serwera ludzkości.&lt;bt_wait&gt;
 Zniszczyć serwer... i pozbawić androidy fundamentu, na którym się opierają.
 Taki był plan opracowany przez te dziewczynki.&lt;bt_wait&gt;</seg>
       </tuv>
