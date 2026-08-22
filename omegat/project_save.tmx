@@ -2594,12 +2594,12 @@ Made up of 256 strata, it can filter and compress information with a turbidity o
  
 * The allowed diversity-learning error rate is 7.21%</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260821T143911Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T052414Z" creationid="Syn Spawacza" creationdate="20210716T200959Z">
         <seg>022 port 0642423
 
 Zarys systemu Wieży
  
-Wieża przetwarza i komputeryzuje zasoby wysłane przez jednostki odzyskujące zasoby do użytku w jej urządzeniu startowym.
+Wieża przetwarza i komputeryzuje zasoby wysłane przez Jednostki Odzyskujące Zasoby do użytku w jej urządzeniu startowym.
  
 Stworzona z 256 warstw, może przefiltrowywać i kompresować informacje o mętności mniejszej niż 2300, oraz zapisać dane do ładunku w ciągu 27 minut i 32 sekund*. Detale dotyczące wymaganych ścieżek wymaganych do przetrawienia androidów są zapisywane oddzielnie.
  
@@ -43253,8 +43253,8 @@ z dużej wysokości.</seg>
       <tuv lang="en-US">
         <seg>Go to the marked resource recovery unit.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200627T150236Z" creationid="Syn Spawacza" creationdate="20200608T170942Z">
-        <seg>Idź do oznaczonej jednostki odzyskującej zasoby.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T052313Z" creationid="Syn Spawacza" creationdate="20200608T170942Z">
+        <seg>Udaj się do oznaczonej Jednostki Odzyskującej Zasoby.</seg>
       </tuv>
     </tu>
     <tu>
