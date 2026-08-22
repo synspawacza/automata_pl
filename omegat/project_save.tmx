@@ -139450,8 +139450,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>Critical +</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221137Z" creationid="Syn Spawacza" creationdate="20201215T221137Z">
-        <seg>A. krytyczny +</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155840Z" creationid="Syn Spawacza" creationdate="20201215T221137Z">
+        <seg>Atak krytyczny +</seg>
       </tuv>
     </tu>
     <tu>
@@ -139460,8 +139460,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>Robot Discount</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221158Z" creationid="Syn Spawacza" creationdate="20201215T221158Z">
-        <seg>Zniżka u robo.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155850Z" creationid="Syn Spawacza" creationdate="20201215T221158Z">
+        <seg>Zniżka u robotów</seg>
       </tuv>
     </tu>
     <tu>
@@ -139490,8 +139490,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>Bullet Absorb</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221214Z" creationid="Syn Spawacza" creationdate="20201215T221214Z">
-        <seg>Pochłan. pocis.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155900Z" creationid="Syn Spawacza" creationdate="20201215T221214Z">
+        <seg>Pochłanianie pocisków</seg>
       </tuv>
     </tu>
     <tu>
@@ -139500,8 +139500,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>High Stun</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221224Z" creationid="Syn Spawacza" creationdate="20201215T221224Z">
-        <seg>Wysok. ogłusz.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155910Z" creationid="Syn Spawacza" creationdate="20201215T221224Z">
+        <seg>Wysokie ogłuszenie</seg>
       </tuv>
     </tu>
     <tu>
@@ -139510,8 +139510,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>Bullet Rupture</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221244Z" creationid="Syn Spawacza" creationdate="20201215T221244Z">
-        <seg>Rozryw. pocis.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155925Z" creationid="Syn Spawacza" creationdate="20201215T221244Z">
+        <seg>Rozrywające pociski</seg>
       </tuv>
     </tu>
     <tu>
@@ -139520,8 +139520,8 @@ Nasilające się nawroty...</seg>
       <tuv lang="en-US">
         <seg>Finish Blast</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20201215T221303Z" creationid="Syn Spawacza" creationdate="20201215T221303Z">
-        <seg>Wybuch kończ.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260822T155935Z" creationid="Syn Spawacza" creationdate="20201215T221303Z">
+        <seg>Wybuch kończący</seg>
       </tuv>
     </tu>
     <tu>
