@@ -6929,11 +6929,11 @@ I calmly change the bandage, trying not to let my worry show.
 I make it as tight as possible so no sand can slip inside.
 It's all I can do until I get the proper materials.&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T114326Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103712Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260823T081744Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103712Z">
         <seg>&lt;label_HOUTAI_END&gt;
 &lt;page&gt;
-„Przepraszam za to, Siostrzyczko.” mamrocze Devola.&lt;bt_wait&gt;
-Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie torturuje.&lt;bt_wait&gt;
+„Przepraszam za to, Siostrzyczko.”, mamrocze Devola.&lt;bt_wait&gt;
+Znowu ten kpiący uśmiech.&lt;bt_wait&gt; Za każdym razem mnie nim torturuje.&lt;bt_wait&gt;
 „Nie waż się przepraszać”, odpowiadam. „Nie zrobiłaś niczego złego.”&lt;bt_wait&gt;
 Delikatnie zmieniam bandaż, próbując nie okazać po sobie niepokoju.
 Zawiązuję go tak ciasno, jak tylko mogę, żeby nie dostał się do środka piasek.
@@ -8040,12 +8040,12 @@ Devola's sharp voice echoes through our private quarters.
 “That might be true, but regardless...”
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T114740Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103858Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260823T081904Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103858Z">
         <seg>&lt;page&gt;
 „Musi być jakiś sposób, żeby powstrzymać nawroty!”&lt;bt_wait&gt;
 Ostry głos Devoli roznosi się echem po naszych prywatnych kwaterach.
 „Musisz być ciszej, Siostro. Replikanci usłyszą.”&lt;bt_wait&gt;
-„Pfff. Nie zrozumieliby, nawet gdyby usłyszeli.”&lt;bt_wait&gt;
+„Pfff. Nie zrozumieliby, nawet gdyby faktycznie usłyszeli.”&lt;bt_wait&gt;
 „Może i masz rację, ale mimo wszystko...”
 &lt;/page&gt;</seg>
       </tuv>
@@ -25630,8 +25630,8 @@ Wszystko przez parę modeli Devola i Popola z innego miasta.
         <seg>But that's going to be a tall order, considering our current condition.
 &lt;/page&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T114351Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103718Z">
-        <seg>Ale to nie będzie wcale łatwe, patrząc na nasz aktualny stan.
+      <tuv lang="pl" changeid="SPCX" changedate="20260823T081802Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103718Z">
+        <seg>Ale to nie będzie wcale łatwe, patrząc na nasze aktualne położenie.
 &lt;/page&gt;</seg>
       </tuv>
     </tu>
@@ -79074,8 +79074,8 @@ wszystkie jednocześnie wyskakujemy z okopu i ponownie ruszamy do walki.&lt;bt_w
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260813T114044Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103604Z">
-        <seg>A na pustyni nic z tego nie jest łatwe do znalezienia.
+      <tuv lang="pl" changeid="SPCX" changedate="20260823T081649Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T103604Z">
+        <seg>A na pustyni, niczego z tego, nie da się tak łatwo znaleźć.
 &lt;/page&gt;
 &lt;go_HOUTAI_END&gt;</seg>
       </tuv>
