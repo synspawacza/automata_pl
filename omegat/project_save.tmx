@@ -7463,9 +7463,9 @@ Dawno temu, stara mechaniczna forma życia powiedziała mi:
         <seg>&lt;page&gt;
 Mustering all my strength, I force out the words...&lt;bt_wait&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200627T123923Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123923Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T103731Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123923Z">
         <seg>&lt;page&gt;
-Wysilając się ze wszystkich sił, wyrzucam z siebie słowa...&lt;bt_wait&gt;</seg>
+Wysilając się ze wszystkich sił, z trudem wypowiadam słowa...&lt;bt_wait&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -7902,10 +7902,10 @@ Bez słowa odwracamy się od siebie i zajmujemy pozycje.&lt;bt_wait&gt;</seg>
 &lt;/page&gt;
 &lt;go_END&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260814T074952Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123933Z">
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T103907Z" creationid=" LenaArashi (via Syn Spawacza)" creationdate="20200627T123933Z">
         <seg>&lt;page&gt;
 „Pójdę z wami.”&lt;color_d0d0d0&gt;&lt;bt_wait&gt;
-„My, z YoRHa, nie mamy prawa pozostać na tym świecie.”
+„My, YoRHa, nie mamy prawa pozostać na tym świecie.”
 &lt;/page&gt;
 &lt;go_END&gt;</seg>
       </tuv>
