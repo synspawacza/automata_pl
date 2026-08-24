@@ -22151,8 +22151,8 @@ Niedziela: Ziemniaki gratin
       <tuv lang="en-US">
         <seg>Autopilot systems green across the board.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130249Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
-        <seg>Systemy autopilotażu w pełni sprawne.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105120Z" creationid="Syn Spawacza" creationdate="20200530T173712Z">
+        <seg>Systemy autopilota w pełni sprawne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -117415,8 +117415,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Understood. Once you reach their anti-air defenses, proceed to manual-attack formation...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T103042Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
-        <seg>Zrozumiano. Gdy dotrzecie do ich obrony przeciwpowietrznej, przejdźcie w formację manualnego ataku...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105253Z" creationid="Syn Spawacza" creationdate="20200606T101320Z">
+        <seg>Zrozumiano. Gdy dotrzecie do ich systemów obrony przeciwlotniczej, przejdźcie w formację manualnego ataku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -135292,8 +135292,8 @@ Z niecierpliwością czekamy na waszą wizytę i jeszcze raz dziękujemy za wasz
       <tuv lang="en-US">
         <seg>and wonder if we'll ever have the chance to kill him.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130224Z" creationid="Syn Spawacza" creationdate="20200530T173640Z">
-        <seg>i zastanawiam się, czy kiedykolwiek będę miała szansę go zabić.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105053Z" creationid="Syn Spawacza" creationdate="20200530T173640Z">
+        <seg>I zastanawiam się, czy kiedykolwiek będę miała szansę go zabić.</seg>
       </tuv>
     </tu>
     <tu>
@@ -137962,8 +137962,8 @@ e5bea9e8ae90
       <tuv lang="en-US">
         <seg>then destroy the Goliath-class unit by any means necessary and gather what data you can.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T104520Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
-        <seg>...a następnie zniszczcie jednostkę klasy Goliat wszelkimi dostępnymi środkami, oraz zbierzcie wszelkie uzyskane dane.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105329Z" creationid="Syn Spawacza" creationdate="20200530T173810Z">
+        <seg>Następnie zniszczcie jednostkę klasy Goliat wszelkimi dostępnymi środkami. I zbierzcie tyle danych, ile zdołacie.</seg>
       </tuv>
     </tu>
     <tu>
