@@ -3232,8 +3232,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>2B Searches for 9S</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T212931Z" creationid="Syn Spawacza" creationdate="20200727T212931Z">
-        <seg>2B szuka 9S</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081811Z" creationid="Syn Spawacza" creationdate="20200727T212931Z">
+        <seg>2B poszukuje 9S</seg>
       </tuv>
     </tu>
     <tu>
@@ -4888,8 +4888,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S Gets 2B Set Up</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T212524Z" creationid="Syn Spawacza" creationdate="20200727T212524Z">
-        <seg>9S ustawia 2B</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081634Z" creationid="Syn Spawacza" creationdate="20200727T212524Z">
+        <seg>9S konfiguruje 2B</seg>
       </tuv>
     </tu>
     <tu>
@@ -92190,8 +92190,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Reporting to Pascal</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T212907Z" creationid="Syn Spawacza" creationdate="20200727T212907Z">
-        <seg>Raportowanie do Pascala</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081741Z" creationid="Syn Spawacza" creationdate="20200727T212907Z">
+        <seg>Zdanie raportu Pascalowi</seg>
       </tuv>
     </tu>
     <tu>
@@ -103564,8 +103564,8 @@ dostawane obrażenia nie usuwają ubrań.</seg>
       <tuv lang="en-US">
         <seg>Tank Boss</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T212635Z" creationid="Syn Spawacza" creationdate="20200727T212635Z">
-        <seg>Boss-czołg</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081701Z" creationid="Syn Spawacza" creationdate="20200727T212635Z">
+        <seg>Boss - czołg</seg>
       </tuv>
     </tu>
     <tu>
