@@ -3720,8 +3720,8 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>2B wakes in her quarters in the Bunker. She reported the situation to the commander with 9S, but the Bunker was already infected, and the commander would share its fate.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T084043Z" creationid="Syn Spawacza" creationdate="20200811T211541Z">
-        <seg>2B budzi się w swojej kwaterze w Bunkrze. Razem z 9S raportuje sytuację Komandor, ale okazuje się, że Bunkier, oraz jego dowódczyni, też zostali zainfekowani.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T075913Z" creationid="Syn Spawacza" creationdate="20200811T211541Z">
+        <seg>2B budzi się w swojej kwaterze w Bunkrze. Razem z 9S raportuje sytuację Komandor, ale okazuje się, że Bunkier, oraz jego dowódczyni, również zostali zainfekowani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -115639,8 +115639,8 @@ Opis wykroczenia: przekroczenie ograniczenia prędkości o 30-35 km/h</seg>
       <tuv lang="en-US">
         <seg>Triggered by an enemy EMP attack, YoRHa units are corroded by the virus. 2B and 9S are forced to turn their weapons on their own comrades to survive.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T083612Z" creationid="Syn Spawacza" creationdate="20200811T211436Z">
-        <seg>Jednostki YoRHa zostają skażone wirusem uruchomionym przez wrogi atak EMP. Jeśli chcą przetrwać, 2B i 9S muszą użyć broni przeciwko swym niedawnym towarzyszom.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T075806Z" creationid="Syn Spawacza" creationdate="20200811T211436Z">
+        <seg>Jednostki YoRHa zostają zainfekowane wirusem uruchomionym przez wrogi atak EMP. Jeśli chcą przetrwać, 2B i 9S muszą użyć broni przeciwko swym niedawnym towarzyszom.</seg>
       </tuv>
     </tu>
     <tu>
