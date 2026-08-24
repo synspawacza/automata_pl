@@ -4920,8 +4920,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S Heads to the Tower</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213958Z" creationid="Syn Spawacza" creationdate="20200727T213958Z">
-        <seg>9S idzie do Wieży</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T082049Z" creationid="Syn Spawacza" creationdate="20200727T213958Z">
+        <seg>9S udaje się do Wieży</seg>
       </tuv>
     </tu>
     <tu>
@@ -4952,8 +4952,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S Placed in Battle</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213702Z" creationid="Syn Spawacza" creationdate="20200727T213702Z">
-        <seg>9S wysłany na bitwę</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081909Z" creationid="Syn Spawacza" creationdate="20200727T213702Z">
+        <seg>9S wysłany do walki</seg>
       </tuv>
     </tu>
     <tu>
@@ -5048,8 +5048,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S and the Meat Box</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213758Z" creationid="Syn Spawacza" creationdate="20200727T213758Z">
-        <seg>9S i pudełko mięsa</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T082018Z" creationid="Syn Spawacza" creationdate="20200727T213758Z">
+        <seg>9S i Pudełko mięsa</seg>
       </tuv>
     </tu>
     <tu>
@@ -5064,8 +5064,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S and the Soul Box</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213900Z" creationid="Syn Spawacza" creationdate="20200727T213900Z">
-        <seg>9S i pudełko duszy</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T082034Z" creationid="Syn Spawacza" creationdate="20200727T213900Z">
+        <seg>9S i Pudełko duszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -8330,8 +8330,8 @@ Wpatruję się w broń, którą trzymam w drżących dłoniach.&lt;bt_wait&gt;</
       <tuv lang="en-US">
         <seg>A Day in the Life of Pascal</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213830Z" creationid="Syn Spawacza" creationdate="20200727T213830Z">
-        <seg>Dzień z życie Pascala</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T082025Z" creationid="Syn Spawacza" creationdate="20200727T213830Z">
+        <seg>Dzień z życia Pascala</seg>
       </tuv>
     </tu>
     <tu>
@@ -11816,8 +11816,8 @@ Wygląda paradnie, ale jego ostrze jest najwyższej klasy.</seg>
       <tuv lang="en-US">
         <seg>A2 Heads to the Tower</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T214011Z" creationid="Syn Spawacza" creationdate="20200727T214011Z">
-        <seg>A2 idzie do Wieży</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T082056Z" creationid="Syn Spawacza" creationdate="20200727T214011Z">
+        <seg>A2 udaje się do Wieży</seg>
       </tuv>
     </tu>
     <tu>
@@ -23081,8 +23081,8 @@ trudno zadać nimi efektywne obrażenia.</seg>
       <tuv lang="en-US">
         <seg>Battling Eve</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213333Z" creationid="Syn Spawacza" creationdate="20200727T213333Z">
-        <seg>Bitwa z Ewą</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081931Z" creationid="Syn Spawacza" creationdate="20200727T213333Z">
+        <seg>Walka z Ewą</seg>
       </tuv>
     </tu>
     <tu>
@@ -76297,8 +76297,8 @@ przez 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>Multi-leg Goliath Destroyed</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213112Z" creationid="Syn Spawacza" creationdate="20200727T213112Z">
-        <seg>Wielonożny Goliat zniszczony</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081847Z" creationid="Syn Spawacza" creationdate="20200727T213112Z">
+        <seg>Zniszczenie wielonożnego Goliata</seg>
       </tuv>
     </tu>
     <tu>
@@ -114090,8 +114090,8 @@ Jesteś pewien?</seg>
       <tuv lang="en-US">
         <seg>Those Who Believe</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20200727T213003Z" creationid="Syn Spawacza" creationdate="20200727T213003Z">
-        <seg>Ci którzy wierzą</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T081819Z" creationid="Syn Spawacza" creationdate="20200727T213003Z">
+        <seg>Ci, którzy wierzą</seg>
       </tuv>
     </tu>
     <tu>
