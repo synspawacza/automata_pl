@@ -2990,8 +2990,8 @@ Stworzona z 256 warstw może przefiltrowywać i kompresować informacje o mętno
       <tuv lang="en-US">
         <seg>1D down. Assuming captain's duties.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Syn Spawacza" changedate="20211213T203324Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
-        <seg>1D padła. Przejmuję obowiązki kapitana.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105526Z" creationid="Syn Spawacza" creationdate="20200606T101337Z">
+        <seg>1D padła. Przejmuję obowiązki kapitan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15432,8 +15432,8 @@ Tętno zbliża się do niebezpiecznego poziomu.</seg>
       <tuv lang="en-US">
         <seg>Alert: Enemy units sighted ahead.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T105233Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
-        <seg>Uwaga: Dostrzeżono wrogie jednostki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105433Z" creationid="Syn Spawacza" creationdate="20200530T173936Z">
+        <seg>Uwaga: dostrzeżono wrogie jednostki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -16907,8 +16907,8 @@ stopniu kontrolę kierunku lotu.</seg>
       <tuv lang="en-US">
         <seg>Already engaged. Free movement unlocked.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T104953Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
-        <seg>Przyjęto! Odblokowano swobodny ruch.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105416Z" creationid="Syn Spawacza" creationdate="20200606T101329Z">
+        <seg>Przyjęto! Odblokowano tryb swobodny.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26924,8 +26924,8 @@ ale w jakiś sposób dodaje odwagi temu kto go dzierży.</seg>
       <tuv lang="en-US">
         <seg>Captain, I think—</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130554Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
-        <seg>Kapitanie, myślę, że...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105559Z" creationid="Syn Spawacza" creationdate="20200530T174039Z">
+        <seg>Kapitan... Myślę, że...</seg>
       </tuv>
     </tu>
     <tu>
@@ -80513,8 +80513,8 @@ na 30 sekund.</seg>
       <tuv lang="en-US">
         <seg>O-Operator to 2B.</seg>
       </tuv>
-      <tuv lang="pl" changeid=" LenaArashi (via Syn Spawacza)" changedate="20200623T130630Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
-        <seg>O-operator 6O do 2B.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105617Z" creationid="Syn Spawacza" creationdate="20200530T174104Z">
+        <seg>O... Operator 6O do 2B.</seg>
       </tuv>
     </tu>
     <tu>
@@ -86152,8 +86152,8 @@ określili jako... „dyskryminacja”.</seg>
       <tuv lang="en-US">
         <seg>Permission granted!</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T105726Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
-        <seg>Udzielam zezwolenia!</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105510Z" creationid="Syn Spawacza" creationdate="20200530T174007Z">
+        <seg>Udzielam zgody!</seg>
       </tuv>
     </tu>
     <tu>
@@ -92326,8 +92326,8 @@ próchnicy.</seg>
       <tuv lang="en-US">
         <seg>Requesting permission to engage.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T105706Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
-        <seg>Prośba o pozwolenie na rozpoczęcie ataku.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105451Z" creationid="Syn Spawacza" creationdate="20200530T174001Z">
+        <seg>Prośba o zgodę na rozpoczęcie ataku.</seg>
       </tuv>
     </tu>
     <tu>
@@ -121641,8 +121641,8 @@ No android would dare help a pair of outcasts like us.
       <tuv lang="en-US">
         <seg>We need you to rendezvous with unit 9S and begin gathering data on the local terrain.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T111035Z" creationid="Syn Spawacza" creationdate="20200530T174107Z">
-        <seg>Chemy, abyś spotkała się z jednostką 9S i zaczęła zbierać dane o lokalnym terenie.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T105705Z" creationid="Syn Spawacza" creationdate="20200530T174107Z">
+        <seg>Musisz spotkać się z z jednostką 9S i rozpocząć zbieranie danych o lokalnym terenie.</seg>
       </tuv>
     </tu>
     <tu>
