@@ -3496,8 +3496,8 @@ przez 2B.</seg>
       <tuv lang="en-US">
         <seg>2B encounters a large, many-legged weapon while escaping. Attacks can't penetrate its powerful energy shield. 9S hacks into the factory system to disable the shield.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T075407Z" creationid="Syn Spawacza" creationdate="20200811T200552Z">
-        <seg>Podczas ucieczki, 2B napotyka wielką, wielonożną broń, ale ataki androida nie są w stanie spenetrować potężnej osłony energetycznej wroga. Aby wyłączyć osłonę przeciwnika, 9S hakuje systemy fabryki.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T074719Z" creationid="Syn Spawacza" creationdate="20200811T200552Z">
+        <seg>Podczas ucieczki, 2B napotyka wielką, wielonożną broń. Ataki 2B nie są w stanie spenetrować potężnej osłony energetycznej wroga. Aby wyłączyć osłonę przeciwnika, 9S hakuje systemy fabryki.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5336,8 +5336,8 @@ Jest bardzo wdzięczny, że udało się zebrać dane wywiadowcze szybciej, niż 
       <tuv lang="en-US">
         <seg>9S stops hacking after confirming the destruction of the weapon. However, he learned a dangerous truth in the process...</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T075744Z" creationid="Syn Spawacza" creationdate="20200811T200630Z">
-        <seg>Po potwierdzeniu zniszczenia broni 9S przerywa swój atak hakerski na maszynę. Niestety, w trakcie tego ataku, odkrywa niebezpieczną prawdę...</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T074807Z" creationid="Syn Spawacza" creationdate="20200811T200630Z">
+        <seg>Po potwierdzeniu zniszczenia broni, 9S przerywa swój atak hakerski na maszynę. Niestety, w trakcie tego procesu, odkrywa niebezpieczną prawdę...</seg>
       </tuv>
     </tu>
     <tu>
@@ -120095,8 +120095,8 @@ Albo coś bardzo podobnego do...</seg>
       <tuv lang="en-US">
         <seg>Waking up in his quarters at the Bunker, 9S hears from the Operator that 2B has requested support. To help 2B, 9S hacks into the abandoned factory from the large terminal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="SPCX" changedate="20260105T075152Z" creationid="Syn Spawacza" creationdate="20200811T200403Z">
-        <seg>Budząc się w swojej kwaterze w Bunkrze, 9S słyszy od Operatorki, że 2B prosiła o wsparcie. Aby wspomóc 2B, 9S whakowuje się do opuszczonej fabryki za pomocą wielkiego terminala.</seg>
+      <tuv lang="pl" changeid="SPCX" changedate="20260824T074604Z" creationid="Syn Spawacza" creationdate="20200811T200403Z">
+        <seg>Budząc się w swojej kwaterze w Bunkrze, 9S słyszy od Operatorki, że 2B prosiła o wsparcie. Aby wspomóc 2B, 9S hakuje systemy opuszczonej fabryki za pomocą wielkiego terminala.</seg>
       </tuv>
     </tu>
     <tu>
